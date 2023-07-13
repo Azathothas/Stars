@@ -1,0 +1,17 @@
+name: Update Starred Repos
+on:
+  schedule:
+   - cron: "0 19 * * *" # 12 PM Nepal time is 6 AM UTC
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  awesome-stars:
+    name: Update Starred Repos
+    runs-on: ubuntu-latest
+    container: ghcr.io/juev/starred:latest
+    steps:
+    - 
+      name: 🚀 Run Starred
+      env:
+        GITHUB_TOKEN: ${{ secrets.GHP_NO_PRIVILEGE }}
+      run: starred --username azathothas --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message '💫'
