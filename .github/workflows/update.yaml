@@ -14,4 +14,4 @@ jobs:
       name: 🚀 Run Starred
       env:
         GITHUB_TOKEN: ${{ secrets.GHP_NO_PRIVILEGE }}
-      run: starred --username azathothas --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message '💫'
+      run: starred --username azathothas --repository Stars --sort --token ${GITHUB_TOKEN} --message '💫'
