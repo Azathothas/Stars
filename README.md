@@ -76,6 +76,7 @@
 
 ## C
 
+- [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -204,7 +205,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Music Streaming and Downloading app made in Flutter!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-- [revanced/revanced-manager](https://github.com/revanced/revanced-manager) – 💊 Application to use ReVanced on Android 
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
 - [atsign-foundation/sshnoports](https://github.com/atsign-foundation/sshnoports) – ssh no ports provides ssh to a remote Linux device with out that device having any ports open
@@ -827,6 +828,8 @@
 
 ## Others
 
+- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries 
+- [bol-van/bins](https://github.com/bol-van/bins) – precompiled static binaries for android
 - [mosajjal/binary-tools](https://github.com/mosajjal/binary-tools) – Collection of Statically linked binaries for Linux. Suited for Forensics 
 - [Azathothas/Busybox-Static-Binaries](https://github.com/Azathothas/Busybox-Static-Binaries) – Build Cross Platform Static Busybox Binaries 
 - [shutingrz/busybox-static-binaries-fat](https://github.com/shutingrz/busybox-static-binaries-fat)
@@ -1594,7 +1597,7 @@
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), DigitalOcean, GitHub, Facebook (Meta), Twitter, Linode and Telegram with daily updates.
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) – CHOMTE.SH is a shell script that automates reconnaissance during penetration testing by utilizing Go-based tools. It can be useful for bug bounty and penetration testing (internal/external) to identify the attack surface.
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
-- [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
+- [cyberK9/chaosDump](https://github.com/cyberK9/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – 📜 A simple shell script to install the Go :blue_heart: programming language!
