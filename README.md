@@ -77,6 +77,7 @@
 
 ## C
 
+- [lifenjoiner/wget-for-windows](https://github.com/lifenjoiner/wget-for-windows) – Small. New features: Windows native support for https, ftps, ntlm, metalink and IDN, instead of OpenSSL, GNU hashes and libidn dependencies; New URL transcoding model; And the smallest ever file size ~500K. 小！新特性：不依赖 OpenSSL, GNU hashes 和 libidn 的， Windows 原生支持的 https, ftps, ntlm, metalink 和 IDN；新 URL 转码模型；目前最小编译 ~500K.
 - [vvb2060/curl-android](https://github.com/vvb2060/curl-android) – curl tool and libcurl static library prefab for android
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
@@ -235,6 +236,7 @@
 
 ## Go
 
+- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction.
 - [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core) – An open source visual route tracking CLI tool
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [naiba/nezha](https://github.com/naiba/nezha) – :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
@@ -601,6 +603,7 @@
 
 ## Java
 
+- [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) – Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
@@ -665,6 +668,7 @@
 
 ## JavaScript
 
+- [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
@@ -744,6 +748,7 @@
 
 ## Kotlin
 
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) – Share your VPN connection over hotspot or repeater! (root required)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL.
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs with API and OPDS support
@@ -831,7 +836,7 @@
 
 ## Others
 
-- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries 
+- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries for Restricted Jails
 - [bol-van/bins](https://github.com/bol-van/bins) – precompiled static binaries for android
 - [mosajjal/binary-tools](https://github.com/mosajjal/binary-tools) – Collection of Statically linked binaries for Linux. Suited for Forensics 
 - [Azathothas/Busybox-Static-Binaries](https://github.com/Azathothas/Busybox-Static-Binaries) – Build Cross Platform Static Busybox Binaries 
@@ -1376,6 +1381,7 @@
 
 ## Rust
 
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) – 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
@@ -1432,7 +1438,7 @@
 - [ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt) – A really fast http prober.
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
-- [pwnwriter/saika](https://github.com/pwnwriter/saika) – 🦀 Simplest hexdump tool written in rust.
+- [bytehunt/saika](https://github.com/bytehunt/saika) – 🦀 Simplest hexdump tool written in rust.
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [orhun/halp](https://github.com/orhun/halp) – A CLI tool to get help with CLI tools 🐙
 - [ethicalhackingplayground/pathbuster](https://github.com/ethicalhackingplayground/pathbuster) – A path-normalization pentesting tool.
