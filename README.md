@@ -907,7 +907,7 @@
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) – A repository that includes all the important wordlists used while bug hunting.
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) – Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [sw33tLie/impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) – A collection of impressive and useful results from OpenAI's chatgpt
-- [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of nord/aesthetic wallpapers 
+- [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) – The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [iamNynan/SDTO-realworld-subdomains](https://github.com/iamNynan/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
@@ -1292,7 +1292,7 @@
 - [zer1t0/awsenum](https://github.com/zer1t0/awsenum) – Enumerate AWS permissions and resources.
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) – Find way more from the Wayback Machine!
-- [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension which creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copy Http requests as JavaScript code.
+- [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
 - [Peco602/findwall](https://github.com/Peco602/findwall) – Check if your provider is blocking you!
 - [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extensions
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
