@@ -1443,7 +1443,7 @@
 - [orhun/halp](https://github.com/orhun/halp) – A CLI tool to get help with CLI tools 🐙
 - [ethicalhackingplayground/pathbuster](https://github.com/ethicalhackingplayground/pathbuster) – A path-normalization pentesting tool.
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
-- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级跨端桌面应用
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
