@@ -236,6 +236,7 @@
 
 ## Go
 
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction.
 - [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core) – An open source visual route tracking CLI tool
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
@@ -280,7 +281,7 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [likexian/whois](https://github.com/likexian/whois) – Go(Golang) module for domain and ip whois information query.
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
-- [alist-org/alist](https://github.com/alist-org/alist) – 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [layou233/NeverIdle](https://github.com/layou233/NeverIdle) – 资源定期浪费，可用于 Oracle 甲骨文保活。
@@ -667,6 +668,7 @@
 
 ## JavaScript
 
+- [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
@@ -867,7 +869,6 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) – Wiki to collect Red Team infrastructure hardening resources
-- [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [cqcore/Website-OSINT](https://github.com/cqcore/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [trickest/scripts](https://github.com/trickest/scripts) – Handy scripts and one-liners to make life easier
 - [netlas-io/netlas-dorks](https://github.com/netlas-io/netlas-dorks) – A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.
@@ -1510,6 +1511,7 @@
 
 ## Shell
 
+- [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 又一个一键重装脚本
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds of cURL with HTTP3
@@ -1574,6 +1576,7 @@
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
+- [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [hktalent/TOP](https://github.com/hktalent/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
