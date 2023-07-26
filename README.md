@@ -29,6 +29,7 @@
 - [Mathematica](#mathematica)
 - [Mdx](#mdx)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Nwscript](#nwscript)
 - [Others](#others)
 - [PHP](#php)
@@ -829,6 +830,12 @@
 
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 
+<div id="nix"></div>
+
+## Nix
+
+- [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
+
 <div id="nwscript"></div>
 
 ## Nwscript
@@ -1066,6 +1073,8 @@
 
 ## Python
 
+- [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
+- [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [gwen001/related-domains](https://github.com/gwen001/related-domains) – Find related domains of a given domain.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) – The Meson Build System
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
@@ -1368,6 +1377,7 @@
 
 ## Roff
 
+- [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
 
 <div id="ruby"></div>
@@ -1514,6 +1524,7 @@
 
 ## Shell
 
+- [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 又一个一键重装脚本
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
