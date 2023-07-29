@@ -128,6 +128,7 @@
 
 ## C#
 
+- [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) – IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud. 
@@ -239,6 +240,7 @@
 
 ## Go
 
+- [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
@@ -674,6 +676,7 @@
 
 ## JavaScript
 
+- [valpackett/soundfixer](https://github.com/valpackett/soundfixer) – A WebExtension that lets you fix sound problems in e.g. YouTube videos
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
@@ -745,6 +748,7 @@
 
 ## Jupyter Notebook
 
+- [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) – Another colab notebook!
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) – Get unlimited amount of data in Cloudflare's WARP VPN🔥
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) – The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
 - [abhineetraj1/google-colab-RDP](https://github.com/abhineetraj1/google-colab-RDP) – This is online code compiler notebook for using webRDP in google colab
@@ -1054,6 +1058,7 @@
 
 ## PowerShell
 
+- [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) – Remote Desktop entirely coded in PowerShell.
 - [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) – Collection of reverse shells for red team operations, penetration testing, and offensive security.
@@ -1078,6 +1083,7 @@
 
 ## Python
 
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) – Download music from Deezer with a nice front end
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
