@@ -244,6 +244,7 @@
 
 ## Go
 
+- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation sharing platform built on top of OpenZiti.
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -584,7 +585,7 @@
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) – HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [x0rb3l/Cyber-Bookmarks](https://github.com/x0rb3l/Cyber-Bookmarks) – A list of bookmarks I have used since I started my journey in cyber security
-- [punk-security/secret-magpie-cli](https://github.com/punk-security/secret-magpie-cli) – Secret Magpie - Secret Detection Tool
+- [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) – Secret Magpie - Secret Detection Tool
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) – Jumpstart multiple WebSocket servers quickly
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) – NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -645,7 +646,7 @@
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) – Android application for Internet privacy and security
 - [CodeDead/DeadHash-android](https://github.com/CodeDead/DeadHash-android) – DeadHash for Android
 - [Keidan/HexViewer](https://github.com/Keidan/HexViewer) – (GPL) Android Hex Viewer is a FREE software.
-- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A cool code editor library on Android with syntax-highlighting and auto-completion. (aka CodeEditor)
+- [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
 - [moneytoo/Player](https://github.com/moneytoo/Player) – ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 - [In3tinct/Android-ReverseShell-HTTP](https://github.com/In3tinct/Android-ReverseShell-HTTP) – Android ReverseShell over HTTP
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
@@ -682,6 +683,7 @@
 
 ## JavaScript
 
+- [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [valpackett/soundfixer](https://github.com/valpackett/soundfixer) – A WebExtension that lets you fix sound problems in e.g. YouTube videos
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
@@ -1091,6 +1093,9 @@
 
 ## Python
 
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
+- [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) – Download music from Deezer with a nice front end
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
@@ -1499,7 +1504,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) – The fastest way to identify anything!
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) – Tool and framework for securely reading untrusted USB mass storage devices.
-- [ellie/atuin](https://github.com/ellie/atuin) – 🐢 Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) – A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) – A minimal, fast alternative to 'du -sh'
