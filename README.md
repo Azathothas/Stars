@@ -1096,6 +1096,7 @@
 
 ## Python
 
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) – Linux device manager for Logitech devices
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
@@ -1116,7 +1117,7 @@
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [mschwager/route-detect](https://github.com/mschwager/route-detect) – Find authentication (authn) and authorization (authz) security bugs in web application routes.
-- [Bardiafa/Proxy-Leecher](https://github.com/Bardiafa/Proxy-Leecher) – 🔎🌐Proxy-Scraper: Best Free Auto-updated HTTP proxy list Every 10 Minutes More than 50K Fresh Proxies. 
+- [Bardiafa/Proxy-Leecher](https://github.com/Bardiafa/Proxy-Leecher) – 🔎🌐Proxy-Scraper: Best Free Auto-updated HTTP proxy list Every 10 Minutes More than 65K Fresh Proxies.  🔥💣
 - [Bardiafa/Proxy-Checker](https://github.com/Bardiafa/Proxy-Checker) – 🕵️‍♂️Proxy Checker: Your go-to Python script for effortlessly verifying and saving working proxies to a good.txt file. Say goodbye to inefficiencies and hello to productivity!
 - [Z3NTL3/ufw-cloudflare](https://github.com/Z3NTL3/ufw-cloudflare) – Automated script which blocks all incoming requests and only accepts Cloudflare IPs
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) – Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
@@ -1527,7 +1528,7 @@
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source alternative to TeamViewer.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
@@ -1558,6 +1559,7 @@
 
 ## Shell
 
+- [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) – 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
