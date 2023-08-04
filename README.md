@@ -78,6 +78,8 @@
 
 ## C
 
+- [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
+- [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) – Connect like there is no firewall. Securely.
@@ -211,6 +213,7 @@
 
 ## Dart
 
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Music Streaming and Downloading app made in Flutter!
@@ -246,6 +249,7 @@
 
 ## Go
 
+- [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) – Go alternative of python SimpleHTTPServer
@@ -1073,6 +1077,7 @@
 
 ## PowerShell
 
+- [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) – Remote Desktop entirely coded in PowerShell.
@@ -1098,6 +1103,7 @@
 
 ## Python
 
+- [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) – Linux device manager for Logitech devices
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
@@ -1416,6 +1422,7 @@
 
 ## Ruby
 
+- [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
@@ -1479,7 +1486,7 @@
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool written in Rust for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [BugBlocker/lotus](https://github.com/BugBlocker/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
-- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and More From Text
+- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and a lot More From Text
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [ethicalhackingplayground/aem-eye](https://github.com/ethicalhackingplayground/aem-eye) – A very simple AEM detector written in rust.🦀
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
@@ -1561,6 +1568,10 @@
 
 ## Shell
 
+- [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
+- [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
+- [hiifeng/V2ray-for-AlwaysData](https://github.com/hiifeng/V2ray-for-AlwaysData) – The tool can install v2ray on the AlwaysData, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
+- [hiifeng/V2ray-for-Codesandbox](https://github.com/hiifeng/V2ray-for-Codesandbox) – The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) – 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
