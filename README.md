@@ -144,7 +144,6 @@
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
-- [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) – Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
@@ -963,6 +962,7 @@
 - [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) – A list of cyber-chef recipes and curated links
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
+- [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
 - [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
@@ -1081,6 +1081,7 @@
 
 ## PowerShell
 
+- [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
@@ -1572,6 +1573,7 @@
 
 ## Shell
 
+- [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
 - [hiifeng/V2ray-for-AlwaysData](https://github.com/hiifeng/V2ray-for-AlwaysData) – The tool can install v2ray on the AlwaysData, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
@@ -1763,6 +1765,7 @@
 
 ## TypeScript
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
