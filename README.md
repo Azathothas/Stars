@@ -823,7 +823,7 @@
 
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
-- [metis-os/pwnvim](https://github.com/metis-os/pwnvim) – 👾 Neovim the k1ss way
+- [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neovim, the k1ss way 
 
 <div id="makefile"></div>
 
@@ -874,6 +874,7 @@
 
 ## Others
 
+- [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 hourly.
 - [NikeshX001/Runners](https://github.com/NikeshX001/Runners)
 - [Avinash0x1/Runners](https://github.com/Avinash0x1/Runners) – Github Action Runners Debug Shells
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
@@ -1081,6 +1082,7 @@
 
 ## PowerShell
 
+- [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) – Windows PowerShell scripts that will keep installations of Tailscale updated daily. Tailscale is an excellent peer-to-peer style mesh VPN based on the Wireguard protocol. See https://tailscale.com
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
@@ -1439,6 +1441,7 @@
 
 ## Rust
 
+- [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static linux rust binaries
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
@@ -1573,6 +1576,10 @@
 
 ## Shell
 
+- [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
+- [VHSgunzo/coreutils-static](https://github.com/VHSgunzo/coreutils-static) – Statically compiled coreutils with musl
+- [borestad/blocklist-ip](https://github.com/borestad/blocklist-ip) – Abuseipdb IP Aggregator
+- [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
@@ -1642,7 +1649,7 @@
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) – Run a Tailscale agent/relay in a container
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
-- [RizzyFuzz/mystorage](https://github.com/RizzyFuzz/mystorage) – Free RDP 12hours Deployed On Google Colab!
+- [RizzyFuzz/Fl-Studio-2023-Cracked-Full-Version](https://github.com/RizzyFuzz/Fl-Studio-2023-Cracked-Full-Version) – Free RDP 12hours Deployed On Google Colab!
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
