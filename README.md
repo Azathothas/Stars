@@ -79,6 +79,7 @@
 
 ## C
 
+- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
@@ -230,6 +231,7 @@
 
 ## Dockerfile
 
+- [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes 🇺🇦
 - [yurymuski/curl-http3](https://github.com/yurymuski/curl-http3) – Curl docker image compiled with BoringSSL and quiche for HTTP3 support + httpstat
@@ -251,6 +253,7 @@
 
 ## Go
 
+- [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
@@ -360,7 +363,6 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
-- [teamssix/cf](https://github.com/teamssix/cf) – Cloud Exploitation Framework 云环境利用框架，方便安全人员在获得 AK 的后续工作
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [hakluke/hakaxfr](https://github.com/hakluke/hakaxfr) – Attempt zone transfers on domains
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
@@ -862,6 +864,7 @@
 
 ## Nix
 
+- [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 
 <div id="nwscript"></div>
