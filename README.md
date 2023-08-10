@@ -145,6 +145,7 @@
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
+- [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) – Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
@@ -163,6 +164,7 @@
 
 ## C++
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) – A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
@@ -219,7 +221,7 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Music Streaming and Downloading app made in Flutter!
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream, Download, and Play with Ease, All in One App!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
@@ -966,7 +968,6 @@
 - [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) – A list of cyber-chef recipes and curated links
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
-- [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
 - [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
@@ -1113,6 +1114,7 @@
 
 ## Python
 
+- [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) – Linux device manager for Logitech devices
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
@@ -1694,7 +1696,7 @@
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
 - [mux0x/cold.sh](https://github.com/mux0x/cold.sh) – your bestfried for finding URLs of a target
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), DigitalOcean, GitHub, Facebook (Meta), Twitter, Linode and Telegram with daily updates.
+- [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) – CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers.
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
