@@ -255,6 +255,7 @@
 
 ## Go
 
+- [masahide/OmniSSHAgent](https://github.com/masahide/OmniSSHAgent) – Integrated ssh-agent for windows. (pageant compatible. openSSH ssh-agent etc ..)
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
@@ -833,6 +834,7 @@
 
 ## Makefile
 
+- [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
@@ -879,6 +881,7 @@
 
 ## Others
 
+- [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 hourly.
 - [NikeshX001/Runners](https://github.com/NikeshX001/Runners)
 - [Avinash0x1/Runners](https://github.com/Avinash0x1/Runners) – Github Action Runners Debug Shells
