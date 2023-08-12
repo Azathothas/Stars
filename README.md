@@ -79,6 +79,7 @@
 
 ## C
 
+- [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
@@ -255,6 +256,9 @@
 
 ## Go
 
+- [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
+- [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
+- [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [masahide/OmniSSHAgent](https://github.com/masahide/OmniSSHAgent) – Integrated ssh-agent for windows. (pageant compatible. openSSH ssh-agent etc ..)
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
@@ -881,6 +885,7 @@
 
 ## Others
 
+- [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Hosted on own servers!
 - [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 hourly.
 - [NikeshX001/Runners](https://github.com/NikeshX001/Runners)
@@ -963,7 +968,7 @@
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) – The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [iamNynan/SDTO-realworld-subdomains](https://github.com/iamNynan/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [nirajkharel/NotJustAChecklist](https://github.com/nirajkharel/NotJustAChecklist)
-- [0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) – Awesome wordlists for Bug Bounty Hunting
+- [0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) – This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
@@ -1449,6 +1454,9 @@
 
 ## Rust
 
+- [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) – Count your code, quickly.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static linux rust binaries
@@ -1553,7 +1561,7 @@
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop, and alternative to TeamViewer.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
