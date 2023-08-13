@@ -31,8 +31,10 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nwscript](#nwscript)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Purescript](#purescript)
@@ -165,6 +167,7 @@
 
 ## C++
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
@@ -213,6 +216,7 @@
 
 ## Crystal
 
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 
 <div id="dart"></div>
@@ -702,6 +706,7 @@
 
 ## JavaScript
 
+- [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [valpackett/soundfixer](https://github.com/valpackett/soundfixer) – A WebExtension that lets you fix sound problems in e.g. YouTube videos
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
@@ -881,10 +886,17 @@
 
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 
+<div id="objective-c"></div>
+
+## Objective-C
+
+- [833M0L3/Legion-4600H-Hackintosh](https://github.com/833M0L3/Legion-4600H-Hackintosh) – macOS on Lenovo Legion 5-15ARH05 - Ryzen 4600H & GTX 1650 Ti
+
 <div id="others"></div>
 
 ## Others
 
+- [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) –   proxy list that updates every 10 minutes
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Hosted on own servers!
 - [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 hourly.
@@ -1082,6 +1094,12 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
+<div id="pascal"></div>
+
+## Pascal
+
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) – Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+
 <div id="perl"></div>
 
 ## Perl
@@ -1122,6 +1140,7 @@
 
 ## Python
 
+- [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) – Linux device manager for Logitech devices
@@ -1442,6 +1461,8 @@
 
 ## Ruby
 
+- [drujensen/fib](https://github.com/drujensen/fib) – Performance Benchmark of top Github languages
+- [hahwul/deadfinder](https://github.com/hahwul/deadfinder) – 🏴‍☠️ Find dead-links (broken links)
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
@@ -1592,6 +1613,7 @@
 
 ## Shell
 
+- [unethicalnoob/BBHTv2](https://github.com/unethicalnoob/BBHTv2) – A single script for all the  tools you need for bug bounty
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/coreutils-static](https://github.com/VHSgunzo/coreutils-static) – Statically compiled coreutils with musl
 - [borestad/blocklist-ip](https://github.com/borestad/blocklist-ip) – Abuseipdb IP Aggregator
@@ -1665,7 +1687,6 @@
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) – Run a Tailscale agent/relay in a container
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
-- [RizzyFuzz/Fl-Studio-2023-Cracked-Full-Version](https://github.com/RizzyFuzz/Fl-Studio-2023-Cracked-Full-Version) – Free RDP 12hours Deployed On Google Colab!
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
