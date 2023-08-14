@@ -138,6 +138,7 @@
 
 ## C#
 
+- [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
@@ -207,6 +208,7 @@
 
 ## CSS
 
+- [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) – Make changes to FMHY
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
