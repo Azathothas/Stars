@@ -81,6 +81,7 @@
 
 ## C
 
+- [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
@@ -218,6 +219,7 @@
 
 ## Crystal
 
+- [hahwul/noir](https://github.com/hahwul/noir) – ♠️ Noir is an attack surface detector form source code.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 
@@ -262,6 +264,8 @@
 
 ## Go
 
+- [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
+- [g0ldencybersec/EasyEASM](https://github.com/g0ldencybersec/EasyEASM) – Zero-dollar attack surface management tool
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -822,7 +826,7 @@
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) – Free and open source manga reader for Android
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
-- [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
@@ -1142,6 +1146,7 @@
 
 ## Python
 
+- [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
@@ -1477,6 +1482,7 @@
 
 ## Rust
 
+- [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) – Count your code, quickly.
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
@@ -1615,6 +1621,7 @@
 
 ## Shell
 
+- [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [unethicalnoob/BBHTv2](https://github.com/unethicalnoob/BBHTv2) – A single script for all the  tools you need for bug bounty
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/coreutils-static](https://github.com/VHSgunzo/coreutils-static) – Statically compiled coreutils with musl
