@@ -1621,6 +1621,8 @@
 
 ## Shell
 
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [unethicalnoob/BBHTv2](https://github.com/unethicalnoob/BBHTv2) – A single script for all the  tools you need for bug bounty
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
@@ -1708,11 +1710,11 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [mrvcoder/GetASN](https://github.com/mrvcoder/GetASN) – 🌐 Get Some Useful Info From Domain/IP/ASN 🔥
-- [basant0x01/triple-b](https://github.com/basant0x01/triple-b) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
+- [basant0x01/Triple-b](https://github.com/basant0x01/Triple-b) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
 - [rix4uni/Origin-IP-Finder](https://github.com/rix4uni/Origin-IP-Finder)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) – Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) – Directory-based environments.
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) – A purely bash web server, no socat, netcat, etc... 
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) – A collection of utilities for Windows Subsystem for Linux
