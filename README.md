@@ -264,6 +264,9 @@
 
 ## Go
 
+- [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
+- [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
 - [g0ldencybersec/EasyEASM](https://github.com/g0ldencybersec/EasyEASM) – Zero-dollar attack surface management tool
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
