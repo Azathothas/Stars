@@ -773,7 +773,6 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
 - [sepehrdaddev/zap-scripts](https://github.com/sepehrdaddev/zap-scripts) – Zed Attack Proxy Scripts for finding CVEs and Secrets.
-- [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) – Client Side Prototype Pollution Scanner
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) – Browser In The Browser (BITB) Templates
@@ -1857,6 +1856,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
+- [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
