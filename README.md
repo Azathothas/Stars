@@ -264,6 +264,7 @@
 
 ## Go
 
+- [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) – A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
 - [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
@@ -915,7 +916,6 @@
 - [minnyres/aria2-windows-arm64](https://github.com/minnyres/aria2-windows-arm64) –  Build aria2 for Windows on ARM64 
 - [bol-van/bins](https://github.com/bol-van/bins) – precompiled static binaries for android
 - [mosajjal/binary-tools](https://github.com/mosajjal/binary-tools) – Collection of Statically linked binaries for Linux. Suited for Forensics 
-- [Azathothas/Busybox-Static-Binaries](https://github.com/Azathothas/Busybox-Static-Binaries) – Build Cross Platform Static Busybox Binaries 
 - [shutingrz/busybox-static-binaries-fat](https://github.com/shutingrz/busybox-static-binaries-fat)
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) – 🌩️ A list of awesome online development environments
 - [linuxone-community-cloud/technical-resources](https://github.com/linuxone-community-cloud/technical-resources) – Repository for technical resources
@@ -978,7 +978,6 @@
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) – A collection of special paths linked to common internal paths, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
-- [zzzteph/probable_subdomains](https://github.com/zzzteph/probable_subdomains) – Subdomains analysis and generation tool. Reveal the hidden!
 - [trickest/recon-and-vulnerability-scanner-template](https://github.com/trickest/recon-and-vulnerability-scanner-template) – Create your own recon & vulnerability scanner with Trickest and GitHub
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) – A repository that includes all the important wordlists used while bug hunting.
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) – Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
@@ -1465,6 +1464,7 @@
 
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
+- [zzzteph/probable_subdomains](https://github.com/zzzteph/probable_subdomains) – Subdomains analysis and generation tool. Reveal the hidden!
 
 <div id="ruby"></div>
 
