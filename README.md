@@ -1004,7 +1004,7 @@
 - [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
-- [chaulags/learnDocker](https://github.com/chaulags/learnDocker) – Resources for Learning Docker
+- [chaulagaisachin/learnDocker](https://github.com/chaulagaisachin/learnDocker) – Resources for Learning Docker
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [4skinSkywalker/Anti-Porn-HOSTS-File](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File) – Hosts file for "blocking" porn sites
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) – A curated list of Websocket libraries and resources.
@@ -1193,7 +1193,7 @@
 - [Sybil-Scan/TLDbrute](https://github.com/Sybil-Scan/TLDbrute) – A simple utility to generate domain names with all possible TLDs
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) – GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
-- [s0md3v/roop](https://github.com/s0md3v/roop) – one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) – one-click face swap
 - [slithery0/dots-backup](https://github.com/slithery0/dots-backup) – every dots i got...
 - [amalmurali47/swagroutes](https://github.com/amalmurali47/swagroutes) – swagroutes is a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format.
 - [castilho101/FuzzyGuard](https://github.com/castilho101/FuzzyGuard)
