@@ -264,6 +264,7 @@
 
 ## Go
 
+- [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) – A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
@@ -931,7 +932,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 科学上网-翻墙、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
