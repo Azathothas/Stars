@@ -856,7 +856,6 @@
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 
 <div id="markdown"></div>
@@ -932,7 +931,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 科学上网-翻墙、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -972,6 +971,7 @@
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) – Course Piracy Index 🏴‍☠️
 - [trickest/resolvers](https://github.com/trickest/resolvers) – The most exhaustive list of reliable DNS resolvers.
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) – An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [thehlopster/hfuzz](https://github.com/thehlopster/hfuzz) – Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
 - [ultrafunkamsterdam/undetected-frida](https://github.com/ultrafunkamsterdam/undetected-frida) – Making frida less detectable by applying some patches. This follows the official Frida releases and publishes releases the same day. Do not fork this!
@@ -1148,6 +1148,7 @@
 
 ## Python
 
+- [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
 - [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
