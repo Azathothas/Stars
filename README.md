@@ -782,7 +782,6 @@
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) – Identify technology on websites.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
 
@@ -986,7 +985,7 @@
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) – The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
-- [iamNynan/SDTO-realworld-subdomains](https://github.com/iamNynan/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
+- [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [nirajkharel/NotJustAChecklist](https://github.com/nirajkharel/NotJustAChecklist)
 - [0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) – This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.
@@ -1664,7 +1663,7 @@
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
-- [Moe-hacker/termux-container](https://github.com/Moe-hacker/termux-container) – Run linux with chroot&unshare/proot on your Android phone,safely and easy.🍥
+- [Moe-hacker/termux-container](https://github.com/Moe-hacker/termux-container) – Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥
 - [nathaneltitane/termux](https://github.com/nathaneltitane/termux) – Termux related applications, scripts and utilities.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) – Dextop - Linux-based distribution workstation on Android
@@ -1831,7 +1830,7 @@
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
 - [dvlden/ps-awake](https://github.com/dvlden/ps-awake) – Keep PlanetScale database awake on free tier...
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) – A small web app for watching movies and shows easily. Based on movie-cli by @JipFr.
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) – A small web app for watching movies and shows easily
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [snyk/cli](https://github.com/snyk/cli) – Snyk CLI scans and monitors your projects for security vulnerabilities.
@@ -1872,6 +1871,7 @@
 
 ## Vue
 
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
