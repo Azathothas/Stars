@@ -264,6 +264,7 @@
 
 ## Go
 
+- [Brum3ns/encode](https://github.com/Brum3ns/encode) – Script to read input from stdin and encode it
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) – A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
