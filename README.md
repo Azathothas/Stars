@@ -1148,6 +1148,8 @@
 
 ## Python
 
+- [caronc/apprise](https://github.com/caronc/apprise) – Apprise - Push Notifications that work with just about every platform!
+- [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) – DNS Enumeration Script
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
 - [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
