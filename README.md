@@ -264,6 +264,8 @@
 
 ## Go
 
+- [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
+- [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) – Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [Brum3ns/encode](https://github.com/Brum3ns/encode) – Script to read input from stdin and encode it
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) – A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
@@ -1148,6 +1150,8 @@
 
 ## Python
 
+- [mschwager/fierce](https://github.com/mschwager/fierce) – A DNS reconnaissance tool for locating non-contiguous IP space.
+- [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) – dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [caronc/apprise](https://github.com/caronc/apprise) – Apprise - Push Notifications that work with just about every platform!
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) – DNS Enumeration Script
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
@@ -1582,6 +1586,7 @@
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) – A minimal, fast alternative to 'du -sh'
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
+- [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -1761,7 +1766,6 @@
 - [metis-os/metis-wallpapers](https://github.com/metis-os/metis-wallpapers) – ✨  A collection of beautiful wallpapers for @metis-os
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
 - [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [Magisk-Modules-Alt-Repo/custom-certificate-authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) – A Magisk module which adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store. 
 - [felicia-wen/HttpCanary-SSL-Magisk](https://github.com/felicia-wen/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
