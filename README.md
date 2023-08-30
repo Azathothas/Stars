@@ -265,6 +265,8 @@
 
 ## Go
 
+- [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
+- [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) – Blazing fast GraphQL discovery & fingerprinting toolbox.
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) – Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [Brum3ns/encode](https://github.com/Brum3ns/encode) – Script to read input from stdin and encode it
@@ -296,7 +298,7 @@
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [naiba/nezha](https://github.com/naiba/nezha) – :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) – Extract URLs, paths, secrets, and other interesting bits from JavaScript
-- [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
+- [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram downloader written in Golang
@@ -1150,6 +1152,10 @@
 
 ## Python
 
+- [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
+- [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
+- [elceef/dnstwist](https://github.com/elceef/dnstwist) – Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
+- [doyensec/wsrepl](https://github.com/doyensec/wsrepl) – WebSocket REPL for pentesters
 - [mschwager/fierce](https://github.com/mschwager/fierce) – A DNS reconnaissance tool for locating non-contiguous IP space.
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) – dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [caronc/apprise](https://github.com/caronc/apprise) – Apprise - Push Notifications that work with just about every platform!
