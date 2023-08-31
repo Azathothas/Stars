@@ -1837,6 +1837,7 @@
 
 ## TypeScript
 
+- [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only graphql wordlists you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
