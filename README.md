@@ -247,7 +247,7 @@
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes 🇺🇦
 - [yurymuski/curl-http3](https://github.com/yurymuski/curl-http3) – Curl docker image compiled with BoringSSL and quiche for HTTP3 support + httpstat
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Home Assistant, and Networking.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
@@ -1659,7 +1659,7 @@
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 又一个一键重装脚本
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
-- [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds of cURL with HTTP3
+- [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
 - [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries for Restricted Jails
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
