@@ -214,6 +214,7 @@
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
+- [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 <div id="crystal"></div>
@@ -294,7 +295,7 @@
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction.
-- [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core) – An open source visual route tracking CLI tool
+- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – An open source visual route tracking CLI tool
 - [juev/starred](https://github.com/juev/starred) – creating your own Awesome List by GitHub stars!
 - [naiba/nezha](https://github.com/naiba/nezha) – :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) – Extract URLs, paths, secrets, and other interesting bits from JavaScript
@@ -616,7 +617,6 @@
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [raesene/Cloud-Native-Security-Talks](https://github.com/raesene/Cloud-Native-Security-Talks)
-- [833M0L3/test](https://github.com/833M0L3/test)
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -1255,7 +1255,6 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
-- [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [p0dalirius/RDWArecon](https://github.com/p0dalirius/RDWArecon) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
@@ -1728,6 +1727,7 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [mrvcoder/GetASN](https://github.com/mrvcoder/GetASN) – 🌐 Get Some Useful Info From Domain/IP/ASN 🔥
+- [833M0L3/test](https://github.com/833M0L3/test)
 - [basant0x01/Triple-b](https://github.com/basant0x01/Triple-b) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
 - [rix4uni/Origin-IP-Finder](https://github.com/rix4uni/Origin-IP-Finder)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
