@@ -169,6 +169,7 @@
 
 ## C++
 
+- [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
@@ -1153,6 +1154,9 @@
 
 ## Python
 
+- [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
+- [dynobo/normcap](https://github.com/dynobo/normcap) – OCR powered screen-capture tool to capture information instead of images
 - [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
 - [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) – Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -1839,7 +1843,7 @@
 ## TypeScript
 
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
-- [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only graphql wordlists you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
+- [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – :octocat: GitHub Action for UPX, the Ultimate Packer for eXecutables
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
