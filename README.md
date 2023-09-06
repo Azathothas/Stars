@@ -267,6 +267,7 @@
 
 ## Go
 
+- [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) – Search exposed EBS volumes for secrets
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
 - [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) – Blazing fast GraphQL discovery & fingerprinting toolbox.
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
@@ -336,7 +337,7 @@
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) – Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [kungze/quic-tun](https://github.com/kungze/quic-tun) – A fast and security tunnel based on QUIC, make you can access remote TCP/UNIX  application like a local application.  一个快速且安全的 TCP  隧道工具，能加速弱网环境下（如网络有丢包）TCP 的转发性能。
-- [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+- [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [likexian/whois](https://github.com/likexian/whois) – Go(Golang) module for domain and ip whois information query.
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
 - [alist-org/alist](https://github.com/alist-org/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -613,6 +614,7 @@
 
 ## HTML
 
+- [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [SANYIMOE/VPN-free](https://github.com/SANYIMOE/VPN-free) – 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -658,6 +660,7 @@
 
 ## Java
 
+- [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) – Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
@@ -723,6 +726,7 @@
 
 ## JavaScript
 
+- [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/Kikobeats/top-user-agents
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [valpackett/soundfixer](https://github.com/valpackett/soundfixer) – A WebExtension that lets you fix sound problems in e.g. YouTube videos
@@ -801,12 +805,14 @@
 - [abhineetraj1/google-colab-RDP](https://github.com/abhineetraj1/google-colab-RDP) – This is online code compiler notebook for using webRDP in google colab
 - [akuhnet/Colab-SSH](https://github.com/akuhnet/Colab-SSH) – Colab SSH
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) – Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) – A High-Quality Real Time Upscaler for Anime Video
 
 <div id="kotlin"></div>
 
 ## Kotlin
 
+- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – A Material You GitHub Mobile client
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) – Share your VPN connection over hotspot or repeater! (root required)
@@ -1154,6 +1160,7 @@
 
 ## Python
 
+- [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
 - [dynobo/normcap](https://github.com/dynobo/normcap) – OCR powered screen-capture tool to capture information instead of images
@@ -1261,7 +1268,6 @@
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [p0dalirius/RDWArecon](https://github.com/p0dalirius/RDWArecon) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast, security-oriented HTTP headers analyzer
@@ -1641,6 +1647,7 @@
 
 ## Shell
 
+- [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) – Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
@@ -1685,7 +1692,7 @@
 - [Moe-hacker/termux-container](https://github.com/Moe-hacker/termux-container) – Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥
 - [nathaneltitane/termux](https://github.com/nathaneltitane/termux) – Termux related applications, scripts and utilities.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
-- [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) – Dextop - Linux-based distribution workstation on Android
+- [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) – Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [ice-wzl/Hacknetics](https://github.com/ice-wzl/Hacknetics) – Contained is all my reference material for my OSCP / Red Teaming.  Designed to be a one stop shop for code, guides, command syntax, and high level strategy.  One simple clone and you have access to some of the most popular tools used for pentesting.
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
