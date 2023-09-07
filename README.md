@@ -231,7 +231,7 @@
 ## Dart
 
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.  Built with Golang and Flutter.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream, Download, and Play with Ease, All in One App!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
