@@ -306,7 +306,7 @@
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram downloader written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram downloader/tools written in Golang
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [shirou/toybox](https://github.com/shirou/toybox) – golang implemenation of busybox
@@ -918,6 +918,7 @@
 
 ## Others
 
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) –   proxy list that updates every 10 minutes
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Hosted on own servers!
 - [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org
