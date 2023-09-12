@@ -268,6 +268,8 @@
 
 ## Go
 
+- [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
+- [hahwul/s3reverse](https://github.com/hahwul/s3reverse) – The format of various s3 buckets is convert in one format. for bugbounty and security testing.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) – Search exposed EBS volumes for secrets
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
@@ -1108,7 +1110,7 @@
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -> https://app.coolify.io
 - [Serhatcck/vulnsocket](https://github.com/Serhatcck/vulnsocket) – Vulnerable Web Socket-Web Site
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1163,6 +1165,7 @@
 
 ## Python
 
+- [LandGrey/pydictor](https://github.com/LandGrey/pydictor) – A powerful and useful hacker dictionary builder for a brute-force attack
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
