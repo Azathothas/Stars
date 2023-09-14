@@ -809,7 +809,6 @@
 - [abhineetraj1/google-colab-RDP](https://github.com/abhineetraj1/google-colab-RDP) – This is online code compiler notebook for using webRDP in google colab
 - [akuhnet/Colab-SSH](https://github.com/akuhnet/Colab-SSH) – Colab SSH
 - [PradyumnaKrishna/Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) – Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) – A High-Quality Real Time Upscaler for Anime Video
 
 <div id="kotlin"></div>
@@ -1275,6 +1274,7 @@
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [p0dalirius/RDWArecon](https://github.com/p0dalirius/RDWArecon) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast, security-oriented HTTP headers analyzer
