@@ -580,7 +580,7 @@
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) – A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
-- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) – A Workflow Engine for Offensive Security
 - [hahwul/mzap](https://github.com/hahwul/mzap) – ⚡️ Multiple target ZAP Scanning
