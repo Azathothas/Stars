@@ -82,6 +82,7 @@
 ## C
 
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
@@ -171,7 +172,6 @@
 
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
-- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
@@ -268,6 +268,8 @@
 
 ## Go
 
+- [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
+- [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
 - [hahwul/s3reverse](https://github.com/hahwul/s3reverse) – The format of various s3 buckets is convert in one format. for bugbounty and security testing.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -919,6 +921,7 @@
 
 ## Others
 
+- [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) – Community curated list of templates for the Certwatcher.
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) –   proxy list that updates every 10 minutes
@@ -1165,6 +1168,8 @@
 
 ## Python
 
+- [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
+- [A-poc/certSniff](https://github.com/A-poc/certSniff) – A certificate transparency log keyword sniffer written in python
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) – A powerful and useful hacker dictionary builder for a brute-force attack
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
@@ -1277,7 +1282,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
-- [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast, security-oriented HTTP headers analyzer
+- [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast!, security-oriented HTTP headers analyzer.
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) – Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 - [c0dejump/CredzCheckr](https://github.com/c0dejump/CredzCheckr) – Testing default web credentials
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) – Check your WAF before an attacker does
@@ -1557,7 +1562,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) – A query engine for any combination of data sources. Query your files and APIs as if they were databases!
-- [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression for your terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
