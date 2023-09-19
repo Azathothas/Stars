@@ -170,6 +170,7 @@
 
 ## C++
 
+- [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
@@ -234,7 +235,7 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.  Built with Golang and Flutter.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream, Download, and Play with Ease, All in One App!
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream and Download with Ease, All in One App!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
@@ -268,6 +269,7 @@
 
 ## Go
 
+- [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – raw html extractor from Hurricane Electric portal
 - [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
@@ -755,6 +757,7 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
@@ -923,6 +926,7 @@
 
 ## Others
 
+- [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
 - [rida1g9/Inventory_Runner](https://github.com/rida1g9/Inventory_Runner)
 - [nowmpoter/Inventory_Runners](https://github.com/nowmpoter/Inventory_Runners)
 - [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) – Community curated list of templates for the Certwatcher.
@@ -1283,7 +1287,6 @@
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [p0dalirius/RDWArecon](https://github.com/p0dalirius/RDWArecon) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast!, security-oriented HTTP headers analyzer.
