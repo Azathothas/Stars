@@ -269,6 +269,7 @@
 
 ## Go
 
+- [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – raw html extractor from Hurricane Electric portal
 - [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
@@ -562,7 +563,7 @@
 - [trickest/mgwls](https://github.com/trickest/mgwls) – Combine words from two wordlist files and concatenate them with an optional delimiter
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
-- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) – Small utility program to perform multiple operations for a given subnet/CIDR ranges.
+- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) – Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) – Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) – Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) – Extract JavaScript source trees from Sourcemap files
@@ -735,6 +736,7 @@
 
 ## JavaScript
 
+- [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/Kikobeats/top-user-agents
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
@@ -866,6 +868,7 @@
 
 ## LUA
 
+- [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
 - [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neovim, the k1ss way 
@@ -926,6 +929,7 @@
 
 ## Others
 
+- [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
 - [rida1g9/Inventory_Runner](https://github.com/rida1g9/Inventory_Runner)
 - [nowmpoter/Inventory_Runners](https://github.com/nowmpoter/Inventory_Runners)
@@ -1176,6 +1180,7 @@
 
 ## Python
 
+- [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) – A certificate transparency log keyword sniffer written in python
@@ -1286,7 +1291,7 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
-- [p0dalirius/RDWArecon](https://github.com/p0dalirius/RDWArecon) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
+- [p0dalirius/RDWAtool](https://github.com/p0dalirius/RDWAtool) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast!, security-oriented HTTP headers analyzer.
@@ -1491,7 +1496,7 @@
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) – File upload vulnerability scanner and exploitation tool.
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
-- [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. Based on PycURL.
+- [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. Based on PycURL and Python Requests.
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [s0md3v/uro](https://github.com/s0md3v/uro) – declutters url lists for crawling/pentesting
