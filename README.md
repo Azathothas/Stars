@@ -27,7 +27,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
-- [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nwscript](#nwscript)
@@ -269,6 +268,7 @@
 
 ## Go
 
+- [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – raw html extractor from Hurricane Electric portal
 - [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
@@ -386,6 +386,7 @@
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [s0md3v/wl](https://github.com/s0md3v/wl) – convert case style of words
+- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) – pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
@@ -662,7 +663,7 @@
 
 - [rogeriomm/aws-lab](https://github.com/rogeriomm/aws-lab) – Terraform AWS free tier, EC2/ECR/RDS/EFS/DynamoDB/Lambda/S3. Docker running on EC2, Traefik reverse proxy, Lets Encrypt, dynamic DNS, OpenVPN(TODO)
 - [pvarentsov/terraform-aws-free-tier](https://github.com/pvarentsov/terraform-aws-free-tier) – Getting started with the Terraform for managing a base free-tier AWS resources.
-- [Cyclenerd/google-cloud-shells-on-demand](https://github.com/Cyclenerd/google-cloud-shells-on-demand) – ▶️ Shells on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [pumasecurity/serverless-prey](https://github.com/pumasecurity/serverless-prey) – Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions
 - [nccgroup/cowcloud](https://github.com/nccgroup/cowcloud)
 
@@ -893,12 +894,6 @@
 ## Mathematica
 
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) – Store files as YouTube videos == infinite disk space
-
-<div id="mdx"></div>
-
-## Mdx
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 
 <div id="nim"></div>
 
