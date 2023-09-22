@@ -80,6 +80,8 @@
 
 ## C
 
+- [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
+- [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -268,6 +270,8 @@
 
 ## Go
 
+- [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
+- [mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots) – Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – raw html extractor from Hurricane Electric portal
@@ -846,7 +850,7 @@
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
-- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) – Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) – 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MAL client
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) – Free, open source, unofficial MangaDex reader  for Android
