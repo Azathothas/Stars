@@ -764,7 +764,7 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
