@@ -270,6 +270,9 @@
 
 ## Go
 
+- [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
+- [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) – BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.
+- [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots) – Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -665,6 +668,7 @@
 
 ## Hcl
 
+- [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [rogeriomm/aws-lab](https://github.com/rogeriomm/aws-lab) – Terraform AWS free tier, EC2/ECR/RDS/EFS/DynamoDB/Lambda/S3. Docker running on EC2, Traefik reverse proxy, Lets Encrypt, dynamic DNS, OpenVPN(TODO)
 - [pvarentsov/terraform-aws-free-tier](https://github.com/pvarentsov/terraform-aws-free-tier) – Getting started with the Terraform for managing a base free-tier AWS resources.
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
@@ -1179,6 +1183,7 @@
 
 ## Python
 
+- [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) – The Network Execution Tool
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
@@ -1530,6 +1535,7 @@
 
 ## Rust
 
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
@@ -1754,7 +1760,6 @@
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) – Run a Tailscale agent/relay in a container
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
-- [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
