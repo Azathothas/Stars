@@ -1688,7 +1688,7 @@
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/coreutils-static](https://github.com/VHSgunzo/coreutils-static) – Statically compiled coreutils with musl
-- [borestad/blocklist-ip](https://github.com/borestad/blocklist-ip) – Abuseipdb IP Aggregator
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Abuseipdb IP Aggregator
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
