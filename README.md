@@ -1183,6 +1183,9 @@
 
 ## Python
 
+- [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
+- [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
+- [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) – The Network Execution Tool
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
