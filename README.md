@@ -1183,6 +1183,7 @@
 
 ## Python
 
+- [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
 - [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
