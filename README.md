@@ -270,6 +270,8 @@
 
 ## Go
 
+- [muety/telepush](https://github.com/muety/telepush) – 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages 
+- [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) – BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
@@ -457,8 +459,8 @@
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) – An OOB interaction gathering server and client library
 - [projectdiscovery/openrisk](https://github.com/projectdiscovery/openrisk) – openrisk is a tool that generates a risk score based on the results of a Nuclei scan.
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
-- [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) – Go client to communicate with Chaos DB API. 
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) – Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+- [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) – Go client to communicate with Chaos DB API. 
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) – A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [miguelangel-nubla/ipv6ddns](https://github.com/miguelangel-nubla/ipv6ddns) – Discover the IPv6 addresses of specific hosts in your network and update DNS records dynamically
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
@@ -1427,7 +1429,7 @@
 - [dolevf/graphql-cop](https://github.com/dolevf/graphql-cop) – Security Auditor Utility for GraphQL APIs
 - [dolevf/graphw00f](https://github.com/dolevf/graphw00f) – graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
-- [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder developed in Python 
+- [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
 - [sensepost/objection](https://github.com/sensepost/objection) – 📱 objection - runtime mobile exploration
 - [quarkslab/AERoot](https://github.com/quarkslab/AERoot) – AERoot is a command line tool that allows you to give root privileges on-the-fly to any process running on the Android emulator with Google Play flavors AVDs.
@@ -1539,6 +1541,7 @@
 
 ## Rust
 
+- [flo-at/minmon](https://github.com/flo-at/minmon) – MinMon - an opinionated minimal monitoring and alarming tool
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
