@@ -686,7 +686,7 @@
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) – Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
-- [akto-api-security/akto](https://github.com/akto-api-security/akto) – Instant, Open source API security → API discovery, automated business logic testing and runtime detection.
+- [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [haticeerturk/scoper](https://github.com/haticeerturk/scoper) – This is a Burp Suite extension that allows users to easily add web addresses to the Burp Suite scope.
 - [d3mondev/burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) – This Burp Suite extension allows for the automatic creation and deletion of an upstream SOCKS5 proxy on popular cloud services.
 - [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) – JMX enumeration and attacking tool.
@@ -1185,6 +1185,7 @@
 
 ## Python
 
+- [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
