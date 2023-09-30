@@ -707,7 +707,7 @@
 - [GrapheneOS/Auditor](https://github.com/GrapheneOS/Auditor) – Hardware-based attestation / intrusion detection app for Android devices. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.
 - [TacoTheDank/Scoop](https://github.com/TacoTheDank/Scoop) – [ADB/Root] Catches a stack trace when an app crashes unexpectedly.
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – An application using the power of Magisk to debloat unwanted system apps!
-- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) – Android application for Internet privacy and security
+- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) – Android application for online privacy and security
 - [CodeDead/DeadHash-android](https://github.com/CodeDead/DeadHash-android) – DeadHash for Android
 - [Keidan/HexViewer](https://github.com/Keidan/HexViewer) – (GPL) Android Hex Viewer is a FREE software.
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
