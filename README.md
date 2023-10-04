@@ -1167,6 +1167,7 @@
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) – Easily move your WSL distros VHDX file to a new location.
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
+- [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
@@ -1326,7 +1327,6 @@
 - [Ophion-Security/public-scanners](https://github.com/Ophion-Security/public-scanners) – Scripts to scan for specific technology vulnerabilities.
 - [praetorian-inc/gato](https://github.com/praetorian-inc/gato) – GitHub Self-Hosted Runner Enumeration and Attack Tool
 - [dwisiswant0/secpat2gf](https://github.com/dwisiswant0/secpat2gf) – convert secret patterns to gf compatible.
-- [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) – :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [napisani/procmux](https://github.com/napisani/procmux) – a TUI utility for running multiple commands in parallel in easily switchable terminals
