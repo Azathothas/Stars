@@ -633,7 +633,6 @@
 
 ## HTML
 
-- [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [SANYIMOE/VPN-free](https://github.com/SANYIMOE/VPN-free) – 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
@@ -749,6 +748,7 @@
 
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
+- [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/Kikobeats/top-user-agents
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
