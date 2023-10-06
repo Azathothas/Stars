@@ -105,7 +105,7 @@
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – High performance tun2socks for Linux/Android/FreeBSD/macOS/iOS (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS (IPv4/IPv6/TCP/UDP)
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
@@ -1742,7 +1742,7 @@
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) – Bash function to run tasks in parallel and display pretty output as they complete.
-- [oscf-io/CloudCaptain](https://github.com/oscf-io/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
+- [oscfcommunity/CloudCaptain](https://github.com/oscfcommunity/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
