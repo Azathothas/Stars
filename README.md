@@ -641,6 +641,7 @@
 - [raesene/Cloud-Native-Security-Talks](https://github.com/raesene/Cloud-Native-Security-Talks)
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
+- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
@@ -804,7 +805,6 @@
 - [0xbigshaq/firepwn-tool](https://github.com/0xbigshaq/firepwn-tool) – Firepwn is a tool made for testing the Security Rules of a firebase application. 
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) – Beautifier for javascript 
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts provided by the community - pull requests very welcome!
-- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
@@ -967,7 +967,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -1451,6 +1451,7 @@
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) – Find way more from the Wayback Machine!
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
 - [Peco602/findwall](https://github.com/Peco602/findwall) – Check if your provider is blocking you!
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
 - [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extensions
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
@@ -1814,7 +1815,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
-- [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – 📜 A simple shell script to install the Go :blue_heart: programming language!
+- [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [Magisk-Modules-Repo/movecert](https://github.com/Magisk-Modules-Repo/movecert) – movecert
 - [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) – Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty
@@ -1941,7 +1942,6 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
-- [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) – A simple GUI for SCRCPY and other ADB functions
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 
