@@ -270,6 +270,15 @@
 
 ## Go
 
+- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) – A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
+- [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
+- [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
+- [bufbuild/buf](https://github.com/bufbuild/buf) – A new way of working with Protocol Buffers.
+- [xxddpac/dss](https://github.com/xxddpac/dss) – 🚀 Distributed Port Scanning 分布式端口扫描(banner/fingerprint识别)
+- [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
+- [Forest33/warthog](https://github.com/Forest33/warthog) – Cross platform gRPC GUI client
+- [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [muety/telepush](https://github.com/muety/telepush) – 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages 
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
@@ -681,6 +690,7 @@
 
 ## Java
 
+- [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) – Debugging gRPC application with swagger-ui.
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -747,6 +757,8 @@
 
 ## JavaScript
 
+- [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
@@ -835,6 +847,7 @@
 
 ## Kotlin
 
+- [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – A Material You GitHub Mobile client
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
@@ -934,6 +947,7 @@
 
 ## Others
 
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
 - [rida1g9/Inventory_Runner](https://github.com/rida1g9/Inventory_Runner)
@@ -967,7 +981,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -1186,6 +1200,7 @@
 
 ## Python
 
+- [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
@@ -1601,7 +1616,7 @@
 - [innobead/huber](https://github.com/innobead/huber) – Huber 📦, Package Install Manager for GitHub repos
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
-- [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool written in Rust for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
+- [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [BugBlocker/lotus](https://github.com/BugBlocker/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and a lot More From Text
@@ -1829,7 +1844,7 @@
 - [felicia-wen/HttpCanary-SSL-Magisk](https://github.com/felicia-wen/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) – Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
-- [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️ [MIRROR]
+- [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️
 - [i5nipe/android-scripts](https://github.com/i5nipe/android-scripts) – Some simple scripts that I use during bug bounty hunting in Android Apps
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) – Quickly analyze and reverse engineer Android packages
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
@@ -1889,6 +1904,9 @@
 
 ## TypeScript
 
+- [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
+- [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
+- [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
