@@ -1200,6 +1200,7 @@
 
 ## Python
 
+- [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
@@ -1640,7 +1641,7 @@
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🇵🇸
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
@@ -1702,6 +1703,7 @@
 
 ## Shell
 
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Packaged Tools & Binaries all in one place
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
@@ -1866,7 +1868,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) – 📁 A simple file manager written in bash.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [redraw/gh-install](https://github.com/redraw/gh-install) – install GitHub release binaries from the CLI interactively
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
