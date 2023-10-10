@@ -80,6 +80,7 @@
 
 ## C
 
+- [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
@@ -270,6 +271,8 @@
 
 ## Go
 
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) – A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
@@ -757,6 +760,8 @@
 
 ## JavaScript
 
+- [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
+- [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) – Mine URLs from Browser's Heap Snapshot for fun and profit 
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
@@ -1200,6 +1205,7 @@
 
 ## Python
 
+- [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
@@ -1824,6 +1830,7 @@
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
+- [Azathothas/BugGPT-Tools](https://github.com/Azathothas/BugGPT-Tools) – AI Generated Tools/one-off-scripts primarily for Bug Bounties
 - [mux0x/cold.sh](https://github.com/mux0x/cold.sh) – your bestfried for finding URLs of a target
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
