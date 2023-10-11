@@ -249,6 +249,7 @@
 
 ## Dockerfile
 
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes 🇺🇦
@@ -693,6 +694,7 @@
 
 ## Java
 
+- [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) – Debugging gRPC application with swagger-ui.
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
@@ -760,6 +762,8 @@
 
 ## JavaScript
 
+- [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
+- [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
 - [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) – Mine URLs from Browser's Heap Snapshot for fun and profit 
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
@@ -952,6 +956,7 @@
 
 ## Others
 
+- [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
@@ -1205,6 +1210,9 @@
 
 ## Python
 
+- [Syzik/DockerRegistryGrabber](https://github.com/Syzik/DockerRegistryGrabber) – Enumerate / Dump Docker Registry
+- [disclose/diodb](https://github.com/disclose/diodb) – Open-source vulnerability disclosure and bug bounty program database
+- [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
@@ -1676,7 +1684,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) – A simple, fast and user-friendly alternative to 'find'
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) – Rust Weaponization for Red Team Engagements.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop, and alternative to TeamViewer.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
@@ -1913,6 +1920,8 @@
 
 ## TypeScript
 
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
@@ -1950,6 +1959,7 @@
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
