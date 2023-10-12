@@ -646,6 +646,7 @@
 
 ## HTML
 
+- [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [SANYIMOE/VPN-free](https://github.com/SANYIMOE/VPN-free) – 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
@@ -862,7 +863,7 @@
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) – Share your VPN connection over hotspot or repeater! (root required)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
-- [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST and GraphQL.
+- [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs with API and OPDS support
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
@@ -1214,7 +1215,6 @@
 - [disclose/diodb](https://github.com/disclose/diodb) – Open-source vulnerability disclosure and bug bounty program database
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
-- [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
