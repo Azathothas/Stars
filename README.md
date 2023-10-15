@@ -1029,7 +1029,7 @@
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) – Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every 30 minutes.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) – USB WiFi Adapter Information for Linux
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
-- [getcursor/cursor](https://github.com/getcursor/cursor) – An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) – An AI-powered code editor based on VSCode 🤖
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) – Course Piracy Index 🏴‍☠️
 - [trickest/resolvers](https://github.com/trickest/resolvers) – The most exhaustive list of reliable DNS resolvers.
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
@@ -1382,7 +1382,7 @@
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [elceef/subzuf](https://github.com/elceef/subzuf) – a smart DNS response-guided subdomain fuzzer
 - [5f0ne/pdf-examiner](https://github.com/5f0ne/pdf-examiner) – Provides an overview of the inner file structure of a PDF
-- [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – The Best Forwarded Shell  
+- [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) – An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
@@ -1476,7 +1476,7 @@
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) – A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write" an attacker can probably dump database and write his own data to firebase db.
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) – A `.git` folder disclosure exploit
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Automate your API Testing: catch crashes, validate specs, and save time
 - [doyensec/inql](https://github.com/doyensec/inql) – InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) – Obtain GraphQL API schema even if the introspection is disabled
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) – Scots Army Knife for electronics
