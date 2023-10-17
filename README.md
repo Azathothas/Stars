@@ -696,6 +696,7 @@
 
 ## Java
 
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) – Debugging gRPC application with swagger-ui.
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
@@ -813,7 +814,7 @@
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) – Acode - powerful text/code editor for android
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) – Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
-- [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
@@ -1281,7 +1282,7 @@
 - [amodm/ip-lookup](https://github.com/amodm/ip-lookup) – Free IP details lookup service, based on Cloudflare Workers
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) – An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) – Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – A reverse shell based on sshd  supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies 
+- [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) – Automatically map Tailscale hosts to DNS names locally
@@ -1392,7 +1393,7 @@
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) – Graphical client for the Soulseek peer-to-peer network
 - [cramppet/regulator](https://github.com/cramppet/regulator) – Automated learning of regexes for DNS discovery
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) – Colored logcat script which only shows log entries for a specific application package.
-- [simple-login/app](https://github.com/simple-login/app) – The SimpleLogin back-end
+- [simple-login/app](https://github.com/simple-login/app) – The SimpleLogin back-end and web app
 - [PortSwigger/request-minimizer](https://github.com/PortSwigger/request-minimizer)
 - [carlospolop/Leakos](https://github.com/carlospolop/Leakos)
 - [carlospolop/Pastos](https://github.com/carlospolop/Pastos)
