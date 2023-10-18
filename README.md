@@ -66,7 +66,7 @@
 ## Batchfile
 
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) – 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) – 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 
@@ -272,6 +272,7 @@
 
 ## Go
 
+- [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
@@ -959,6 +960,7 @@
 
 ## Others
 
+- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Data
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
@@ -1723,6 +1725,7 @@
 
 ## Shell
 
+- [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Packaged Tools & Binaries all in one place
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
