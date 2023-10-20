@@ -272,6 +272,7 @@
 
 ## Go
 
+- [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -999,7 +1000,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -1727,6 +1728,7 @@
 
 ## Shell
 
+- [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written tools for Personal Use Cases & Beg Bounties
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Packaged Tools & Binaries all in one place
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
