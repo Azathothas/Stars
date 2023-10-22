@@ -274,6 +274,10 @@
 
 ## Go
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
+- [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
+- [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
@@ -651,6 +655,7 @@
 
 ## HTML
 
+- [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
@@ -700,6 +705,7 @@
 
 ## Java
 
+- [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) – Debugging gRPC application with swagger-ui.
@@ -963,6 +969,7 @@
 
 ## Others
 
+- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – Custom || Automated Curation & Collection of BugBounty Wordlists
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
@@ -1193,6 +1200,8 @@
 
 ## PowerShell
 
+- [max-las/prioritize-zerotier](https://github.com/max-las/prioritize-zerotier) – Simple PowerShell script to set ZeroTier network interface as top priority
+- [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
 - [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) – Windows PowerShell scripts that will keep installations of Tailscale updated daily. Tailscale is an excellent peer-to-peer style mesh VPN based on the Wireguard protocol. See https://tailscale.com
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
@@ -1221,6 +1230,10 @@
 
 ## Python
 
+- [neoncloud/Zerotier-port-forward](https://github.com/neoncloud/Zerotier-port-forward) – The Zerotier userspace port forwarder without TUN.
+- [tralph3/ZeroTier-GUI](https://github.com/tralph3/ZeroTier-GUI) – A Linux front-end for ZeroTier
+- [acidvegas/bgp](https://github.com/acidvegas/bgp) – Research & Experiments with Border Gateway Protocol
+- [linsomniac/ztproxy](https://github.com/linsomniac/ztproxy) – A user-space stdin-to-ZeroTier proxy
 - [cado-security/cloudgrep](https://github.com/cado-security/cloudgrep) – cloudgrep is grep for cloud storage
 - [e1abrador/Burp-Encode-IP](https://github.com/e1abrador/Burp-Encode-IP) – Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
@@ -1588,6 +1601,7 @@
 
 ## Rust
 
+- [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [flo-at/minmon](https://github.com/flo-at/minmon) – MinMon - an opinionated minimal monitoring and alarming tool
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
@@ -1731,6 +1745,10 @@
 
 ## Shell
 
+- [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
+- [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
+- [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
+- [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written tools for Personal Use Cases & Beg Bounties
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Packaged Tools & Static Binaries all in one place (x86-64)
@@ -1937,6 +1955,7 @@
 
 ## TypeScript
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - Zerotier Controller Web UI
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
