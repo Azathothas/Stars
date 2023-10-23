@@ -274,6 +274,8 @@
 
 ## Go
 
+- [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) – A utility to improve performance and help manage storage on Steam Deck.
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
@@ -775,6 +777,7 @@
 
 ## JavaScript
 
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
@@ -831,7 +834,7 @@
 - [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) – Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
 - [u0pattern/Anti-EmuDetector](https://github.com/u0pattern/Anti-EmuDetector) – Anti-EmuDetector is a frida script that bypass the emulator detection techniques in android
-- [httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) – A Frida script to disable SSL certificate pinning in a target application
+- [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – A Frida script to disable SSL certificate pinning in a target application
 - [electron/asar](https://github.com/electron/asar) – Simple extensive tar-like archive format with indexing
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) – Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
@@ -969,6 +972,7 @@
 
 ## Others
 
+- [nex-health/setup-twingate-windows](https://github.com/nex-health/setup-twingate-windows) – Setup Twingate headless client on Windows
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – Custom || Automated Curation & Collection of BugBounty Wordlists
@@ -1230,6 +1234,7 @@
 
 ## Python
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) – Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [neoncloud/Zerotier-port-forward](https://github.com/neoncloud/Zerotier-port-forward) – The Zerotier userspace port forwarder without TUN.
 - [tralph3/ZeroTier-GUI](https://github.com/tralph3/ZeroTier-GUI) – A Linux front-end for ZeroTier
 - [acidvegas/bgp](https://github.com/acidvegas/bgp) – Research & Experiments with Border Gateway Protocol
@@ -1601,6 +1606,7 @@
 
 ## Rust
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [flo-at/minmon](https://github.com/flo-at/minmon) – MinMon - an opinionated minimal monitoring and alarming tool
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) – A command-line hex viewer
