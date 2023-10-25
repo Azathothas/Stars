@@ -80,6 +80,7 @@
 
 ## C
 
+- [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) – SSHFS For Windows
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
@@ -778,6 +779,7 @@
 
 ## JavaScript
 
+- [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
@@ -1238,6 +1240,7 @@
 
 ## Python
 
+- [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [bugen/pypipe](https://github.com/bugen/pypipe) – Python pipe command line tool
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) – Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [neoncloud/Zerotier-port-forward](https://github.com/neoncloud/Zerotier-port-forward) – The Zerotier userspace port forwarder without TUN.
@@ -1756,6 +1759,8 @@
 
 ## Shell
 
+- [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
+- [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) – A simple script that generates importable tar files for Windows Subsystem for Linux (WSL2), allowing users to install any desired Linux distribution, assuming that it is available on docker.
 - [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
@@ -1791,7 +1796,7 @@
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
 - [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries for Restricted Jails
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
-- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Reliably run any Linux distribution on any hardware with a cross-compiled host OS for containerized environments.
+- [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) – Toolchains for ultra-portable static binaries
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
