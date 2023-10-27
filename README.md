@@ -1186,7 +1186,7 @@
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -> https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -> https://app.coolify.io
 - [Serhatcck/vulnsocket](https://github.com/Serhatcck/vulnsocket) – Vulnerable Web Socket-Web Site
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1426,7 +1426,7 @@
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) – An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source website change detection, watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notificatio
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) – Graphical client for the Soulseek peer-to-peer network
 - [cramppet/regulator](https://github.com/cramppet/regulator) – Automated learning of regexes for DNS discovery
@@ -1764,6 +1764,7 @@
 
 ## Shell
 
+- [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [Smiley-McSmiles/jellyman](https://github.com/Smiley-McSmiles/jellyman) – Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
