@@ -81,6 +81,8 @@
 
 ## C
 
+- [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
+- [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) – SSHFS For Windows
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
@@ -714,6 +716,7 @@
 
 ## Java
 
+- [heiher/sockstun](https://github.com/heiher/sockstun) –  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android.
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tv running Android OS
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
@@ -980,6 +983,8 @@
 
 ## Others
 
+- [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) – A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [mendel5/iperf3-results](https://github.com/mendel5/iperf3-results) – Interpretation of iperf and iperf3 results, especially regarding data-transfer rates aka speed (Mbit/s, Gbit/s)
 - [makotom/iperf3-binaries](https://github.com/makotom/iperf3-binaries) – Executable binaries of iperf3
 - [Jiab77/scc](https://github.com/Jiab77/scc) – Use Segfault voluntary users resources to build a massive computing cluster.
@@ -990,7 +995,7 @@
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – Custom || Automated Curation & Collection of BugBounty Wordlists
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
-- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Data
+- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Data (Domain Names)
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
@@ -1186,6 +1191,7 @@
 
 ## PHP
 
+- [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) – 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [yanncam/ShuckNT](https://github.com/yanncam/ShuckNT) – ShuckNT is the script of Shuck.sh online service for on-premise use. It is design to dowgrade, convert, dissect and shuck authentication token based on Data Encryption Standard (DES).
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
@@ -1249,6 +1255,7 @@
 
 ## Python
 
+- [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [bugen/pypipe](https://github.com/bugen/pypipe) – Python pipe command line tool
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) – Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -1624,6 +1631,7 @@
 
 ## Rust
 
+- [lbl8603/vnt](https://github.com/lbl8603/vnt) – A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
@@ -1770,6 +1778,8 @@
 
 ## Shell
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
+- [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) – Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [Smiley-McSmiles/jellyman](https://github.com/Smiley-McSmiles/jellyman) – Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package
