@@ -282,6 +282,8 @@
 
 ## Go
 
+- [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
+- [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) – A utility to improve performance and help manage storage on Steam Deck.
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
@@ -983,6 +985,8 @@
 
 ## Others
 
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) – List of GREP modifications and alternatives for a variety of purposes
+- [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) – A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [mendel5/iperf3-results](https://github.com/mendel5/iperf3-results) – Interpretation of iperf and iperf3 results, especially regarding data-transfer rates aka speed (Mbit/s, Gbit/s)
@@ -995,7 +999,7 @@
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – Custom || Automated Curation & Collection of BugBounty Wordlists
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
-- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Data (Domain Names)
+- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Data (SAN || CN)
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
@@ -1631,6 +1635,7 @@
 
 ## Rust
 
+- [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) – A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
@@ -1778,6 +1783,8 @@
 
 ## Shell
 
+- [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
+- [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) – Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
@@ -2055,6 +2062,7 @@
 
 ## Vue
 
+- [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) – Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
