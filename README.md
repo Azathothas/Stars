@@ -47,6 +47,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vue](#vue)
@@ -81,6 +82,7 @@
 
 ## C
 
+- [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small useful utilities for Linux networking.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -244,7 +246,7 @@
 ## Dart
 
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream and Download with Ease, All in One App!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -282,6 +284,7 @@
 
 ## Go
 
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -985,6 +988,9 @@
 
 ## Others
 
+- [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)
+- [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
+- [soulteary/docker-flare](https://github.com/soulteary/docker-flare) – Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) – List of GREP modifications and alternatives for a variety of purposes
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
@@ -1259,6 +1265,8 @@
 
 ## Python
 
+- [3b1b/manim](https://github.com/3b1b/manim) – Animation engine for explanatory math videos
+- [radude/rentry](https://github.com/radude/rentry) – Markdown pastebin from command line
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [bugen/pypipe](https://github.com/bugen/pypipe) – Python pipe command line tool
@@ -1998,6 +2006,12 @@
 
 - [team-unstablers/ulalaca](https://github.com/team-unstablers/ulalaca) – xrdp-powered remote session broker / projector for macOS
 - [freedmand/textra](https://github.com/freedmand/textra) – A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
+
+<div id="tex"></div>
+
+## TeX
+
+- [avashkattel/TU-IoST-BSc-Project-Work-Latex-Template](https://github.com/avashkattel/TU-IoST-BSc-Project-Work-Latex-Template) – This LaTeX template has been crafted to provide structured framework for Tribhuvan University IoST BSc Project work, removing the complexities often associated with formatting and layout.
 
 <div id="typescript"></div>
 
