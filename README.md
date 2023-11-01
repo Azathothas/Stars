@@ -284,6 +284,7 @@
 
 ## Go
 
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
@@ -512,7 +513,7 @@
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) – A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [c3l3si4n/subsift](https://github.com/c3l3si4n/subsift) – experimental wildcard subdomain filtering prototype
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
-- [channyein1337/jsleak](https://github.com/channyein1337/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
+- [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [c3l3si4n/thankunext](https://github.com/c3l3si4n/thankunext) – Easily gather all routes related to a NextJs application through parsing of _buildManifest.js
 - [Damian89/ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
@@ -1791,6 +1792,7 @@
 
 ## Shell
 
+- [pwnwriter/chadrice](https://github.com/pwnwriter/chadrice) – 🍙 dotfiles
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
@@ -1807,7 +1809,7 @@
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written tools for Personal Use Cases & Beg Bounties
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Packaged Tools & Static Binaries all in one place (x86-64)
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries as Packaged Tools for (amd | x86-64) all in one place
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
