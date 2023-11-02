@@ -82,6 +82,7 @@
 
 ## C
 
+- [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small useful utilities for Linux networking.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
@@ -284,6 +285,7 @@
 
 ## Go
 
+- [txthinking/nami](https://github.com/txthinking/nami) – A clean and tidy decentralized package manager.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
@@ -793,6 +795,7 @@
 
 ## JavaScript
 
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
@@ -1792,6 +1795,7 @@
 
 ## Shell
 
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [pwnwriter/chadrice](https://github.com/pwnwriter/chadrice) – 🍙 dotfiles
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
@@ -2078,6 +2082,7 @@
 
 ## Vue
 
+- [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) – Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
