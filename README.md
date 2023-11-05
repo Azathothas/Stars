@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Cmake](#cmake)
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -82,6 +83,16 @@
 
 ## C
 
+- [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
+- [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
+- [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
+- [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- [util-linux/util-linux](https://github.com/util-linux/util-linux)
+- [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application. Still in early development.
+- [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
+- [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
+- [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small useful utilities for Linux networking.
@@ -151,6 +162,7 @@
 
 ## C#
 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, support Xray core and v2fly core and others
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -181,6 +193,7 @@
 
 ## C++
 
+- [tstack/lnav](https://github.com/tstack/lnav) – Log file navigator
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) – a featureful union filesystem
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
@@ -236,6 +249,12 @@
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
+<div id="cmake"></div>
+
+## Cmake
+
+- [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) – building android-sdk tools  for Android
+
 <div id="crystal"></div>
 
 ## Crystal
@@ -248,6 +267,7 @@
 
 ## Dart
 
+- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
@@ -287,6 +307,15 @@
 
 ## Go
 
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
+- [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
+- [Moe-hacker/yoshinon](https://github.com/Moe-hacker/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go) 🍥 #Meet the modern TUI
+- [jvns/dns-doctor](https://github.com/jvns/dns-doctor)
+- [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
+- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) – Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) – git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command. 
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -680,6 +709,7 @@
 
 ## HTML
 
+- [xingyujie/flyos](https://github.com/xingyujie/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
@@ -730,6 +760,7 @@
 
 ## Java
 
+- [termux/termux-boot](https://github.com/termux/termux-boot) – Termux add-on app allowing programs to be run at boot.
 - [heiher/sockstun](https://github.com/heiher/sockstun) –  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android.
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tv running Android OS
@@ -830,7 +861,7 @@
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
 - [slithery0/location-np](https://github.com/slithery0/location-np) – Nepal provinces, districts, municipality and wards dot json
-- [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) – Reverse Shell as a Service
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
@@ -880,7 +911,6 @@
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
 
 <div id="jupyter-notebook"></div>
@@ -899,6 +929,9 @@
 
 ## Kotlin
 
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser powered by ubuntu without root access and termux.
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
+- [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – A Material You GitHub Mobile client
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
@@ -993,12 +1026,17 @@
 
 ## Objective-C
 
+- [darlinghq/darling](https://github.com/darlinghq/darling) – Darwin/macOS emulation layer for Linux
 - [833M0L3/Legion-4600H-Hackintosh](https://github.com/833M0L3/Legion-4600H-Hackintosh) – macOS on Lenovo Legion 5-15ARH05 - Ryzen 4600H & GTX 1650 Ti
 
 <div id="others"></div>
 
 ## Others
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
+- [sanwebinfo/my-termux-setup](https://github.com/sanwebinfo/my-termux-setup) – Here is My Termux Terminal Emulator Setup & Packages
+- [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
@@ -1277,6 +1315,9 @@
 
 ## Python
 
+- [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report the historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
+- [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images)
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) – docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
@@ -1658,6 +1699,17 @@
 
 ## Rust
 
+- [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
+- [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
+- [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
+- [sharkdp/binocle](https://github.com/sharkdp/binocle) – a graphical tool to visualize binary data
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
+- [tox-rs/tox](https://github.com/tox-rs/tox) – toxcore implementation in Rust
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
@@ -1812,6 +1864,33 @@
 
 ## Shell
 
+- [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – This script fetches the Android System Information that written in pure Shell Script and can run in termux app easily.
+- [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
+- [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
+- [illvart/termux-alpine](https://github.com/illvart/termux-alpine) – Bash script for installing Alpine Linux in Termux - 100 MB.
+- [davidhampgonsalves/music-server](https://github.com/davidhampgonsalves/music-server) – Music streaming server on a Android Galaxy S7 
+- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.0 For Termux , Version : 2.9.0 , Maintained
+- [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
+- [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
+- [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
+- [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
+- [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+- [robxu9/bash-static](https://github.com/robxu9/bash-static) – Because we need exercises in minimalism.
+- [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
+- [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
+- [VHSgunzo/util-linux-static](https://github.com/VHSgunzo/util-linux-static) – Statically compiled util-linux
+- [Moe-hacker/rootfstool](https://github.com/Moe-hacker/rootfstool) – A tool to get linux container rootfs from lxc-image mirrors🍥
+- [termux/termux-tools](https://github.com/termux/termux-tools) – Scripts and small programs that are packaged into termux's termux-tools package
+- [olegos2/termux-box](https://github.com/olegos2/termux-box)
+- [AdarshAddee/root](https://github.com/AdarshAddee/root) – Root - Access root previliges in termux without rooting android device
+- [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
+- [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
+- [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
+- [termux/proot-distro](https://github.com/termux/proot-distro) – An utility for managing installations of the Linux distributions in Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
@@ -2091,6 +2170,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 <div id="vala"></div>
