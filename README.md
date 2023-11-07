@@ -83,6 +83,7 @@
 
 ## C
 
+- [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – 2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
@@ -259,7 +260,7 @@
 
 ## Crystal
 
-- [hahwul/noir](https://github.com/hahwul/noir) – ♠️ Noir is an attack surface detector form source code.
+- [noir-cr/noir](https://github.com/noir-cr/noir) – ♠️ Noir is an attack surface detector form source code.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 
@@ -271,7 +272,7 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock Music's Full Potential: Stream and Download with Ease, All in One App!
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
@@ -307,6 +308,7 @@
 
 ## Go
 
+- [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -508,7 +510,7 @@
 - [EatonChips/yalis](https://github.com/EatonChips/yalis) – Yet Another LinkedIn Scraper
 - [patrickhener/gopwntomcat](https://github.com/patrickhener/gopwntomcat) – A little tomcat brute forcer and pwning tool
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design
-- [fipso/freenews](https://github.com/fipso/freenews) – A paywall bypassing reverse proxy and DNS server written in go 🔨💵🧱
+- [fipso/freenews](https://github.com/fipso/freenews) – Reverse Proxy & DNS based solution to bypass paywalls 🔨💵🧱
 - [dwisiswant0/cf-check](https://github.com/dwisiswant0/cf-check) – CloudFlare Checker written in Go
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) – A fast tool to fetch URLs from HTML attributes by crawl-in.
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
@@ -760,6 +762,8 @@
 
 ## Java
 
+- [Clivebi/Daemon](https://github.com/Clivebi/Daemon) – Android service daemon ,keep background service alive
+- [tiann/Leoric](https://github.com/tiann/Leoric) – PoC of fighting against force-stop kill process on Android
 - [termux/termux-boot](https://github.com/termux/termux-boot) – Termux add-on app allowing programs to be run at boot.
 - [heiher/sockstun](https://github.com/heiher/sockstun) –  A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android.
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
@@ -1317,6 +1321,7 @@
 
 ## Python
 
+- [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report the historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
