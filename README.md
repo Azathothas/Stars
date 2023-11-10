@@ -308,6 +308,8 @@
 
 ## Go
 
+- [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [quackduck/devzat](https://github.com/quackduck/devzat) – The devs are over here at devzat, chat over SSH!
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
@@ -763,6 +765,9 @@
 
 ## Java
 
+- [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
+- [connectbot/connectbot](https://github.com/connectbot/connectbot) – ConnectBot is the first SSH client for Android.
+- [sylirre/neotty](https://github.com/sylirre/neotty) – Yet another terminal app for Android OS but different. Powered by QEMU. No root required.
 - [Clivebi/Daemon](https://github.com/Clivebi/Daemon) – Android service daemon ,keep background service alive
 - [tiann/Leoric](https://github.com/tiann/Leoric) – PoC of fighting against force-stop kill process on Android
 - [termux/termux-boot](https://github.com/termux/termux-boot) – Termux add-on app allowing programs to be run at boot.
@@ -934,6 +939,7 @@
 
 ## Kotlin
 
+- [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) – An Android Storage Access Framework document provider for rclone
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser powered by ubuntu without root access and termux.
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
@@ -991,6 +997,7 @@
 
 ## Makefile
 
+- [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
@@ -1709,6 +1716,7 @@
 
 ## Rust
 
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) – Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
@@ -1875,6 +1883,13 @@
 
 ## Shell
 
+- [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
+- [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
+- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
+- [Magisk-Modules-Repo/ccbins](https://github.com/Magisk-Modules-Repo/ccbins)
+- [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) – ssh
+- [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
+- [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
 - [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – This script fetches the Android System Information that written in pure Shell Script and can run in termux app easily.
