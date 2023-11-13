@@ -197,6 +197,7 @@
 
 ## C++
 
+- [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [tstack/lnav](https://github.com/tstack/lnav) – Log file navigator
@@ -264,7 +265,7 @@
 
 ## Crystal
 
-- [noir-cr/noir](https://github.com/noir-cr/noir) – ♠️ Noir is an attack surface detector form source code.
+- [noir-cr/noir](https://github.com/noir-cr/noir) – ♠️ Noir is an attack surface detector that identifies endpoints by static analysis.
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 
@@ -333,6 +334,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [knadh/stuffbin](https://github.com/knadh/stuffbin) – Compress and embed static files and assets into Go binaries and access them with a virtual file system in production
 - [txthinking/nami](https://github.com/txthinking/nami) – A clean and tidy decentralized package manager.
+- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
 - [bitfield/script](https://github.com/bitfield/script) – Making it easy to write shell-like scripts in Go
@@ -853,7 +855,6 @@
 
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-- [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
@@ -1739,6 +1740,8 @@
 
 ## Rust
 
+- [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
+- [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
@@ -1944,7 +1947,7 @@
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
+- [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
