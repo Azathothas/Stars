@@ -314,6 +314,7 @@
 
 ## Go
 
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [shogo82148/androidbinary](https://github.com/shogo82148/androidbinary) – Android binary file parser written in golang
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
@@ -763,6 +764,7 @@
 
 ## Hcl
 
+- [fduran/sadservers](https://github.com/fduran/sadservers) – SadServers.com Public
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [rogeriomm/aws-lab](https://github.com/rogeriomm/aws-lab) – Terraform AWS free tier, EC2/ECR/RDS/EFS/DynamoDB/Lambda/S3. Docker running on EC2, Traefik reverse proxy, Lets Encrypt, dynamic DNS, OpenVPN(TODO)
 - [pvarentsov/terraform-aws-free-tier](https://github.com/pvarentsov/terraform-aws-free-tier) – Getting started with the Terraform for managing a base free-tier AWS resources.
@@ -1648,12 +1650,12 @@
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
 - [Peco602/findwall](https://github.com/Peco602/findwall) – Check if your provider is blocking you!
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
-- [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extensions
+- [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extension to find potential endpoints. parameters, and generate a custom taregt wordlist
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) – An XSS exploitation command-line interface and payload generator.
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
-- [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) – A python tool used to discover endpoints (and potential parameters) for a given target
+- [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) – A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target
 - [NickSanzotta/scanman](https://github.com/NickSanzotta/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
 - [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
@@ -1912,6 +1914,7 @@
 
 ## Shell
 
+- [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
@@ -1969,7 +1972,7 @@
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written tools for Personal Use Cases & Beg Bounties
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries as Packaged Tools for (amd | x86-64) all in one place
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries as Packaged Tools for Android (arm64-v8a), Linux (amd | x86-64) all in one place
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
