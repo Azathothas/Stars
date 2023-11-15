@@ -197,6 +197,7 @@
 
 ## C++
 
+- [zerotier/pylon](https://github.com/zerotier/pylon) – Layer 5 proxy over ZeroTier
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
@@ -290,6 +291,8 @@
 
 ## Dockerfile
 
+- [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
+- [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v13+ providing needed environment and toolchain for building Android artifacts
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
@@ -314,6 +317,9 @@
 
 ## Go
 
+- [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
+- [reconquest/orgalorg](https://github.com/reconquest/orgalorg) – Parallel SSH commands runner and file synchronization tool
+- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) – An experiment in scalable routing as an encrypted IPv6 overlay network
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [shogo82148/androidbinary](https://github.com/shogo82148/androidbinary) – Android binary file parser written in golang
@@ -776,6 +782,7 @@
 
 ## Java
 
+- [ukanth/afwall](https://github.com/ukanth/afwall) – AFWall+ (Android Firewall +) - iptables based firewall for Android 
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  Support monitoring web, database, os, middleware, cloudnative, network and more. 
 - [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 - [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
@@ -1914,6 +1921,8 @@
 
 ## Shell
 
+- [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
+- [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
@@ -2017,7 +2026,6 @@
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [Moe-hacker/termux-container](https://github.com/Moe-hacker/termux-container) – Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥
-- [nathaneltitane/termux](https://github.com/nathaneltitane/termux) – Termux related applications, scripts and utilities.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) – Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
