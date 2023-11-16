@@ -84,6 +84,7 @@
 
 ## C
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written in C.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPUs process monitoring for AMD, Intel and NVIDIA 
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – 2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
@@ -497,7 +498,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) – pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
 - [hktalent/go4Hacker](https://github.com/hktalent/go4Hacker) – Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com
-- [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos.
+- [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – Own your $HOME
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
@@ -1073,6 +1074,7 @@
 
 ## Others
 
+- [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [mrp-yt/termux_ssh](https://github.com/mrp-yt/termux_ssh) – Short guide on how to connect to Termux SSH from anywhere while using TailScale as connection link. 
@@ -1921,6 +1923,13 @@
 
 ## Shell
 
+- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Statically Compiled Linux Binaries for [CoreUtils | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]
+- [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
+- [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
+- [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
+- [franckferman/fix_wsl2_networking](https://github.com/franckferman/fix_wsl2_networking) – Solve connection problems related to WSL2. 
+- [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
+- [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
