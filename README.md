@@ -48,6 +48,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -84,6 +85,7 @@
 
 ## C
 
+- [codedsprit/dotfiles](https://github.com/codedsprit/dotfiles) – 🐰 My artix configs with suckless utilities
 - [jamesyoungman/findutils](https://github.com/jamesyoungman/findutils) – GNU findutils - periodically synced from git.savannah.gnu.org
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written in C.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPUs process monitoring for AMD, Intel and NVIDIA 
@@ -293,6 +295,7 @@
 
 ## Dockerfile
 
+- [2moe/build-container](https://github.com/2moe/build-container)
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v13+ providing needed environment and toolchain for building Android artifacts
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
@@ -319,6 +322,7 @@
 
 ## Go
 
+- [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [reconquest/orgalorg](https://github.com/reconquest/orgalorg) – Parallel SSH commands runner and file synchronization tool
@@ -973,7 +977,7 @@
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
-- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – A Material You GitHub Mobile client
+- [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – GitHub reimagined with Material You
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) – Share your VPN connection over hotspot or repeater! (root required)
@@ -1076,7 +1080,7 @@
 
 ## Others
 
-- [bytehunt/seren-pkgs](https://github.com/bytehunt/seren-pkgs) – 🍦Releases : compiled binaries to install via seren
+- [pwnwriter/seren-pkgs](https://github.com/pwnwriter/seren-pkgs) – 🍦Releases : compiled binaries to install via seren
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
@@ -1755,7 +1759,8 @@
 
 ## Rust
 
-- [bytehunt/seren](https://github.com/bytehunt/seren) – 📦 An independent package manager for the *nix.
+- [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
+- [pwnwriter/seren](https://github.com/pwnwriter/seren) – 📦 An independent package manager for the *nix.
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
@@ -2028,7 +2033,6 @@
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 又一个一键重装脚本
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
-- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries for Android Linux macOS Windows & More
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) – Toolchains for ultra-portable static binaries
@@ -2200,6 +2204,12 @@
 
 - [team-unstablers/ulalaca](https://github.com/team-unstablers/ulalaca) – xrdp-powered remote session broker / projector for macOS
 - [freedmand/textra](https://github.com/freedmand/textra) – A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
+
+<div id="tcl"></div>
+
+## Tcl
+
+- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Cross Compiled Statically Linked Binaries for Android Linux macOS Windows & More
 
 <div id="tex"></div>
 
