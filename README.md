@@ -321,6 +321,7 @@
 
 ## Go
 
+- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
@@ -867,6 +868,7 @@
 
 ## JavaScript
 
+- [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -1079,7 +1081,7 @@
 
 ## Others
 
-- [bytehunt/seren-pkgs](https://github.com/bytehunt/seren-pkgs) – 🍦Releases : compiled binaries to install via seren
+- [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🍦Releases : compiled binaries to install via seren
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
@@ -1758,8 +1760,9 @@
 
 ## Rust
 
+- [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
-- [pwnwriter/seren](https://github.com/pwnwriter/seren) – 📦 An independent package manager for the *nix operating system
+- [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager for the *nix operating system
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
@@ -1931,6 +1934,8 @@
 
 ## Shell
 
+- [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
+- [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [Magisk-Modules-Repo/nano-ndk](https://github.com/Magisk-Modules-Repo/nano-ndk) – nano-ndk
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
 - [VHSgunzo/gawk-static](https://github.com/VHSgunzo/gawk-static) – Statically compiled gawk with musl
