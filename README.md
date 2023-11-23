@@ -85,6 +85,10 @@
 
 ## C
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
+- [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [codedsprit/dotfiles](https://github.com/codedsprit/dotfiles) – 🐰 My artix configs with suckless utilities
 - [jamesyoungman/findutils](https://github.com/jamesyoungman/findutils) – GNU findutils - periodically synced from git.savannah.gnu.org
@@ -170,6 +174,7 @@
 
 ## C#
 
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, support Xray core and v2fly core and others
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
@@ -201,6 +206,7 @@
 
 ## C++
 
+- [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [zerotier/pylon](https://github.com/zerotier/pylon) – Layer 5 proxy over ZeroTier
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -278,6 +284,7 @@
 
 ## Dart
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
@@ -322,6 +329,24 @@
 
 ## Go
 
+- [screego/server](https://github.com/screego/server) – screen sharing for developers https://screego.net/
+- [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
+- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
+- [moul/sshportal](https://github.com/moul/sshportal) – :tophat: simple, fun and transparent SSH (and telnet) bastion server
+- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) – Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [zhsj/wghttp](https://github.com/zhsj/wghttp) – Turn WireGuard to HTTP & SOCKS5 proxies
+- [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
+- [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
+- [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) – Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
+- [sclevine/yj](https://github.com/sclevine/yj) – CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
@@ -516,7 +541,6 @@
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) – mTLS-Encrypted Back-Connect SOCKS5 Proxy
 - [mr-pmillz/gofireprox](https://github.com/mr-pmillz/gofireprox) – FireProx written in Go
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) – Manage your dotfiles across multiple diverse machines, securely.
-- [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
@@ -792,6 +816,9 @@
 
 ## Java
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
+- [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
+- [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [ukanth/afwall](https://github.com/ukanth/afwall) – AFWall+ (Android Firewall +) - iptables based firewall for Android 
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  Support monitoring web, database, os, middleware, cloudnative, network and more. 
 - [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
@@ -908,8 +935,9 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
@@ -1063,6 +1091,8 @@
 
 ## Nix
 
+- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
@@ -1096,7 +1126,6 @@
 - [sanwebinfo/my-termux-setup](https://github.com/sanwebinfo/my-termux-setup) – Here is My Termux Terminal Emulator Setup & Packages
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-- [Ftindy/IPTV-URL](https://github.com/Ftindy/IPTV-URL)
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
 - [soulteary/docker-flare](https://github.com/soulteary/docker-flare) – Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) – List of GREP modifications and alternatives for a variety of purposes
@@ -1194,7 +1223,6 @@
 - [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) – An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [thehlopster/hfuzz](https://github.com/thehlopster/hfuzz) – Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
 - [ultrafunkamsterdam/undetected-frida](https://github.com/ultrafunkamsterdam/undetected-frida) – Making frida less detectable by applying some patches. This follows the official Frida releases and publishes releases the same day. Do not fork this!
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) – A collection of special paths linked to common sensitive APIs, devops internals, frameworks conf, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
@@ -1342,6 +1370,8 @@
 
 ## PowerShell
 
+- [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
+- [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
 - [IAL32/WSL2-Create-Distro](https://github.com/IAL32/WSL2-Create-Distro) – Creates a distro from a tarball and optionally adds a user to it
 - [max-las/prioritize-zerotier](https://github.com/max-las/prioritize-zerotier) – Simple PowerShell script to set ZeroTier network interface as top priority
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
@@ -1373,6 +1403,14 @@
 
 ## Python
 
+- [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
+- [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
+- [euske/pyrexecd](https://github.com/euske/pyrexecd) – Standalone SSH server for Windows
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) – Unified GUI Censorship Resistant Solution Powered by Xray
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+- [anrbn/GATOR](https://github.com/anrbn/GATOR) – GATOR - GCP Attack Toolkit for Offensive Research, a tool designed to aid in research and exploiting Google Cloud Environments
+- [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) – pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
@@ -1603,7 +1641,7 @@
 - [roughiz/lfito_rce](https://github.com/roughiz/lfito_rce) – LFI to RCE via phpinfo() assistance or via controlled log file
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) – A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
 - [rev1si0n/lamda](https://github.com/rev1si0n/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
-- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) – Patch boot image with magisk on windows/linux
+- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) – Patch boot image with magisk on windows/linux/macos
 - [PalindromeLabs/STEWS](https://github.com/PalindromeLabs/STEWS) – A Security Tool for Enumerating WebSockets
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
@@ -1763,6 +1801,15 @@
 
 ## Rust
 
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) – Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data. 
+- [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
+- [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
+- [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
+- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
+- [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Transparent and flexible L4/L7 networking manager, supporting WireGuard, firewall and scripted MitM.
+- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
+- [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard proxy in Rust
+- [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
@@ -1939,6 +1986,11 @@
 
 ## Shell
 
+- [srvrco/getssl](https://github.com/srvrco/getssl) – obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers. 
+- [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) – Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
+- [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel. Runs in unprivileged containers
+- [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
+- [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) – Fetches system/theme information in terminal for Linux desktop screenshots.
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) – 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
@@ -2257,6 +2309,7 @@
 - [dvlden/ps-awake](https://github.com/dvlden/ps-awake) – Keep PlanetScale database awake on free tier...
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) – A small web app for watching movies and shows easily
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
+- [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [snyk/cli](https://github.com/snyk/cli) – Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
