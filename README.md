@@ -331,6 +331,10 @@
 
 ## Go
 
+- [Aryanstha/GoSubSeeker](https://github.com/Aryanstha/GoSubSeeker)
+- [Aryanstha/Go-for-Pentester](https://github.com/Aryanstha/Go-for-Pentester)
+- [martinlindhe/validini](https://github.com/martinlindhe/validini) – Command line tool to validate INI syntax of input file.
+- [martinlindhe/validtoml](https://github.com/martinlindhe/validtoml) – Command line tool to validate TOML syntax of input file.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
@@ -605,7 +609,7 @@
 - [edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools) – Little Bug Bounty & Hacking Tools⚔️
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) – Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) – ✂️ Removing CDN IPs from the list of IP addresses
-- [hktalent/scan4all](https://github.com/hktalent/scan4all) – Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) – Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) – A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
@@ -1129,6 +1133,8 @@
 
 ## Others
 
+- [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
+- [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
 - [devsdenepal/30-days-devops-revision](https://github.com/devsdenepal/30-days-devops-revision)
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
@@ -1816,6 +1822,12 @@
 
 ## Rust
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
+- [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
+- [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+- [copy/v86](https://github.com/copy/v86) – x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) – An extremely fast Python linter and code formatter, written in Rust.
 - [flox/flox](https://github.com/flox/flox) – Harness the power of Nix
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) – A fast, simple TUI for interacting with systemd services and their logs
@@ -2004,6 +2016,9 @@
 
 ## Shell
 
+- [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
+- [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
+- [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
 - [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🐲 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things
@@ -2017,7 +2032,7 @@
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [Magisk-Modules-Repo/nano-ndk](https://github.com/Magisk-Modules-Repo/nano-ndk) – nano-ndk
-- [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 compiled binaries to install via hysp
+- [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp; powered by @Azathothas/Toolpacks
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
 - [VHSgunzo/gawk-static](https://github.com/VHSgunzo/gawk-static) – Statically compiled gawk with musl
 - [VHSgunzo/grep-static](https://github.com/VHSgunzo/grep-static) – Statically compiled grep with musl
@@ -2180,7 +2195,7 @@
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
-- [hktalent/TOP](https://github.com/hktalent/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
+- [GhostTroops/TOP](https://github.com/GhostTroops/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
