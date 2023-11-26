@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Autoit](#autoit)
 - [Batchfile](#batchfile)
 - [Blitzbasic](#blitzbasic)
@@ -59,6 +60,13 @@
 - [Zig](#zig)
 
 
+<div id="assembly"></div>
+
+## Assembly
+
+- [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) – the official Rust and C implementations of the BLAKE3 cryptographic hash function
+
 <div id="autoit"></div>
 
 ## Autoit
@@ -86,6 +94,8 @@
 
 ## C
 
+- [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
+- [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
@@ -161,7 +171,6 @@
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [torvalds/linux](https://github.com/torvalds/linux) – Linux kernel source tree
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
-- [CoolerVoid/codewarrior](https://github.com/CoolerVoid/codewarrior) – code-searching tool and static code analysis - Beta
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) – Global Proxy for Android
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
@@ -331,6 +340,9 @@
 
 ## Go
 
+- [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
+- [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [Aryanstha/GoSubSeeker](https://github.com/Aryanstha/GoSubSeeker)
 - [Aryanstha/Go-for-Pentester](https://github.com/Aryanstha/Go-for-Pentester)
 - [martinlindhe/validini](https://github.com/martinlindhe/validini) – Command line tool to validate INI syntax of input file.
@@ -557,7 +569,6 @@
 - [hakluke/hakaxfr](https://github.com/hakluke/hakaxfr) – Attempt zone transfers on domains
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [root4loot/ctlog](https://github.com/root4loot/ctlog) – Obtain domains from certificate transparency logs
-- [w3security/reconbot](https://github.com/w3security/reconbot)
 - [mmpx12/xenv](https://github.com/mmpx12/xenv) – Fast scanner for exposed env files
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
@@ -1135,7 +1146,6 @@
 
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
-- [devsdenepal/30-days-devops-revision](https://github.com/devsdenepal/30-days-devops-revision)
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
@@ -1169,8 +1179,6 @@
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
-- [rida1g9/Inventory_Runner](https://github.com/rida1g9/Inventory_Runner)
-- [nowmpoter/Inventory_Runners](https://github.com/nowmpoter/Inventory_Runners)
 - [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) – Community curated list of templates for the Certwatcher.
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
@@ -1424,6 +1432,7 @@
 
 ## Python
 
+- [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
@@ -1513,8 +1522,6 @@
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [mschwager/route-detect](https://github.com/mschwager/route-detect) – Find authentication (authn) and authorization (authz) security bugs in web application routes.
-- [Bardiafa/Proxy-Leecher](https://github.com/Bardiafa/Proxy-Leecher) – 🔎🌐Proxy-Scraper: Best Free Auto-updated HTTP proxy list Every 10 Minutes More than 65K Fresh Proxies.  🔥💣
-- [Bardiafa/Proxy-Checker](https://github.com/Bardiafa/Proxy-Checker) – 🕵️‍♂️Proxy Checker: Your go-to Python script for effortlessly verifying and saving working proxies to a good.txt file. Say goodbye to inefficiencies and hello to productivity!
 - [Z3NTL3/ufw-cloudflare](https://github.com/Z3NTL3/ufw-cloudflare) – Automated script which blocks all incoming requests and only accepts Cloudflare IPs
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) – Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
 - [albertodonato/sshoot](https://github.com/albertodonato/sshoot) – Manage sshuttle VPN sessions
@@ -1822,6 +1829,17 @@
 
 ## Rust
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
+- [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
+- [uutils/platform-info](https://github.com/uutils/platform-info) – A cross-platform way to get information about your machine
+- [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
+- [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
+- [brocode/fblog](https://github.com/brocode/fblog) – Small command-line JSON Log viewer
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
+- [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+- [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible DVCS that is both simple and powerful
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
@@ -1844,7 +1862,7 @@
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
-- [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager for the *nix operating system
+- [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
@@ -2032,7 +2050,7 @@
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [Magisk-Modules-Repo/nano-ndk](https://github.com/Magisk-Modules-Repo/nano-ndk) – nano-ndk
-- [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp; powered by @Azathothas/Toolpacks
+- [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
 - [VHSgunzo/gawk-static](https://github.com/VHSgunzo/gawk-static) – Statically compiled gawk with musl
 - [VHSgunzo/grep-static](https://github.com/VHSgunzo/grep-static) – Statically compiled grep with musl
@@ -2041,7 +2059,7 @@
 - [VHSgunzo/which-static](https://github.com/VHSgunzo/which-static) – Statically compiled which with musl
 - [VHSgunzo/findutils-static](https://github.com/VHSgunzo/findutils-static) – Statically compiled findutils with musl
 - [VHSgunzo/xz-static](https://github.com/VHSgunzo/xz-static) – Statically compiled xz with musl
-- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Statically Compiled Linux Binaries for [CoreUtils | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]
+- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Statically Compiled Linux Binaries for [CoreUtils | Dropbear | Git | kmod | Nmap | OpenSSH | Procps | Socat | Strace | TCPDump | Util-Linux | xz-utils]
 - [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
 - [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
@@ -2146,6 +2164,7 @@
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
+- [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
 - [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
