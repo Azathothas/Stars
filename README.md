@@ -102,7 +102,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
-- [codedsprit/dotfiles](https://github.com/codedsprit/dotfiles) – 🐰 My artix configs with suckless utilities
+- [codedsprit/charmlinux](https://github.com/codedsprit/charmlinux) – 🐰 My artix configs with suckless utilities
 - [jamesyoungman/findutils](https://github.com/jamesyoungman/findutils) – GNU findutils - periodically synced from git.savannah.gnu.org
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written in C.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPUs process monitoring for AMD, Intel and NVIDIA 
@@ -340,6 +340,11 @@
 
 ## Go
 
+- [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
+- [mum4k/termdash](https://github.com/mum4k/termdash) – Terminal based dashboard.
+- [fhs/gig](https://github.com/fhs/gig) – Git command implemented in pure Go
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
@@ -590,7 +595,7 @@
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [sampointer/digaws](https://github.com/sampointer/digaws) – Look up region and other information for any AWS IP address
 - [dwisiswant0/siml](https://github.com/dwisiswant0/siml) – siml is a CLI tool for discovering similar, related to, competitive, or alternative options to a given site.
-- [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – A Public Git repository & misconfiguration detection tool
+- [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [mux0x/mongoConnect](https://github.com/mux0x/mongoConnect)
 - [mux0x/github-guard](https://github.com/mux0x/github-guard)
 - [m3n0sd0n4ld/uCVE](https://github.com/m3n0sd0n4ld/uCVE) – uCVE is a tool written in GO that allows to extract CVE's related to a specific software and version, obtaining a report in HTML format with the result and/or exporting it to the pentesting report.
@@ -920,6 +925,7 @@
 
 ## JavaScript
 
+- [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
 - [macbre/phantomas](https://github.com/macbre/phantomas) – Headless Chromium-based web performance metrics collector and monitoring tool
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
@@ -1432,6 +1438,7 @@
 
 ## Python
 
+- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) – Produce redistributable builds of Python
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
@@ -1609,7 +1616,7 @@
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) – Unleash the power of cloud
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) – Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [Ophion-Security/public-scanners](https://github.com/Ophion-Security/public-scanners) – Scripts to scan for specific technology vulnerabilities.
-- [praetorian-inc/gato](https://github.com/praetorian-inc/gato) – GitHub Self-Hosted Runner Enumeration and Attack Tool
+- [praetorian-inc/gato](https://github.com/praetorian-inc/gato) – GitHub Actions Pipeline Enumeration and Attack Tool
 - [dwisiswant0/secpat2gf](https://github.com/dwisiswant0/secpat2gf) – convert secret patterns to gf compatible.
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
@@ -1829,6 +1836,9 @@
 
 ## Rust
 
+- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) – An Experimental Package Management Solution for Python
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
 - [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
@@ -2034,6 +2044,8 @@
 
 ## Shell
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
+- [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
@@ -2164,7 +2176,6 @@
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
-- [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
 - [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
@@ -2342,6 +2353,7 @@
 
 ## TypeScript
 
+- [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles and packages with ease. Define your $HOME as Code  💻 🚀 ✨
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
