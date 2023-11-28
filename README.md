@@ -21,6 +21,7 @@
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Hcl](#hcl)
+- [Holyc](#holyc)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -94,6 +95,9 @@
 
 ## C
 
+- [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
+- [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
+- [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
@@ -217,6 +221,7 @@
 
 ## C++
 
+- [directvt/vtm](https://github.com/directvt/vtm) – virtual terminal multiplexer
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [zerotier/pylon](https://github.com/zerotier/pylon) – Layer 5 proxy over ZeroTier
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
@@ -313,6 +318,8 @@
 
 ## Dockerfile
 
+- [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
+- [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) – Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 - [2moe/build-container](https://github.com/2moe/build-container)
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v13+ providing needed environment and toolchain for building Android artifacts
@@ -340,6 +347,24 @@
 
 ## Go
 
+- [txn2/txeh](https://github.com/txn2/txeh) – Go library and CLI utility for /etc/hosts management.
+- [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
+- [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
+- [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
+- [noborus/ov](https://github.com/noborus/ov) – 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
+- [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported in vendor-based Go, module-based Go, and bazel with Starlark.
+- [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
+- [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
+- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
+- [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
+- [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [containers/skopeo](https://github.com/containers/skopeo) – Work with remote images registries - retrieving information, images, signing content
+- [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
+- [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
+- [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) – Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
@@ -838,6 +863,12 @@
 - [pumasecurity/serverless-prey](https://github.com/pumasecurity/serverless-prey) – Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions
 - [nccgroup/cowcloud](https://github.com/nccgroup/cowcloud)
 
+<div id="holyc"></div>
+
+## Holyc
+
+- [Zeal-Operating-System/ZealOS](https://github.com/Zeal-Operating-System/ZealOS) – The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.
+
 <div id="java"></div>
 
 ## Java
@@ -1027,6 +1058,7 @@
 
 ## Kotlin
 
+- [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
@@ -1044,7 +1076,7 @@
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) – Share your VPN connection over hotspot or repeater! (root required)
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
-- [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 and 13.
@@ -1150,6 +1182,7 @@
 
 ## Others
 
+- [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
@@ -1397,6 +1430,7 @@
 
 ## Perl
 
+- [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
 - [pmqs/zipdetails](https://github.com/pmqs/zipdetails) – zipdetails - Display details about the internal structure of Zip files.
 - [htrgouvea/nozaki](https://github.com/htrgouvea/nozaki) – HTTP fuzzer engine security oriented
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) – Rip web accessible (distributed) version control systems: SVN/GIT/HG...
@@ -1438,6 +1472,7 @@
 
 ## Python
 
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – 🐧 A list of awesome Linux softwares 
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) – Produce redistributable builds of Python
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
@@ -1836,6 +1871,11 @@
 
 ## Rust
 
+- [queer/atsi](https://github.com/queer/atsi) – instant rootless Alpine shells
+- [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
+- [queer/boxxy](https://github.com/queer/boxxy) – boxxy puts bad Linux applications in a box with only their files.
+- [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
+- [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) – An Experimental Package Management Solution for Python
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
@@ -2044,6 +2084,11 @@
 
 ## Shell
 
+- [ajdiaz/bashc](https://github.com/ajdiaz/bashc) – A tool to convert/compile a bash script to a static linked x86 and x86_64 binary.
+- [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) – s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+- [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
@@ -2322,6 +2367,7 @@
 
 ## Starlark
 
+- [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) – Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
 <div id="svelte"></div>
@@ -2443,6 +2489,7 @@
 
 ## Zig
 
+- [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 ## License
 
