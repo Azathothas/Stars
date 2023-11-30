@@ -95,6 +95,7 @@
 
 ## C
 
+- [ish-app/ish](https://github.com/ish-app/ish) – Linux shell for iOS
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
@@ -353,6 +354,11 @@
 
 ## Go
 
+- [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
+- [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
+- [stateful/runme](https://github.com/stateful/runme) – Execute your runbooks, docs, and READMEs.
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) – A TUI playground to experiment with jq
+- [fipso/cntui](https://github.com/fipso/cntui) – Replay chrome requests from your terminal using curl
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
@@ -1499,6 +1505,7 @@
 
 ## Python
 
+- [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) – The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) – Terminal-based CPU stress and monitoring utility
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) – A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -1517,6 +1524,7 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) – pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
+- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
@@ -1901,6 +1909,14 @@
 
 ## Rust
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
+- [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for Windows, macOS and Linux.
+- [sigoden/argc](https://github.com/sigoden/argc) – Easily create and use cli based on bash script
+- [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
+- [EdJoPaTo/ip-changed-telegram-message](https://github.com/EdJoPaTo/ip-changed-telegram-message) – Send a Telegram message when the public IP address changes
+- [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
+- [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) – Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [replydev/cotp](https://github.com/replydev/cotp) – Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
@@ -2123,6 +2139,12 @@
 
 ## Shell
 
+- [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager
+- [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) – `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+- [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
+- [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) – Simplified and community-driven man pages
+- [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
+- [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 - [docsion/rfsh](https://github.com/docsion/rfsh) – RFSH: Run shell scripts in batch, concurrently, fully customized with variable .
 - [ajdiaz/bashc](https://github.com/ajdiaz/bashc) – A tool to convert/compile a bash script to a static linked x86 and x86_64 binary.
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
@@ -2161,14 +2183,13 @@
 - [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
 - [franckferman/fix_wsl2_networking](https://github.com/franckferman/fix_wsl2_networking) – Solve connection problems related to WSL2. 
-- [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
+- [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (我B站 https://space.bilibili.com/2123686105 ) 
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
-- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [Magisk-Modules-Repo/ccbins](https://github.com/Magisk-Modules-Repo/ccbins)
 - [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) – ssh
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
@@ -2493,6 +2514,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
