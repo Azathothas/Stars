@@ -1240,7 +1240,7 @@
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
-- [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 pwnwriter's notes
+- [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
@@ -1552,7 +1552,6 @@
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) – pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
-- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
@@ -2225,6 +2224,7 @@
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
+- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [Magisk-Modules-Repo/ccbins](https://github.com/Magisk-Modules-Repo/ccbins)
 - [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) – ssh
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
