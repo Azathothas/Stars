@@ -95,6 +95,7 @@
 
 ## C
 
+- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [ish-app/ish](https://github.com/ish-app/ish) – Linux shell for iOS
@@ -228,6 +229,8 @@
 
 ## C++
 
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
+- [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [directvt/vtm](https://github.com/directvt/vtm) – virtual terminal multiplexer
@@ -358,6 +361,24 @@
 
 ## Go
 
+- [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
+- [securego/gosec](https://github.com/securego/gosec) – Go security checker
+- [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
+- [TheYahya/enola](https://github.com/TheYahya/enola) – This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
+- [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
+- [s0rg/decompose](https://github.com/s0rg/decompose) – Reverse-engineering tool for docker environments
+- [s0rg/crawley](https://github.com/s0rg/crawley) – The unix-way web crawler
+- [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [ameshkov/dnscrypt](https://github.com/ameshkov/dnscrypt) – DNSCrypt v2 protocol implementation + a command-line tool
+- [ameshkov/godnsbench](https://github.com/ameshkov/godnsbench) – Simple DNS bench util that supports encrypted protocols.
+- [ameshkov/gocurl](https://github.com/ameshkov/gocurl) – Simplified version of curl written in pure Go
+- [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
+- [containers/podman-tui](https://github.com/containers/podman-tui) – Podman Terminal UI
+- [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
+- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
+- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
+- [k1LoW/runn](https://github.com/k1LoW/runn) – runn is a package/tool for running operations following a scenario.
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) – SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 - [peak/s5cmd](https://github.com/peak/s5cmd) – Parallel S3 and local filesystem execution tool.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
@@ -930,7 +951,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [ukanth/afwall](https://github.com/ukanth/afwall) – AFWall+ (Android Firewall +) - iptables based firewall for Android 
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.  
 - [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux)
 - [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) – ConnectBot is the first SSH client for Android.
@@ -1111,7 +1132,6 @@
 
 ## Kotlin
 
-- [bmax121/APatch](https://github.com/bmax121/APatch) – Patching, hooking, and rooting the Android kernel using only a stripped Linux kernel image.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
@@ -1236,12 +1256,14 @@
 
 ## Others
 
+- [rui314/setup-mold](https://github.com/rui314/setup-mold) – A GitHub Action to install the mold linker
 - [stal-ix/stal-ix.github.io](https://github.com/stal-ix/stal-ix.github.io) – landing page
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
+- [bmax121/APatch](https://github.com/bmax121/APatch) – Patching, hooking, and rooting the Android kernel using only a stripped Linux kernel image.
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
@@ -1335,7 +1357,7 @@
 - [trickest/zip](https://github.com/trickest/zip) – Monitoring the internet for new .zip domains
 - [trickest/cloud](https://github.com/trickest/cloud) – Monitoring the Cloud Landscape
 - [ex16x41/bugbounty](https://github.com/ex16x41/bugbounty) – always updating
-- [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) – Awesome list dedicated to Windows Subsystem for Linux
+- [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) – Awesome list dedicated to Windows Subsystem for Linux
 - [teamssix/awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) – awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [freefq/free](https://github.com/freefq/free) – 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -1936,6 +1958,17 @@
 
 ## Rust
 
+- [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
+- [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
+- [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
+- [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
+- [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
+- [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) – ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [lotabout/skim](https://github.com/lotabout/skim) – Fuzzy Finder in rust!
+- [wfxr/csview](https://github.com/wfxr/csview) – 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
+- [o8vm/octox](https://github.com/o8vm/octox) – Unix-like OS in Rust inspired by xv6-riscv
+- [eza-community/eza](https://github.com/eza-community/eza) – A modern, maintained replacement for ls
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) – A terminal slideshow tool
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
@@ -2169,6 +2202,7 @@
 
 ## Shell
 
+- [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [moovweb/gvm](https://github.com/moovweb/gvm) – Go Version Manager
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
