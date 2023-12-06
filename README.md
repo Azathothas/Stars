@@ -95,6 +95,9 @@
 
 ## C
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
+- [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
@@ -229,6 +232,7 @@
 
 ## C++
 
+- [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
@@ -305,7 +309,7 @@
 
 ## Crystal
 
-- [noir-cr/noir](https://github.com/noir-cr/noir) – ♠️ Noir is an attack surface detector that identifies endpoints by static analysis.
+- [noir-cr/noir](https://github.com/noir-cr/noir) – Attack surface detector that identifies endpoints by static analysis
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 
@@ -336,7 +340,7 @@
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) – Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 - [2moe/build-container](https://github.com/2moe/build-container)
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
-- [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v13+ providing needed environment and toolchain for building Android artifacts
+- [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
@@ -361,6 +365,14 @@
 
 ## Go
 
+- [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
+- [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
+- [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
+- [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) – This project aims to be a drop-in replacement for the official certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
+- [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, with a focus on running containers
+- [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) – Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
 - [securego/gosec](https://github.com/securego/gosec) – Go security checker
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
@@ -1256,6 +1268,8 @@
 
 ## Others
 
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
+- [bishalcpgn/terminal-shortcuts](https://github.com/bishalcpgn/terminal-shortcuts)
 - [rui314/setup-mold](https://github.com/rui314/setup-mold) – A GitHub Action to install the mold linker
 - [stal-ix/stal-ix.github.io](https://github.com/stal-ix/stal-ix.github.io) – landing page
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
@@ -1555,6 +1569,7 @@
 
 ## Python
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) – The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) – Terminal-based CPU stress and monitoring utility
@@ -1958,6 +1973,21 @@
 
 ## Rust
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [espanso/espanso](https://github.com/espanso/espanso) – Cross-platform Text Expander written in Rust
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
+- [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
+- [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
+- [ismaelgv/rnr](https://github.com/ismaelgv/rnr) – A command-line tool to batch rename files and directories
+- [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
+- [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
+- [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
+- [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
+- [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
+- [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
+- [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) – Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.
+- [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
