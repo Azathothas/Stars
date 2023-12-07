@@ -365,6 +365,10 @@
 
 ## Go
 
+- [Hackmanit/TInjA](https://github.com/Hackmanit/TInjA) – TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.
+- [Aryanstha/GoHTTPHasher](https://github.com/Aryanstha/GoHTTPHasher) – A lightweight Golang command-line tool designed to generate cryptographic hash values for HTTP headers.
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
+- [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
@@ -1306,7 +1310,7 @@
 - [nex-health/setup-twingate-windows](https://github.com/nex-health/setup-twingate-windows) – Setup Twingate headless client on Windows
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – Custom || Automated Curation & Collection of BugBounty Wordlists
+- [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
 - [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
@@ -1569,6 +1573,8 @@
 
 ## Python
 
+- [doyensec/GQLSpection](https://github.com/doyensec/GQLSpection) – GQLSpection - parses GraphQL introspection schema and generates possible queries
+- [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) – Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) – The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -1973,6 +1979,7 @@
 
 ## Rust
 
+- [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [espanso/espanso](https://github.com/espanso/espanso) – Cross-platform Text Expander written in Rust
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
@@ -2232,6 +2239,7 @@
 
 ## Shell
 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [moovweb/gvm](https://github.com/moovweb/gvm) – Go Version Manager
