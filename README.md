@@ -1293,7 +1293,7 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
-- [bmax121/APatch](https://github.com/bmax121/APatch) – Patching, hooking, and rooting the Android kernel using only a stripped Linux kernel image.
+- [bmax121/APatch](https://github.com/bmax121/APatch) – Patching, hooking, and rooting the Android using only a stripped kernel image.
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
