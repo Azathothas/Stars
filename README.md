@@ -95,6 +95,10 @@
 
 ## C
 
+- [irssi/irssi](https://github.com/irssi/irssi) – The client of the future
+- [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
@@ -233,6 +237,8 @@
 
 ## C++
 
+- [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+- [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
@@ -366,6 +372,30 @@
 
 ## Go
 
+- [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
+- [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
+- [sassoftware/relic](https://github.com/sassoftware/relic) – Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows
+- [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
+- [lxc/distrobuilder](https://github.com/lxc/distrobuilder) – System container image builder for LXC and Incus
+- [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) – Generate files from docker container meta-data
+- [go-acme/lego](https://github.com/go-acme/lego) – Let's Encrypt/ACME client and library written in Go
+- [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
+- [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
+- [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
+- [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) – Nix derivations as Dockerfiles (`docker build -f default.nix .`)
+- [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) – diff for Docker and OCI container images
+- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
+- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
+- [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) – The Havoc Framework.
+- [cloudflare/ipvs](https://github.com/cloudflare/ipvs) – Package ipvs allows you to manage Linux IPVS services and destinations
+- [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) – Cloudflare's RPKI Toolbox
+- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) – CFSSL: Cloudflare's PKI and TLS toolkit
+- [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
+- [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
+- [Static-Flow/gofingerprint](https://github.com/Static-Flow/gofingerprint) – GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
+- [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
+- [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
 - [mrusme/reader](https://github.com/mrusme/reader) – reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
@@ -1283,6 +1313,9 @@
 
 ## Others
 
+- [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) – Collection of methodology and test case for various web vulnerabilities.
+- [misterch0c/what_is_this_c2](https://github.com/misterch0c/what_is_this_c2) – For all these times you're asking yourself "what is this panel again?"
+- [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
 - [bishalcpgn/terminal-shortcuts](https://github.com/bishalcpgn/terminal-shortcuts)
@@ -1542,6 +1575,7 @@
 
 ## Perl
 
+- [sitaramc/gitolite](https://github.com/sitaramc/gitolite) – Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
 - [pmqs/zipdetails](https://github.com/pmqs/zipdetails) – zipdetails - Display details about the internal structure of Zip files.
 - [htrgouvea/nozaki](https://github.com/htrgouvea/nozaki) – HTTP fuzzer engine security oriented
@@ -1551,6 +1585,7 @@
 
 ## PowerShell
 
+- [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) – Red Teaming Tactics and Techniques
 - [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
 - [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
 - [IAL32/WSL2-Create-Distro](https://github.com/IAL32/WSL2-Create-Distro) – Creates a distro from a tarball and optionally adds a user to it
@@ -1992,6 +2027,29 @@
 
 ## Rust
 
+- [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
+- [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
+- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
+- [threathunters-io/laurel](https://github.com/threathunters-io/laurel) – Transform Linux Audit logs for SIEM usage
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) – A binary encoder / decoder implementation in Rust.
+- [sitkevij/hex](https://github.com/sitkevij/hex) – 🔮 Futuristic take on hexdump, made in Rust. 
+- [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
+- [rustne-kretser/noline](https://github.com/rustne-kretser/noline) – IO-agnostic line editor for embedded systems
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available 
+- [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
+- [ysf/anewer](https://github.com/ysf/anewer) – anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew
+- [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
+- [ruslashev/elfcat](https://github.com/ruslashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
+- [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) – Make it safe to serve untrusted SVG files
+- [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
+- [dswd/vpncloud](https://github.com/dswd/vpncloud) – Peer-to-peer VPN
+- [kpcyrd/sh4d0wup](https://github.com/kpcyrd/sh4d0wup) – Signing-key abuse and update exploitation framework
+- [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - reproducible builds
+- [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) – tcp connection hijacker, rust rewrite of shijack
+- [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
+- [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 p2p gossip network for update transparency, based on pgp 🥸
+- [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
+- [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) – Semi-automatic OSINT framework and package manager
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) – Shell into a virtualized linux, with your own tools 
@@ -2028,7 +2086,7 @@
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) – A TOML toolkit written in Rust
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for all OSs.
+- [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
 - [sigoden/argc](https://github.com/sigoden/argc) – Easily create and use cli that based on bashscript.
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
@@ -2256,6 +2314,11 @@
 
 ## Shell
 
+- [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
+- [CISOfy/lynis](https://github.com/CISOfy/lynis) – Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
+- [fosslinux/live-bootstrap](https://github.com/fosslinux/live-bootstrap) – Use of a Linux initramfs to fully automate the bootstrapping process
+- [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
