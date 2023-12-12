@@ -95,6 +95,7 @@
 
 ## C
 
+- [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
 - [irssi/irssi](https://github.com/irssi/irssi) – The client of the future
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
@@ -372,8 +373,21 @@
 
 ## Go
 
-- [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
+- [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
+- [larrabee/s3sync](https://github.com/larrabee/s3sync) – Really fast sync tool for S3
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+- [shadow1ng/fscan](https://github.com/shadow1ng/fscan) – 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+- [sairash/chitosocket](https://github.com/sairash/chitosocket) – ChitoSocket - The best Socket Server
+- [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
+- [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
+- [mrusme/cloudcash](https://github.com/mrusme/cloudcash) – Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
+- [mrusme/shell-time](https://github.com/mrusme/shell-time) – Screen Time, but for the Shell!
+- [mrusme/cexec](https://github.com/mrusme/cexec) – Execute any command, cache its output and get cached output on subsequent execution
+- [mrusme/wth](https://github.com/mrusme/wth) – What The Heck: The better personal information dashboard for your terminal
+- [mrusme/planor](https://github.com/mrusme/planor) – The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
 - [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
+- [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
 - [sassoftware/relic](https://github.com/sassoftware/relic) – Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows
 - [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) – System container image builder for LXC and Incus
@@ -1171,6 +1185,7 @@
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
 
 <div id="jupyter-notebook"></div>
@@ -1313,6 +1328,7 @@
 
 ## Others
 
+- [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
 - [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) – Collection of methodology and test case for various web vulnerabilities.
 - [misterch0c/what_is_this_c2](https://github.com/misterch0c/what_is_this_c2) – For all these times you're asking yourself "what is this panel again?"
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
@@ -1619,6 +1635,7 @@
 
 ## Python
 
+- [Ademking/repolist](https://github.com/Ademking/repolist) – Generate wordlists from Github repositories
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) – The official client for seashells.io 🐚
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) – Run TUIs and terminals in your browser
 - [doyensec/GQLSpection](https://github.com/doyensec/GQLSpection) – GQLSpection - parses GraphQL introspection schema and generates possible queries
@@ -2027,6 +2044,11 @@
 
 ## Rust
 
+- [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
+- [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
+- [tarkah/tickrs](https://github.com/tarkah/tickrs) – Realtime ticker data in your terminal 📈
+- [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meliemail.org/meli/meli.git https://crates.io/crates/meli
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
@@ -2314,6 +2336,7 @@
 
 ## Shell
 
+- [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) – Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
@@ -2647,6 +2670,7 @@
 
 ## TypeScript
 
+- [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles and packages with ease. Define your $HOME as Code  💻 🚀 ✨
@@ -2654,7 +2678,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - Zerotier Controller Web UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
@@ -2700,7 +2724,6 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 <div id="vala"></div>
