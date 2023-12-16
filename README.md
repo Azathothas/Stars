@@ -173,7 +173,7 @@
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
@@ -240,6 +240,7 @@
 
 ## C++
 
+- [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass APK Signatures Verify & Integrity Check using Reflection
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
@@ -377,6 +378,15 @@
 
 ## Go
 
+- [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) – Whatsapp Exploit to spoofing impersonate of reply message 
+- [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
+- [rsc/tmp](https://github.com/rsc/tmp) – /tmp
+- [rsc/unix](https://github.com/rsc/unix) – Old Unix programs running on modern computers.
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
+- [mosajjal/tcpshark](https://github.com/mosajjal/tcpshark) – Cross-Platform process-aware tcpdump
+- [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) – Passive DNS Capture and Monitoring Toolkit
+- [mosajjal/sniproxy](https://github.com/mosajjal/sniproxy) – SNI Proxy with Embedded DNS Server
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) – Sower is a cross-platform intelligent transparent proxy solution.
@@ -1325,6 +1335,7 @@
 
 ## Nix
 
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) – nix dotfiles for chilly people
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -1664,6 +1675,8 @@
 
 ## Python
 
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) – Hide your payload in DNS
 - [Ademking/repolist](https://github.com/Ademking/repolist) – Generate wordlists from Github repositories
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) – The official client for seashells.io 🐚
@@ -1718,7 +1731,7 @@
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
-- [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – frida-gadget is an automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
+- [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
@@ -2074,6 +2087,7 @@
 
 ## Rust
 
+- [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [twitchax/kord](https://github.com/twitchax/kord) – A music theory binary and library for Rust / JS.
 - [twitchax/rtz](https://github.com/twitchax/rtz) – A tool to easily work with timezone lookups via a binary, a library, or a server.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
@@ -2381,6 +2395,8 @@
 
 ## Shell
 
+- [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
+- [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
@@ -2526,7 +2542,7 @@
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) – 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
-- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 又一个一键重装脚本
+- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键重装 / 一键 dd / One-click Reinstall OS
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
@@ -2808,6 +2824,7 @@
 
 ## Zig
 
+- [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 ## License
