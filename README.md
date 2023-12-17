@@ -240,6 +240,7 @@
 
 ## C++
 
+- [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass APK Signatures Verify & Integrity Check using Reflection
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -540,7 +541,7 @@
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [mum4k/termdash](https://github.com/mum4k/termdash) – Terminal based dashboard.
 - [fhs/gig](https://github.com/fhs/gig) – Git command implemented in pure Go
@@ -1363,6 +1364,8 @@
 
 ## Others
 
+- [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Bangladesh 🇧🇩
+- [dtolnay/foreach](https://github.com/dtolnay/foreach)
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – Writeup/Solution for some OSCP Like machines
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
 - [hackerschoice/Toolpacks](https://github.com/hackerschoice/Toolpacks) – Statically Linked Binaries as Packaged Tools for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place
@@ -1675,6 +1678,7 @@
 
 ## Python
 
+- [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity)
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) – Hide your payload in DNS
@@ -2087,6 +2091,20 @@
 
 ## Rust
 
+- [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
+- [bruceadams/yj](https://github.com/bruceadams/yj) –  Command line tool that converts YAML to JSON 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) – Elegantly record your screen
+- [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
+- [konradsz/igrep](https://github.com/konradsz/igrep) – Interactive Grep
+- [insanitybit/cargo-sandbox](https://github.com/insanitybit/cargo-sandbox)
+- [facebook/buck2](https://github.com/facebook/buck2) – Build system, successor to Buck
+- [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) – A memory safe implementation of sudo and su.
+- [dtolnay/dircnt](https://github.com/dtolnay/dircnt) – Count directory entries—`ls | wc -l` but faster
+- [dtolnay/sha1dir](https://github.com/dtolnay/sha1dir) – Checksum of a directory tree
+- [dtolnay/build-alert](https://github.com/dtolnay/build-alert)
+- [dtolnay/faketty](https://github.com/dtolnay/faketty) – Wrapper to exec a command in a pty, even if redirecting the output
+- [dtolnay/star-history](https://github.com/dtolnay/star-history) – Graph history of GitHub stars of a user or repo over time
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [twitchax/kord](https://github.com/twitchax/kord) – A music theory binary and library for Rust / JS.
 - [twitchax/rtz](https://github.com/twitchax/rtz) – A tool to easily work with timezone lookups via a binary, a library, or a server.
@@ -2395,6 +2413,7 @@
 
 ## Shell
 
+- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
