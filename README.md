@@ -95,6 +95,7 @@
 
 ## C
 
+- [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 透明代理流量转为 socks5 的实用工具
 - [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect) – Tool to dynamicly redirect outputs of a running process
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
@@ -208,6 +209,7 @@
 
 ## C#
 
+- [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, support Xray core and v2fly core and others
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
@@ -240,6 +242,7 @@
 
 ## C++
 
+- [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass APK Signatures Verify & Integrity Check using Reflection
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
@@ -379,6 +382,9 @@
 
 ## Go
 
+- [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) – :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) – A user-space file system for interacting with Google Cloud Storage
 - [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) – Whatsapp Exploit to spoofing impersonate of reply message 
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
@@ -387,7 +393,7 @@
 - [mosajjal/tcpshark](https://github.com/mosajjal/tcpshark) – Cross-Platform process-aware tcpdump
 - [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) – Passive DNS Capture and Monitoring Toolkit
 - [mosajjal/sniproxy](https://github.com/mosajjal/sniproxy) – SNI Proxy with Embedded DNS Server
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) – Sower is a cross-platform intelligent transparent proxy solution.
@@ -1336,6 +1342,7 @@
 
 ## Nix
 
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) – nix dotfiles for chilly people
@@ -1364,9 +1371,10 @@
 
 ## Others
 
+- [RebootEx/CT-Dev](https://github.com/RebootEx/CT-Dev)
 - [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Bangladesh 🇧🇩
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
-- [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – Writeup/Solution for some OSCP Like machines
+- [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
 - [hackerschoice/Toolpacks](https://github.com/hackerschoice/Toolpacks) – Statically Linked Binaries as Packaged Tools for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place
 - [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
@@ -1626,6 +1634,7 @@
 
 ## Pascal
 
+- [PhrozenIO/win-brute-logon](https://github.com/PhrozenIO/win-brute-logon) – Crack any Microsoft Windows users password without any privilege (Guest account included)
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) – Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 
 <div id="perl"></div>
@@ -2413,6 +2422,7 @@
 
 ## Shell
 
+- [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
@@ -2569,7 +2579,7 @@
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) – Toolchains for ultra-portable static binaries
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
-- [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check if your VPS's IP is available for various OTT platforms
+- [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
@@ -2751,6 +2761,7 @@
 
 ## TypeScript
 
+- [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [rubiin/nfdl](https://github.com/rubiin/nfdl) – This cli automatically install your favorite nerd fonts right from the terminal
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
