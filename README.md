@@ -95,6 +95,7 @@
 
 ## C
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 透明代理流量转为 socks5 的实用工具
 - [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect) – Tool to dynamicly redirect outputs of a running process
@@ -128,7 +129,7 @@
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [codedsprit/charmlinux](https://github.com/codedsprit/charmlinux) – 🐰 My artix configs with suckless utilities
 - [jamesyoungman/findutils](https://github.com/jamesyoungman/findutils) – GNU findutils - periodically synced from git.savannah.gnu.org
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written mostly in C.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPUs process monitoring for AMD, Intel and NVIDIA 
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – 2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
@@ -242,6 +243,7 @@
 
 ## C++
 
+- [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass APK Signatures Verify & Integrity Check using Reflection
@@ -382,6 +384,19 @@
 
 ## Go
 
+- [mudler/yip](https://github.com/mudler/yip) –  :pushpin: Yaml Instructions Processor - Simply applies a cloud-init style yaml file to the system
+- [mudler/edgevpn](https://github.com/mudler/edgevpn) – :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+- [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager
+- [schachmat/wego](https://github.com/schachmat/wego) – weather app for the terminal
+- [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
+- [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) – The SSH directory ✨
+- [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
+- [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
+- [regmicmahesh/duckchatstallmaninspired](https://github.com/regmicmahesh/duckchatstallmaninspired)
+- [lanrat/certgraph](https://github.com/lanrat/certgraph) – An open source intelligence tool to crawl the graph of certificate Alternate Names
+- [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
 - [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) – :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) – A user-space file system for interacting with Google Cloud Storage
@@ -1056,6 +1071,7 @@
 
 ## Java
 
+- [green-green-avk/AnotherTerm](https://github.com/green-green-avk/AnotherTerm) – Local PTY, USB and Bluetooth serial ports, SSH and Telnet terminal client for Android. Xwayland support (in dev only).
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
@@ -1336,6 +1352,7 @@
 
 ## Nim
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 
 <div id="nix"></div>
@@ -1371,6 +1388,8 @@
 
 ## Others
 
+- [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) – Stop relying on GUI; CLI **ROCKS**
+- [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
 - [RebootEx/CT-Dev](https://github.com/RebootEx/CT-Dev)
 - [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Bangladesh 🇧🇩
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
@@ -1687,6 +1706,7 @@
 
 ## Python
 
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – Web application for Freedium.cfd
 - [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity)
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
@@ -2100,6 +2120,11 @@
 
 ## Rust
 
+- [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
+- [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
+- [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
+- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [bruceadams/yj](https://github.com/bruceadams/yj) –  Command line tool that converts YAML to JSON 
@@ -2422,6 +2447,16 @@
 
 ## Shell
 
+- [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
+- [tclahr/uac](https://github.com/tclahr/uac) – UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
+- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) – Easy to use unprivileged Linux container packed into a single portable executable
+- [iglunix/rust-bootstrap](https://github.com/iglunix/rust-bootstrap) – Scripts for bootstrapping LLVM/Musl rust from GNU/Musl official builds
+- [iglunix/iglunix](https://github.com/iglunix/iglunix) – Linux (and other kernels) distro with no GNU components
+- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
+- [CaffeineDuck/Balderdash](https://github.com/CaffeineDuck/Balderdash) – Bathe your code in ganga jaal.
+- [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
+- [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
@@ -2729,6 +2764,7 @@
 
 ## Starlark
 
+- [tempoz/cosmo_cc_bazel_toolchain](https://github.com/tempoz/cosmo_cc_bazel_toolchain) – Bazel toolchain that is backed by cosmopolitan
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) – Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 
@@ -2761,6 +2797,7 @@
 
 ## TypeScript
 
+- [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [rubiin/nfdl](https://github.com/rubiin/nfdl) – This cli automatically install your favorite nerd fonts right from the terminal
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
