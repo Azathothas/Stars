@@ -659,7 +659,7 @@
 - [mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots) – Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
-- [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – raw html extractor from Hurricane Electric portal
+- [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – A suite for hunting suspicious targets, expose domains and phishing discovery
 - [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
@@ -1640,7 +1640,7 @@
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -> https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Serhatcck/vulnsocket](https://github.com/Serhatcck/vulnsocket) – Vulnerable Web Socket-Web Site
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
@@ -2366,7 +2366,7 @@
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [BugBlocker/lotus](https://github.com/BugBlocker/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
-- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and a lot More From Text
+- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [ethicalhackingplayground/aem-eye](https://github.com/ethicalhackingplayground/aem-eye) – A very simple AEM detector written in rust.🦀
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
