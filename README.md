@@ -384,6 +384,7 @@
 
 ## Go
 
+- [FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound) – FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool. 
 - [mudler/yip](https://github.com/mudler/yip) –  :pushpin: Yaml Instructions Processor - Simply applies a cloud-init style yaml file to the system
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) – :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager
@@ -1319,7 +1320,7 @@
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
-- [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neovim, the k1ss way 
+- [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neo(vim), the less is more.
 
 <div id="makefile"></div>
 
@@ -1388,6 +1389,7 @@
 
 ## Others
 
+- [birajkarki/birajkarki](https://github.com/birajkarki/birajkarki) – My personal repository
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) – Stop relying on GUI; CLI **ROCKS**
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
 - [RebootEx/CT-Dev](https://github.com/RebootEx/CT-Dev)
@@ -2120,6 +2122,8 @@
 
 ## Rust
 
+- [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
+- [resyncgg/ripgen](https://github.com/resyncgg/ripgen) – Rust-based high performance domain permutation generator.
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
@@ -2805,7 +2809,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles and packages with ease. Define your $HOME as Code  💻 🚀 ✨
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
