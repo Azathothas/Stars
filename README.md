@@ -1228,7 +1228,7 @@
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) – Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
 - [0xbigshaq/firepwn-tool](https://github.com/0xbigshaq/firepwn-tool) – Firepwn is a tool made for testing the Security Rules of a firebase application. 
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) – Beautifier for javascript 
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts provided by the community - pull requests very welcome!
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
@@ -2273,7 +2273,7 @@
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Transparent and flexible L4/L7 networking manager, supporting WireGuard, firewall and scripted MitM.
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
-- [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard proxy in Rust
+- [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
@@ -2895,6 +2895,7 @@
 
 ## Zig
 
+- [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
