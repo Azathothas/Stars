@@ -95,6 +95,7 @@
 
 ## C
 
+- [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 透明代理流量转为 socks5 的实用工具
@@ -310,6 +311,7 @@
 
 ## CSS
 
+- [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 - [833M0L3/test](https://github.com/833M0L3/test)
@@ -384,6 +386,7 @@
 
 ## Go
 
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) – Programming framework for writing and deploying cloud applications.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [mxpv/podsync](https://github.com/mxpv/podsync) – Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -1266,6 +1269,7 @@
 
 ## Kotlin
 
+- [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
@@ -1395,6 +1399,7 @@
 
 ## Others
 
+- [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [metis-os/metis-hypr](https://github.com/metis-os/metis-hypr) – 🍦 Hyprland window manager for metislinux
 - [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
 - [birajkarki/birajkarki](https://github.com/birajkarki/birajkarki) – My personal repository
@@ -2461,6 +2466,7 @@
 
 ## Shell
 
+- [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) – a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
