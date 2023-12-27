@@ -244,6 +244,7 @@
 
 ## C++
 
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) – Telegram Desktop messaging app
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
@@ -256,7 +257,7 @@
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
-- [directvt/vtm](https://github.com/directvt/vtm) – virtual terminal multiplexer
+- [directvt/vtm](https://github.com/directvt/vtm) – Text mode desktop
 - [flox/flox](https://github.com/flox/flox) – Developer environments you can take with you
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [zerotier/pylon](https://github.com/zerotier/pylon) – Layer 5 proxy over ZeroTier
@@ -1399,6 +1400,8 @@
 
 ## Others
 
+- [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+- [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) – Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [metis-os/metis-hypr](https://github.com/metis-os/metis-hypr) – 🍦 Hyprland window manager for metislinux
 - [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
@@ -1591,7 +1594,7 @@
 - [h33tlit/secret-regex-list](https://github.com/h33tlit/secret-regex-list) – List of regex for scraping secret API keys and juicy information.
 - [hAPI-hacker/Hacking-APIs](https://github.com/hAPI-hacker/Hacking-APIs)
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
-- [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application. All application listed on play store. https://play.google.com/store/apps/details?id=hpandro.android.security
+- [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application.
 - [Iir00d/low_hanging_fruit_list](https://github.com/Iir00d/low_hanging_fruit_list)
 - [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) – The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) – Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
@@ -2915,6 +2918,7 @@
 
 ## Zig
 
+- [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
