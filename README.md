@@ -1280,7 +1280,7 @@
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) – Android permission explorer 🧑‍✈️
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) – An Android Storage Access Framework document provider for rclone
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser powered by ubuntu without root access and termux.
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "Army Knife browser" in android
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
@@ -1400,6 +1400,7 @@
 
 ## Others
 
+- [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) – Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
@@ -1437,7 +1438,7 @@
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [mrp-yt/termux_ssh](https://github.com/mrp-yt/termux_ssh) – Short guide on how to connect to Termux SSH from anywhere while using TailScale as connection link. 
-- [user-why-red/san_gcc_toolchain_arm](https://github.com/user-why-red/san_gcc_toolchain_arm) – A upto-date GCC toolchain for aarch64/aarch32 host machine which targets aarch64,aarch32,x86_64 architectures.(A bare-metal toolchain optimized with LTO and O3 for optimum perfomance in linux kernel development)
+- [user-why-red/san_gcc_toolchain_arm](https://github.com/user-why-red/san_gcc_toolchain_arm) – A upto-date GCC toolchain for aarch64/aarch32 host machine which targets aarch64,aarch32,x86_64 architectures.(A bare-metal toolchain optimized with LTO for optimum perfomance in linux kernel development)
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [sanwebinfo/my-termux-setup](https://github.com/sanwebinfo/my-termux-setup) – Here is My Termux Terminal Emulator Setup & Packages
@@ -2138,6 +2139,7 @@
 
 ## Rust
 
+- [br0kej/bin2ml](https://github.com/br0kej/bin2ml) – A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [numtide/system-manager](https://github.com/numtide/system-manager) – Manage system config using nix on any distro
 - [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
@@ -2469,6 +2471,7 @@
 
 ## Shell
 
+- [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) – a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
