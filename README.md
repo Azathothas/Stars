@@ -95,6 +95,7 @@
 
 ## C
 
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
@@ -140,7 +141,7 @@
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
-- [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application. Still in early development.
+- [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
@@ -387,6 +388,7 @@
 
 ## Go
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) – Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
 - [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine 
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) – Programming framework for writing and deploying cloud applications.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
@@ -1273,6 +1275,7 @@
 
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
+- [bmax121/APatch](https://github.com/bmax121/APatch) – The patching of Android kernel and Android system
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
@@ -1430,7 +1433,6 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
-- [bmax121/APatch](https://github.com/bmax121/APatch) – Patching, hooking, and rooting the Android using only a stripped kernel image.
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
@@ -2674,7 +2676,7 @@
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
-- [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo)
+- [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | POWERSHELL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
 - [xhilmi/google-cloud](https://github.com/xhilmi/google-cloud) – Are you a GCP user? This will help u to simplify using GCP. This repo have a Based Setting to Allow Remote SSH, Setting Load Balancing, Setting Cloud DNS, and .etc
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
