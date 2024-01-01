@@ -173,6 +173,7 @@
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
@@ -2044,7 +2045,7 @@
 - [s0md3v/uro](https://github.com/s0md3v/uro) – declutters url lists for crawling/pentesting
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
-- [saw-your-packet/EC2StepShell](https://github.com/saw-your-packet/EC2StepShell)
+- [saw-your-packet/EC2StepShell](https://github.com/saw-your-packet/EC2StepShell) – EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Automate your API Testing: catch crashes, validate specs, and save time
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
@@ -2716,7 +2717,7 @@
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
-- [pwnwriter/chadrice](https://github.com/pwnwriter/chadrice) – 🍙 dotfiles
+- [pwnwriter/dotfiles](https://github.com/pwnwriter/dotfiles) – 🍙 dotfiles
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
