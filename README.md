@@ -1344,6 +1344,7 @@
 
 ## Makefile
 
+- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
@@ -1593,6 +1594,7 @@
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) – 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [osamahamad/payout-targets-data](https://github.com/osamahamad/payout-targets-data) – Provides public bug bounty programs in-scope data that offer rewards and monitors public bug bounty programs assets.
 - [osmedeus/osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) – Community Workflow for the Osmedeus Engine that describes basic reconnaissance methodology for you to build your own
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
@@ -1858,6 +1860,8 @@
 - [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [caronc/apprise](https://github.com/caronc/apprise) – Apprise - Push Notifications that work with just about every platform!
 - [castilho101/FuzzyGuard](https://github.com/castilho101/FuzzyGuard)
+- [casualsnek/cassowary](https://github.com/casualsnek/cassowary) – Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
+- [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) – Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
@@ -2289,6 +2293,7 @@
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
+- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
 - [immunant/c2rust](https://github.com/immunant/c2rust) – Migrate C code to Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
@@ -2570,7 +2575,6 @@
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
-- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [ajdiaz/bashc](https://github.com/ajdiaz/bashc) – A tool to convert/compile a bash script to a static linked x86 and x86_64 binary.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
@@ -2626,7 +2630,7 @@
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (也欢迎关注B站 https://space.bilibili.com/2123686105 ) 
-- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.0 For Termux , Version : 2.9.0 , Maintained
+- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.1 For Termux , Version : 2.9.1 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
