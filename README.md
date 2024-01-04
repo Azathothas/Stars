@@ -319,6 +319,7 @@
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
+- [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
@@ -590,7 +591,6 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [drfabiocastro/certwatcher](https://github.com/drfabiocastro/certwatcher) – CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL.
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) – An HTTP toolkit for security research.
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) – SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
@@ -832,6 +832,7 @@
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
+- [paololazzari/play](https://github.com/paololazzari/play) – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [patrickhener/gopwntomcat](https://github.com/patrickhener/gopwntomcat) – A little tomcat brute forcer and pwning tool
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design
@@ -1608,7 +1609,6 @@
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) – Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
-- [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) – Basics on commands/tools/info on how to assess the security of mobile applications
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [reswob10/HomeLabResources](https://github.com/reswob10/HomeLabResources) – List of resources for buiding a home lab
@@ -1876,6 +1876,7 @@
 - [cramppet/regulator](https://github.com/cramppet/regulator) – Automated learning of regexes for DNS discovery
 - [cryptax/droidlysis](https://github.com/cryptax/droidlysis) – Property extractor for Android apps
 - [cujanovic/SSRF-Testing](https://github.com/cujanovic/SSRF-Testing) – SSRF (Server Side Request Forgery) testing resources
+- [cve-search/git-vuln-finder](https://github.com/cve-search/git-vuln-finder) – Finding potential software vulnerabilities from git commit messages
 - [cyal1/fireproxycn](https://github.com/cyal1/fireproxycn) – Aliyun API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) – A tool to scan Kubernetes cluster for risky permissions
 - [cybervelia/graphicator](https://github.com/cybervelia/graphicator) – A GraphQL enumeration and extraction tool
@@ -1928,6 +1929,7 @@
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) – Natural language browser automation
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
+- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application.
 - [hoppersroppers/nightmare](https://github.com/hoppersroppers/nightmare)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -2501,6 +2503,7 @@
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
 - [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🐲 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
+- [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place
@@ -2570,6 +2573,7 @@
 - [VHSgunzo/util-linux-static](https://github.com/VHSgunzo/util-linux-static) – Statically compiled util-linux
 - [VHSgunzo/which-static](https://github.com/VHSgunzo/which-static) – Statically compiled which with musl
 - [VHSgunzo/xz-static](https://github.com/VHSgunzo/xz-static) – Statically compiled xz with musl
+- [VHSgunzo/zstd-static](https://github.com/VHSgunzo/zstd-static) – Statically compiled zstd with musl
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) – 🔐 Run frida-server on boot with Magisk, always up-to-date
