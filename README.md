@@ -2121,7 +2121,7 @@
 - [unkn0wnamd/ByteWizard](https://github.com/unkn0wnamd/ByteWizard)
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
-- [volitank/nala](https://github.com/volitank/nala) – a wrapper for the apt package manager.
+- [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
 - [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
