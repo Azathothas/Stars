@@ -106,7 +106,6 @@
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPUs process monitoring for AMD, Intel and NVIDIA 
-- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -127,11 +126,13 @@
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [curl/trurl](https://github.com/curl/trurl) – trurl is a command line tool for URL parsing and manipulation.
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
+- [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written mostly in C.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – 2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
@@ -168,6 +169,7 @@
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
+- [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
@@ -287,6 +289,7 @@
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
+- [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
@@ -353,7 +356,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
-- [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – SSH to any device with no ports open
+- [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no ports open
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
@@ -630,6 +633,7 @@
 - [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) – Finding XSS during recon
 - [ferreiraklet/nilo](https://github.com/ferreiraklet/nilo) – Responser 
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) – Fast web fuzzer written in Go
+- [ffuf/pencode](https://github.com/ffuf/pencode) – Complex payload encoder
 - [fhs/gig](https://github.com/fhs/gig) – Git command implemented in pure Go
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) – 💊 A git query language
 - [fipso/cntui](https://github.com/fipso/cntui) – Replay chrome requests from your terminal using curl
@@ -729,7 +733,6 @@
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
 - [kitabisa/teler](https://github.com/kitabisa/teler) – Real-time HTTP Intrusion Detection
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
@@ -1550,12 +1553,12 @@
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) – A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 - [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) – The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) – 🧛🏻‍♂️ One theme. All platforms.
-- [drfabiocastro/certwatcher-templates](https://github.com/drfabiocastro/certwatcher-templates) – Community curated list of templates for the Certwatcher.
 - [dsopas/MindAPI](https://github.com/dsopas/MindAPI) – Organize your API security assessment by using MindAPI. It's free and open for community collaboration.
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) – Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
+- [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
 - [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
 - [ex16x41/bugbounty](https://github.com/ex16x41/bugbounty) – always updating
@@ -1768,7 +1771,7 @@
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) – A certificate transparency log keyword sniffer written in python
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Ademking/repolist](https://github.com/Ademking/repolist) – Generate wordlists from Github repositories
-- [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne)
+- [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) – AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
@@ -1923,6 +1926,8 @@
 - [ejedev/web2shell](https://github.com/ejedev/web2shell) – Automate converting webshells into reverse shells.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) – Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [elceef/subzuf](https://github.com/elceef/subzuf) – a smart DNS response-guided subdomain fuzzer
+- [elliotwutingfeng/ThreatFox-IOC-IPs](https://github.com/elliotwutingfeng/ThreatFox-IOC-IPs) – Machine-readable .txt IP blocklist from ThreatFox by Abuse.ch, updated every hour.
+- [elliotwutingfeng/USOM-Blocklists](https://github.com/elliotwutingfeng/USOM-Blocklists) – Malicious URLs and IP Addresses compiled by USOM (Computer Emergency Response Team of Turkey), updated once a day.
 - [emadshanab/Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection) – Nuclei Templates Collection
 - [epinna/tplmap](https://github.com/epinna/tplmap) – Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [euske/pyrexecd](https://github.com/euske/pyrexecd) – Standalone SSH server for Windows
@@ -1977,6 +1982,7 @@
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) – CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [kljunowsky/XXElixir](https://github.com/kljunowsky/XXElixir) – This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files.
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) – Download music from Deezer with a nice front end
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) – Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
@@ -2305,6 +2311,7 @@
 - [dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz) – A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
+- [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available 
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
@@ -2588,6 +2595,7 @@
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
 - [SomajitDey/tunnel](https://github.com/SomajitDey/tunnel) – Peer-to-peer, secure, TCP/UDP port forwarding using HTTP(s) relay for NAT/firewall traversal
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
+- [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
 - [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
@@ -2905,7 +2913,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from GPT3 right from your terminal
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) – ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -2950,6 +2958,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Pipelines
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles and packages with ease. Define your $HOME as Code  💻 🚀 ✨
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
