@@ -356,7 +356,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
-- [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no ports open
+- [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no external listening ports open
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
@@ -718,7 +718,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) – Get up and running with Llama 2, Mistral, and other large language models locally.
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
@@ -1304,7 +1304,6 @@
 
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
-- [CarlosEsco/Neko](https://github.com/CarlosEsco/Neko) – Free, open source, unofficial MangaDex reader  for Android 
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 and 13.
@@ -1346,6 +1345,7 @@
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
 - [mukeshsolanki/Android-Tamper-Detector](https://github.com/mukeshsolanki/Android-Tamper-Detector) – A simple library that can help you detect if you app is modded or tampered with
 - [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) – An Android app to watch anime on your phone without ads.
+- [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) – Free, open source, unofficial MangaDex reader  for Android 
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
@@ -2194,7 +2194,7 @@
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [0x727/ObserverWard](https://github.com/0x727/ObserverWard) – Cross platform community web fingerprint identification tool
+- [0x727/ObserverWard](https://github.com/0x727/ObserverWard) – 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool 
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
