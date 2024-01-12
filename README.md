@@ -717,7 +717,7 @@
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...)
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
@@ -1086,6 +1086,7 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [trickest/cve](https://github.com/trickest/cve) – Gather and update all available and newest CVEs with their PoC.
+- [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [x0rb3l/Cyber-Bookmarks](https://github.com/x0rb3l/Cyber-Bookmarks) – A list of bookmarks I have used since I started my journey in cyber security
 
 <div id="haskell"></div>
@@ -1166,7 +1167,7 @@
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) – A tool for reverse engineering Android apk files
 - [irsdl/IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) – latest version of scanners for IIS short filename (8.3) disclosure vulnerability
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询，执行脚本语言等功能
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，自定义SQL查询
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
@@ -1421,6 +1422,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
+- [pwnwriter/nix-config](https://github.com/pwnwriter/nix-config) – ❄️ NixOS config :: dotfiles
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 
@@ -1722,6 +1724,7 @@
 
 ## Perl
 
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) – cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [htrgouvea/nozaki](https://github.com/htrgouvea/nozaki) – HTTP fuzzer engine security oriented
 - [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) – Rip web accessible (distributed) version control systems: SVN/GIT/HG...
@@ -1867,6 +1870,7 @@
 - [amalmurali47/onaws](https://github.com/amalmurali47/onaws) – Fetch the details of assets hosted on AWS.
 - [amalmurali47/swagroutes](https://github.com/amalmurali47/swagroutes) – swagroutes is a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format.
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) – Terminal-based CPU stress and monitoring utility
+- [ambionics/wrapwrap](https://github.com/ambionics/wrapwrap) – Generates a `php://filter` chain that adds a prefix and a suffix to the contents of a file.
 - [amodm/ip-lookup](https://github.com/amodm/ip-lookup) – Free IP details lookup service, based on Cloudflare Workers
 - [angr/angr](https://github.com/angr/angr) – A powerful and user-friendly binary analysis platform!
 - [anishathalye/seashells](https://github.com/anishathalye/seashells) – The official client for seashells.io 🐚
@@ -1880,7 +1884,7 @@
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) – Tools & Interesting Things for RedTeam Ops
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – OSINT automation for hackers.
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers.
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) – Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
@@ -2145,7 +2149,6 @@
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
-- [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) – 🚀 The best place to find icons for your dashboards.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) – Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -2559,7 +2562,6 @@
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) – Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [CaffeineDuck/Balderdash](https://github.com/CaffeineDuck/Balderdash) – Bathe your code in ganga jaal.
 - [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) – A library with useful Bash functions
-- [CloudCaptains/CloudCaptain](https://github.com/CloudCaptains/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
@@ -2767,6 +2769,7 @@
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
+- [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -2784,7 +2787,6 @@
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
-- [pwnwriter/dotfiles](https://github.com/pwnwriter/dotfiles) – 🍙 dotfiles
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
