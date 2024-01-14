@@ -1331,7 +1331,7 @@
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) – Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
-- [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android
+- [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MAL client
@@ -2477,6 +2477,7 @@
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
+- [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
