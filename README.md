@@ -442,6 +442,7 @@
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) – A user-space file system for interacting with Google Cloud Storage
 - [Hackmanit/TInjA](https://github.com/Hackmanit/TInjA) – TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) – Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
+- [HarshVaragiya/sslsearch](https://github.com/HarshVaragiya/sslsearch) – Hunt SSL Certificates for interesting keywords on major cloud service providers / internet
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) – The Havoc Framework.
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – A suite for hunting suspicious targets, expose domains and phishing discovery
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -717,7 +718,7 @@
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
@@ -2026,6 +2027,7 @@
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) – RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
+- [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
 - [moogar0880/PyTrakt](https://github.com/moogar0880/PyTrakt) – A Pythonic interface to the Trakt.tv REST API
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) – Cloudflare, Sucuri, Incapsula real IP tracker.
 - [mschwager/fierce](https://github.com/mschwager/fierce) – A DNS reconnaissance tool for locating non-contiguous IP space.
