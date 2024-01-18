@@ -212,6 +212,7 @@
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 透明代理流量转为 socks5 的实用工具
+- [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) – zlib replacement with optimizations for "next generation" systems.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 
 <div id="c#"></div>
@@ -279,7 +280,7 @@
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
-- [directvt/vtm](https://github.com/directvt/vtm) – Text mode desktop
+- [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -406,6 +407,7 @@
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
+- [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [Android-Guards/apk-extractor](https://github.com/Android-Guards/apk-extractor)
 - [Aryanstha/Go-for-Pentester](https://github.com/Aryanstha/Go-for-Pentester)
@@ -758,6 +760,7 @@
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) – Really fast sync tool for S3
 - [layou233/NeverIdle](https://github.com/layou233/NeverIdle) – 资源定期浪费，可用于 Oracle 甲骨文保活。
 - [lc/gau](https://github.com/lc/gau) – Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic) – EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
 - [liamg/traitor](https://github.com/liamg/traitor) – :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) – Whatsapp Exploit to spoofing impersonate of reply message 
@@ -1143,6 +1146,7 @@
 - [TacoTheDank/Scoop](https://github.com/TacoTheDank/Scoop) – [ADB/Root] Catches a stack trace when an app crashes unexpectedly.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) – Ad-Free, New Features & Freedom
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
+- [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1445,6 +1449,7 @@
 - [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
 - [0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [0xdabbad00/security_incidents_from_caching](https://github.com/0xdabbad00/security_incidents_from_caching) – Collection of incidents resulting from caching issues
+- [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) – Cybersecurity oriented awesome list
 - [0xtavian/awesome-attack-surface-monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [1ndianl33t/Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) – Bug Bounty Roadmaps
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
@@ -1591,7 +1596,7 @@
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
-- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
+- [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) – An anti detection version frida-server for android.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) – A collection of modern/faster/saner alternatives to common unix commands.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
@@ -1834,6 +1839,7 @@
 - [Peco602/findwall](https://github.com/Peco602/findwall) – Check if your provider is blocking you!
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) – The Network Execution Tool
 - [PortSwigger/request-minimizer](https://github.com/PortSwigger/request-minimizer)
+- [ProjectNull0/Firebase-exploit](https://github.com/ProjectNull0/Firebase-exploit) – Fast and customizable Firebase api and Project ID extractor .
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -2003,6 +2009,7 @@
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) – bypass-url-parser
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [leetCipher/bug-bounty-labs](https://github.com/leetCipher/bug-bounty-labs) – All the labs in this repository simulate real world bugs I found in the wild
+- [lemonlove7/dirsearch_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) – 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) – A `.git` folder disclosure exploit
 - [lijiejie/ds_store_exp](https://github.com/lijiejie/ds_store_exp) – A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads files recursively.
@@ -2025,6 +2032,7 @@
 - [micahflee/hacks-leaks-and-revelations](https://github.com/micahflee/hacks-leaks-and-revelations) – Code that goes along with the Hacks, Leaks, and Revelations book
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) – RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
 - [moogar0880/PyTrakt](https://github.com/moogar0880/PyTrakt) – A Pythonic interface to the Trakt.tv REST API
@@ -2131,6 +2139,7 @@
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) – GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) – Automatic SSRF fuzzer and exploitation tool
+- [sysdig/wafer](https://github.com/sysdig/wafer)
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) – A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads).
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).
@@ -2273,6 +2282,7 @@
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [asciinema/agg](https://github.com/asciinema/agg) – asciinema gif generator
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) – ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) – An extremely fast Python linter and code formatter, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
@@ -2433,6 +2443,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
+- [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
@@ -2504,6 +2515,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
 - [tox-rs/tox](https://github.com/tox-rs/tox) – toxcore implementation in Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) – Rust Weaponization for Red Team Engagements.
+- [trimental/inlyne](https://github.com/trimental/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -2671,6 +2683,7 @@
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
+- [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking
 - [davidhampgonsalves/music-server](https://github.com/davidhampgonsalves/music-server) – Music streaming server on a Android Galaxy S7 
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) – `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
@@ -2739,6 +2752,7 @@
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [kokoko3k/ssh-rdp](https://github.com/kokoko3k/ssh-rdp) – Real display ssh based remote desktop
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
+- [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
@@ -2957,6 +2971,7 @@
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – Personal finance and wealth management app
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
