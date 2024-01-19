@@ -234,6 +234,7 @@
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
+- [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) – Graphical GREP tool for Windows
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) – Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) – GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
@@ -2169,9 +2170,9 @@
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
 - [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity)
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) – Fluent theme for qBitTorrent
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) – Download a large file from Google Drive  (curl/wget fails because of the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
-- [xaitax/SploitScan](https://github.com/xaitax/SploitScan) –  SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits. 
+- [xaitax/SploitScan](https://github.com/xaitax/SploitScan) – SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
 - [xbgmsharp/trakt](https://github.com/xbgmsharp/trakt) – Import CSV to Trakt.tv list and Export Trakt.tv list into CSV
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) – Entry point for issues and wiki. Also contains some scripts and sources.
 - [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist
@@ -2934,7 +2935,6 @@
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) – Android Reverse-Engineering Workbench for VS Code
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Azathothas/bin.prashansa.com.np](https://github.com/Azathothas/bin.prashansa.com.np) – Wrangler Deploy (CF R2) Config for https://bin.prashansa.com.np
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
@@ -2996,6 +2996,7 @@
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Pipelines
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles and packages with ease. Define your $HOME as Code  💻 🚀 ✨
+- [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 
 <div id="vala"></div>
