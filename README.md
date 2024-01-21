@@ -384,6 +384,7 @@
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) – Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
@@ -2800,7 +2801,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
@@ -2936,6 +2936,8 @@
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) – Android Reverse-Engineering Workbench for VS Code
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [Azathothas/bin.ajam.dev](https://github.com/Azathothas/bin.ajam.dev) – Wrangler Deploy (CF R2) Config for https://bin.ajam.dev
+- [Azathothas/pub.ajam.dev](https://github.com/Azathothas/pub.ajam.dev) – Wrangler Deploy (CF R2) Config for https://pub.ajam.dev
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
