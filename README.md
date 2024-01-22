@@ -286,7 +286,6 @@
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [flox/flox](https://github.com/flox/flox) – Developer environments you can take with you
-- [geemion/Khepri](https://github.com/geemion/Khepri) – Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
@@ -855,6 +854,7 @@
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
+- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
@@ -1035,6 +1035,7 @@
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
 - [x90skysn3k/brutesprayx](https://github.com/x90skysn3k/brutesprayx) – BruteSprayx - A Golang Bruteforce Utility
+- [xNaCly/x-git-sync](https://github.com/xNaCly/x-git-sync) – Backup your repository at configured intervals using git
 - [xenophonsec/keeptrak](https://github.com/xenophonsec/keeptrak) – Track recon/OSINT commands in an organized, grepable, fasion.
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
 - [xhzeem/paramix](https://github.com/xhzeem/paramix) – Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.
@@ -1522,6 +1523,7 @@
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
+- [ZeusGuard/RIP](https://github.com/ZeusGuard/RIP)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) – 🗂 High resolution web browser logos
@@ -2069,7 +2071,6 @@
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
-- [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
 - [ortegaalfredo/aiTrans](https://github.com/ortegaalfredo/aiTrans) – Multi-language transpiler (source-to-source compiler) using AI
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) – GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
@@ -2806,7 +2807,7 @@
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
-- [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
+- [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰. One can also display customized dynamic feed of information like weather, news, stocks, system metrics and etc.
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
