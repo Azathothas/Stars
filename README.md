@@ -879,6 +879,7 @@
 - [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) – A utility to detect various technology for a given IP address.
 - [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) – Go client to communicate with Chaos DB API. 
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) – Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) – Navigate the CVE jungle with ease.
 - [projectdiscovery/dnsx](https://github.com/projectdiscovery/dnsx) – dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) – httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) – An OOB interaction gathering server and client library
@@ -1238,6 +1239,7 @@
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+- [craigary/nobelium](https://github.com/craigary/nobelium) – A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) – Simple command to backup a Notion workspace
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) – Acode - powerful text/code editor for android
@@ -1408,6 +1410,7 @@
 ## Mdx
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
+- [Xe/site](https://github.com/Xe/site) – The new frontend/backend code for https://xeiaso.net
 
 <div id="nim"></div>
 
@@ -2947,6 +2950,7 @@
 - [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) – Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) – HTTP Request snippet generator for many languages & libraries
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
+- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from GPT3 right from your terminal
@@ -2979,6 +2983,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
+- [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) – 😎 A static blog using notion database
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) – A small web app for watching movies and shows easily
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
