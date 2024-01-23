@@ -2343,7 +2343,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
-- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [espanso/espanso](https://github.com/espanso/espanso) – Cross-platform Text Expander written in Rust
 - [ethicalhackingplayground/aem-eye](https://github.com/ethicalhackingplayground/aem-eye) – A very simple AEM detector written in rust.🦀
