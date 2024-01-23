@@ -27,6 +27,7 @@ jobs:
         continue-on-error: true          
 #------------------------------------------------------------------------------------#
   BackUp:
+    needs: [awesome-stars]
     runs-on: ubuntu-latest
     permissions:
       contents: write
