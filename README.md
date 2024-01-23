@@ -1523,7 +1523,6 @@
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
-- [ZeusGuard/RIP](https://github.com/ZeusGuard/RIP)
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) – 🗂 High resolution web browser logos
@@ -1655,6 +1654,7 @@
 - [reswob10/HomeLabResources](https://github.com/reswob10/HomeLabResources) – List of resources for buiding a home lab
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) – Web Attack Cheat Sheet
 - [rix4uni/BurpSuite-Config](https://github.com/rix4uni/BurpSuite-Config) – Useful "Match and Replace" & "TLS Pass Through" in Burpsuite Rules
+- [roadwy/RIP](https://github.com/roadwy/RIP)
 - [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) – Advanced topics to take advantage of zsh 👩‍💻👨‍💻
