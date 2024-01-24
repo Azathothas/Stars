@@ -1360,7 +1360,7 @@
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
 - [mukeshsolanki/Android-Tamper-Detector](https://github.com/mukeshsolanki/Android-Tamper-Detector) – A simple library that can help you detect if you app is modded or tampered with
 - [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) – An Android app to watch anime on your phone without ads.
-- [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) – Free, open source, unofficial MangaDex reader  for Android 
+- [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) – Unofficial MangaDex Reader for Android 7+
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
