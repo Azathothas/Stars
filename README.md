@@ -2707,6 +2707,7 @@
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) – A purely bash web server, no socat, netcat, etc... 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My files for security assessments, bug bounty and other security related stuff
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
