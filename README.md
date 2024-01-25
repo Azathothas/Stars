@@ -1718,6 +1718,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
+- [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) – This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
