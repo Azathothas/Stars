@@ -270,7 +270,6 @@
 - [NVISOsecurity/blogposts](https://github.com/NVISOsecurity/blogposts) – A repo to house files for our blogposts on blog.nviso.eu
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
-- [SpiderLabs/ModSecurity](https://github.com/SpiderLabs/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. 
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) – software version control visualization
@@ -300,6 +299,7 @@
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
