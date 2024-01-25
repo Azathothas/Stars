@@ -1524,6 +1524,7 @@
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) – Easy-to-use APK installer and more for Windows Subsystem for Android
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
+- [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -1810,6 +1811,7 @@
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner)
 - [ElSicarius/Supp-truder](https://github.com/ElSicarius/Supp-truder) – Supertruder but better
 - [EntySec/Ghost](https://github.com/EntySec/Ghost) – Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
+- [EntySec/Shreder](https://github.com/EntySec/Shreder) – Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – Web application for Freedium.cfd
@@ -1866,7 +1868,6 @@
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) – Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
 - [TophantTechnology/ARL](https://github.com/TophantTechnology/ARL) – ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
 - [Tw1sm/RITM](https://github.com/Tw1sm/RITM) – Roast in the Middle
-- [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) – Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) – This repository presents a proof-of-concept of CVE-2023-7028
