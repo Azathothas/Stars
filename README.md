@@ -2990,7 +2990,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-- [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing, forked from onedrive-vercel-index and adapted to Cloudflare Workers.
+- [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – Personal finance and wealth management app
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
