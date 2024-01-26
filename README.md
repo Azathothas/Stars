@@ -1657,6 +1657,7 @@
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) – Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
+- [ramit-mitra/blocklist-ipsets](https://github.com/ramit-mitra/blocklist-ipsets) – An IP list of bad actors targeting public infra like website, ssh endpoints, etc. 
 - [randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) – Basics on commands/tools/info on how to assess the security of mobile applications
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) – A collection of interesting new networks and tech aiming at decentralisation (in some form).
 - [reswob10/HomeLabResources](https://github.com/reswob10/HomeLabResources) – List of resources for buiding a home lab
@@ -2460,6 +2461,7 @@
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
+- [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
