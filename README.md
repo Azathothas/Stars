@@ -477,6 +477,7 @@
 - [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) – A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) – Programming framework for writing and deploying cloud applications.
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
+- [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) – Six Degrees of Domain Admin
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
 - [Static-Flow/gofingerprint](https://github.com/Static-Flow/gofingerprint) – GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
 - [TheYahya/enola](https://github.com/TheYahya/enola) – This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
@@ -1285,10 +1286,10 @@
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [rukh-debug/location-np](https://github.com/rukh-debug/location-np) – Nepal provinces, districts, municipality and wards dot json
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
 - [sepehrdaddev/zap-scripts](https://github.com/sepehrdaddev/zap-scripts) – Zed Attack Proxy Scripts for finding CVEs and Secrets.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [slithery0/location-np](https://github.com/slithery0/location-np) – Nepal provinces, districts, municipality and wards dot json
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
@@ -2113,6 +2114,7 @@
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [roughiz/lfito_rce](https://github.com/roughiz/lfito_rce) – LFI to RCE via phpinfo() assistance or via controlled log file
 - [rs-loves-bugs/burp-browser-profiles](https://github.com/rs-loves-bugs/burp-browser-profiles) – Make better use of the embedded browser that comes by default with Burp
+- [rukh-debug/dots-backup](https://github.com/rukh-debug/dots-backup) – every dots i got...
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) – HTTP parameter discovery suite.
 - [s0md3v/Parth](https://github.com/s0md3v/Parth) – Heuristic Vulnerable Parameter Scanner
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) – Incredibly fast crawler designed for OSINT.
@@ -2135,7 +2137,6 @@
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
 - [simple-login/app](https://github.com/simple-login/app) – The SimpleLogin back-end and web app
 - [six2dez/postleaksNg](https://github.com/six2dez/postleaksNg) – Search for sensitive data in Postman public library. Original work from https://github.com/cosad3s/postleaks
-- [slithery0/dots-backup](https://github.com/slithery0/dots-backup) – every dots i got...
 - [smol-ai/developer](https://github.com/smol-ai/developer) – the first library to let you embed a developer agent in your own app!
 - [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
@@ -2261,6 +2262,7 @@
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) – Shell into a virtualized linux, with your own tools 
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
