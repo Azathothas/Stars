@@ -2702,6 +2702,7 @@
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
+- [cursedpkt/F31](https://github.com/cursedpkt/F31) – Tool for hiding Kali Linux on the network
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
 - [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
@@ -2895,7 +2896,6 @@
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
-- [wearecaster/F31](https://github.com/wearecaster/F31) – Tool for hiding Kali Linux on the network
 - [wfxr/forgit](https://github.com/wfxr/forgit) – :zzz: A utility tool powered by fzf for using git interactively.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
