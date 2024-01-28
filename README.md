@@ -33,7 +33,6 @@
 - [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Nwscript](#nwscript)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -296,6 +295,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
+- [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
@@ -1439,12 +1439,6 @@
 - [pwnwriter/nix-config](https://github.com/pwnwriter/nix-config) – ❄️ NixOS config :: dotfiles
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
-
-<div id="nwscript"></div>
-
-## Nwscript
-
-- [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 
 <div id="objective-c"></div>
 
