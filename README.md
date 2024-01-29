@@ -2963,7 +2963,7 @@
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
-- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from GPT3 right from your terminal
+- [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
