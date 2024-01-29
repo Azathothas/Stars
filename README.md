@@ -789,6 +789,7 @@
 - [marwanhawari/ppath](https://github.com/marwanhawari/ppath) – 🌈 A command-line tool to pretty print your system's PATH environment variable.
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) – 🥘 An independent package manager for compiled binaries.
 - [masahide/OmniSSHAgent](https://github.com/masahide/OmniSSHAgent) – Integrated ssh-agent for windows. (pageant compatible. openSSH ssh-agent etc ..)
+- [mathenz/goffy](https://github.com/mathenz/goffy) – A command-line tool for downloading public playlists, albums and individual tracks via Spotify URLs.
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) – A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [melbahja/got](https://github.com/melbahja/got) – Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
