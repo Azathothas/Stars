@@ -2832,6 +2832,7 @@
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) – Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
@@ -2843,6 +2844,7 @@
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/Origin-IP-Finder](https://github.com/rix4uni/Origin-IP-Finder)
 - [robxu9/bash-static](https://github.com/robxu9/bash-static) – Because we need exercises in minimalism.
+- [rohsec/LEAKEY](https://github.com/rohsec/LEAKEY) – LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services.
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
