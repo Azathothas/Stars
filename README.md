@@ -1602,6 +1602,7 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – VMware Workstation Pro 17 full license keys. Collected and sorted out thousands of universal License Keys for all major versions of VMware Workstation Pro 17 versions.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
