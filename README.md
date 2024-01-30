@@ -825,7 +825,7 @@
 - [mrusme/wth](https://github.com/mrusme/wth) – What The Heck: The better personal information dashboard for your terminal
 - [mrvcoder/cloud_data](https://github.com/mrvcoder/cloud_data) – Get some useful data from Clouds for your targets
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) – :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
-- [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager
+- [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
 - [mudler/yip](https://github.com/mudler/yip) –  :pushpin: Yaml Instructions Processor - Simply applies a cloud-init style yaml file to the system
 - [muesli/duf](https://github.com/muesli/duf) – Disk Usage/Free Utility - a better 'df' alternative
 - [muety/telepush](https://github.com/muety/telepush) – 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages 
