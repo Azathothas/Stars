@@ -918,6 +918,7 @@
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) – BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [regmicmahesh/duckchatstallmaninspired](https://github.com/regmicmahesh/duckchatstallmaninspired)
+- [regmicmahesh/infrastructure-backend-pulumi](https://github.com/regmicmahesh/infrastructure-backend-pulumi) – IaC Reference Implementation with Layer Architecture in Pulumi (aws-go)
 - [relastle/pmy](https://github.com/relastle/pmy) – :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) – Nix derivations as Dockerfiles (`docker build -f default.nix .`)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) – diff for Docker and OCI container images
@@ -3011,6 +3012,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
