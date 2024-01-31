@@ -1204,7 +1204,6 @@
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) – Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) – Graphical SFTP client and terminal emulator with helpful utilities
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – An application using the power of Magisk to debloat unwanted system apps!
-- [sylirre/neotty](https://github.com/sylirre/neotty) – Yet another terminal app for Android OS but different. Powered by QEMU. No root required.
 - [termux/termux-app](https://github.com/termux/termux-app) – Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/termux-boot](https://github.com/termux/termux-boot) – Termux add-on app allowing programs to be run at boot.
 - [tiann/Leoric](https://github.com/tiann/Leoric) – PoC of fighting against force-stop kill process on Android
