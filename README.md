@@ -1614,6 +1614,7 @@
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) – Download IP address lists grouped by country
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
+- [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
@@ -2701,6 +2702,7 @@
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
+- [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) – A versatile (cross-)toolchain generator.
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
 - [cursedpkt/F31](https://github.com/cursedpkt/F31) – Tool for hiding Kali Linux on the network
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
