@@ -2682,7 +2682,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - [ajdiaz/bashc](https://github.com/ajdiaz/bashc) – A tool to convert/compile a bash script to a static linked x86 and x86_64 binary.
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a full-featured line editor written in pure Bash! Syntax highlighting, auto suggestions, vim modes, etc. are available in Bash interactive sessions!
+- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
