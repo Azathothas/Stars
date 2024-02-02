@@ -1243,6 +1243,7 @@
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
+- [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – Even Better: improve your Caido UI with this simple script :D
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
