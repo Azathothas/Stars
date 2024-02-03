@@ -229,6 +229,7 @@
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) – PowerShell for every system!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
@@ -2185,7 +2186,7 @@
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
 - [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity)
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) – Fluent theme for qBitTorrent
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File Downloader when Curl/Wget Fails.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) – SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
 - [xbgmsharp/trakt](https://github.com/xbgmsharp/trakt) – Import CSV to Trakt.tv list and Export Trakt.tv list into CSV
