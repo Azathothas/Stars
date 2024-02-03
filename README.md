@@ -967,6 +967,7 @@
 - [shirou/toybox](https://github.com/shirou/toybox) – golang implemenation of busybox
 - [shogo82148/androidbinary](https://github.com/shogo82148/androidbinary) – Android binary file parser written in golang
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) – CLI and Go API to Test Internet Speed using speedtest.net
+- [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
 - [six-ddc/plow](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [six2dez/ipcdn](https://github.com/six2dez/ipcdn) – Check which CDN providers an IP list belongs to
@@ -1596,6 +1597,7 @@
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [getcursor/cursor](https://github.com/getcursor/cursor) – An AI-powered code editor based on VSCode 🤖
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – A simple and lightweight Linux® distribution based on musl libc and toybox
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) – 📜 A collective list of public GraphQL APIs
