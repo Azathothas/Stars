@@ -1169,7 +1169,7 @@
 - [cryptax/misc-code](https://github.com/cryptax/misc-code) – Miscellaneous code
 - [d3mondev/burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) – This Burp Suite extension allows for the automatic creation and deletion of an upstream SOCKS5 proxy on popular cloud services.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – A real-time monitoring system with high performance cluster, custom monitoring, prometheus like, agentless and status page.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) – No-root network monitor, firewall and PCAP dumper for Android
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) – The new bridge between Burp Suite and Frida!
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) – Burp Suite extension that offers a toolkit for testing GraphQL endpoints. 
