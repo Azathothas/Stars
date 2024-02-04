@@ -1245,6 +1245,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) – Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Artillery!
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
 - [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – Even Better: improve your Caido UI with this simple script :D
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
@@ -1882,6 +1883,7 @@
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) – Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) – This repository presents a proof-of-concept of CVE-2023-7028
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) – 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags.
+- [Warxim/deluder](https://github.com/Warxim/deluder) – Deluder is a tool for intercepting traffic of proxy unaware applications. Currently, Deluder supports OpenSSL, GnuTLS, SChannel, WinSock and Linux Sockets out of the box.  ⚡ 
 - [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) – A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Cloudflare challenges to visitors
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
 - [Z3NTL3/ufw-cloudflare](https://github.com/Z3NTL3/ufw-cloudflare) – Automated script which blocks all incoming requests and only accepts Cloudflare IPs
