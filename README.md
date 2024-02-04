@@ -2445,7 +2445,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) – An Experimental Package Management Solution for Python
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) – a Hassle-Free Python Experience
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
