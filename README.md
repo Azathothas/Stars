@@ -1437,6 +1437,7 @@
 
 ## Nix
 
+- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
