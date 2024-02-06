@@ -2129,7 +2129,7 @@
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) – Most advanced XSS scanner.
 - [s0md3v/roop](https://github.com/s0md3v/roop) – one-click face swap
 - [s0md3v/uro](https://github.com/s0md3v/uro) – declutters url lists for crawling/pentesting
-- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
 - [saw-your-packet/EC2StepShell](https://github.com/saw-your-packet/EC2StepShell) – EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Automate your API Testing: catch crashes, validate specs, and save time
