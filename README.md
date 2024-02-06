@@ -1053,6 +1053,7 @@
 - [xhzeem/paramix](https://github.com/xhzeem/paramix) – Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
+- [xplshn/BDL](https://github.com/xplshn/BDL) – Binary Downloader(s) || Like a package manager, but for statically linked binaries.+957 binaries currently in the repo
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
