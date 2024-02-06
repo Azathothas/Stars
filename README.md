@@ -2070,6 +2070,7 @@
 - [mzfr/slicer](https://github.com/mzfr/slicer) – A tool to automate the boring process of APK recon
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) – Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [napisani/procmux](https://github.com/napisani/procmux) – a TUI utility for running multiple commands in parallel in easily switchable terminals
+- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) – Differential testing and fuzzing of HTTP servers and proxies
 - [nathom/streamrip](https://github.com/nathom/streamrip) – A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) – A tool for quickly evaluating IAM permissions in AWS.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-Cloud Security Auditing Tool
