@@ -713,6 +713,7 @@
 - [harakeishi/whris](https://github.com/harakeishi/whris) – "whris" is Displays management information for IPs associated with the domain.
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) – Interactive viewer for JSON logs.
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
