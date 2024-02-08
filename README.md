@@ -492,6 +492,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
+- [VHSgunzo/shellsrv](https://github.com/VHSgunzo/shellsrv) – Shell server/client
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [WHOISshuvam/gotld](https://github.com/WHOISshuvam/gotld) – Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.
@@ -784,6 +785,7 @@
 - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) – Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
 - [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) – 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) – Supercharge terminal logs with web browser UI and low-code. It's like jq, tail, less, grep and awk merged together and available in a clean UI.
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) – System container image builder for LXC and Incus
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2350,6 +2352,7 @@
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) – The Conventional Commits toolbox
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [copy/v86](https://github.com/copy/v86) – x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) – tool for generating wordlists or extending an existing one using mutations.
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
@@ -2626,6 +2629,7 @@
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
+- [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [GhostTroops/TOP](https://github.com/GhostTroops/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
