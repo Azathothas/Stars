@@ -919,6 +919,8 @@
 - [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
 - [quackduck/devzat](https://github.com/quackduck/devzat) – The devs are over here at devzat, chat over SSH!
 - [quay/clair](https://github.com/quay/clair) – Vulnerability Static Analysis for Containers
+- [r4ulcl/bntoolkit](https://github.com/r4ulcl/bntoolkit) – Toolkit to investigate the BitTorrent network.
+- [r4ulcl/nTask](https://github.com/r4ulcl/nTask) – nTask is a distributed task management program that allows you to distribute tasks across multiple computers using API communication and WebSockets. It handles task requests, distributes them to available workers, and stores the results in a database or sends them to a specified URL/API. Integration with other APIs or scripts is also supported.
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [random-robbie/wayback-saver](https://github.com/random-robbie/wayback-saver) – Saves pages to Wayback machine
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
