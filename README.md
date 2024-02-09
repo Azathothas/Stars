@@ -1456,7 +1456,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
-- [pwnwriter/nix](https://github.com/pwnwriter/nix) – ❄️ NixOS config :: dotfiles
+- [pwnwriter/nix](https://github.com/pwnwriter/nix) – ❄️ Procrastinating never felt this productive.
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 
