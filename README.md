@@ -2307,6 +2307,7 @@
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) – Count your code, quickly.
+- [XDream8/file-rs](https://github.com/XDream8/file-rs) – a tool for determining file types, extensions etc.
 - [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall and scripted MitM.
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
