@@ -508,6 +508,7 @@
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
+- [activecm/rita](https://github.com/activecm/rita) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
@@ -1028,7 +1029,7 @@
 - [txn2/txeh](https://github.com/txn2/txeh) – Go library and CLI utility for /etc/hosts management.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [txthinking/nami](https://github.com/txthinking/nami) – A clean and tidy decentralized package manager.
-- [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported in vendor-based Go, module-based Go, and bazel with Starlark.
+- [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
@@ -2430,6 +2431,7 @@
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [knassar702/lorsrf](https://github.com/knassar702/lorsrf) – Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:
 - [konradsz/igrep](https://github.com/konradsz/igrep) – Interactive Grep
+- [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Analyzer of security features in executable binaries
 - [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 p2p gossip network for update transparency, based on pgp 🥸
 - [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - reproducible builds
 - [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
