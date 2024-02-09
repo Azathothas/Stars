@@ -804,6 +804,7 @@
 - [melbahja/goph](https://github.com/melbahja/goph) – 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
 - [melbahja/got](https://github.com/melbahja/got) – Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [metafates/mangal](https://github.com/metafates/mangal) – 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
+- [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots) – Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
 - [michael1026/trashcompactor](https://github.com/michael1026/trashcompactor)
 - [miguelangel-nubla/ipv6ddns](https://github.com/miguelangel-nubla/ipv6ddns) – Discover the IPv6 addresses of specific hosts in your network and update DNS records dynamically
