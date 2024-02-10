@@ -661,6 +661,7 @@
 - [fipso/freenews](https://github.com/fipso/freenews) – Reverse Proxy & DNS based solution to bypass paywalls 🔨💵🧱
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
+- [frioux/leatherman](https://github.com/frioux/leatherman) – Handy multitool that happens to be mostly Go
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) – An interactive web UI for gRPC, along the lines of postman
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1177,6 +1178,7 @@
 - [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) – the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc. 
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) – ConnectBot is the first SSH client for Android.
@@ -2957,6 +2959,7 @@
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) – Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
 - [tempoz/cosmo_cc_bazel_toolchain](https://github.com/tempoz/cosmo_cc_bazel_toolchain) – Bazel toolchain that is backed by cosmopolitan
+- [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) – Bazel C/C++ toolchain for cross-compiling C/C++ programs
 
 <div id="svelte"></div>
 
