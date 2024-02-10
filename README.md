@@ -136,6 +136,7 @@
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
+- [gojue/ecapture](https://github.com/gojue/ecapture) – Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) – Connect like there is no firewall. Securely.
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
@@ -1486,7 +1487,6 @@
 - [833M0L3/uBlockOriginNepaliFilter](https://github.com/833M0L3/uBlockOriginNepaliFilter)
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -1966,6 +1966,7 @@
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) – DNS Enumeration Script
 - [daxAKAhackerman/XSS-Catcher](https://github.com/daxAKAhackerman/XSS-Catcher) – A blind XSS detection and XSS data capture framework
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) – 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
@@ -2234,6 +2235,7 @@
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
+- [slimm609/checksec.sh](https://github.com/slimm609/checksec.sh) – Checksec.sh
 
 <div id="ruby"></div>
 
@@ -2469,6 +2471,7 @@
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
+- [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -2602,6 +2605,7 @@
 
 ## SCSS
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [rs-loves-bugs/xsshunter](https://github.com/rs-loves-bugs/xsshunter)
 - [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
 
@@ -2730,6 +2734,7 @@
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键重装 / 一键 dd / One-click Reinstall OS
 - [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
+- [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
 - [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Abuseipdb IP Aggregator
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
