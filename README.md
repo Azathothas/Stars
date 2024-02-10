@@ -1870,6 +1870,7 @@
 - [NickSanzotta/scanman](https://github.com/NickSanzotta/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) – The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
+- [OfriOuzan/HardeningMeter](https://github.com/OfriOuzan/HardeningMeter) – HardeningMeter is an open-source Python tool carefully designed to comprehensively assess the security hardening of binaries and systems.
 - [Ophion-Security/public-scanners](https://github.com/Ophion-Security/public-scanners) – Scripts to scan for specific technology vulnerabilities.
 - [Osb0rn3/bugbounty-targets](https://github.com/Osb0rn3/bugbounty-targets) – An automated GitHub Actions-based crawler that fetches and updates public scopes from popular bug bounty platforms.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) – Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
