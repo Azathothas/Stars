@@ -488,7 +488,7 @@
 - [Static-Flow/gofingerprint](https://github.com/Static-Flow/gofingerprint) – GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
 - [TheYahya/enola](https://github.com/TheYahya/enola) – This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
 - [ThreatUnkown/jsubfinder](https://github.com/ThreatUnkown/jsubfinder) – jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
-- [TimothyYe/godns](https://github.com/TimothyYe/godns) – A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
+- [TimothyYe/godns](https://github.com/TimothyYe/godns) – A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [TomWright/dasel](https://github.com/TomWright/dasel) – Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
