@@ -754,6 +754,7 @@
 - [k1LoW/runn](https://github.com/k1LoW/runn) – runn is a package/tool for running operations following a scenario.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
+- [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
