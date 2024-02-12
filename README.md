@@ -127,6 +127,7 @@
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
+- [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
@@ -365,6 +366,8 @@
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
+- [Mosc/Glider](https://github.com/Mosc/Glider) – Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) – A Music Player App made with Flutter
 - [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no external listening ports open
@@ -1390,6 +1393,7 @@
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) – Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
 - [mukeshsolanki/Android-Tamper-Detector](https://github.com/mukeshsolanki/Android-Tamper-Detector) – A simple library that can help you detect if you app is modded or tampered with
 - [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) – An Android app to watch anime on your phone without ads.
 - [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) – Unofficial MangaDex Reader for Android 7+
@@ -1578,6 +1582,7 @@
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [chaitin/xpoc](https://github.com/chaitin/xpoc) – 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 - [chaulagaisachin/learnDocker](https://github.com/chaulagaisachin/learnDocker) – Resources for Learning Docker
+- [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) – Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) – A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [cipher387/Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) – List of Github repositories and articles with list of dorks for different search engines
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) – List of GREP modifications and alternatives for a variety of purposes
@@ -2252,6 +2257,7 @@
 - [drujensen/fib](https://github.com/drujensen/fib) – Performance Benchmark of top Github languages
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) – ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) – 🏴‍☠️ Find dead-links (broken links)
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) – Computing-focused community centered around link aggregation and discussion
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The OS for your personal finances
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
@@ -2672,7 +2678,7 @@
 - [Moe-hacker/daijin](https://github.com/Moe-hacker/daijin) – (Aka. termux-container) Run linux with chroot&unshare/proot on your Android phone,safely and easy 🍥
 - [Moe-hacker/rootfstool](https://github.com/Moe-hacker/rootfstool) – A tool to get linux container rootfs from lxc-image mirrors🍥
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
-- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk module that automatically adds user certificates to the system root CA store
+- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
