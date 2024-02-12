@@ -24,6 +24,7 @@
 - [Holyc](#holyc)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
@@ -1336,6 +1337,12 @@
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
 
+<div id="jinja"></div>
+
+## Jinja
+
+- [bootlin/toolchains-webpage](https://github.com/bootlin/toolchains-webpage) – The webpage of http://toolchains.bootlin.com/
+
 <div id="jupyter-notebook"></div>
 
 ## Jupyter Notebook
@@ -1424,6 +1431,7 @@
 
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
+- [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
 - [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
@@ -2473,7 +2481,7 @@
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) – A memory safe implementation of sudo and su.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) – A terminal slideshow tool
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) – A markdown terminal slideshow tool
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
