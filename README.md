@@ -617,7 +617,7 @@
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
-- [devploit/dontgo403](https://github.com/devploit/dontgo403) – Tool to bypass 40X response codes.
+- [devploit/dontgo403](https://github.com/devploit/dontgo403) – Tool to bypass 403/40X response codes.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
