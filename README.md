@@ -878,7 +878,7 @@
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – NextTrace, an open source visual route tracking CLI tool
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, and other large language models.
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
