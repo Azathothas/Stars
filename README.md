@@ -2610,6 +2610,7 @@
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
+- [xetdata/xet-core](https://github.com/xetdata/xet-core) – Rust crates for XetHub
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
