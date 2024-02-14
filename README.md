@@ -2609,6 +2609,7 @@
 - [wfxr/csview](https://github.com/wfxr/csview) – 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
+- [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
@@ -2726,6 +2727,7 @@
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) – An X11 server and client libraries for macOS
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
+- [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) – Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
