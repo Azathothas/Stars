@@ -434,6 +434,7 @@
 - [BishopFox/sj](https://github.com/BishopFox/sj) – A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) – Adversary Emulation Framework
 - [Brum3ns/encode](https://github.com/Brum3ns/encode) – Script to read input from stdin and encode it
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) – act as self-hosted runner
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) – A utility to improve performance and help manage storage on Steam Deck.
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
@@ -506,6 +507,7 @@
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) – :hammer: A modern multiple reverse shell sessions manager written in go
 - [WangYihang/Proxy-Verifier](https://github.com/WangYihang/Proxy-Verifier) – A set of tools designed to efficiently and effectively locate publicly available proxy server resources.
 - [WangYihang/Subdomain-Crawler](https://github.com/WangYihang/Subdomain-Crawler) – A program for collecting subdomains of a list of given second-level domains (SLD)
+- [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) – Application for runner lifecycle management
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) – Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
@@ -587,6 +589,7 @@
 - [cheat/cheat](https://github.com/cheat/cheat) – cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
+- [cloudbase/garm](https://github.com/cloudbase/garm) – GitHub Actions Runners Manager
 - [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) – Cloudflare's RPKI Toolbox
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) – CFSSL: Cloudflare's PKI and TLS toolkit
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -1061,6 +1064,7 @@
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
 - [whoissecure/yaset](https://github.com/whoissecure/yaset) –  Yet Another Subdomain Enumeration Tool, a template based tool to enumerate subdomains passively.
+- [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [windvalley/gossh](https://github.com/windvalley/gossh) – 🚀🚀A high-performance and high-concurrency ssh tool written in Go. It is 10 times faster than Ansible. If you need much more performance and better ease of use, you will love it.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) – Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
@@ -1608,6 +1612,7 @@
 - [daffainfo/match-replace-burp](https://github.com/daffainfo/match-replace-burp) – Useful "Match and Replace" burpsuite rules
 - [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) – This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) – List of awesome hosting sorted by minimal plan price
+- [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) – Guideline of best practices to follow to configure Github Enterprise Cloud self-hosted runners in a secure way.
 - [devsdenepal/AnnualProgress](https://github.com/devsdenepal/AnnualProgress) – Repo representing my past involvements*.
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) – A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
@@ -3087,6 +3092,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Pipelines
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
