@@ -387,6 +387,7 @@
 
 - [2moe/build-container](https://github.com/2moe/build-container)
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
+- [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
@@ -1687,6 +1688,7 @@
 - [n0kovo/n0kovo_subdomains](https://github.com/n0kovo/n0kovo_subdomains) – An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 - [netlas-io/netlas-dorks](https://github.com/netlas-io/netlas-dorks) – A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.
 - [nex-health/setup-twingate-windows](https://github.com/nex-health/setup-twingate-windows) – Setup Twingate headless client on Windows
+- [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) – Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
 - [nicholasaleks/graphql-threat-matrix](https://github.com/nicholasaleks/graphql-threat-matrix) – GraphQL threat framework used by security professionals to research security gaps in GraphQL implementations
 - [nirajkharel/NotJustAChecklist](https://github.com/nirajkharel/NotJustAChecklist)
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
