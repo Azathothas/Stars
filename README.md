@@ -301,6 +301,7 @@
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
+- [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -779,8 +780,8 @@
 - [kost/revsocks](https://github.com/kost/revsocks) – Reverse SOCKS5 implementation in Go 
 - [kost/sqlc](https://github.com/kost/sqlc) – sqlc - Universal DBMS/SQL client with exfiltration features :)
 - [kost/tty2web](https://github.com/kost/tty2web) – Share your terminal as a web application in bind/reverse mode
+- [ksctl/ksctl](https://github.com/ksctl/ksctl) – Cloud Agnostic Kubernetes Management (Core) 
 - [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
-- [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl) – Cloud Agnostic Kubernetes Management (Core) 
 - [kubesphere/kubeeye](https://github.com/kubesphere/kubeeye) – KubeEye aims to find various problems on Kubernetes, such as application misconfiguration, unhealthy cluster components and node problems.
 - [kungze/quic-tun](https://github.com/kungze/quic-tun) – A fast and security tunnel based on QUIC, make you can access remote TCP/UNIX  application like a local application.  一个快速且安全的 TCP  隧道工具，能加速弱网环境下（如网络有丢包）TCP 的转发性能。
 - [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
