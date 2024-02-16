@@ -2166,7 +2166,6 @@
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [roughiz/lfito_rce](https://github.com/roughiz/lfito_rce) – LFI to RCE via phpinfo() assistance or via controlled log file
 - [rs-loves-bugs/burp-browser-profiles](https://github.com/rs-loves-bugs/burp-browser-profiles) – Make better use of the embedded browser that comes by default with Burp
-- [rukh-debug/dots-backup](https://github.com/rukh-debug/dots-backup) – every dots i got...
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) – HTTP parameter discovery suite.
 - [s0md3v/Parth](https://github.com/s0md3v/Parth) – Heuristic Vulnerable Parameter Scanner
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) – Incredibly fast crawler designed for OSINT.
