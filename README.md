@@ -2641,6 +2641,7 @@
 ## SCSS
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- [jonico/awesome-runners](https://github.com/jonico/awesome-runners) – A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [rs-loves-bugs/xsshunter](https://github.com/rs-loves-bugs/xsshunter)
 - [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
 
