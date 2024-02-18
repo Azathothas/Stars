@@ -2034,6 +2034,7 @@
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) – Scalable fuzzing infrastructure.
 - [google/gcp_scanner](https://github.com/google/gcp_scanner) – A comprehensive scanner for Google Cloud
+- [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [greshake/Alice](https://github.com/greshake/Alice) – Giving ChatGPT access to a real terminal
 - [gruns/furl](https://github.com/gruns/furl) – 🌐 URL parsing and manipulation made easy.
