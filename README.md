@@ -2574,7 +2574,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) – A command-line tool to generate, analyze, convert and manipulate colors
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
-- [sigoden/argc](https://github.com/sigoden/argc) – Argc helps you create CLIs with comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
+- [sigoden/argc](https://github.com/sigoden/argc) – Argc helps you create CLI through comments, also works as a bash CLI generator, task runner, and multi-shell autocompleter.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
