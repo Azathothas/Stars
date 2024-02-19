@@ -880,6 +880,7 @@
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
+- [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
