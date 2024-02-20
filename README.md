@@ -2538,6 +2538,7 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
 - [orhun/halp](https://github.com/orhun/halp) – A CLI tool to get help with CLI tools 🐙
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) – A minimal file upload/pastebin service.
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
