@@ -2571,6 +2571,7 @@
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
+- [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop, and alternative to TeamViewer.
 - [rustne-kretser/noline](https://github.com/rustne-kretser/noline) – IO-agnostic line editor for embedded systems
 - [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
@@ -2632,7 +2633,7 @@
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that needs no client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
