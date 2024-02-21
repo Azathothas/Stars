@@ -776,6 +776,7 @@
 - [jvns/dns-doctor](https://github.com/jvns/dns-doctor)
 - [k1LoW/runn](https://github.com/k1LoW/runn) – runn is a package/tool for running operations following a scenario.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
@@ -1689,6 +1690,7 @@
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) – For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) – A curated list of awesome privilege escalation
 - [makotom/iperf3-binaries](https://github.com/makotom/iperf3-binaries) – Executable binaries of iperf3
+- [maoxiaoke/setup-a-mac-for-frontend-dev](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev) – How I setup a Mac, with lots of productivity tools, step-by-step guide
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) – A list of cyber-chef recipes and curated links
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) – Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
