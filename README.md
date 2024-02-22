@@ -334,7 +334,6 @@
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
-- [zerotier/pylon](https://github.com/zerotier/pylon) – SOCKS5 Proxy to and from your LAN and ZeroTier Network
 
 <div id="css"></div>
 
