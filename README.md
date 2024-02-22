@@ -2447,6 +2447,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) – Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [eza-community/eza](https://github.com/eza-community/eza) – A modern, maintained replacement for ls
 - [facebook/buck2](https://github.com/facebook/buck2) – Build system, successor to Buck
+- [facebook/dotslash](https://github.com/facebook/dotslash) – Simplified executable deployment
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) – Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.
 - [facebookincubator/below](https://github.com/facebookincubator/below) – A time traveling resource monitor for modern Linux systems
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
