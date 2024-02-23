@@ -452,6 +452,7 @@
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
 - [Damian89/ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
 - [Damian89/yataf](https://github.com/Damian89/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
+- [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
@@ -1092,6 +1093,7 @@
 - [xenophonsec/keeptrak](https://github.com/xenophonsec/keeptrak) – Track recon/OSINT commands in an organized, grepable, fasion.
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
 - [xhzeem/paramix](https://github.com/xhzeem/paramix) – Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.
+- [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – Binary Downloader(s) || Like a package manager, but for statically linked binaries.+957 binaries currently in the repo
@@ -2648,6 +2650,7 @@
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
 - [xetdata/xet-core](https://github.com/xetdata/xet-core) – Rust crates for XetHub
+- [xrelkd/caracal](https://github.com/xrelkd/caracal) – File downloader written in Rust programming language
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
