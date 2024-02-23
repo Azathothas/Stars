@@ -557,6 +557,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) – Easy web analytics. No tracking of personal data.
 - [assetnote/surf](https://github.com/assetnote/surf) – Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) – Flamingo captures credentials sprayed across the network by various IT and security products.
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
@@ -897,7 +898,7 @@
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – NextTrace, an open source visual route tracking CLI tool
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
@@ -1768,6 +1769,7 @@
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) – An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) – A curated list of various bug bounty tools
 - [vavkamil/awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) – Awesome Vulnerable Applications
+- [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Hosted on own servers!
@@ -3097,6 +3099,7 @@
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
