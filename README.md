@@ -1330,6 +1330,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) – Browser In The Browser (BITB) Templates
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) – Client Side Prototype Pollution Scanner
@@ -2121,7 +2122,6 @@
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) – Hide your payload in DNS
 - [micahflee/hacks-leaks-and-revelations](https://github.com/micahflee/hacks-leaks-and-revelations) – Code that goes along with the Hacks, Leaks, and Revelations book
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) – RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
-- [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
