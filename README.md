@@ -1540,7 +1540,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
@@ -2709,6 +2709,7 @@
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [GhostTroops/TOP](https://github.com/GhostTroops/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates by the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
