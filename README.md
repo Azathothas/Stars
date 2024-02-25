@@ -1088,6 +1088,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
+- [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
 - [xNaCly/x-git-sync](https://github.com/xNaCly/x-git-sync) – Backup your repository at configured intervals using git
 - [xenophonsec/keeptrak](https://github.com/xenophonsec/keeptrak) – Track recon/OSINT commands in an organized, grepable, fasion.
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
