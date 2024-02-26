@@ -2337,7 +2337,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🇵🇸
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) – Shell into a virtualized linux, with your own tools 
