@@ -1007,6 +1007,7 @@
 - [shirou/toybox](https://github.com/shirou/toybox) – golang implemenation of busybox
 - [shogo82148/androidbinary](https://github.com/shogo82148/androidbinary) – Android binary file parser written in golang
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) – CLI and Go API to Test Internet Speed using speedtest.net
+- [sibprogrammer/xq](https://github.com/sibprogrammer/xq) – Command-line XML and HTML beautifier and content extractor
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
 - [six-ddc/plow](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
