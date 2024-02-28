@@ -209,6 +209,7 @@
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
+- [unikraft/unikraft](https://github.com/unikraft/unikraft) – Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. (Core repository)
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
 - [vanhauser-thc/thc-ipv6](https://github.com/vanhauser-thc/thc-ipv6) – IPv6 attack toolkit
@@ -918,6 +919,7 @@
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) – 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) – DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+- [picosh/pico](https://github.com/picosh/pico) – hacker labs
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
