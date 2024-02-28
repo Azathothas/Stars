@@ -250,6 +250,7 @@
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) – GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [immense/Remotely](https://github.com/immense/Remotely) – A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) – mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: A better UI for your package managers
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
@@ -2118,7 +2119,6 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: A better UI for your package managers
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) – The Meson Build System
@@ -2327,7 +2327,7 @@
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) – A Graphical Interface for Distrobox
