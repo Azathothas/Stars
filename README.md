@@ -594,6 +594,7 @@
 - [cemulus/crt](https://github.com/cemulus/crt) – A CLI tool to check Certificate Transparency logs of a domain name.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
+- [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
@@ -1317,6 +1318,7 @@
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
+- [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -2079,6 +2081,7 @@
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) – Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [intruder-io/guidtool](https://github.com/intruder-io/guidtool) – A tool to inspect and attack version 1 GUIDs
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
+- [iterative/dvc](https://github.com/iterative/dvc) – 🦉 ML Experiments Management with Git
 - [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. Based on PycURL and Python Requests.
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
@@ -2705,6 +2708,7 @@
 - [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) – A library with useful Bash functions
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
+- [DanielGibson/DanielGibson.github.io](https://github.com/DanielGibson/DanielGibson.github.io) – My blog, I guess
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
