@@ -972,6 +972,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
 - [riza/linx](https://github.com/riza/linx) – Reveals invisible links within JavaScript files
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [root4loot/ctlog](https://github.com/root4loot/ctlog) – Obtain domains from certificate transparency logs
 - [root4loot/rescope](https://github.com/root4loot/rescope) – A scope generation tool for Burp Suite & ZAP
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
