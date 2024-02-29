@@ -2329,6 +2329,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
+- [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
@@ -2656,6 +2657,8 @@
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wfxr/csview](https://github.com/wfxr/csview) – 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
+- [whitfin/jen](https://github.com/whitfin/jen) – A fast utility to generate fake/test documents based on a template
+- [whitfin/runiq](https://github.com/whitfin/runiq) – An efficient way to filter duplicate lines from input, à la uniq. 
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
