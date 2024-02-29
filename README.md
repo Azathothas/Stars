@@ -369,7 +369,6 @@
 ## Dart
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
@@ -1393,6 +1392,7 @@
 
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
+- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 and 13.
