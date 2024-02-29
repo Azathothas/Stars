@@ -1075,6 +1075,7 @@
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
+- [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
@@ -1455,6 +1456,7 @@
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
 - [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neo(vim), the less is more.
+- [version-fox/version-fox-plugins](https://github.com/version-fox/version-fox-plugins) – plugins repository for VersionFox
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 
 <div id="makefile"></div>
