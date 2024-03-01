@@ -2235,7 +2235,6 @@
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) – Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
 - [sting8k/BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) – Burpsuite Extension to bypass 403 restricted directory
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [swarmsecurity/swarm](https://github.com/swarmsecurity/swarm) – Formerly known as axiom, swarm is the next generation of distributed cloud scanning and attack surface monitoring.
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) – GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) – Automatic SSRF fuzzer and exploitation tool
