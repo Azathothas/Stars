@@ -2668,7 +2668,6 @@
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
-- [ysf/anewer](https://github.com/ysf/anewer) – anewer appends lines from stdin to a file if they don't already exist in the file. This is a rust version of https://github.com/tomnomnom/anew
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [zer0yu/anew](https://github.com/zer0yu/anew) – A tool for adding new lines to files, skipping duplicates and written in Rust!
