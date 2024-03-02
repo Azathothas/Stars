@@ -1960,7 +1960,6 @@
 - [Warxim/deluder](https://github.com/Warxim/deluder) – Deluder is a tool for intercepting traffic of proxy unaware applications. Currently, Deluder supports OpenSSL, GnuTLS, SChannel, WinSock and Linux Sockets out of the box.  ⚡ 
 - [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) – A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Cloudflare challenges to visitors
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
-- [Z3NTL3/ufw-cloudflare](https://github.com/Z3NTL3/ufw-cloudflare) – Automated script which blocks all incoming requests and only accepts Cloudflare IPs
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
