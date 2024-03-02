@@ -111,6 +111,7 @@
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- [WayneD/rsync](https://github.com/WayneD/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
@@ -234,6 +235,7 @@
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) – IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud. 
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) – Remove large amounts of unwanted applications quickly.
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
@@ -258,7 +260,6 @@
 - [reconness/reconness](https://github.com/reconness/reconness) – ReconNess is a platform to allow continuous recon (CR) where you can set up a pipeline of #recon tools (Agents) and trigger it base on schedule or events.
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
-- [veler/DevToys](https://github.com/veler/DevToys) – A Swiss Army knife for developers.
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
 - [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 
@@ -1646,6 +1647,7 @@
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) – List of awesome hosting sorted by minimal plan price
 - [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) – Guideline of best practices to follow to configure Github Enterprise Cloud self-hosted runners in a secure way.
 - [devsdenepal/AnnualProgress](https://github.com/devsdenepal/AnnualProgress) – Repo representing my past involvements*.
+- [devsdenepal/When_Nepal_was_h4ck3d](https://github.com/devsdenepal/When_Nepal_was_h4ck3d) – Record of dates and events of popular hacking attacks noticed and reported through social media and news.
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) – A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
 - [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) – The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
