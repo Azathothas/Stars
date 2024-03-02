@@ -758,7 +758,7 @@
 - [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram downloader/tools written in Golang
 - [izzetemredemir/GoSitemap2Md](https://github.com/izzetemredemir/GoSitemap2Md) – GoSitemap2Md is a Golang program that generates a sitemap URL in Markdown format and stores the URLs in a urls.json file for easy adding of new URLs. This tool simplifies the process of generating and maintaining a sitemap for your website.
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) – goverview - Get an overview of the list of URLs
-- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) – OSINT tools and more but without API ke
+- [j3ssie/metabigor](https://github.com/j3ssie/metabigor) – OSINT tools and more but without API key
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) – A Workflow Engine for Offensive Security
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
@@ -2946,6 +2946,7 @@
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
+- [phd/chromium-repo](https://github.com/phd/chromium-repo) – Chromium Browser .deb repositories for Ubuntu 20.04+
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
