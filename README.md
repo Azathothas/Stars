@@ -1547,6 +1547,7 @@
 - [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
+- [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place :: https://bin.ajam.dev
