@@ -1849,7 +1849,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
-- [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) – Collection of reverse shells for red team operations, penetration testing, and offensive security.
+- [d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet](https://github.com/d4t4s3c/Offensive-Reverse-Shell-Cheat-Sheet) – Collection of reverse shells for red team operations.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
