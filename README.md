@@ -2939,6 +2939,7 @@
 - [nikitastupin/orgs-data](https://github.com/nikitastupin/orgs-data) – Mapping from bug bounty and vulnerability disclosure programs to respective GitHub organizations
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – install nixos everywhere via ssh [maintainer=@numtide]
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
 - [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
