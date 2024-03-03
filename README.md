@@ -2470,6 +2470,7 @@
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) – Secure and fast microVMs for serverless computing.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
+- [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker) – cwe_checker finds vulnerable patterns in binary executables
 - [flo-at/minmon](https://github.com/flo-at/minmon) – MinMon - an opinionated minimal monitoring and alarming tool
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
