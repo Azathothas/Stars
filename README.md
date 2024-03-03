@@ -1505,6 +1505,7 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
+- [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) – nix dotfiles for chilly people
 - [codedsprit/nix-config](https://github.com/codedsprit/nix-config) – ❄️ NixOS configuration
