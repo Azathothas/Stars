@@ -972,6 +972,7 @@
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
+- [richardlehane/siegfried](https://github.com/richardlehane/siegfried) – signature-based file format identification
 - [riza/linx](https://github.com/riza/linx) – Reveals invisible links within JavaScript files
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
