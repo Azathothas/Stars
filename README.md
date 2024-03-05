@@ -647,6 +647,7 @@
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) –  Telegram Drive Storage
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
@@ -1061,6 +1062,7 @@
 - [trickest/mksub](https://github.com/trickest/mksub) – Generate tens of thousands of subdomain combinations in a matter of seconds
 - [trickest/trickest-cli](https://github.com/trickest/trickest-cli) – Execute Trickest workflows right from your terminal
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify credentials
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) – Dead simple CLI Display Manager on TTY
