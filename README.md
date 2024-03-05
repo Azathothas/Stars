@@ -761,7 +761,7 @@
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
-- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram downloader/tools written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram tookit written in Golang
 - [izzetemredemir/GoSitemap2Md](https://github.com/izzetemredemir/GoSitemap2Md) – GoSitemap2Md is a Golang program that generates a sitemap URL in Markdown format and stores the URLs in a urls.json file for easy adding of new URLs. This tool simplifies the process of generating and maintaining a sitemap for your website.
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) – goverview - Get an overview of the list of URLs
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) – OSINT tools and more but without API key
@@ -1528,6 +1528,7 @@
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
+- [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
@@ -1945,6 +1946,7 @@
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [NickSanzotta/scanman](https://github.com/NickSanzotta/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) – The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [OfriOuzan/HardeningMeter](https://github.com/OfriOuzan/HardeningMeter) – HardeningMeter is an open-source Python tool carefully designed to comprehensively assess the security hardening of binaries and systems.
 - [Ophion-Security/public-scanners](https://github.com/Ophion-Security/public-scanners) – Scripts to scan for specific technology vulnerabilities.
@@ -2200,6 +2202,7 @@
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) – dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) – Linux device manager for Logitech devices
 - [pygments/pygments](https://github.com/pygments/pygments) – Pygments is a generic syntax highlighter written in Python
+- [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) – Freeze (package) Python programs into stand-alone executables
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [qtc-de/webshell-cli](https://github.com/qtc-de/webshell-cli) – A simple command line interface for webshells
 - [quarkslab/AERoot](https://github.com/quarkslab/AERoot) – AERoot is a command line tool that allows you to give root privileges on-the-fly to any process running on the Android emulator with Google Play flavors AVDs.
@@ -2293,7 +2296,7 @@
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) – Entry point for issues and wiki. Also contains some scripts and sources.
 - [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist
 - [xnl-h4ck3r/urless](https://github.com/xnl-h4ck3r/urless) – De-clutter a list of URLs
-- [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) – Find way more from the Wayback Machine!
+- [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) – Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan & VirusTotal!
 - [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) – A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) – :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -2920,7 +2923,7 @@
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
-- [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
+- [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
@@ -3016,6 +3019,7 @@
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
+- [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) – Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) – GitHub Action for building and uploading Rust binary to GitHub Releases.
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
