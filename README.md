@@ -245,6 +245,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
+- [aristosMiliaressis/pwnctl](https://github.com/aristosMiliaressis/pwnctl) – a recon framework that facilitates discovering, scanning and monitoring assets trough a configurable engine running on serverless aws infrastructure.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
@@ -2718,6 +2719,7 @@
 
 ## Shell
 
+- [0xSpidey/cloudrecon](https://github.com/0xSpidey/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) – Quickly analyze and reverse engineer Android packages
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
