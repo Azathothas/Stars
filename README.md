@@ -467,6 +467,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [Forest33/warthog](https://github.com/Forest33/warthog) – Cross platform gRPC GUI client
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
+- [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) – A full desktop environment for Linux/Unix using Fyne
 - [GhostTroops/go4Hacker](https://github.com/GhostTroops/go4Hacker) – Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) – Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [GoToolSharing/htb-cli](https://github.com/GoToolSharing/htb-cli) – Interact with Hackthebox using your terminal - Be faster and more competitive !
@@ -554,6 +555,7 @@
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) – OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appleboy/drone-scp](https://github.com/appleboy/drone-scp) – Copy files and artifacts via SSH using a binary, docker or Drone CI.
+- [apptainer/apptainer](https://github.com/apptainer/apptainer) – Apptainer: Application containers for Linux
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) – aptly - Debian repository management tool
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) – Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -906,6 +908,8 @@
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
+- [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
@@ -1038,6 +1042,7 @@
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
+- [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
@@ -1070,6 +1075,7 @@
 - [txn2/txeh](https://github.com/txn2/txeh) – Go library and CLI utility for /etc/hosts management.
 - [txthinking/brook](https://github.com/txthinking/brook) – A cross-platform programmable network tool
 - [txthinking/nami](https://github.com/txthinking/nami) – A clean and tidy decentralized package manager.
+- [u-root/cpu](https://github.com/u-root/cpu) – cpu command in Go, inspired by the Plan 9 cpu command
 - [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – Own your $HOME
@@ -1509,6 +1515,7 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
+- [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [chadcat7/crystal](https://github.com/chadcat7/crystal) – nix dotfiles for chilly people
@@ -1517,6 +1524,7 @@
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
@@ -2035,7 +2043,7 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 - [disclose/diodb](https://github.com/disclose/diodb) – Open-source vulnerability disclosure and bug bounty program database
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
 - [dolevf/graphql-cop](https://github.com/dolevf/graphql-cop) – Security Auditor Utility for GraphQL APIs
@@ -2657,6 +2665,7 @@
 - [uutils/platform-info](https://github.com/uutils/platform-info) – A cross-platform way to get information about your machine
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [viperML/nh](https://github.com/viperML/nh) – Yet another nix cli helper
 - [voidash/8085-Emulator](https://github.com/voidash/8085-Emulator) – online 8085 emulator using Rust, WebAssembly and React
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
@@ -3205,6 +3214,7 @@
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
+- [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
