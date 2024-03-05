@@ -119,6 +119,7 @@
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
+- [cilium/pwru](https://github.com/cilium/pwru) – Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
@@ -200,6 +201,7 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
+- [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
@@ -1522,6 +1524,7 @@
 - [codedsprit/nix-config](https://github.com/codedsprit/nix-config) – ❄️ NixOS configuration
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
@@ -2634,6 +2637,7 @@
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
+- [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
@@ -2661,6 +2665,7 @@
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
 - [uutils/coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
+- [uutils/diffutils](https://github.com/uutils/diffutils) – Dropped in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
 - [uutils/platform-info](https://github.com/uutils/platform-info) – A cross-platform way to get information about your machine
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
@@ -2827,7 +2832,7 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
-- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键重装 / 一键 dd / One-click Reinstall OS
+- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键DD/重装脚本 (One-click script to reinstall OS on VPS)
 - [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
