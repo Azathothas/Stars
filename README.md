@@ -527,6 +527,7 @@
 - [WangYihang/Subdomain-Crawler](https://github.com/WangYihang/Subdomain-Crawler) – A program for collecting subdomains of a list of given second-level domains (SLD)
 - [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) – Application for runner lifecycle management
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) – Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- [X-Cotang/gowitness-plus](https://github.com/X-Cotang/gowitness-plus) – 🔍 gowitness+ - Add some new features
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [Z3NTL3/ProxyBeast](https://github.com/Z3NTL3/ProxyBeast) – Proxy Beast is a high-performance proxy checker that offers precise and rapid testing for HTTP, HTTPS, SOCK4, and SOCKS5 protocols. Its advanced capabilities make it an ideal choice for those who require reliable and efficient proxy testing.
