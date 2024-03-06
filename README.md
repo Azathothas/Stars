@@ -56,6 +56,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xslt](#xslt)
 - [Yara](#yara)
@@ -160,6 +161,7 @@
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect) – Tool to dynamicly redirect outputs of a running process
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
+- [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
@@ -220,6 +222,7 @@
 - [voltagex-forks/proxydroid](https://github.com/voltagex-forks/proxydroid) – Global Proxy for Android
 - [vvb2060/curl-android](https://github.com/vvb2060/curl-android) – curl tool and libcurl static library prefab for android
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) – SSHFS For Windows
+- [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
@@ -629,6 +632,7 @@
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
 - [containers/podman-tui](https://github.com/containers/podman-tui) – Podman Terminal UI
 - [containers/skopeo](https://github.com/containers/skopeo) – Work with remote images registries - retrieving information, images, signing content
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup)
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
 - [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -2528,6 +2532,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
+- [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
@@ -2699,6 +2704,7 @@
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
+- [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [zer0yu/anew](https://github.com/zer0yu/anew) – A tool for adding new lines to files, skipping duplicates and written in Rust!
@@ -3196,6 +3202,12 @@
 ## Vala
 
 - [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
+
+<div id="vim-script"></div>
+
+## Vim Script
+
+- [ghfli/ops](https://github.com/ghfli/ops) – Utilize contabo cntb and ubuntu multipass to set up production and dev environments  
 
 <div id="vue"></div>
 
