@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Autoit](#autoit)
 - [Batchfile](#batchfile)
@@ -62,6 +63,12 @@
 - [Yara](#yara)
 - [Zig](#zig)
 
+
+<div id="adblock-filter-list"></div>
+
+## Adblock Filter List
+
+- [SystemJargon/nrd-lists](https://github.com/SystemJargon/nrd-lists) – Aggregation of Newly Registered Domains (NRD) in AdGuard and pi-hole format
 
 <div id="assembly"></div>
 
@@ -1611,6 +1618,7 @@
 - [NitinYadav00/gf-patterns](https://github.com/NitinYadav00/gf-patterns) – Some of the gf patterns which i use
 - [NyaMisty/warp-on-actions](https://github.com/NyaMisty/warp-on-actions) – Install Cloudflare WARP on Github actions.
 - [PalindromeLabs/awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) – Awesome information for WebSockets security research
+- [PeterDaveHello/threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist) – Comprehensive domain blocklists for 🚨 threats (🕷malware, 🎣phishing, 🕵️spyware, 🤖botnets). Ideal for DNS-based filtering tools like Pi-Hole, AdGuard Home, Blocky.
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
@@ -1779,6 +1787,7 @@
 - [saeidshirazi/awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) – A curated list of Android Security materials and resources For Pentesters and Bug Hunters
 - [sanwebinfo/my-termux-setup](https://github.com/sanwebinfo/my-termux-setup) – Here is My Termux Terminal Emulator Setup & Packages
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
+- [shreshta-labs/newly-registered-domains](https://github.com/shreshta-labs/newly-registered-domains) – This repository contains lists of newly registered domain names updated daily.
 - [shutingrz/busybox-static-binaries-fat](https://github.com/shutingrz/busybox-static-binaries-fat)
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) – Awesome list dedicated to Windows Subsystem for Linux
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book)
@@ -1973,6 +1982,7 @@
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
 - [Sybil-Scan/TLDbrute](https://github.com/Sybil-Scan/TLDbrute) – A simple utility to generate domain names with all possible TLDs
 - [Syzik/DockerRegistryGrabber](https://github.com/Syzik/DockerRegistryGrabber) – Enumerate / Dump Docker Registry
@@ -2152,6 +2162,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – 🐧 A list of awesome Linux softwares 
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) – BBT - Bug Bounty Tools (examples💡)
+- [maaaaz/dnsdumps](https://github.com/maaaaz/dnsdumps) – Various DNS dumps (daily new domains, FQDNs, etc.)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
@@ -2788,6 +2799,7 @@
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
+- [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
