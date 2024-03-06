@@ -2020,6 +2020,7 @@
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers.
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
+- [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) – Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [brevityinmotion/goodfaith](https://github.com/brevityinmotion/goodfaith) – Stay within program scope
@@ -2607,6 +2608,8 @@
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
+- [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
 - [queer/atsi](https://github.com/queer/atsi) – instant rootless Alpine shells
 - [queer/boxxy](https://github.com/queer/boxxy) – boxxy puts bad Linux applications in a box with only their files.
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
