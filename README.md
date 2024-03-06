@@ -403,6 +403,7 @@
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [karellen/karellen-gha-runner](https://github.com/karellen/karellen-gha-runner) – Karellen GitHub Action Server Docker Image
+- [kpcyrd/i-probably-didnt-backdoor-this](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) – A practical experiment on supply-chain security using reproducible builds
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) – Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
@@ -623,6 +624,7 @@
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
+- [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
 - [containers/podman-tui](https://github.com/containers/podman-tui) – Podman Terminal UI
@@ -786,6 +788,7 @@
 - [jvns/dns-doctor](https://github.com/jvns/dns-doctor)
 - [k1LoW/runn](https://github.com/k1LoW/runn) – runn is a package/tool for running operations following a scenario.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [kahing/goofys](https://github.com/kahing/goofys) – a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the relevant binary, and unpacks it, ensuring a hassle-free experience.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
@@ -1714,6 +1717,7 @@
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
+- [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
@@ -2191,6 +2195,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
 - [ortegaalfredo/aiTrans](https://github.com/ortegaalfredo/aiTrans) – Multi-language transpiler (source-to-source compiler) using AI
+- [p-fruck/python-contabo](https://github.com/p-fruck/python-contabo) – Fully featured Python wrapper for the Contabo API
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) – GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
 - [p0dalirius/RDWAtool](https://github.com/p0dalirius/RDWAtool) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
 - [p0dalirius/crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) – Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
