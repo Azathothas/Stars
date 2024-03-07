@@ -3262,6 +3262,7 @@
 
 ## Zig
 
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
