@@ -653,6 +653,7 @@
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [deepfence/YaraHunter](https://github.com/deepfence/YaraHunter) – 🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
@@ -1325,6 +1326,7 @@
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) – Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Artillery!
+- [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) – Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
 - [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – Even Better: improve your Caido UI with this simple script :D
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
