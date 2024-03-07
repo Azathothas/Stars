@@ -514,6 +514,7 @@
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) – mTLS-Encrypted Back-Connect SOCKS5 Proxy
+- [RikunjSindhwad/Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) – Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters! 
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) – A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
@@ -1925,6 +1926,7 @@
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) – Easily manage Linux Chroot(s) and Containers with Atoms.
+- [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) – The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) – Binary instrumentation framework based on FRIDA
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
