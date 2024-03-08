@@ -1298,7 +1298,7 @@
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) – HeapDump敏感信息提取工具
 - [xfarrow/locatemydevice](https://github.com/xfarrow/locatemydevice) – Application miming Google's Find My Device through SMS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tv running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) – Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 <div id="javascript"></div>
