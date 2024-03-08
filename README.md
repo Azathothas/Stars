@@ -157,6 +157,7 @@
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
+- [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
 - [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small old utilities for Linux networking.
 - [irssi/irssi](https://github.com/irssi/irssi) – The client of the future
