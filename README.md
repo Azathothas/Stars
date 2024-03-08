@@ -315,6 +315,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
+- [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
