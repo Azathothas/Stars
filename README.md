@@ -1666,6 +1666,7 @@
 - [bromite/bromite](https://github.com/bromite/bromite) – Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [caido/awesome](https://github.com/caido/awesome) – 🔗 A curated list of awesome Caido related projects
+- [caido/workflows](https://github.com/caido/workflows) – Workflows created by the community
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [chaitin/xpoc](https://github.com/chaitin/xpoc) – 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
