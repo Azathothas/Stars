@@ -869,6 +869,10 @@
 - [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) – Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
+- [minio/dperf](https://github.com/minio/dperf) – Drive performance measurement tool
+- [minio/mc](https://github.com/minio/mc) – Simple | Fast tool to manage MinIO clusters :cloud:
+- [minio/minio](https://github.com/minio/minio) – The Object Store for AI Data Infrastructure
+- [minio/warp](https://github.com/minio/warp) – S3 benchmarking tool
 - [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
 - [mittwald/mittnite](https://github.com/mittwald/mittnite) – Small init system with templated config files; to be used as container entrypoint
 - [mlcsec/headi](https://github.com/mlcsec/headi) – Customisable  and automated HTTP header injection
