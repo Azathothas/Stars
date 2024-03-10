@@ -254,6 +254,7 @@
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) – PowerShell for every system!
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) – the subtitle editor :)
 - [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [aristosMiliaressis/pwnctl](https://github.com/aristosMiliaressis/pwnctl) – a recon framework that facilitates discovering, scanning and monitoring assets trough a configurable engine running on serverless aws infrastructure.
@@ -2285,6 +2286,7 @@
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
 - [simple-login/app](https://github.com/simple-login/app) – The SimpleLogin back-end and web app
 - [six2dez/postleaksNg](https://github.com/six2dez/postleaksNg) – Search for sensitive data in Postman public library. Original work from https://github.com/cosad3s/postleaks
+- [smacke/ffsubsync](https://github.com/smacke/ffsubsync) – Automagically synchronize subtitles with video.
 - [smol-ai/developer](https://github.com/smol-ai/developer) – the first library to let you embed a developer agent in your own app!
 - [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
