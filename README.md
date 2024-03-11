@@ -3163,7 +3163,6 @@
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Azathothas/pub.ajam.dev](https://github.com/Azathothas/pub.ajam.dev) – Wrangler Deploy (CF R2) Config for https://pub.ajam.dev
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
