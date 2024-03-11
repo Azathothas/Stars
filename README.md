@@ -1078,6 +1078,7 @@
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
+- [tanaikech/goodls](https://github.com/tanaikech/goodls) – This is a CLI tool to download shared files and folders from Google Drive.
 - [tarunKoyalwar/talosplus](https://github.com/tarunKoyalwar/talosplus) – Talosplus is a fast and robust template based Intelligent automation framework primarily developed for Bug Bounty Automation
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
@@ -1601,7 +1602,7 @@
 - [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
@@ -2394,6 +2395,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) – Network scanner
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
