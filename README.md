@@ -1332,6 +1332,7 @@
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
+- [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
@@ -1386,6 +1387,7 @@
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) – Client Side Prototype Pollution Scanner
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
+- [netnr/workers](https://github.com/netnr/workers) – Cloudflare Workers
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) – The next generation OONI Probe desktop app
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
@@ -3160,7 +3162,6 @@
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Azathothas/bin.ajam.dev](https://github.com/Azathothas/bin.ajam.dev) – Wrangler Deploy (CF R2) Config for https://bin.ajam.dev
 - [Azathothas/pub.ajam.dev](https://github.com/Azathothas/pub.ajam.dev) – Wrangler Deploy (CF R2) Config for https://pub.ajam.dev
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
@@ -3181,6 +3182,8 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) – ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++/C projects.
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
+- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – GitHub Action for UPX, the Ultimate Packer for eXecutables
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
@@ -3236,6 +3239,7 @@
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code  💻 🚀 ✨
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
+- [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – Yet another PasteBin based on Cloudflare Worker and KV
 
 <div id="vala"></div>
 
@@ -3262,6 +3266,7 @@
 - [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for static site generators.
+- [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 
 <div id="xslt"></div>
 
