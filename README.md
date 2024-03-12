@@ -398,7 +398,7 @@
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – server status & toolbox app using Flutter
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
 
