@@ -3237,7 +3237,7 @@
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Pipelines
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code  💻 🚀 ✨
+- [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – Yet another PasteBin based on Cloudflare Worker and KV
