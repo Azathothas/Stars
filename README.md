@@ -481,6 +481,7 @@
 - [Eun/sshkeys](https://github.com/Eun/sshkeys) – Get all ssh public keys of a ssh server
 - [FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound) – FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool. 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [FiloSottile/sunlight](https://github.com/FiloSottile/sunlight) – A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
 - [Forest33/warthog](https://github.com/Forest33/warthog) – Cross platform gRPC GUI client
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) – A full desktop environment for Linux/Unix using Fyne
@@ -2610,6 +2611,7 @@
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
+- [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
