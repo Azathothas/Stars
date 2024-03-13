@@ -1956,6 +1956,7 @@
 - [ElSicarius/Supp-truder](https://github.com/ElSicarius/Supp-truder) – Supertruder but better
 - [EntySec/Ghost](https://github.com/EntySec/Ghost) – Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
 - [EntySec/Shreder](https://github.com/EntySec/Shreder) – Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
+- [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) – Obtain GraphQL API Schema even if the introspection is not enabled
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – Web application for Freedium.cfd
@@ -2051,6 +2052,7 @@
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) – AWS, Azure, Alibaba and Google bucket scanner
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) – Tools & Interesting Things for RedTeam Ops
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
+- [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy) – A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses!
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers.
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
