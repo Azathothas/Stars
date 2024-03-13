@@ -1754,6 +1754,7 @@
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
+- [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 A collection of wordlists for many different usages
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [linuxone-community-cloud/technical-resources](https://github.com/linuxone-community-cloud/technical-resources) – Repository for technical resources
