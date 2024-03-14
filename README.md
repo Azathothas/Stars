@@ -566,6 +566,7 @@
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [ameshkov/gocurl](https://github.com/ameshkov/gocurl) – Simplified version of curl written in pure Go
 - [ameshkov/godnsbench](https://github.com/ameshkov/godnsbench) – Simple DNS bench util that supports encrypted protocols.
+- [anandvarma/namegen](https://github.com/anandvarma/namegen) – 🌈 A unique(ish) random name and id generator 
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -1114,6 +1115,7 @@
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
+- [ugol/jr](https://github.com/ugol/jr) – JR: streaming quality random data from the command line
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -1121,6 +1123,7 @@
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1150,6 +1153,7 @@
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
@@ -2546,6 +2550,7 @@
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
+- [gngpp/vproxy](https://github.com/gngpp/vproxy) – IPv6 Subnet-based Proxy for Generating Random IP Requests
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
@@ -2692,6 +2697,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
+- [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
