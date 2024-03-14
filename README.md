@@ -3003,6 +3003,7 @@
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
+- [modernish/modernish](https://github.com/modernish/modernish) – Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [moovweb/gvm](https://github.com/moovweb/gvm) – Go Version Manager
 - [moparisthebest/static-curl](https://github.com/moparisthebest/static-curl) – fully static builds of curl, runs anywhere
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) – CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers.
