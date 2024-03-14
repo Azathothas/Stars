@@ -1153,7 +1153,7 @@
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
-- [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave
+- [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
