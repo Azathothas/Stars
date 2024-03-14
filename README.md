@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Autoit](#autoit)
 - [Batchfile](#batchfile)
+- [Bitbake](#bitbake)
 - [Blitzbasic](#blitzbasic)
 - [C](#c)
 - [C#](#c#)
@@ -94,6 +95,12 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
+
+<div id="bitbake"></div>
+
+## Bitbake
+
+- [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) – Embedded Linux distribution optimized for product development (based on OE/Yocto)
 
 <div id="blitzbasic"></div>
 
@@ -2875,7 +2882,6 @@
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) – An X11 server and client libraries for macOS
-- [YoeDistro/yoe-distro](https://github.com/YoeDistro/yoe-distro) – Embedded Linux distribution optimized for product development (based on OE/Yocto)
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
