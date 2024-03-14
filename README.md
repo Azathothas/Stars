@@ -304,6 +304,7 @@
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
@@ -2731,6 +2732,7 @@
 - [voidash/8085-Emulator](https://github.com/voidash/8085-Emulator) – online 8085 emulator using Rust, WebAssembly and React
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
+- [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
