@@ -560,6 +560,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
 - [activecm/rita](https://github.com/activecm/rita) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
+- [adhocore/gronx](https://github.com/adhocore/gronx) – Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
@@ -2942,6 +2943,7 @@
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My files for security assessments, bug bounty and other security related stuff
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
+- [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) – Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
