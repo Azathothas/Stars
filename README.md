@@ -2430,7 +2430,7 @@
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
