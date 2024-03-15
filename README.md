@@ -234,6 +234,7 @@
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
 - [vanhauser-thc/thc-ipv6](https://github.com/vanhauser-thc/thc-ipv6) – IPv6 attack toolkit
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
+- [void-linux/xbps](https://github.com/void-linux/xbps) – The X Binary Package System (XBPS)
 - [voltagex-forks/proxydroid](https://github.com/voltagex-forks/proxydroid) – Global Proxy for Android
 - [vvb2060/curl-android](https://github.com/vvb2060/curl-android) – curl tool and libcurl static library prefab for android
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) – SSHFS For Windows
