@@ -731,6 +731,7 @@
 - [fyoorer/ffufsee](https://github.com/fyoorer/ffufsee) – Ffuf output browser
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
 - [g0ldencybersec/EasyEASM](https://github.com/g0ldencybersec/EasyEASM) – Zero-dollar attack surface management tool
+- [g0ldencybersec/gungnir](https://github.com/g0ldencybersec/gungnir) – CT Log Scanner
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
