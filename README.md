@@ -267,6 +267,7 @@
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [aristosMiliaressis/pwnctl](https://github.com/aristosMiliaressis/pwnctl) – a recon framework that facilitates discovering, scanning and monitoring assets trough a configurable engine running on serverless aws infrastructure.
 - [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
+- [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) – Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
@@ -1532,6 +1533,7 @@
 - [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
+- [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 
 <div id="markdown"></div>
 
@@ -2951,7 +2953,6 @@
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
-- [felicia-wen/HttpCanary-SSL-Magisk](https://github.com/felicia-wen/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
@@ -3023,6 +3024,7 @@
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
 - [metis-os/metis-wallpapers](https://github.com/metis-os/metis-wallpapers) – ✨  A collection of beautiful wallpapers for @metis-os
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
+- [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
 - [modernish/modernish](https://github.com/modernish/modernish) – Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
