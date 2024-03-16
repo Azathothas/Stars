@@ -568,6 +568,7 @@
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
+- [alexei-led/pumba](https://github.com/alexei-led/pumba) – Chaos testing, network emulation, and stress testing tool for containers
 - [alist-org/alist](https://github.com/alist-org/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [alwaystest18/hbit](https://github.com/alwaystest18/hbit) – 一款用于安全测试中信息收集的自动化工具
 - [alwaystest18/hostCollision](https://github.com/alwaystest18/hostCollision) – 一款host碰撞工具，做了较多的误报优化
