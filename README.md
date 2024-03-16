@@ -1736,6 +1736,7 @@
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [fightwing/Free-Own-VPN](https://github.com/fightwing/Free-Own-VPN) – Free and Easy! Set up your own personal VPN using AWS EC2 and Outline with our easy-to-follow tutorial. Get the benefits of a secure, private connection without paying for a subscription. 
 - [freefq/free](https://github.com/freefq/free) – 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+- [fscarmen/warp-on-actions](https://github.com/fscarmen/warp-on-actions) – Install Cloudflare WARP on Github actions.
 - [fscarmen2/V2-for-Patr](https://github.com/fscarmen2/V2-for-Patr)
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
