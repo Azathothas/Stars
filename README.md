@@ -589,6 +589,7 @@
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appleboy/drone-scp](https://github.com/appleboy/drone-scp) – Copy files and artifacts via SSH using a binary, docker or Drone CI.
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) – Apptainer: Application containers for Linux
+- [aptible/supercronic](https://github.com/aptible/supercronic) – Cron for containers
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) – aptly - Debian repository management tool
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) – Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
