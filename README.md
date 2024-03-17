@@ -421,6 +421,7 @@
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [Rikorose/gcc-cmake](https://github.com/Rikorose/gcc-cmake) – Docker container build on top off the official gcc image including cmake
+- [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
@@ -1094,6 +1095,7 @@
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) – Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) – This is a CLI tool to download shared files and folders from Google Drive.
 - [tarunKoyalwar/talosplus](https://github.com/tarunKoyalwar/talosplus) – Talosplus is a fast and robust template based Intelligent automation framework primarily developed for Bug Bounty Automation
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
@@ -2090,6 +2092,7 @@
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) – Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 - [cado-security/cloudgrep](https://github.com/cado-security/cloudgrep) – cloudgrep is grep for cloud storage
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) – Fancy reverse and bind shell handler
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) – Official upstream for the cloud-init: cloud instance initialization
 - [carlospolop/Gorks](https://github.com/carlospolop/Gorks)
 - [carlospolop/Leakos](https://github.com/carlospolop/Leakos)
 - [carlospolop/Pastos](https://github.com/carlospolop/Pastos)
