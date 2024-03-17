@@ -2470,6 +2470,7 @@
 - [TheBinitGhimire/NtHiM](https://github.com/TheBinitGhimire/NtHiM) – Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
+- [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
