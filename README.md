@@ -1721,6 +1721,7 @@
 - [dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) – This repository contains a collection of cheatsheets I have put together for tools related to pentesting organizations that leverage cloud providers.
 - [dalisoft/awesome-hosting](https://github.com/dalisoft/awesome-hosting) – List of awesome hosting sorted by minimal plan price
 - [dduzgun-security/github-self-hosted-runners](https://github.com/dduzgun-security/github-self-hosted-runners) – Guideline of best practices to follow to configure Github Enterprise Cloud self-hosted runners in a secure way.
+- [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) – A collection of awesome security hardening guides, tools and other resources
 - [devsdenepal/AnnualProgress](https://github.com/devsdenepal/AnnualProgress) – Repo representing my past involvements*.
 - [devsdenepal/When_Nepal_was_h4ck3d](https://github.com/devsdenepal/When_Nepal_was_h4ck3d) – Record of dates and events of popular hacking attacks noticed and reported through social media and news.
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
@@ -3004,6 +3005,7 @@
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [kokoko3k/ssh-rdp](https://github.com/kokoko3k/ssh-rdp) – Real display ssh based remote desktop
+- [konstruktoid/hardening](https://github.com/konstruktoid/hardening) – Hardening Ubuntu. Systemd edition.
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
