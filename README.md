@@ -1097,7 +1097,6 @@
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) – Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) – This is a CLI tool to download shared files and folders from Google Drive.
 - [tarunKoyalwar/talosplus](https://github.com/tarunKoyalwar/talosplus) – Talosplus is a fast and robust template based Intelligent automation framework primarily developed for Bug Bounty Automation
@@ -1515,6 +1514,7 @@
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
@@ -2379,7 +2379,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) – :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser)
 - [zer1t0/awsenum](https://github.com/zer1t0/awsenum) – Enumerate AWS permissions and resources.
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
