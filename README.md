@@ -607,6 +607,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
+- [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -2223,6 +2224,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+- [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve their internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
@@ -3080,6 +3082,7 @@
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) – Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) – Use Mullvad VPN along with Tailscale and/or Zerotier
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
