@@ -2653,6 +2653,7 @@
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
+- [norskeld/pingmole](https://github.com/norskeld/pingmole) – CLI that helps to filter Mullvad servers and pick the closest one.
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [numtide/system-manager](https://github.com/numtide/system-manager) – Manage system config using nix on any distro
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
