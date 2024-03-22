@@ -1099,7 +1099,6 @@
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) – Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) – This is a CLI tool to download shared files and folders from Google Drive.
 - [tarunKoyalwar/talosplus](https://github.com/tarunKoyalwar/talosplus) – Talosplus is a fast and robust template based Intelligent automation framework primarily developed for Bug Bounty Automation
@@ -1517,6 +1516,7 @@
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
+- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
