@@ -2627,6 +2627,7 @@
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) – Semi-automatic OSINT framework and package manager
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
+- [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely on Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) – A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
