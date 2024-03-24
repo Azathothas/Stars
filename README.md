@@ -156,6 +156,7 @@
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
+- [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) – Connect like there is no firewall. Securely.
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
