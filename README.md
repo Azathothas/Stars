@@ -1134,7 +1134,7 @@
 - [u-root/cpu](https://github.com/u-root/cpu) – cpu command in Go, inspired by the Plan 9 cpu command
 - [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) – Own your $HOME
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) – [deprecated] Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [ugol/jr](https://github.com/ugol/jr) – JR: streaming quality random data from the command line
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
