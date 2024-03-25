@@ -167,6 +167,8 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+- [iovisor/bcc](https://github.com/iovisor/bcc) – BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [iproute2/iproute2](https://github.com/iproute2/iproute2) – Iproute2 Source Code Mirror - This is a publish-only repository. Please follow README.devel procedure for any changes.
 - [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small old utilities for Linux networking.
 - [irssi/irssi](https://github.com/irssi/irssi) – The client of the future
@@ -198,6 +200,7 @@
 - [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
+- [netblue30/firejail](https://github.com/netblue30/firejail) – Linux namespaces and seccomp-bpf sandbox
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
@@ -328,6 +331,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [flox/flox](https://github.com/flox/flox) – Developer environments you can take with you
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
+- [google/nsjail](https://github.com/google/nsjail) – A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
@@ -595,6 +599,7 @@
 - [aptible/supercronic](https://github.com/aptible/supercronic) – Cron for containers
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) – aptly - Debian repository management tool
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) – Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
@@ -647,6 +652,7 @@
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) – The SSH directory ✨
 - [cheat/cheat](https://github.com/cheat/cheat) – cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [chmouel/gosmee](https://github.com/chmouel/gosmee) – Command line server and client for webhooks deliveries (and https://smee.io)
+- [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cloudbase/garm](https://github.com/cloudbase/garm) – GitHub Actions Runners Manager
@@ -1505,6 +1511,7 @@
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
+- [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info provides information about device hardware and software
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
@@ -2517,6 +2524,7 @@
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
+- [bpfman/bpfman](https://github.com/bpfman/bpfman) – An eBPF Manager for Linux and Kubernetes
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) – A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) – Brave's Rust-based adblock engine
 - [brocode/fblog](https://github.com/brocode/fblog) – Small command-line JSON Log viewer
@@ -2699,6 +2707,7 @@
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
+- [qmonnet/rbpf](https://github.com/qmonnet/rbpf) – Rust virtual machine and JIT compiler for eBPF programs
 - [queer/atsi](https://github.com/queer/atsi) – instant rootless Alpine shells
 - [queer/boxxy](https://github.com/queer/boxxy) – boxxy puts bad Linux applications in a box with only their files.
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
