@@ -1472,7 +1472,6 @@
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 and 13.
-- [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
 - [Droid-ify/client](https://github.com/Droid-ify/client) – F-Droid client with Material UI. 
 - [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
@@ -1642,6 +1641,7 @@
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – Can you change the server ?
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
+- [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
