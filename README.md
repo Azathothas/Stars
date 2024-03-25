@@ -2211,6 +2211,7 @@
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) – bypass-url-parser
+- [laluka/jolokia-exploitation-toolkit](https://github.com/laluka/jolokia-exploitation-toolkit) – jolokia-exploitation-toolkit
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [leetCipher/bug-bounty-labs](https://github.com/leetCipher/bug-bounty-labs) – All the labs in this repository simulate real world bugs I found in the wild
 - [lemonlove7/dirsearch_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) – 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
@@ -2488,6 +2489,7 @@
 - [XDream8/file-rs](https://github.com/XDream8/file-rs) – a tool for determining file types, extensions etc.
 - [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall and scripted MitM.
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
 - [aaronriekenberg/rust-parallel](https://github.com/aaronriekenberg/rust-parallel) – Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
