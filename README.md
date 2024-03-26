@@ -644,6 +644,7 @@
 - [cemulus/crt](https://github.com/cemulus/crt) – A CLI tool to check Certificate Transparency logs of a domain name.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
