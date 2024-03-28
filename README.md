@@ -1402,6 +1402,7 @@
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application.
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
@@ -2190,7 +2191,6 @@
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) – Natural language browser automation
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
-- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application.
 - [hoppersroppers/nightmare](https://github.com/hoppersroppers/nightmare)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -2639,7 +2639,7 @@
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [knassar702/lorsrf](https://github.com/knassar702/lorsrf) – Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:
 - [konradsz/igrep](https://github.com/konradsz/igrep) – Interactive Grep
-- [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Analyzer of security features in executable binaries
+- [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Moved: https://codeberg.org/koutheir/binary-security-check
 - [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 p2p gossip network for update transparency, based on pgp 🥸
 - [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - reproducible builds
 - [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
