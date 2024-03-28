@@ -1101,7 +1101,7 @@
 - [square/certstrap](https://github.com/square/certstrap) – Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [stateful/runme](https://github.com/stateful/runme) – Execute your runbooks, docs, and READMEs.
+- [stateful/runme](https://github.com/stateful/runme) – DevOps Workflows Built with Markdown
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
 - [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine 
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -1402,7 +1402,7 @@
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application.
+- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
