@@ -1082,6 +1082,7 @@
 - [shenwei356/brename](https://github.com/shenwei356/brename) – A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
 - [shenwei356/csvtk](https://github.com/shenwei356/csvtk) – A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 - [shirou/toybox](https://github.com/shirou/toybox) – golang implemenation of busybox
+- [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) – A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [shogo82148/androidbinary](https://github.com/shogo82148/androidbinary) – Android binary file parser written in golang
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) – CLI and Go API to Test Internet Speed using speedtest.net
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) – Command-line XML and HTML beautifier and content extractor
@@ -1777,6 +1778,7 @@
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) – 📜 A collective list of public GraphQL APIs
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
 - [h33tlit/secret-regex-list](https://github.com/h33tlit/secret-regex-list) – List of regex for scraping secret API keys and juicy information.
+- [h4x0r-dz/Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) – how to look for Leaked Credentials !
 - [hAPI-hacker/Hacking-APIs](https://github.com/hAPI-hacker/Hacking-APIs)
 - [hackerschoice/Toolpacks](https://github.com/hackerschoice/Toolpacks) – Statically Linked Binaries as Packaged Tools for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place
 - [hahwul/RegexPassive](https://github.com/hahwul/RegexPassive) – 🔭 Collection of regexp pattern for security passive scanning
