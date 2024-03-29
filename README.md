@@ -724,6 +724,7 @@
 - [edoardottt/csprecon](https://github.com/edoardottt/csprecon) – Discover new target domains using Content Security Policy 
 - [edoardottt/favirecon](https://github.com/edoardottt/favirecon) – Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services.
 - [edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools) – Little Bug Bounty & Hacking Tools⚔️
+- [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) – 🔒command line tool checking password safety🔒
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) – Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [elmasy-com/columbus-scanner](https://github.com/elmasy-com/columbus-scanner) – Log scanner CLI to upload to Columbus server.
