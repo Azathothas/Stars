@@ -217,6 +217,7 @@
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
+- [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
@@ -1626,8 +1627,8 @@
 
 ## Others
 
-- [0xPugazh/One-Liners](https://github.com/0xPugazh/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
-- [0xPugazh/fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
+- [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
+- [0xPugal/fuzz4bounty](https://github.com/0xPugal/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [0xdabbad00/security_incidents_from_caching](https://github.com/0xdabbad00/security_incidents_from_caching) – Collection of incidents resulting from caching issues
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) – Cybersecurity oriented awesome list
 - [0xtavian/awesome-attack-surface-monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
@@ -1686,6 +1687,7 @@
 - [NyaMisty/warp-on-actions](https://github.com/NyaMisty/warp-on-actions) – Install Cloudflare WARP on Github actions.
 - [PalindromeLabs/awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) – Awesome information for WebSockets security research
 - [PeterDaveHello/threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist) – Comprehensive domain blocklists for 🚨 threats (🕷malware, 🎣phishing, 🕵️spyware, 🤖botnets). Ideal for DNS-based filtering tools like Pi-Hole, AdGuard Home, Blocky.
+- [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) – The Unofficial PowerShell Best Practices and Style Guide
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
