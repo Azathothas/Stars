@@ -3266,6 +3266,7 @@
 - [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++/C projects.
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
+- [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
