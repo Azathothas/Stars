@@ -2858,7 +2858,7 @@
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdarshAddee/root](https://github.com/AdarshAddee/root) – Root - Access root previliges in termux without rooting android device
-- [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – This script fetches the Android System Information that written in pure Shell Script and can run in termux app easily.
+- [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – A tool efficiently displays Android system details on Termux.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
 - [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🐲 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
