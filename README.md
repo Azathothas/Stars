@@ -1108,7 +1108,7 @@
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [stateful/runme](https://github.com/stateful/runme) – DevOps Workflows Built with Markdown
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
-- [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine 
+- [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine (beta)
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
@@ -1257,7 +1257,7 @@
 ## Hcl
 
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
-- [fduran/sadservers](https://github.com/fduran/sadservers) – SadServers.com Public
+- [fduran/sadservers](https://github.com/fduran/sadservers) – SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [nccgroup/cowcloud](https://github.com/nccgroup/cowcloud)
 - [pumasecurity/serverless-prey](https://github.com/pumasecurity/serverless-prey) – Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions
