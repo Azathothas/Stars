@@ -1109,6 +1109,7 @@
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [stateful/runme](https://github.com/stateful/runme) – DevOps Workflows Built with Markdown
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
+- [stripe/smokescreen](https://github.com/stripe/smokescreen) – A simple HTTP proxy that fogs over naughty URLs    
 - [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine (beta)
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
@@ -3161,7 +3162,7 @@
 - [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
-- [stunnel/static-curl](https://github.com/stunnel/static-curl) –  fully static builds cURL with HTTP3
+- [stunnel/static-curl](https://github.com/stunnel/static-curl) – static builds cURL with HTTP3
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) – Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) – GitHub Action for building and uploading Rust binary to GitHub Releases.
