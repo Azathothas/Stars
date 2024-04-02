@@ -928,6 +928,7 @@
 - [moul/sshportal](https://github.com/moul/sshportal) – :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [mr-pmillz/gofireprox](https://github.com/mr-pmillz/gofireprox) – FireProx written in Go
+- [mrrootsec/AssetViz](https://github.com/mrrootsec/AssetViz) –  AssetViz simplifies the visualization of subdomains from input files, presenting them as a coherent mind map. Ideal for penetration testers and bug bounty hunters conducting reconnaissance, AssetViz provides intuitive insights into domain structures for informed decision-making. 
 - [mrusme/cexec](https://github.com/mrusme/cexec) – Execute any command, cache its output and get cached output on subsequent execution
 - [mrusme/cloudcash](https://github.com/mrusme/cloudcash) – Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [mrusme/planor](https://github.com/mrusme/planor) – The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
@@ -2668,6 +2669,7 @@
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
+- [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
@@ -2743,6 +2745,7 @@
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
+- [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) – Core POSIX command line utilities in safe Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop, and alternative to TeamViewer.
 - [rustne-kretser/noline](https://github.com/rustne-kretser/noline) – IO-agnostic line editor for embedded systems
 - [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
@@ -3113,7 +3116,7 @@
 - [phd/chromium-repo](https://github.com/phd/chromium-repo) – Chromium Browser .deb repositories for Ubuntu 20.04+
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
-- [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
+- [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
