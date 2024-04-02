@@ -435,6 +435,7 @@
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
+- [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
 - [karellen/karellen-gha-runner](https://github.com/karellen/karellen-gha-runner) – Karellen GitHub Action Server Docker Image
 - [kpcyrd/i-probably-didnt-backdoor-this](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) – A practical experiment on supply-chain security using reproducible builds
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -2803,7 +2804,7 @@
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
 - [uutils/coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
-- [uutils/diffutils](https://github.com/uutils/diffutils) – Dropped in replacement of diffutils in Rust
+- [uutils/diffutils](https://github.com/uutils/diffutils) – Drop-in in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
 - [uutils/platform-info](https://github.com/uutils/platform-info) – A cross-platform way to get information about your machine
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
@@ -3053,7 +3054,6 @@
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) – s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-- [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
