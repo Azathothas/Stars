@@ -731,6 +731,8 @@
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [elmasy-com/columbus-scanner](https://github.com/elmasy-com/columbus-scanner) – Log scanner CLI to upload to Columbus server.
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) – Open Source External Attack Surface Management
+- [elvisgraho/cert-sub-go](https://github.com/elvisgraho/cert-sub-go) – Cert Sub Go is a tool to query SSL Certificate Transparency for subdomain discovery
+- [elvisgraho/jwt-cracker-go](https://github.com/elvisgraho/jwt-cracker-go) – jwt-cracker-go is a simple brute force cracker for HS256, HS384, and HS512 JWT tokens, inspired by jwt-cracker.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -2396,7 +2398,7 @@
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – a burp extension creates dynamic payloads to reveal injection flaws(LFI, RCE, SQLi), generates user access tables to spot authentication/authorization issues, and copys Http requests as JavaScript code.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) – 🚀 The best place to find icons for your dashboards.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) – 🚀 The best source for dashboard icons.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) – Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
