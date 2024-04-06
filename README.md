@@ -122,12 +122,12 @@
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation 🍥
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
+- [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-- [WayneD/rsync](https://github.com/WayneD/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
@@ -420,6 +420,7 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
+- [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 
 <div id="dockerfile"></div>
 
@@ -1113,6 +1114,7 @@
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) – Sower is a cross-platform intelligent transparent proxy solution.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
+- [spf13/cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions
 - [square/certstrap](https://github.com/square/certstrap) – Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
@@ -1216,6 +1218,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
+- [zonedb/zonedb](https://github.com/zonedb/zonedb) – Public Zone Database
 - [zyedidia/eget](https://github.com/zyedidia/eget) – Easily install prebuilt binaries from GitHub.
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
 - [zyylhn/zscan](https://github.com/zyylhn/zscan) – Zscan a scan blasting tool set
@@ -1569,6 +1572,7 @@
 
 ## Makefile
 
+- [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
