@@ -835,7 +835,7 @@
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) – Instant, easy, and predictable development environments
+- [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2291,6 +2291,7 @@
 - [mschwager/route-detect](https://github.com/mschwager/route-detect) – Find authentication (authn) and authorization (authz) security bugs in web application routes.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) – MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [mxbi/tailscale-hostmap](https://github.com/mxbi/tailscale-hostmap) – Automatically map Tailscale hosts to DNS names locally
+- [mxmlnkn/ratarmount](https://github.com/mxmlnkn/ratarmount) – Access large archives as a filesystem efficiently, e.g., TAR, RAR, ZIP, GZ, BZ2, XZ, ZSTD archives
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) – 🕵️‍♂️ Offensive Google framework.
 - [mxrch/GitFive](https://github.com/mxrch/GitFive) – 🐙 Track down GitHub users.
 - [mzfr/slicer](https://github.com/mzfr/slicer) – A tool to automate the boring process of APK recon
