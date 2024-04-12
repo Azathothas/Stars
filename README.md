@@ -1319,6 +1319,7 @@
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
 - [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) – HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1327,7 +1328,6 @@
 - [cryptax/misc-code](https://github.com/cryptax/misc-code) – Miscellaneous code
 - [d3mondev/burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) – This Burp Suite extension allows for the automatic creation and deletion of an upstream SOCKS5 proxy on popular cloud services.
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) – Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) – A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) – No-root network monitor, firewall and PCAP dumper for Android
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) – The new bridge between Burp Suite and Frida!
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) – Burp Suite extension that offers a toolkit for testing GraphQL endpoints. 
