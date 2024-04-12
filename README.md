@@ -130,6 +130,7 @@
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -345,6 +346,7 @@
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) – A fast high compression read-only file system for Linux, Windows and macOS
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
@@ -393,6 +395,7 @@
 ## Cmake
 
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) – building android-sdk tools  for Android
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) – C++ Library Manager for Windows, Linux, and MacOS
 
 <div id="crystal"></div>
 
@@ -1681,7 +1684,7 @@
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track all the WireGuard mesh software
+- [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) – A guide to learn bash
@@ -1898,6 +1901,7 @@
 - [teamssix/awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) – awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) – Free, libre, effective, and data-driven wordlists for all!
 - [thehlopster/hfuzz](https://github.com/thehlopster/hfuzz) – Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
+- [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) – Awesome secure by default libraries to help you eliminate bug classes!
 - [trickest/cloud](https://github.com/trickest/cloud) – Monitoring the Cloud Landscape
 - [trickest/github-logs](https://github.com/trickest/github-logs) – Extracting OSINT Insights from 15TB of GitHub Event Logs
 - [trickest/insiders](https://github.com/trickest/insiders) – Archive of Potential Insider Threats
