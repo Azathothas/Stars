@@ -194,7 +194,10 @@
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) – Global Proxy for Android
+- [madler/pigz](https://github.com/madler/pigz) – A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
+- [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
+- [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
 - [micropython/micropython](https://github.com/micropython/micropython) – MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
@@ -351,6 +354,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [oasislinux/toolchain](https://github.com/oasislinux/toolchain) – a static toolchain targeting x86_64-linux-musl
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. 
@@ -1319,7 +1323,7 @@
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
 - [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) – HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) – Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -3119,6 +3123,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) – 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) – Desktop notifications for long-running commands in zsh.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) – YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+- [matan-h/adb-shell](https://github.com/matan-h/adb-shell) – better `adb shell` 
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
 - [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
@@ -3148,6 +3153,7 @@
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
 - [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [oasislinux/root-x86_64](https://github.com/oasislinux/root-x86_64)
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -3238,6 +3244,7 @@
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
+- [wowsignal-io/android-tools](https://github.com/wowsignal-io/android-tools)
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) – A collection of utilities for Windows Subsystem for Linux
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
 - [xhilmi/google-cloud](https://github.com/xhilmi/google-cloud) – Are you a GCP user? This will help u to simplify using GCP. This repo have a Based Setting to Allow Remote SSH, Setting Load Balancing, Setting Cloud DNS, and .etc
