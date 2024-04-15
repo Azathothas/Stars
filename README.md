@@ -2159,6 +2159,7 @@
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
+- [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
@@ -2324,6 +2325,7 @@
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
 - [ortegaalfredo/aiTrans](https://github.com/ortegaalfredo/aiTrans) – Multi-language transpiler (source-to-source compiler) using AI
+- [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) – BLint is a Binary Linter to check the security properties, and capabilities in your executables. Since v2, blint is also an SBOM generator for binaries.
 - [p-fruck/python-contabo](https://github.com/p-fruck/python-contabo) – Fully featured Python wrapper for the Contabo API
 - [p0dalirius/GeoWordlists](https://github.com/p0dalirius/GeoWordlists) – GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city.
 - [p0dalirius/RDWAtool](https://github.com/p0dalirius/RDWAtool) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
@@ -2332,6 +2334,7 @@
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) – Passive hostname, domain and IP lookup tool for non-robots
+- [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) – Simple internet performance tester written in Python
 - [praetorian-inc/gato](https://github.com/praetorian-inc/gato) – GitHub Actions Pipeline Enumeration and Attack Tool
 - [pry0cc/proteus](https://github.com/pry0cc/proteus) – A projectdiscovery driven attack surface monitoring bot powered by axiom 
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) – dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
@@ -2391,6 +2394,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) – Malicious traffic detection system
 - [stark0de/nginxpwner](https://github.com/stark0de/nginxpwner) – Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
 - [sting8k/BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) – Burpsuite Extension to bypass 403 restricted directory
+- [stolk/sotrace](https://github.com/stolk/sotrace) – Traces the shared-object dependencies of a binary, and graphs them.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) – GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
