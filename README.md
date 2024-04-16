@@ -343,6 +343,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
+- [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
@@ -881,6 +882,7 @@
 - [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
 - [lanrat/certgraph](https://github.com/lanrat/certgraph) – An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) – Really fast sync tool for S3
+- [lasseh/whynoipv6](https://github.com/lasseh/whynoipv6) – Shame the top 1Million websites without IPv6
 - [layou233/NeverIdle](https://github.com/layou233/NeverIdle) – 资源定期浪费，可用于 Oracle 甲骨文保活。
 - [lc/gau](https://github.com/lc/gau) – Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic) – EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
@@ -1083,6 +1085,7 @@
 - [sairash/chitosocket](https://github.com/sairash/chitosocket) – ChitoSocket - The best Socket Server
 - [sampointer/digaws](https://github.com/sampointer/digaws) – Look up region and other information for any AWS IP address
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) – Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
+- [sari3l/Poc-Monitor](https://github.com/sari3l/Poc-Monitor) – 🔍 Github CVE POC 信息监控推送 🚀
 - [sassoftware/relic](https://github.com/sassoftware/relic) – Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows
 - [schachmat/wego](https://github.com/schachmat/wego) – weather app for the terminal
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
@@ -1141,6 +1144,7 @@
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
+- [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
 - [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1173,6 +1177,7 @@
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [ugol/jr](https://github.com/ugol/jr) – JR: streaming quality random data from the command line
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
+- [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
@@ -1686,6 +1691,7 @@
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd open-source licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
@@ -2511,6 +2517,7 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
+- [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
@@ -2802,7 +2809,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) – A command-line benchmarking tool
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) – A command-line tool to generate, analyze, convert and manipulate colors
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
-- [sigoden/argc](https://github.com/sigoden/argc) – A bash cli framework, also a task management & automation tool.
+- [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash-based command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
