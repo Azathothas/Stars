@@ -37,6 +37,7 @@
 - [Mdx](#mdx)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nsis](#nsis)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -1643,6 +1644,12 @@
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
+
+<div id="nsis"></div>
+
+## Nsis
+
+- [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) – Backport of .NET 2.0 - 3.5 to Windows 9x
 
 <div id="objective-c"></div>
 
