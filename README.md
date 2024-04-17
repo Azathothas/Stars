@@ -502,6 +502,7 @@
 - [Damian89/yataf](https://github.com/Damian89/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
+- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Kubernetes Attack Graph
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) – Monitor linux processes without root permissions
@@ -518,6 +519,7 @@
 - [FyshOS/fynedesk](https://github.com/FyshOS/fynedesk) – A full desktop environment for Linux/Unix using Fyne
 - [GhostTroops/go4Hacker](https://github.com/GhostTroops/go4Hacker) – Automated penetration and auxiliary systems, providing XSS, XXE, DNS log, SSRF, RCE, web netcat and other Servers,gin-vue-admin，online https://51pwn.com
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) – Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [GoAid/md-html-cli](https://github.com/GoAid/md-html-cli) – 🔁 CLI tool for converting markdown to a single html file. 用于将 markdown 转换为单个 html 文件的 CLI 实用工具。
 - [GoToolSharing/htb-cli](https://github.com/GoToolSharing/htb-cli) – Interact with Hackthebox using your terminal - Be faster and more competitive !
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) – A user-space file system for interacting with Google Cloud Storage
 - [Hackmanit/TInjA](https://github.com/Hackmanit/TInjA) – TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.
@@ -785,10 +787,12 @@
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
+- [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goretk/redress](https://github.com/goretk/redress) – Redress - A tool for analyzing stripped Go binaries
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) – A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) – A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
@@ -864,6 +868,7 @@
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
+- [kha7iq/pingme](https://github.com/kha7iq/pingme) – PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
 - [kitabisa/teler](https://github.com/kitabisa/teler) – Real-time HTTP Intrusion Detection
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
@@ -876,6 +881,7 @@
 - [kost/revsocks](https://github.com/kost/revsocks) – Reverse SOCKS5 implementation in Go 
 - [kost/sqlc](https://github.com/kost/sqlc) – sqlc - Universal DBMS/SQL client with exfiltration features :)
 - [kost/tty2web](https://github.com/kost/tty2web) – Share your terminal as a web application in bind/reverse mode
+- [kpym/gm](https://github.com/kpym/gm) – Cli tool converting Markdown to HTML. This tool is a thin wrapper around the github.com/yuin/goldmark library.
 - [ksctl/ksctl](https://github.com/ksctl/ksctl) – Cloud Agnostic Kubernetes Management (Core) 
 - [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
 - [kubesphere/kubeeye](https://github.com/kubesphere/kubeeye) – KubeEye aims to find various problems on Kubernetes, such as application misconfiguration, unhealthy cluster components and node problems.
@@ -1329,7 +1335,7 @@
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
 - [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
-- [apache/hertzbeat](https://github.com/apache/hertzbeat) – Apache HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) – Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1381,6 +1387,7 @@
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) – HeapDump敏感信息提取工具
 - [xfarrow/locatemydevice](https://github.com/xfarrow/locatemydevice) – Application miming Google's Find My Device through SMS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
+- [yohanes/zygisk-reflutter](https://github.com/yohanes/zygisk-reflutter) – Zygisk-based reFlutter 
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) – Allows you to emulate an Android native library, and an experimental  iOS emulation
 
@@ -1981,6 +1988,7 @@
 - [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) – Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [pmqs/zipdetails](https://github.com/pmqs/zipdetails) – zipdetails - Display details about the internal structure of Zip files.
+- [pstray/rename](https://github.com/pstray/rename) – Rename renames the filenames supplied according to the rule specified as the first argument. The argument is a Perl expression which is expected to modify the $_ string for at least some of the filenames specified.
 - [sitaramc/gitolite](https://github.com/sitaramc/gitolite) – Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 
 <div id="powershell"></div>
@@ -3224,6 +3232,7 @@
 - [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) – Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) – static builds cURL with HTTP3
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) – Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
@@ -3242,6 +3251,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
+- [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite)
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
