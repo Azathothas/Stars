@@ -147,6 +147,7 @@
 - [curl/trurl](https://github.com/curl/trurl) – trurl is a command line tool for URL parsing and manipulation.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
+- [dimkr/loksh](https://github.com/dimkr/loksh) – A Linux port of OpenBSD's ksh
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
@@ -169,6 +170,7 @@
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
+- [ibara/oksh](https://github.com/ibara/oksh) – Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
 - [iovisor/bcc](https://github.com/iovisor/bcc) – BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -196,6 +198,7 @@
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) – Global Proxy for Android
 - [madler/pigz](https://github.com/madler/pigz) – A parallel implementation of gzip for modern multi-processor, multi-core machines.
+- [managarm/mlibc](https://github.com/managarm/mlibc) – Portable C standard library
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
@@ -642,6 +645,7 @@
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [bokysan/socketace](https://github.com/bokysan/socketace) – Your ultimate connection proxy. Proxy connections over websockets / UDP / DNS. Wrap connections in SSL/TLS. Auto-connect over best possible channel. 
+- [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) – boostsecurityio/poutine
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
@@ -1256,6 +1260,7 @@
 - [adityatelange/bhhb](https://github.com/adityatelange/bhhb) – Burp HTTP history browser (BHHB) - A tool to view HTTP history exported from Burp Suite Community Edition
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) – Automagically reverse-engineer REST APIs via capturing traffic
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
+- [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) – HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
@@ -1819,7 +1824,7 @@
 - [fscarmen2/V2-for-Patr](https://github.com/fscarmen2/V2-for-Patr)
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
-- [getcursor/cursor](https://github.com/getcursor/cursor) – An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) – The AI-powered code editor
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – A simple and lightweight Linux® distribution based on musl libc and toybox
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) – 📜 A collective list of public GraphQL APIs
@@ -2609,6 +2614,7 @@
 - [bruceadams/yj](https://github.com/bruceadams/yj) –  Command line tool that converts YAML to JSON 
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) – JS to WebAssembly toolchain
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
@@ -3172,6 +3178,7 @@
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) – Script to root AVDs running with QEMU Emulator from Android Studio
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [nikitastupin/orgs-data](https://github.com/nikitastupin/orgs-data) – Mapping from bug bounty and vulnerability disclosure programs to respective GitHub organizations
+- [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – install nixos everywhere via ssh [maintainer=@numtide]
@@ -3267,6 +3274,10 @@
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
+- [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm) – Use DragonFly BSD in github actions
+- [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) – Use FreeBSD in github actions
+- [vmactions/netbsd-vm](https://github.com/vmactions/netbsd-vm) – Use NetBSD in github actions
+- [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm) – Use OpenBSD in github actions
 - [wfxr/forgit](https://github.com/wfxr/forgit) – :zzz: A utility tool powered by fzf for using git interactively.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
