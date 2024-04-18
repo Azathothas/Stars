@@ -619,6 +619,7 @@
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) – Easy web analytics. No tracking of personal data.
+- [ashishb/gabo](https://github.com/ashishb/gabo) – GitHub Actions Boilerplate Generator
 - [assetnote/surf](https://github.com/assetnote/surf) – Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) – Flamingo captures credentials sprayed across the network by various IT and security products.
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
@@ -1511,7 +1512,6 @@
 - [akuhnet/Colab-SSH](https://github.com/akuhnet/Colab-SSH) – Colab SSH
 - [biplobsd/OneClickRun](https://github.com/biplobsd/OneClickRun) – Another colab notebook!
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) – A High-Quality Real Time Upscaler for Anime Video
-- [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) – Uncover the true IP address of websites safeguarded by Cloudflare & Others
 
 <div id="kotlin"></div>
 
@@ -2154,6 +2154,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
+- [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -2371,6 +2372,7 @@
 - [quarkslab/AERoot](https://github.com/quarkslab/AERoot) – AERoot is a command line tool that allows you to give root privileges on-the-fly to any process running on the Android emulator with Google Play flavors AVDs.
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) – An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [radude/rentry](https://github.com/radude/rentry) – Markdown pastebin from command line
+- [rahiel/telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
 - [rarecoil/unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps.
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) – Top disclosed reports from HackerOne
 - [redhuntlabs/KubeStalk](https://github.com/redhuntlabs/KubeStalk) – KubeStalk discovers Kubernetes and related infrastructure based attack surface from a black-box perspective.
@@ -2412,6 +2414,7 @@
 - [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) – Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [sqall01/LSMS](https://github.com/sqall01/LSMS) – Linux Security and Monitoring Scripts
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
 - [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) – A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -3089,6 +3092,7 @@
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (也欢迎关注B站 https://space.bilibili.com/2123686105 ) 
+- [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.3 For Termux , Version : 2.9.3 , Maintained
