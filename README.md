@@ -35,6 +35,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mdx](#mdx)
+- [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nsis](#nsis)
@@ -203,6 +204,7 @@
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
 - [micropython/micropython](https://github.com/micropython/micropython) – MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+- [microsoft/ntttcp](https://github.com/microsoft/ntttcp)
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
@@ -354,6 +356,7 @@
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) – A fast high compression read-only file system for Linux, Windows and macOS
+- [microsoft/ctsTraffic](https://github.com/microsoft/ctsTraffic) – ctsTraffic is a highly scalable client/server networking tool giving detailed performance and reliability analytics
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
@@ -784,6 +787,7 @@
 - [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) – Protect and discover secrets using Gitleaks 🔑
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [gittuf/gittuf](https://github.com/gittuf/gittuf) – A security layer for Git repositories
 - [glebarez/cero](https://github.com/glebarez/cero) – Scrape domain names from SSL certificates of arbitrary hosts
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) – A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers. 
 - [go-acme/lego](https://github.com/go-acme/lego) – Let's Encrypt/ACME client and library written in Go
@@ -998,7 +1002,8 @@
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – NextTrace, an open source visual route tracking CLI tool
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
@@ -1020,6 +1025,7 @@
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) – DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 - [picosh/pico](https://github.com/picosh/pico) – hacker labs
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
+- [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [pojntfx/weron](https://github.com/pojntfx/weron) – Overlay networks based on WebRTC.
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
@@ -1286,6 +1292,7 @@
 
 ## Haskell
 
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) – A shell script which checks your $HOME for unwanted files and directories.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
@@ -1600,7 +1607,6 @@
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
-- [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
@@ -1624,6 +1630,12 @@
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [Xe/site](https://github.com/Xe/site) – The new frontend/backend code for https://xeiaso.net
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
+
+<div id="meson"></div>
+
+## Meson
+
+- [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 
 <div id="nim"></div>
 
@@ -2682,7 +2694,7 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
-- [gngpp/vproxy](https://github.com/gngpp/vproxy) – IPv6 Subnet-based Proxy for Generating Random IP Requests
+- [gngpp/vproxy](https://github.com/gngpp/vproxy) – Random IPv6 request proxy
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
