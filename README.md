@@ -710,6 +710,7 @@
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
+- [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
@@ -3130,6 +3131,7 @@
 - [ice-wzl/Hacknetics](https://github.com/ice-wzl/Hacknetics) – Contained is all my reference material for my OSCP / Red Teaming.  Designed to be a one stop shop for code, guides, command syntax, and high level strategy.  One simple clone and you have access to some of the most popular tools used for pentesting.
 - [iglunix/iglunix](https://github.com/iglunix/iglunix) – Linux (and other kernels) distro with no GNU components
 - [iglunix/rust-bootstrap](https://github.com/iglunix/rust-bootstrap) – Scripts for bootstrapping LLVM/Musl rust from GNU/Musl official builds
+- [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) – apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [illvart/termux-alpine](https://github.com/illvart/termux-alpine) – Bash script for installing Alpine Linux in Termux - 100 MB.
 - [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) – Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
