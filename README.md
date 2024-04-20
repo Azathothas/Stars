@@ -148,6 +148,7 @@
 - [curl/trurl](https://github.com/curl/trurl) – trurl is a command line tool for URL parsing and manipulation.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
+- [deislabs/mystikos](https://github.com/deislabs/mystikos) – Tools and runtime for launching unmodified container images in Trusted Execution Environments
 - [dimkr/loksh](https://github.com/dimkr/loksh) – A Linux port of OpenBSD's ksh
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
@@ -217,6 +218,7 @@
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
+- [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
@@ -692,6 +694,7 @@
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
+- [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
 - [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
@@ -743,6 +746,7 @@
 - [dwisiswant0/siml](https://github.com/dwisiswant0/siml) – siml is a CLI tool for discovering similar, related to, competitive, or alternative options to a given site.
 - [dwisiswant0/wadl-dumper](https://github.com/dwisiswant0/wadl-dumper) – Dump all available paths and/or endpoints on WADL file.
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
+- [edgelesssys/constellation](https://github.com/edgelesssys/constellation) – Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) – Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [edoardottt/csprecon](https://github.com/edoardottt/csprecon) – Discover new target domains using Content Security Policy 
 - [edoardottt/favirecon](https://github.com/edoardottt/favirecon) – Use favicon.ico to improve your target recon phase. Quickly detect technologies, WAF, exposed panels, known services.
@@ -1128,6 +1132,7 @@
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) – CLI and Go API to Test Internet Speed using speedtest.net
 - [sibprogrammer/xq](https://github.com/sibprogrammer/xq) – Command-line XML and HTML beautifier and content extractor
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
+- [sigstore/cosign](https://github.com/sigstore/cosign) – Code signing and transparency for containers and binaries
 - [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
 - [six-ddc/plow](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [six2dez/ipcdn](https://github.com/six2dez/ipcdn) – Check which CDN providers an IP list belongs to
@@ -1199,6 +1204,8 @@
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
 - [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
+- [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - ARM/RISC-V bare metal Go
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.
@@ -2399,7 +2406,7 @@
 - [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – releng-tool aims to provide developers a way to manage multiple packages to assist in building a project
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [rev1si0n/lamda](https://github.com/rev1si0n/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
-- [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and fast!, security-oriented HTTP headers analyzer.
+- [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
 - [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
@@ -2669,6 +2676,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
+- [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
@@ -2713,6 +2721,7 @@
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [io12/unf](https://github.com/io12/unf) – UNixize Filename -- replace annoying anti-unix characters in filenames
 - [irishmaestro/fubar](https://github.com/irishmaestro/fubar) – Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration.
+- [islet-project/islet](https://github.com/islet-project/islet) – An on-device confidential computing platform
 - [ismaelgv/rnr](https://github.com/ismaelgv/rnr) – A command-line tool to batch rename files and directories
 - [iustin24/chameleon](https://github.com/iustin24/chameleon)
 - [iustin24/rextract](https://github.com/iustin24/rextract) – CLI tool that extracts a regex pattern from a list of urls ( Rust ) 
@@ -2784,6 +2793,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
 - [o8vm/octox](https://github.com/o8vm/octox) – Unix-like OS in Rust inspired by xv6-riscv
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) – A query engine for any combination of data sources. Query your files and APIs as if they were databases!
+- [occlum/occlum](https://github.com/occlum/occlum) – Occlum is a memory-safe, multi-process library OS for Intel SGX
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
@@ -2805,6 +2815,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal package builder for Windows, macOS and Linux
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) – Solve and install Python packages quickly with rip (pip in Rust)
+- [project-oak/oak](https://github.com/project-oak/oak) – Meaningful control of data in distributed systems.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
@@ -3457,7 +3468,7 @@
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) – A simple GUI for SCRCPY and other ADB functions
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
-- [antfu/icones](https://github.com/antfu/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for static site generators.
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
