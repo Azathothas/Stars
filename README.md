@@ -298,7 +298,6 @@
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) – GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [immense/Remotely](https://github.com/immense/Remotely) – A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) – mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: The Graphical Interface for your package managers
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
@@ -2044,6 +2043,7 @@
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) – Red Teaming Tactics and Techniques
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: The Graphical Interface for your package managers
 - [max-las/prioritize-zerotier](https://github.com/max-las/prioritize-zerotier) – Simple PowerShell script to set ZeroTier network interface as top priority
 - [mgeeky/ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling) – Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.
 - [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
