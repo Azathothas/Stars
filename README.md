@@ -1443,7 +1443,6 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) – Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Artillery!
 - [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) – Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
-- [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
@@ -3394,6 +3393,7 @@
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) – ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 - [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++/C projects.
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
+- [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
