@@ -1592,6 +1592,7 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
+- [aniyomiorg/aniyomi-extensions](https://github.com/aniyomiorg/aniyomi-extensions) – Source extensions for the Aniyomi app.
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MAL client
 - [bmax121/APatch](https://github.com/bmax121/APatch) – The patching of Android kernel and Android system
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -3419,7 +3420,7 @@
 - [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) – Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) – HTTP Request snippet generator for many languages & libraries
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
-- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
