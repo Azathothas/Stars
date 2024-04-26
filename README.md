@@ -443,8 +443,11 @@
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform app made for e-hentai & exhentai by Flutter
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga and watching anime available on Android, iOS, macOS, Linux and Windows
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+- [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 
@@ -1374,6 +1377,7 @@
 - [St3v3nsS/InsecureBanking](https://github.com/St3v3nsS/InsecureBanking) – Insecure Android Application for testing Biometric bypasses  
 - [Static-Flow/BOR](https://github.com/Static-Flow/BOR) – BOR - Break On Request, is a burp extension that provides a custom context menu for marking requests to be stopped by the interceptor with only one click!
 - [Static-Flow/BurpSuiteAutoCompletion](https://github.com/Static-Flow/BurpSuiteAutoCompletion) – This exention enables autocompletion within BurpSuite Repeater/Intruder tabs.
+- [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) – A rewrite of Tachiyomi for the Desktop
 - [TacoTheDank/Scoop](https://github.com/TacoTheDank/Scoop) – [ADB/Root] Catches a stack trace when an app crashes unexpectedly.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) – Ad-Free, New Features & Freedom
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
@@ -1587,6 +1591,7 @@
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
+- [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MAL client
 - [bmax121/APatch](https://github.com/bmax121/APatch) – The patching of Android kernel and Android system
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) – DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
@@ -1601,9 +1606,11 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info provides information about device hardware and software
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions for Tachiyomi/Mihon and variants.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) – Free and open source manga reader for Android
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) – Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
 - [mukeshsolanki/Android-Tamper-Detector](https://github.com/mukeshsolanki/Android-Tamper-Detector) – A simple library that can help you detect if you app is modded or tampered with
 - [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) – An Android app to watch anime on your phone without ads.
@@ -1897,6 +1904,7 @@
 - [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 A collection of wordlists for many different usages
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) – awesome linux minimalism suggestions
