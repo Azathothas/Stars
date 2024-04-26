@@ -1891,6 +1891,7 @@
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) – Download IP address lists grouped by country
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) – Awesome list of status page open source software, services and public status pages of major internet companies
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
 - [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
 - [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
@@ -2733,7 +2734,7 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
-- [gngpp/vproxy](https://github.com/gngpp/vproxy) – Random IPv6 request proxy
+- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP Proxy (Random IPv6)
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
