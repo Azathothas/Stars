@@ -677,6 +677,8 @@
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
 - [c3l3si4n/subsift](https://github.com/c3l3si4n/subsift) – experimental wildcard subdomain filtering prototype
 - [c3l3si4n/thankunext](https://github.com/c3l3si4n/thankunext) – Easily gather all routes related to a NextJs application through parsing of _buildManifest.js
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) – Get the contributor stats summary from all repos of any given organization
+- [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc) – xdg-open as a service
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – multi-shell multi-command argument completer
@@ -820,6 +822,7 @@
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [goretk/redress](https://github.com/goretk/redress) – Redress - A tool for analyzing stripped Go binaries
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) – A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
@@ -2743,7 +2746,7 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
-- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP Proxy (Random IPv6)
+- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP Proxy
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
