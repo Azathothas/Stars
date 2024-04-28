@@ -3222,7 +3222,7 @@
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
-- [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+- [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [luitel777/dotfiles_public](https://github.com/luitel777/dotfiles_public)
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
