@@ -938,7 +938,7 @@
 - [liamg/traitor](https://github.com/liamg/traitor) – :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) – Whatsapp Exploit to spoofing impersonate of reply message 
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
-- [likexian/whois](https://github.com/likexian/whois) – Go(Golang) module for domain and ip whois information query.
+- [likexian/whois](https://github.com/likexian/whois) – Whois client for domain and ip whois information query in Go(Golang).
 - [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, with a focus on running containers
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
@@ -980,7 +980,7 @@
 - [mlcsec/headi](https://github.com/mlcsec/headi) – Customisable  and automated HTTP header injection
 - [mmpx12/xenv](https://github.com/mmpx12/xenv) – Fast scanner for exposed env files
 - [moby/moby](https://github.com/moby/moby) – The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) – Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [mosajjal/binary-tools](https://github.com/mosajjal/binary-tools) – Collection of Statically linked binaries for Linux. Suited for Forensics 
 - [mosajjal/dnsmonster](https://github.com/mosajjal/dnsmonster) – Passive DNS Capture and Monitoring Toolkit
 - [mosajjal/dnspot](https://github.com/mosajjal/dnspot) – End-to-end Encrypted DNS Tunnelling and C2 framework
