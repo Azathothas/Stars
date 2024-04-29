@@ -577,6 +577,7 @@
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) – mTLS-Encrypted Back-Connect SOCKS5 Proxy
 - [RikunjSindhwad/Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) – Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters! 
+- [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) – Whole Program LLVM: wllvm ported to go
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) – A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
@@ -2897,6 +2898,7 @@
 - [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
+- [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
