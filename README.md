@@ -122,7 +122,9 @@
 
 ## C
 
+- [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) – Simple yet fancy CPU architecture fetching tool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – 🧙‍♂️ ImageMagick 7
@@ -133,13 +135,16 @@
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+- [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
@@ -147,6 +152,7 @@
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
 - [cilium/pwru](https://github.com/cilium/pwru) – Packet, where are you? -- eBPF-based Linux kernel networking debugger
+- [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
@@ -170,6 +176,7 @@
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
+- [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
 - [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
 - [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) – Connect like there is no firewall. Securely.
@@ -240,8 +247,10 @@
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
 - [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
+- [rmyorston/pdpmake](https://github.com/rmyorston/pdpmake) – Public domain POSIX make
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
+- [rsms/llvmbox](https://github.com/rsms/llvmbox) – Self contained, fully static llvm tools & libs
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
 - [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
@@ -254,9 +263,11 @@
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
+- [tio/tio](https://github.com/tio/tio) – A serial device I/O tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
 - [torvalds/linux](https://github.com/torvalds/linux) – Linux kernel source tree
+- [traviscross/mtr](https://github.com/traviscross/mtr) – Official repository for mtr, a network diagnostic tool
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -905,6 +916,7 @@
 - [kahing/goofys](https://github.com/kahing/goofys) – a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
+- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
@@ -1476,7 +1488,7 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) – Tunneling Internet traffic over Whatsapp
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) – Cloud Security Posture Management (CSPM)
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) – Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Artillery!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) – The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.
 - [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) – Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
@@ -2347,7 +2359,7 @@
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) – CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) – Fully automated homelab from empty disk to running services with a single command.
 - [kiber-io/apkd](https://github.com/kiber-io/apkd) – APK downloader from few sources
 - [kleiton0x00/Todesstern](https://github.com/kleiton0x00/Todesstern) – A simple mutator engine which focuses on finding unknown classes of injection vulnerabilities
 - [kljunowsky/XXElixir](https://github.com/kljunowsky/XXElixir) – This tool is designed to test for file upload and XXE vulnerabilities by poisoning XLSX files.
@@ -2749,6 +2761,7 @@
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
+- [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
