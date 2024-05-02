@@ -131,7 +131,7 @@
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation 🍥
+- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – A Linux container written in C 🍥
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
