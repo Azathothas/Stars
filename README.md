@@ -1336,6 +1336,7 @@
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
 - [evolvingweb/sitediff](https://github.com/evolvingweb/sitediff) – SiteDiff makes it easy to see differences between two versions of a website.
 - [google/security-crawl-maze](https://github.com/google/security-crawl-maze) – Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.
+- [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
