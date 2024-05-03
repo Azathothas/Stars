@@ -1224,6 +1224,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) – A collection of hacks and one-off scripts
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) – Fetch many paths for many hosts - without killing the hosts
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) – Pull out bits of URLs provided on stdin
+- [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite)
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [trickest/dsieve](https://github.com/trickest/dsieve) – Filter and enrich a list of subdomains by level
 - [trickest/enumerepo](https://github.com/trickest/enumerepo) – List all public repositories for (valid) GitHub usernames
@@ -1973,7 +1974,6 @@
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
-- [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) – Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [ramit-mitra/blocklist-ipsets](https://github.com/ramit-mitra/blocklist-ipsets) – An IP list of bad actors targeting public infra like website, ssh endpoints, etc. 
 - [randorisec/MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) – Basics on commands/tools/info on how to assess the security of mobile applications
@@ -3360,7 +3360,6 @@
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
-- [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite)
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
