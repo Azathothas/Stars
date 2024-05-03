@@ -532,6 +532,7 @@
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) – act as self-hosted runner
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) – A utility to improve performance and help manage storage on Steam Deck.
+- [DBCDK/morph](https://github.com/DBCDK/morph) – NixOS deployment tool
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
 - [Damian89/ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
 - [Damian89/yataf](https://github.com/Damian89/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
@@ -578,6 +579,7 @@
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
 - [MantisSTS/GoCloud](https://github.com/MantisSTS/GoCloud) – Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare
+- [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) – Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [Moe-hacker/yoshinon](https://github.com/Moe-hacker/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go) 🍥 #Meet the modern TUI
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -670,6 +672,7 @@
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
+- [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
@@ -882,6 +885,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibuildthecloud/wtfk8s](https://github.com/ibuildthecloud/wtfk8s) – Watch and print changes in k8s
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
+- [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
@@ -1043,6 +1047,8 @@
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
+- [nlewo/comin](https://github.com/nlewo/comin) – GitOps For NixOS Machines
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) – An archive-less dockerTools.buildImage implementation 
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) – A TUI playground to experiment with jq
 - [noborus/ov](https://github.com/noborus/ov) – 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
@@ -1732,6 +1738,7 @@
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
+- [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 
 <div id="nsis"></div>
@@ -1775,7 +1782,7 @@
 - [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Binaries for Android (arm64-v8a), Linux (aarch64_arm64 | amd_x86-64) all in one place :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
@@ -2218,6 +2225,7 @@
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
+- [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
@@ -2610,6 +2618,7 @@
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) – Network scanner
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
@@ -2634,6 +2643,7 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
@@ -2768,7 +2778,7 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
-- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP / Socks5 Proxy
+- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP/Socks5 Proxy
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
@@ -2851,7 +2861,10 @@
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
+- [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [norskeld/pingmole](https://github.com/norskeld/pingmole) – CLI that helps to filter Mullvad servers and pick the closest one.
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [numtide/system-manager](https://github.com/numtide/system-manager) – Manage system config using nix on any distro
@@ -2893,6 +2906,7 @@
 - [queer/boxxy](https://github.com/queer/boxxy) – boxxy puts bad Linux applications in a box with only their files.
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rapiz1/catp](https://github.com/rapiz1/catp) – Print the output of a running process
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) – Slice and dice logs on the command line
@@ -2948,6 +2962,7 @@
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) – The fastest way to identify anything!
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) – cat for markdown
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [symphorien/nix-du](https://github.com/symphorien/nix-du) – Visualise which gc-roots to delete to free some space in your nix store
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) – A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) – A TOML toolkit written in Rust
 - [tarka/xcp](https://github.com/tarka/xcp) – An extended `cp`
@@ -2964,6 +2979,7 @@
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [tweag/nickel](https://github.com/tweag/nickel) – Better configuration for less
 - [twitchax/kord](https://github.com/twitchax/kord) – A music theory binary and library for Rust / JS.
 - [twitchax/rtz](https://github.com/twitchax/rtz) – A tool to easily work with timezone lookups via a binary, a library, or a server.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
@@ -3001,6 +3017,8 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [zer0yu/anew](https://github.com/zer0yu/anew) – A tool for adding new lines to files, skipping duplicates and written in Rust!
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) – Multi-tenant Nix Binary Cache
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) – A simple, stateless NixOS deployment tool
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
