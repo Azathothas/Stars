@@ -138,7 +138,7 @@
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see http://invisible-island.net/ncurses/ncurses.faq.html (no pull requests are accepted)
+- [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -152,6 +152,7 @@
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
 - [cilium/pwru](https://github.com/cilium/pwru) – Packet, where are you? -- eBPF-based Linux kernel networking debugger
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) – An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -175,7 +176,7 @@
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
-- [gojue/ecapture](https://github.com/gojue/ecapture) – Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) – Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android amd64/arm64.
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
 - [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
@@ -245,6 +246,7 @@
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
+- [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
 - [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
 - [rmyorston/pdpmake](https://github.com/rmyorston/pdpmake) – Public domain POSIX make
@@ -254,7 +256,9 @@
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
 - [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
+- [saprykin/plibsys](https://github.com/saprykin/plibsys) – Highly portable C system library: threads and synchronization primitives, sockets (TCP, UDP, SCTP), IPv4 and IPv6, IPC, hash functions (MD5, SHA-1, SHA-2, SHA-3, GOST), binary trees (RB, AVL) and more. Native code performance.
 - [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
+- [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
@@ -365,6 +369,7 @@
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
+- [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -474,6 +479,7 @@
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
+- [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [Rikorose/gcc-cmake](https://github.com/Rikorose/gcc-cmake) – Docker container build on top off the official gcc image including cmake
 - [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
@@ -690,6 +696,7 @@
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) – CLI to perform various actions on CIDR ranges
 - [bufbuild/buf](https://github.com/bufbuild/buf) – The best way of working with Protocol Buffers.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
@@ -801,6 +808,7 @@
 - [elvisgraho/jwt-cracker-go](https://github.com/elvisgraho/jwt-cracker-go) – jwt-cracker-go is a simple brute force cracker for HS256, HS384, and HS512 JWT tokens, inspired by jwt-cracker.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
+- [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
@@ -1566,6 +1574,7 @@
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
 - [u0pattern/Anti-EmuDetector](https://github.com/u0pattern/Anti-EmuDetector) – Anti-EmuDetector is a frida script that bypass the emulator detection techniques in android
+- [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) – Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [valpackett/soundfixer](https://github.com/valpackett/soundfixer) – A WebExtension that lets you fix sound problems in e.g. YouTube videos
 - [vercel/ncc](https://github.com/vercel/ncc) – Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -1624,6 +1633,7 @@
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) – DataBackup for Android
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
 - [aniyomiorg/aniyomi-extensions](https://github.com/aniyomiorg/aniyomi-extensions) – Source extensions for the Aniyomi app.
@@ -2787,6 +2797,7 @@
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
 - [immunant/c2rust](https://github.com/immunant/c2rust) – Migrate C code to Rust
@@ -3165,6 +3176,7 @@
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键DD/重装脚本 (One-click script to reinstall OS on VPS)
 - [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
+- [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
 - [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Abuseipdb IP Aggregator
