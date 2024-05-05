@@ -329,6 +329,7 @@
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Removes Ads From Various Places Around Windows 11
 - [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 
 <div id="c++"></div>
@@ -1444,6 +1445,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
+- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStable from plain text/json
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
 - [moeinfatehi/Backup-Finder](https://github.com/moeinfatehi/Backup-Finder) – A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP WSTG-CONF-04, OTG-CONFIG-004)
