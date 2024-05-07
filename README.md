@@ -350,7 +350,7 @@
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – ugrep 5.1: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -1929,6 +1929,7 @@
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [fightwing/Free-Own-VPN](https://github.com/fightwing/Free-Own-VPN) – Free and Easy! Set up your own personal VPN using AWS EC2 and Outline with our easy-to-follow tutorial. Get the benefits of a secure, private connection without paying for a subscription. 
+- [fpliu1214/uppm-package-repository-android-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-aarch64)
 - [freefq/free](https://github.com/freefq/free) – 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 - [fscarmen/warp-on-actions](https://github.com/fscarmen/warp-on-actions) – Install Cloudflare WARP on Github actions.
 - [fscarmen2/V2-for-Patr](https://github.com/fscarmen2/V2-for-Patr)
@@ -1971,6 +1972,7 @@
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
+- [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [linuxone-community-cloud/technical-resources](https://github.com/linuxone-community-cloud/technical-resources) – Repository for technical resources
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
@@ -3244,6 +3246,7 @@
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) – a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [fosslinux/live-bootstrap](https://github.com/fosslinux/live-bootstrap) – Use of a Linux initramfs to fully automate the bootstrapping process
+- [fpliu1214/uppm-package-repository-android-29-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64)
 - [franckferman/fix_wsl2_networking](https://github.com/franckferman/fix_wsl2_networking) – Solve connection problems related to WSL2. 
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
@@ -3297,6 +3300,7 @@
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
+- [leleliu008/ppkg](https://github.com/leleliu008/ppkg) – A portable package builder/manager for Unix-like system.
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
