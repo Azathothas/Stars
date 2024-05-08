@@ -1381,6 +1381,7 @@
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
+- [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) – 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 - [NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki) – A wiki focusing on aggregating and documenting various SQL injection methods
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) – Jumpstart multiple WebSocket servers quickly
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
@@ -2249,7 +2250,6 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) – Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [Mr-Robert0/Logsensor](https://github.com/Mr-Robert0/Logsensor) – A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning 
-- [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) – 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) – A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write" an attacker can probably dump database and write his own data to firebase db.
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [NickSanzotta/scanman](https://github.com/NickSanzotta/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
@@ -3153,6 +3153,7 @@
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
 - [DanielGibson/DanielGibson.github.io](https://github.com/DanielGibson/DanielGibson.github.io) – My blog, I guess
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
+- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
