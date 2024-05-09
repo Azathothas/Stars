@@ -802,7 +802,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) –  Telegram Drive Storage
+- [divyam234/teldrive](https://github.com/divyam234/teldrive) –  Telegram Drive
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
@@ -2251,6 +2251,8 @@
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) – Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [Mr-Robert0/Logsensor](https://github.com/Mr-Robert0/Logsensor) – A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning 
 - [MuhammadKhizerJaved/Insecure-Firebase-Exploit](https://github.com/MuhammadKhizerJaved/Insecure-Firebase-Exploit) – A simple Python Exploit to Write Data to Insecure/vulnerable firebase databases! Commonly found inside Mobile Apps. If the owner of the app have set the security rules as true for both "read" & "write" an attacker can probably dump database and write his own data to firebase db.
+- [Ne00n/Looking-Glass](https://github.com/Ne00n/Looking-Glass)
+- [Ne00n/Multi-Ping](https://github.com/Ne00n/Multi-Ping)
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [NickSanzotta/scanman](https://github.com/NickSanzotta/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
