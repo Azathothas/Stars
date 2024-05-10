@@ -268,6 +268,7 @@
 - [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
+- [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
