@@ -133,6 +133,7 @@
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – A Linux container written in C 🍥
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -2727,7 +2728,6 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
-- [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
