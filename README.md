@@ -209,6 +209,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
+- [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build C/C++/Rust/Go project.
@@ -485,7 +486,6 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-- [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 
 <div id="dockerfile"></div>
@@ -539,6 +539,7 @@
 
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -837,6 +838,7 @@
 - [elvisgraho/cert-sub-go](https://github.com/elvisgraho/cert-sub-go) – Cert Sub Go is a tool to query SSL Certificate Transparency for subdomain discovery
 - [elvisgraho/jwt-cracker-go](https://github.com/elvisgraho/jwt-cracker-go) – jwt-cracker-go is a simple brute force cracker for HS256, HS384, and HS512 JWT tokens, inspired by jwt-cracker.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
+- [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) – Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -1506,6 +1508,7 @@
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
 - [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStable from plain text/json
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
 - [moeinfatehi/Backup-Finder](https://github.com/moeinfatehi/Backup-Finder) – A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP WSTG-CONF-04, OTG-CONFIG-004)
@@ -1719,6 +1722,7 @@
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser made by extraordinary addons: Ubuntu, Terminal, file manager etc...
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+- [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
@@ -2438,6 +2442,7 @@
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
 - [jopohl/urh](https://github.com/jopohl/urh) – Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) – CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
@@ -2563,7 +2568,7 @@
 - [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) – 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
 - [saw-your-packet/EC2StepShell](https://github.com/saw-your-packet/EC2StepShell) – EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Automate your API Testing: catch crashes, validate specs, and save time
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Supercharge your API testing, catch bugs, and ensure compliance
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
@@ -2688,7 +2693,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
-- [Chleba/netscanner](https://github.com/Chleba/netscanner) – Network scanner
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) – TUI Network & WiFi scanner with traffic packet dump
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
@@ -3444,6 +3449,7 @@
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
+- [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
