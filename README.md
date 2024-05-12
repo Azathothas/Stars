@@ -65,6 +65,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xslt](#xslt)
+- [Yaml](#yaml)
 - [Yara](#yara)
 - [Zig](#zig)
 
@@ -131,6 +132,7 @@
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – 🧙‍♂️ ImageMagick 7
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
+- [Kitware/CMake](https://github.com/Kitware/CMake) – Mirror of CMake upstream repository
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – A Linux container written in C 🍥
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -225,6 +227,7 @@
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) – Global Proxy for Android
 - [madler/pigz](https://github.com/madler/pigz) – A parallel implementation of gzip for modern multi-processor, multi-core machines.
+- [malxau/yori](https://github.com/malxau/yori) – Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [managarm/mlibc](https://github.com/managarm/mlibc) – Portable C standard library
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
@@ -255,6 +258,7 @@
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
+- [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
@@ -271,6 +275,7 @@
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
+- [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
@@ -564,6 +569,7 @@
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) – ContainerSSH: Launch containers on demand
 - [CryoByte33/steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) – A utility to improve performance and help manage storage on Steam Deck.
+- [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack) – ↕️🤫 Stealth redirector for your red team operation security
 - [DBCDK/morph](https://github.com/DBCDK/morph) – NixOS deployment tool
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
 - [Damian89/ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
@@ -719,6 +725,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) – A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) – An IIS short filename enumeration tool
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) – Bitrise runner CLI - run your automations on your Mac or Linux machine -
+- [blacknon/lssh](https://github.com/blacknon/lssh) – List selection type ssh/scp/sftp client command. Supports single connection and parallel connection. Local bashrc can also be used without placing it on a remote machine. Written in Golang.
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [bokysan/socketace](https://github.com/bokysan/socketace) – Your ultimate connection proxy. Proxy connections over websockets / UDP / DNS. Wrap connections in SSL/TLS. Auto-connect over best possible channel. 
@@ -958,6 +965,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
@@ -1355,7 +1363,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – Statically Linked Binary Manager || Like a package manager, but for statically linked binaries. +1380 binaries currently in the repos
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1300 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -1506,7 +1514,7 @@
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) – A tool for reverse engineering Android apk files
 - [irsdl/IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) – latest version of scanners for IIS short filename (8.3) disclosure vulnerability
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，反编译JAR包一键导出，使用简易RASP保护
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
@@ -1589,7 +1597,7 @@
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients. 
+- [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
@@ -1754,6 +1762,7 @@
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
+- [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 
 <div id="markdown"></div>
@@ -1906,6 +1915,7 @@
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) – Easy-to-use APK installer and more for Windows Subsystem for Android
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
+- [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation. Currently in the making.
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
@@ -2305,7 +2315,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework • Ngrok Alternative
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
@@ -2685,6 +2695,7 @@
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An easy and powerful Rust HTTP/Socks5 Proxy
 - [0x727/ObserverWard](https://github.com/0x727/ObserverWard) – 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool 
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
@@ -2867,7 +2878,6 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
-- [gngpp/vproxy](https://github.com/gngpp/vproxy) – An easy and powerful Rust HTTP/Socks5 Proxy
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
@@ -2917,6 +2927,7 @@
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
+- [kxxt/tracexec](https://github.com/kxxt/tracexec) – A small utility for tracing execve{,at} and pre-exec behavior.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely on Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
@@ -3352,6 +3363,7 @@
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) – s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+- [jwueller/fdspy.sh](https://github.com/jwueller/fdspy.sh) – Capture stdout, stderr, and other file descriptors of running processes on-the-fly, without redirects, screen, or tmux.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
@@ -3590,6 +3602,7 @@
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) – Action for generating build provenance attestations for workflow artifacts
 - [actions/setup-node](https://github.com/actions/setup-node) – Set up your GitHub Actions workflow with a specific version of node.js
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
@@ -3696,6 +3709,12 @@
 
 - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) – Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
+<div id="yaml"></div>
+
+## Yaml
+
+- [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) – aqua's Standard Registry
+
 <div id="yara"></div>
 
 ## Yara
@@ -3711,6 +3730,7 @@
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
+- [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [txthinking/zhen](https://github.com/txthinking/zhen) – zhen - process and cron manager
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
