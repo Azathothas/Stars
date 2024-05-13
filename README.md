@@ -363,7 +363,7 @@
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.0: A more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -831,6 +831,7 @@
 - [dwisiswant0/gfx](https://github.com/dwisiswant0/gfx) – A wrapper around grep, to help you grep for things! - Improved version of gf by @tomnomnom.
 - [dwisiswant0/ngocok](https://github.com/dwisiswant0/ngocok) – ngrok Collaborator Link — yet another Burp Collaborator alternative for free with ngrok.
 - [dwisiswant0/siml](https://github.com/dwisiswant0/siml) – siml is a CLI tool for discovering similar, related to, competitive, or alternative options to a given site.
+- [dwisiswant0/unch](https://github.com/dwisiswant0/unch) – Hides message with invisible Unicode characters
 - [dwisiswant0/wadl-dumper](https://github.com/dwisiswant0/wadl-dumper) – Dump all available paths and/or endpoints on WADL file.
 - [earthly/earthly](https://github.com/earthly/earthly) – Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [ebitengine/purego](https://github.com/ebitengine/purego)
@@ -1131,6 +1132,7 @@
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
+- [owasp-amass/oam-tools](https://github.com/owasp-amass/oam-tools) – Analysis and management tools for an Open Asset Model database
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
 - [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
@@ -1363,7 +1365,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1300 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1440 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -1977,6 +1979,7 @@
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) – Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) – J41LBR34K PR0MPT5
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
@@ -2287,6 +2290,7 @@
 - [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) –  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [RevoltSecurities/Dnsbruter](https://github.com/RevoltSecurities/Dnsbruter) – Dnsbruter is a powerful tool designed to perform active subdomain enumeration and discovery. It uses DNS resolution to efficiently bruteforce and identify potential subdomains for a given target domain. With its multithreading capability, users can control the concurrency level to speed up the process.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
@@ -2708,7 +2712,7 @@
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
-- [Chleba/netscanner](https://github.com/Chleba/netscanner) – TUI Network & WiFi scanner with traffic packet dump
+- [Chleba/netscanner](https://github.com/Chleba/netscanner) – Network scanner & diagnostic tool with modern TUI
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
@@ -2905,6 +2909,7 @@
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) –  🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making
