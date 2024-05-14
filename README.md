@@ -660,7 +660,7 @@
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [Z3NTL3/ProxyBeast](https://github.com/Z3NTL3/ProxyBeast) – Proxy Beast is a high-performance proxy checker that offers precise and rapid testing for HTTP, HTTPS, SOCK4, and SOCKS5 protocols. Its advanced capabilities make it an ideal choice for those who require reliable and efficient proxy testing.
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analysing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 - [abdfnx/resto](https://github.com/abdfnx/resto) – 🔗 Send pretty HTTP & API requests with TUI.
 - [abdfnx/tran](https://github.com/abdfnx/tran) – 🖥 Securely transfer and send anything between computers with TUI.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
@@ -1718,7 +1718,7 @@
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info provides information about device hardware and software
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions for Tachiyomi/Mihon and variants.
@@ -2490,6 +2490,7 @@
 - [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) – BBT - Bug Bounty Tools (examples💡)
 - [maaaaz/dnsdumps](https://github.com/maaaaz/dnsdumps) – Various DNS dumps (daily new domains, FQDNs, etc.)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
+- [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve their internal addresses
@@ -2833,6 +2834,7 @@
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, and grep output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [devmatteini/dra](https://github.com/devmatteini/dra) – A command line tool to download release assets from GitHub
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
