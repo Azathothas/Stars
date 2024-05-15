@@ -218,7 +218,7 @@
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
-- [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build C/C++/Rust/Go project.
+- [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build projects written in C, C++, Rust, Golang, etc.
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
@@ -689,7 +689,7 @@
 - [amuluze/amprobe](https://github.com/amuluze/amprobe) – 轻量级主机及容器监控服务
 - [anandvarma/namegen](https://github.com/anandvarma/namegen) – 🌈 A unique(ish) random name and id generator 
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
-- [andydunstall/pico](https://github.com/andydunstall/pico) – A reverse proxy to connect to external networks (tunnelling)
+- [andydunstall/piko](https://github.com/andydunstall/piko) – An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) – Terminal countdown timer
@@ -1989,7 +1989,7 @@
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) – Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) – J41LBR34K PR0MPT5
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) – J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
