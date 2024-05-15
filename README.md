@@ -159,6 +159,7 @@
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) – An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
+- [collectd/collectd](https://github.com/collectd/collectd) – The system statistics collection daemon. Please send Pull Requests here!
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) – upstream mirror
@@ -182,6 +183,7 @@
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
+- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) – An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
 - [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
@@ -261,6 +263,7 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
+- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
 - [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
 - [rmyorston/pdpmake](https://github.com/rmyorston/pdpmake) – Public domain POSIX make
@@ -281,6 +284,7 @@
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) – SumatraPDF reader
+- [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
@@ -685,6 +689,7 @@
 - [amuluze/amprobe](https://github.com/amuluze/amprobe) – 轻量级主机及容器监控服务
 - [anandvarma/namegen](https://github.com/anandvarma/namegen) – 🌈 A unique(ish) random name and id generator 
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
+- [andydunstall/pico](https://github.com/andydunstall/pico) – A reverse proxy to connect to external networks (tunnelling)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) – Terminal countdown timer
@@ -818,6 +823,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+- [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) – An HTTP toolkit for security research.
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) – SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
@@ -891,6 +897,7 @@
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) – Easy SSH servers in Golang
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) – A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers. 
 - [go-acme/lego](https://github.com/go-acme/lego) – Let's Encrypt/ACME client and library written in Go
+- [go-debos/debos](https://github.com/go-debos/debos) – Debian OS builder
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
@@ -908,6 +915,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) – A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [groundsec/waybackshots](https://github.com/groundsec/waybackshots) – Get screenshots of URLs stored in the Wayback Machine in a smart way
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) – A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - [grpc-ecosystem/grpcdebug](https://github.com/grpc-ecosystem/grpcdebug) – grpcdebug is a command line interface focusing on simplifying the debugging process of gRPC applications.
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) – A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
@@ -1108,6 +1116,7 @@
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) – Generate files from docker container meta-data
+- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) – Wireguard web interface
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) – Real fucking shellcode encryptor & obfuscator tool
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
@@ -1358,6 +1367,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
 - [xNaCly/x-git-sync](https://github.com/xNaCly/x-git-sync) – Backup your repository at configured intervals using git
+- [xddxdd/bird-lg-go](https://github.com/xddxdd/bird-lg-go) – BIRD looking glass in Go, for better maintainability, easier deployment & smaller memory footprint
 - [xenophonsec/keeptrak](https://github.com/xenophonsec/keeptrak) – Track recon/OSINT commands in an organized, grepable, fasion.
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
 - [xhzeem/paramix](https://github.com/xhzeem/paramix) – Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.
@@ -2382,6 +2392,8 @@
 - [cyal1/fireproxycn](https://github.com/cyal1/fireproxycn) – Aliyun API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan) – A tool to scan Kubernetes cluster for risky permissions
 - [cybervelia/graphicator](https://github.com/cybervelia/graphicator) – A GraphQL enumeration and extraction tool
+- [daijro/browserforge](https://github.com/daijro/browserforge) – 🎭 Intelligent browser header & fingerprint generator
+- [daijro/hrequests](https://github.com/daijro/hrequests) – 🚀 Web scraping for humans
 - [dalibo/pg_activity](https://github.com/dalibo/pg_activity) – pg_activity is a top like application for PostgreSQL server activity monitoring.
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) – DNS Enumeration Script
 - [daxAKAhackerman/XSS-Catcher](https://github.com/daxAKAhackerman/XSS-Catcher) – A blind XSS detection and XSS data capture framework
@@ -3709,6 +3721,7 @@
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service using CloudFlare R2
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for static site generators.
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
+- [wikihost-opensource/als](https://github.com/wikihost-opensource/als) – Another Looking-glass Server
 
 <div id="xslt"></div>
 
