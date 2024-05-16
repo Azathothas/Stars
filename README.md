@@ -721,6 +721,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
+- [balibuild/bali](https://github.com/balibuild/bali) – Bali -  Minimalist Golang build and packaging tool
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
@@ -1357,6 +1358,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) – An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
+- [watermint/toolbox](https://github.com/watermint/toolbox) – The multi-purpose utility command-line tool for web services including Dropbox, Figma, Google, GitHub, etc.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
@@ -2335,7 +2337,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – ↔️ Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
@@ -3615,7 +3617,7 @@
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Effortless, instant screen sharing. Open-source and cross-platform.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Effortless, instant screen sharing.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
