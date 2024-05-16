@@ -2853,7 +2853,7 @@
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) – tool for generating wordlists or extending an existing one using mutations.
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
-- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [devmatteini/dra](https://github.com/devmatteini/dra) – A command line tool to download release assets from GitHub
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
