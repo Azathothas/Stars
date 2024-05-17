@@ -1087,7 +1087,6 @@
 - [metafates/mangal](https://github.com/metafates/mangal) – 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [mgechev/revive](https://github.com/mgechev/revive) – 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [mhmdiaa/waybackrobots](https://github.com/mhmdiaa/waybackrobots) – Enumerate old versions of robots.txt paths using Wayback Machine for content discovery
-- [mhnightcat/superfile](https://github.com/mhnightcat/superfile) – Pretty fancy and modern terminal file manager
 - [michael1026/trashcompactor](https://github.com/michael1026/trashcompactor)
 - [miguelangel-nubla/ipv6ddns](https://github.com/miguelangel-nubla/ipv6ddns) – Discover the IPv6 addresses of specific hosts in your network and update DNS records dynamically
 - [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -1434,6 +1433,7 @@
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) – An experiment in scalable routing as an encrypted IPv6 overlay network
 - [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers.(expectations)
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
+- [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
@@ -1474,6 +1474,7 @@
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -2090,7 +2091,6 @@
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) – K4YT3X's Hardened OpenSSH Server Configuration
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 A collection of wordlists for many different usages
 - [knassar702/awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) – awesome linux minimalism suggestions
@@ -2893,6 +2893,7 @@
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
 - [cjrh/lifter](https://github.com/cjrh/lifter) – Download and sync new releases of single-file binaries from Github Releases and other sites
 - [ckaznable/tenki](https://github.com/ckaznable/tenki) – tty-clock with weather effect
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) – A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) – 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
@@ -3570,6 +3571,7 @@
 - [rdavid/shellbase](https://github.com/rdavid/shellbase) – The framework is specifically designed for Unix shell scripts.
 - [rear/rear](https://github.com/rear/rear) – Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [redraw/gh-install](https://github.com/redraw/gh-install) – install GitHub release binaries from the CLI interactively
+- [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/Origin-IP-Finder](https://github.com/rix4uni/Origin-IP-Finder)
@@ -3649,6 +3651,7 @@
 - [xpack-dev-tools/gcc-xpack](https://github.com/xpack-dev-tools/gcc-xpack) – A binary distribution of the GNU Compiler Collection (GCC)
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
