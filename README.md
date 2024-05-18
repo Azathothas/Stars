@@ -225,6 +225,7 @@
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
+- [libyal/libqcow](https://github.com/libyal/libqcow) – Library and tools to access the QEMU Copy-On-Write (QCOW) image format
 - [lifenjoiner/wget-for-windows](https://github.com/lifenjoiner/wget-for-windows) – Small. New features: Windows native support for https, ftps, ntlm, metalink and IDN, instead of OpenSSL, GNU hashes and libidn dependencies; New URL transcoding model; And the smallest ever file size ~500K. 小！新特性：不依赖 OpenSSL, GNU hashes 和 libidn 的， Windows 原生支持的 https, ftps, ntlm, metalink 和 IDN；新 URL 转码模型；目前最小编译 ~500K.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
@@ -315,7 +316,7 @@
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
-- [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 透明代理流量转为 socks5 的实用工具
+- [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) – zlib replacement with optimizations for "next generation" systems.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 
@@ -1438,6 +1439,7 @@
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
+- [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) – Turn WireGuard to HTTP & SOCKS5 proxies
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
@@ -1594,7 +1596,7 @@
 - [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) – JMX enumeration and attacking tool.
 - [qtc-de/remote-method-guesser](https://github.com/qtc-de/remote-method-guesser) – Java RMI Vulnerability Scanner
 - [rom1v/sndcpy](https://github.com/rom1v/sndcpy) – Android audio forwarding (scrcpy, but for audio)
-- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) – Fixes Burp Suite's poor TLS stack. Bypass WAF, spoof any browser.
+- [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) – Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) – Graphical SFTP client and terminal emulator with helpful utilities
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – An application using the power of Magisk to debloat unwanted system apps!
 - [termux/termux-app](https://github.com/termux/termux-app) – Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -2157,6 +2159,7 @@
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) – Awesome list dedicated to Windows Subsystem for Linux
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book)
 - [six2dez/resolvers_reconftw](https://github.com/six2dez/resolvers_reconftw) – Resolvers updated daily for reconftw
+- [slowpeek/debian-iso-guide](https://github.com/slowpeek/debian-iso-guide) – Your guide to Debian iso downloads
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) – A curated list of amazingly awesome Burp Extensions
 - [soulteary/docker-flare](https://github.com/soulteary/docker-flare) – Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
 - [stal-ix/stal-ix.github.io](https://github.com/stal-ix/stal-ix.github.io) – landing page
@@ -3305,7 +3308,10 @@
 - [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) – Automation for javascript recon in bug bounty. 
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) – Fetches system/theme information in terminal for Linux desktop screenshots.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) – Easy to use unprivileged Linux container packed into a single portable executable
+- [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) – A simple Linux Benchmark Toolkit
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
+- [LloydAsp/NodeBench](https://github.com/LloydAsp/NodeBench) – vps聚合测试脚本，直接输出排版好的markdown格式，方便粘贴
+- [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) – Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
 - [Macmod/CloudPersist](https://github.com/Macmod/CloudPersist) – A collection of simple scripts to achieve persistence quick in cloud environments without generating too much noise.
 - [Magisk-Modules-Alt-Repo/custom-certificate-authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) – A Magisk module which adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store. 
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
