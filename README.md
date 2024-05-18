@@ -227,6 +227,7 @@
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
 - [libyal/libqcow](https://github.com/libyal/libqcow) – Library and tools to access the QEMU Copy-On-Write (QCOW) image format
 - [lifenjoiner/wget-for-windows](https://github.com/lifenjoiner/wget-for-windows) – Small. New features: Windows native support for https, ftps, ntlm, metalink and IDN, instead of OpenSSL, GNU hashes and libidn dependencies; New URL transcoding model; And the smallest ever file size ~500K. 小！新特性：不依赖 OpenSSL, GNU hashes 和 libidn 的， Windows 原生支持的 https, ftps, ntlm, metalink 和 IDN；新 URL 转码模型；目前最小编译 ~500K.
+- [linux-audit/audit-userspace](https://github.com/linux-audit/audit-userspace) – Linux audit userspace repository
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
 - [madeye/proxydroid](https://github.com/madeye/proxydroid) – Global Proxy for Android
@@ -494,6 +495,7 @@
 - [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no external listening ports open
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
+- [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
@@ -2480,6 +2482,7 @@
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) – A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -3436,7 +3439,6 @@
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) – Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
-- [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – start ZeroTier in the background after startup
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
