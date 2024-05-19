@@ -350,6 +350,7 @@
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) – GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [immense/Remotely](https://github.com/immense/Remotely) – A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) – mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: The Graphical Interface for your package managers
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
@@ -899,6 +900,7 @@
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) – firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) – firectl is a command-line tool to run Firecracker microVMs
 - [firefart/stunner](https://github.com/firefart/stunner) – Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
+- [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [frioux/leatherman](https://github.com/frioux/leatherman) – Handy multitool that happens to be mostly Go
@@ -2267,7 +2269,6 @@
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) – Red Teaming Tactics and Techniques
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: The Graphical Interface for your package managers
 - [max-las/prioritize-zerotier](https://github.com/max-las/prioritize-zerotier) – Simple PowerShell script to set ZeroTier network interface as top priority
 - [mgeeky/ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling) – Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.
 - [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
@@ -2900,6 +2901,7 @@
 - [cjrh/lifter](https://github.com/cjrh/lifter) – Download and sync new releases of single-file binaries from Github Releases and other sites
 - [ckaznable/tenki](https://github.com/ckaznable/tenki) – tty-clock with weather effect
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) – A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+- [cloud-hypervisor/rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware)
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) – 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
@@ -3424,7 +3426,7 @@
 - [dmotte/desktainer](https://github.com/dmotte/desktainer) – 🖥 Remote desktop in a container
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) – The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [dockur/windows](https://github.com/dockur/windows) – Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [docsion/rfsh](https://github.com/docsion/rfsh) – RFSH: Run shell scripts in batch, concurrently, fully customized with variable .
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dracula/tmux](https://github.com/dracula/tmux) – 🧛🏻‍♂️ Dark theme for tmux
