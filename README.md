@@ -526,6 +526,7 @@
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
+- [ironpeakservices/iron-scratch](https://github.com/ironpeakservices/iron-scratch) – Secure base image for running Go (or any other static) applications.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
 - [karellen/karellen-gha-runner](https://github.com/karellen/karellen-gha-runner) – Karellen GitHub Action Server Docker Image
@@ -724,6 +725,7 @@
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
+- [arduino/arduino-lint](https://github.com/arduino/arduino-lint) – Tool to check for problems with Arduino projects
 - [arl/statsviz](https://github.com/arl/statsviz) – 🚀 Visualise your Go program runtime metrics in real time in the browser
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) – Easy web analytics. No tracking of personal data.
 - [ashishb/gabo](https://github.com/ashishb/gabo) – GitHub Actions Boilerplate Generator
@@ -879,6 +881,7 @@
 - [edoardottt/lit-bb-hack-tools](https://github.com/edoardottt/lit-bb-hack-tools) – Little Bug Bounty & Hacking Tools⚔️
 - [edoardottt/pwdsafety](https://github.com/edoardottt/pwdsafety) – 🔒command line tool checking password safety🔒
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) – Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+- [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) – Remove all the resources from an AWS account
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [elmasy-com/columbus-scanner](https://github.com/elmasy-com/columbus-scanner) – Log scanner CLI to upload to Columbus server.
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) – Open Source External Attack Surface Management
@@ -982,6 +985,7 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [homeport/termshot](https://github.com/homeport/termshot) – Creates screenshots based on terminal command output
+- [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Receive events (e.g. webhooks) in your development environment
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
@@ -1185,6 +1189,7 @@
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
+- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owasp-amass/oam-tools](https://github.com/owasp-amass/oam-tools) – Analysis and management tools for an Open Asset Model database
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
@@ -1393,6 +1398,7 @@
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
 - [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
+- [uniget-org/cli](https://github.com/uniget-org/cli) – The universal installer and updater for (container) tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - ARM/RISC-V bare metal Go
@@ -1614,6 +1620,7 @@
 - [tiann/Leoric](https://github.com/tiann/Leoric) – PoC of fighting against force-stop kill process on Android
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) – Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [ukanth/afwall](https://github.com/ukanth/afwall) – AFWall+ (Android Firewall +) - iptables based firewall for Android 
+- [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) – Source code for Uyuni
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) – HeapDump敏感信息提取工具
 - [xfarrow/locatemydevice](https://github.com/xfarrow/locatemydevice) – Application miming Google's Find My Device through SMS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
@@ -2101,6 +2108,7 @@
 - [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
 - [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) – K4YT3X's Hardened OpenSSH Server Configuration
+- [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) – K4YT3X's Hardened sysctl Configuration
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
@@ -2253,6 +2261,7 @@
 
 ## PowerShell
 
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) – HardeningKitty and Windows Hardening settings and configurations
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) – Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
@@ -2841,6 +2850,7 @@
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
+- [TheAlgorythm/zsplit](https://github.com/TheAlgorythm/zsplit) – Split text into multiple files by line
 - [TheBinitGhimire/NtHiM](https://github.com/TheBinitGhimire/NtHiM) – Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
@@ -2986,6 +2996,7 @@
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
@@ -3056,6 +3067,7 @@
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – A modern environment variables manager
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
@@ -3065,6 +3077,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [mgree/ffs](https://github.com/mgree/ffs) – the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
+- [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
@@ -3321,6 +3334,7 @@
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) – The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
 - [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) – Automation for javascript recon in bug bounty. 
+- [Kicksecure/security-misc](https://github.com/Kicksecure/security-misc) – Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) – Fetches system/theme information in terminal for Linux desktop screenshots.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) – Easy to use unprivileged Linux container packed into a single portable executable
 - [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) – A simple Linux Benchmark Toolkit
@@ -3472,6 +3486,7 @@
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
+- [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
 - [hiifeng/V2ray-for-AlwaysData](https://github.com/hiifeng/V2ray-for-AlwaysData) – The tool can install v2ray on the AlwaysData, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 - [hiifeng/V2ray-for-Codesandbox](https://github.com/hiifeng/V2ray-for-Codesandbox) – The tool can install v2ray on the Codesandbox, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
