@@ -997,6 +997,7 @@
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+- [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
@@ -1074,7 +1075,6 @@
 - [lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic) – EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
 - [liamg/traitor](https://github.com/liamg/traitor) – :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-- [lichti/whats-spoofing](https://github.com/lichti/whats-spoofing) – Whatsapp Exploit to spoofing impersonate of reply message 
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [likexian/whois](https://github.com/likexian/whois) – Whois client for domain and ip whois information query in Go(Golang).
 - [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, with a focus on running containers
@@ -3514,6 +3514,7 @@
 - [illvart/termux-alpine](https://github.com/illvart/termux-alpine) – Bash script for installing Alpine Linux in Termux - 100 MB.
 - [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) – Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
+- [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
