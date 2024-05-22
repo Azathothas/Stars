@@ -412,7 +412,6 @@
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) – Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
-- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
@@ -3032,6 +3031,7 @@
 - [iustin24/chameleon](https://github.com/iustin24/chameleon)
 - [iustin24/rextract](https://github.com/iustin24/rextract) – CLI tool that extracts a regex pattern from a list of urls ( Rust ) 
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
+- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
