@@ -943,6 +943,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
+- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
@@ -1660,7 +1661,6 @@
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
@@ -1695,6 +1695,7 @@
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) – save what you love
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
@@ -1878,7 +1879,6 @@
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [Xe/site](https://github.com/Xe/site) – The new frontend/backend code for https://xeiaso.net
-- [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 
 <div id="meson"></div>
 
@@ -2391,6 +2391,7 @@
 - [RevoltSecurities/Dnsbruter](https://github.com/RevoltSecurities/Dnsbruter) – Dnsbruter is a powerful tool designed to perform active subdomain enumeration and discovery. It uses DNS resolution to efficiently bruteforce and identify potential subdomains for a given target domain. With its multithreading capability, users can control the concurrency level to speed up the process.
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
@@ -2638,6 +2639,7 @@
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
+- [oilshell/oil](https://github.com/oilshell/oil) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
@@ -3437,13 +3439,13 @@
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
-- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键DD/重装脚本 (One-click script to reinstall OS on VPS)
+- [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
 - [bitnami/minideb](https://github.com/bitnami/minideb) – A small image based on Debian designed for use in containers
 - [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
-- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Abuseipdb IP Aggregator
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – IP-lists with worst IPv4 & IPv6 offenders (~100% confidence - 0% false positives)
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
