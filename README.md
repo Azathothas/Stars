@@ -571,6 +571,8 @@
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [Allaman/gstring](https://github.com/Allaman/gstring) – Swiss army knife for manipulating strings.
+- [Allaman/werkzeugkasten](https://github.com/Allaman/werkzeugkasten) – Download your favorite command-line tools with ease!
 - [Android-Guards/apk-extractor](https://github.com/Android-Guards/apk-extractor)
 - [ArchiveNetwork/wgcf-cli](https://github.com/ArchiveNetwork/wgcf-cli) – A command-line tool for Cloudflare-WARP API, built using Cobra.
 - [Aryanstha/Go-for-Pentester](https://github.com/Aryanstha/Go-for-Pentester)
@@ -3810,7 +3812,7 @@
 - [karldreher/b2-cloudflare-worker](https://github.com/karldreher/b2-cloudflare-worker) – A cloudflare worker which is used to cache content from a private Backblaze B2 bucket.
 - [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
-- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
