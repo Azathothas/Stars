@@ -319,6 +319,7 @@
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+- [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) – zlib replacement with optimizations for "next generation" systems.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
