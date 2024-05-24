@@ -672,7 +672,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
-- [VHSgunzo/shellsrv](https://github.com/VHSgunzo/shellsrv) – Shell server/client
+- [VHSgunzo/ssrv](https://github.com/VHSgunzo/ssrv) – Shell server/client
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [WHOISshuvam/gotld](https://github.com/WHOISshuvam/gotld) – Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.
