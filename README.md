@@ -2893,6 +2893,7 @@
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) – Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) – 💎 Amber the programming language compiled to bash
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
