@@ -2472,6 +2472,7 @@
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -3523,6 +3524,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dracula/tmux](https://github.com/dracula/tmux) – 🧛🏻‍♂️ Dark theme for tmux
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
+- [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) – text window manager, shell multiplexer, integrated DevOps environment
 - [dwisiswant0/gf-secrets](https://github.com/dwisiswant0/gf-secrets) – Secret and/or credential patterns used for gf.
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) – 📁 A simple file manager written in bash.
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
