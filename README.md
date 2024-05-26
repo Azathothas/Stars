@@ -1107,6 +1107,7 @@
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) – Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
+- [lmorg/murex](https://github.com/lmorg/murex) – A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) – 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) – An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -3251,6 +3252,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) – A command-line tool to generate, analyze, convert and manipulate colors
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI app to view and query CSV files
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash-based command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
