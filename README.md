@@ -66,6 +66,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Xslt](#xslt)
+- [Yacc](#yacc)
 - [Yaml](#yaml)
 - [Yara](#yara)
 - [Zig](#zig)
@@ -1873,7 +1874,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser made by extraordinary addons: Ubuntu, Terminal, file manager etc...
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser made by extraordinary addons: Ubuntu, Terminal, file manager, ritch qr reader etc...
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
@@ -3982,6 +3983,12 @@
 ## Xslt
 
 - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) – Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+
+<div id="yacc"></div>
+
+## Yacc
+
+- [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 
 <div id="yaml"></div>
 
