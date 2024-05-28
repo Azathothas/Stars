@@ -607,6 +607,7 @@
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Kubernetes Attack Graph
+- [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) – :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) – An unofficial GUI wrapper around the Tailscale CLI client.
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
@@ -645,6 +646,9 @@
 - [Josue87/gotator](https://github.com/Josue87/gotator) – Gotator is a tool to generate DNS wordlists through permutations.
 - [Josue87/roboxtractor](https://github.com/Josue87/roboxtractor) – Extract endpoints marked as disallow in robots files to generate wordlists.
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
+- [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) – Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
+- [LeanerCloud/aws-ipv4-cost-viewer](https://github.com/LeanerCloud/aws-ipv4-cost-viewer) – CLI tool that shows the future public IPv4 costs for a variety of AWS resources across all AWS regions from an account.
+- [LeanerCloud/ec2-instances-info](https://github.com/LeanerCloud/ec2-instances-info) – Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) – OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) – Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
@@ -659,6 +663,7 @@
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
+- [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
@@ -669,7 +674,10 @@
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
 - [SeanHood/tailscale-netcat](https://github.com/SeanHood/tailscale-netcat) – A tool designed to immitate netcat for the purposes of SSH's ProxyCommand
+- [Septrum101/lightsailMon](https://github.com/Septrum101/lightsailMon) – An AWS Lightsail monitor service that can auto change blocked IP.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) – Programming framework for writing and deploying cloud applications.
+- [Shell-Company/Noirgate](https://github.com/Shell-Company/Noirgate) – NoirGate provides on-demand ephemeral anonymous shells secured by TOTP
+- [Shell-Company/poltergeist](https://github.com/Shell-Company/poltergeist) – A tool to encode and decode content as whitespace
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) – Six Degrees of Domain Admin
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
@@ -756,6 +764,7 @@
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) – A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
+- [awslabs/amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) – A utility tool to create a tarball of existing objects in Amazon S3
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
@@ -825,6 +834,7 @@
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
+- [cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider) – CB-Spider offers a unified view and interface for multi-cloud management.
 - [cloudbase/garm](https://github.com/cloudbase/garm) – GitHub Actions Runner Manager
 - [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) – Cloudflare's RPKI Toolbox
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) – CFSSL: Cloudflare's PKI and TLS toolkit
@@ -832,10 +842,12 @@
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) – A simple vaultless password manager in Go
 - [cloudflare/ipvs](https://github.com/cloudflare/ipvs) – Package ipvs allows you to manage Linux IPVS services and destinations
 - [cloudfoundry/winc](https://github.com/cloudfoundry/winc) – CLI tool for spawning and running containers on Windows according to the OCI specification
+- [clouditor/clouditor](https://github.com/clouditor/clouditor) – The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.
 - [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) – Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
+- [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
 - [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
 - [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
@@ -950,6 +962,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) – SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [frantjc/forge](https://github.com/frantjc/forge) – Run reusable steps from proprietary CI systems.
 - [frioux/leatherman](https://github.com/frioux/leatherman) – Handy multitool that happens to be mostly Go
+- [fujiwara/awslim](https://github.com/fujiwara/awslim) – A simplified alternative to the AWS CLI for limited use cases.
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) – An interactive web UI for gRPC, along the lines of postman
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -959,6 +972,7 @@
 - [g0ldencybersec/gungnir](https://github.com/g0ldencybersec/gungnir) – CT Log Scanner
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
+- [getsops/sops](https://github.com/getsops/sops) – Simple and flexible tool for managing secrets
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
@@ -1018,6 +1032,7 @@
 - [hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder) – Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 - [hakluke/hakscale](https://github.com/hakluke/hakscale) – Distribute ordinary bash commands over many systems
 - [hakluke/hakstore](https://github.com/hakluke/hakstore)
+- [handlename/ssmwrap](https://github.com/handlename/ssmwrap) – Exec command with environment variables loaded from AWS SSM.
 - [harakeishi/whris](https://github.com/harakeishi/whris) – "whris" is Displays management information for IPs associated with the domain.
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
@@ -1049,6 +1064,7 @@
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) – goverview - Get an overview of the list of URLs
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) – OSINT tools and more but without API key
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) – A Workflow Engine for Offensive Security
+- [jacobnguyenn/gorya](https://github.com/jacobnguyenn/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [jacobsa/ssh_ping](https://github.com/jacobsa/ssh_ping) – Utility for measuring SSH session latency
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
@@ -1061,6 +1077,7 @@
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
+- [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
 - [jpillora/installer](https://github.com/jpillora/installer) – One-liner for installing binaries from Github releases
@@ -1081,6 +1098,7 @@
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
 - [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – The Kaytu CLI improves the efficiency of cloud workloads by analyzing historical usage and providing tailored recommendations, such as changing instance sizes. This ensures you only pay for the resources you actually need without compromising stability.
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) – E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [keilerkonzept/dockerfile-json](https://github.com/keilerkonzept/dockerfile-json) – 🐳 parse & print a Dockerfile as JSON, or query (e.g. extract  base images) using JSONPath. #golang #cli - single binary, no dependencies. linux, osx, windows. 
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) – Visualize and graph data in the terminal
@@ -1113,6 +1131,7 @@
 - [lasseh/whynoipv6](https://github.com/lasseh/whynoipv6) – Shame the top 1Million websites without IPv6
 - [layou233/NeverIdle](https://github.com/layou233/NeverIdle) – 资源定期浪费，可用于 Oracle 甲骨文保活。
 - [lc/gau](https://github.com/lc/gau) – Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [legal90/awscurl](https://github.com/legal90/awscurl) – cURL with AWS request signing
 - [lemonlove7/EHole_magic](https://github.com/lemonlove7/EHole_magic) – EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
 - [letsencrypt/ct-woodpecker](https://github.com/letsencrypt/ct-woodpecker) – A tool to monitor a certificate transparency log for operational problems
 - [liamg/traitor](https://github.com/liamg/traitor) – :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
@@ -1207,6 +1226,7 @@
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
+- [nathants/libaws](https://github.com/nathants/libaws) – aws should be easy
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
@@ -1217,6 +1237,7 @@
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) – Real fucking shellcode encryptor & obfuscator tool
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+- [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
 - [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) – The tool for creating, delivering and rotating backups for GNU/Linux distributions.
 - [nlewo/comin](https://github.com/nlewo/comin) – GitOps For NixOS Machines
@@ -1232,6 +1253,8 @@
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
+- [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
@@ -1245,6 +1268,7 @@
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
 - [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
+- [padok-team/yatas](https://github.com/padok-team/yatas) – :owl::mag_right: A simple tool to audit your AWS/GCP infrastructure for misconfiguration or potential security issues with plugins integration
 - [palantir/amalgomate](https://github.com/palantir/amalgomate) – Go tool for combining multiple different main packages into a single program or library
 - [paololazzari/play](https://github.com/paololazzari/play) – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
@@ -1269,6 +1293,7 @@
 - [portapps/portapps](https://github.com/portapps/portapps) – 🛰 Collection of portable apps for Windows
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
+- [primait/nuvola](https://github.com/primait/nuvola)
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) – Go CLI and Library for quickly mapping organization network ranges using ASN information.
@@ -1304,6 +1329,7 @@
 - [quay/clair](https://github.com/quay/clair) – Vulnerability Static Analysis for Containers
 - [r4ulcl/bntoolkit](https://github.com/r4ulcl/bntoolkit) – Toolkit to investigate the BitTorrent network.
 - [r4ulcl/nTask](https://github.com/r4ulcl/nTask) – nTask is a distributed task management program that allows you to distribute tasks across multiple computers using API communication and WebSockets. It handles task requests, distributes them to available workers, and stores the results in a database or sends them to a specified URL/API. Integration with other APIs or scripts is also supported.
+- [radiusmethod/awsd](https://github.com/radiusmethod/awsd) – AWS Profile Switcher in Go
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [rancher/elemental-toolkit](https://github.com/rancher/elemental-toolkit) – :snowflake: The toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images
 - [random-robbie/wayback-saver](https://github.com/random-robbie/wayback-saver) – Saves pages to Wayback machine
@@ -1340,6 +1366,7 @@
 - [s0md3v/wl](https://github.com/s0md3v/wl) – convert case style of words
 - [s0rg/crawley](https://github.com/s0rg/crawley) – The unix-way web crawler
 - [s0rg/decompose](https://github.com/s0rg/decompose) – Reverse-engineering tool for docker environments
+- [sHesl/amazon-where-services](https://github.com/sHesl/amazon-where-services) – Automated determination of which AWS services run where
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) – Scan for misconfigured S3 buckets across S3-compatible APIs!
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [safing/portmaster](https://github.com/safing/portmaster) – 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -1357,6 +1384,7 @@
 - [securego/gosec](https://github.com/securego/gosec) – Go security checker
 - [securisec/cliam](https://github.com/securisec/cliam) – Cloud agnostic IAM permissions enumerator
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) – A multi-purpose OSINT toolkit with a neat web-interface.
+- [segmentio/chamber](https://github.com/segmentio/chamber) – CLI for managing secrets
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) – 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [seveas/herd](https://github.com/seveas/herd) – Massively parallel ssh client
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) – 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -1385,6 +1413,7 @@
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
+- [soapiestwaffles/s3-nuke](https://github.com/soapiestwaffles/s3-nuke) – Nuke all the files and their versions from an S3 Bucket 💣🪣
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) – Share your terminal as a web application
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) – Sower is a cross-platform intelligent transparent proxy solution.
@@ -2693,6 +2722,7 @@
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [oilshell/oil](https://github.com/oilshell/oil) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [okigan/awscurl](https://github.com/okigan/awscurl) – curl-like access to AWS resources with AWS Signature Version 4 request signing.
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ Pinkerton is an JavaScript file crawler and secret finder tool developed in Python 
@@ -2959,6 +2989,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package installer and resolver, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
+- [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
 - [b1-team/superman](https://github.com/b1-team/superman) – 🤖 Kill The Protected Process 🤖
@@ -3084,7 +3115,7 @@
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
-- [hw0lff/shikane](https://github.com/hw0lff/shikane) – A dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
+- [hw0lff/shikane](https://github.com/hw0lff/shikane) – A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
@@ -3105,6 +3136,7 @@
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
+- [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
@@ -3207,6 +3239,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
+- [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
@@ -3467,6 +3500,7 @@
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
+- [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
 - [Skimmeroni/Nupk](https://github.com/Skimmeroni/Nupk) – Dummy package manager in roughly 400 lines of shell script
 - [Skimmeroni/Nupk-repository](https://github.com/Skimmeroni/Nupk-repository) – A repository of installation scripts. To be used with Nupk
 - [Smiley-McSmiles/jellyman](https://github.com/Smiley-McSmiles/jellyman) – Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package
@@ -3616,6 +3650,7 @@
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) – Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
+- [jean0t/archon](https://github.com/jean0t/archon) – A minimalist low level package manager for your linux, compatible with all linux distros due to the use of POSIX.
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
@@ -3667,6 +3702,7 @@
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [mrvcoder/GetASN](https://github.com/mrvcoder/GetASN) – 🌐 Get Some Useful Info From Domain/IP/ASN 🔥
 - [mszcool/devmachinesetup](https://github.com/mszcool/devmachinesetup) – Used for setting up blank Windows (and in the future Linux) development machines by using package managers such as Chocolatey and PowerShell (or Bash). The goal is to automate the setup process as much as possible.
+- [muicoder/docker-images](https://github.com/muicoder/docker-images) – docker build for images
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) – :earth_africa: `/usr/bin/qemu-*-static`
 - [mux0x/cold.sh](https://github.com/mux0x/cold.sh) – your bestfried for finding URLs of a target
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) – A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
@@ -3777,6 +3813,8 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
+- [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
+- [unypkg/unypkg](https://github.com/unypkg/unypkg) – Universal, simple and classical Linux package manager
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
@@ -3803,6 +3841,7 @@
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
+- [z-shell/zi](https://github.com/z-shell/zi) – ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) – Feature-rich syntax highlighting for ZSH
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
