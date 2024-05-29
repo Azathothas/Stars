@@ -3774,7 +3774,7 @@
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
-- [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | POWERSHELL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
+- [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
