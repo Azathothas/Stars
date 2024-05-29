@@ -2090,6 +2090,7 @@
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) – Easy-to-use APK installer and more for Windows Subsystem for Android
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
+- [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation. Currently in the making.
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
@@ -2131,7 +2132,6 @@
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) – Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting) – Overview of free hosting offers, incl. compute hosting, app hosting, databases, serverless etc.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
-- [cqcore/Website-OSINT](https://github.com/cqcore/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [craiu/mobiletrackers](https://github.com/craiu/mobiletrackers) – A repository of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) – 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) – API Security Project aims to present unique attack & defense methods in API Security field
@@ -2156,7 +2156,7 @@
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
-- [ethanolivertroy/hackspacecon](https://github.com/ethanolivertroy/hackspacecon) – Workshop & Talk Slide Decks from HackSpaceCon
+- [ethanolivertroy/hackspacecon-2023](https://github.com/ethanolivertroy/hackspacecon-2023) – Workshop & Talk Slide Decks from HackSpaceCon
 - [ex16x41/bugbounty](https://github.com/ex16x41/bugbounty) – always updating
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) – A curated list of Websocket libraries and resources.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
@@ -2378,7 +2378,7 @@
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) – Red Teaming Tactics and Techniques
 - [max-las/prioritize-zerotier](https://github.com/max-las/prioritize-zerotier) – Simple PowerShell script to set ZeroTier network interface as top priority
 - [mgeeky/ProtectMyTooling](https://github.com/mgeeky/ProtectMyTooling) – Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.
-- [microsoft/Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox) – Disposable, secure and lightweight Windows Desktop VM!
+- [microsoft/Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox) – Disposable, secure and lightweight Windows Desktop VM
 - [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
 - [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) – Easily move your WSL distros VHDX file to a new location.
