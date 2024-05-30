@@ -138,7 +138,7 @@
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [Kitware/CMake](https://github.com/Kitware/CMake) – Mirror of CMake upstream repository
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – A Linux container written in C 🍥
+- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – A Linux container written in C
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
@@ -552,6 +552,7 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) – Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
 - [yurymuski/curl-http3](https://github.com/yurymuski/curl-http3) – Curl docker image compiled with BoringSSL and quiche for HTTP3 support + httpstat
+- [zydou/GFW](https://github.com/zydou/GFW) – Various tools to bypass the GFW. 
 
 <div id="earthly"></div>
 
@@ -765,6 +766,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) – A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [awslabs/amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) – A utility tool to create a tarball of existing objects in Amazon S3
+- [awslabs/aws-simple-ec2-cli](https://github.com/awslabs/aws-simple-ec2-cli) – A CLI tool that simplifies the process of launching, connecting and terminating an EC2 instance.
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
@@ -846,6 +848,7 @@
 - [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) – Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
+- [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
@@ -935,6 +938,7 @@
 - [elvisgraho/cert-sub-go](https://github.com/elvisgraho/cert-sub-go) – Cert Sub Go is a tool to query SSL Certificate Transparency for subdomain discovery
 - [elvisgraho/jwt-cracker-go](https://github.com/elvisgraho/jwt-cracker-go) – jwt-cracker-go is a simple brute force cracker for HS256, HS384, and HS512 JWT tokens, inspired by jwt-cracker.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
+- [ericpauley/ec2-autostart](https://github.com/ericpauley/ec2-autostart) – Automatically starts EC2 instances based on network traffic
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) – Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
@@ -1097,7 +1101,7 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) – :penguin: The immutable Linux meta-distribution for edge Kubernetes.
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
-- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – The Kaytu CLI improves the efficiency of cloud workloads by analyzing historical usage and providing tailored recommendations, such as changing instance sizes. This ensures you only pay for the resources you actually need without compromising stability.
+- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need, without compromising your apps.
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) – E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [keilerkonzept/dockerfile-json](https://github.com/keilerkonzept/dockerfile-json) – 🐳 parse & print a Dockerfile as JSON, or query (e.g. extract  base images) using JSONPath. #golang #cli - single binary, no dependencies. linux, osx, windows. 
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
@@ -1536,7 +1540,7 @@
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [ycd/dstp](https://github.com/ycd/dstp) – 🧪 Run common networking tests against any site.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) – An experiment in scalable routing as an encrypted IPv6 overlay network
-- [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers.(expectations)
+- [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
@@ -2070,7 +2074,6 @@
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 times a day.
 - [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) – :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
-- [Mike-n1/tips](https://github.com/Mike-n1/tips)
 - [NikeshX001/Runners](https://github.com/NikeshX001/Runners)
 - [NitinYadav00/gf-patterns](https://github.com/NitinYadav00/gf-patterns) – Some of the gf patterns which i use
 - [NyaMisty/warp-on-actions](https://github.com/NyaMisty/warp-on-actions) – Install Cloudflare WARP on Github actions.
@@ -2850,6 +2853,7 @@
 - [zer1t0/awsenum](https://github.com/zer1t0/awsenum) – Enumerate AWS permissions and resources.
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
+- [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
 
 <div id="roff"></div>
 
@@ -3303,6 +3307,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues.
+- [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) – a graphical tool to visualize binary data
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) – A minimal, fast alternative to 'du -sh'
@@ -3409,6 +3414,7 @@
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
+- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [mirror]
 
 <div id="scss"></div>
 
@@ -4022,6 +4028,7 @@
 ## Xslt
 
 - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) – Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+- [Mike-n1/tips](https://github.com/Mike-n1/tips)
 
 <div id="yacc"></div>
 
