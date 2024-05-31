@@ -534,6 +534,7 @@
 - [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
+- [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [ironpeakservices/iron-scratch](https://github.com/ironpeakservices/iron-scratch) – Secure base image for running Go (or any other static) applications.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
@@ -772,6 +773,7 @@
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) – 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) – F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+- [baby9/wgcf-socks-docker](https://github.com/baby9/wgcf-socks-docker) – Cloudflare WARP (WireGaurd protocol) run in containerized environment.
 - [balibuild/bali](https://github.com/balibuild/bali) – Bali -  Minimalist Golang build and packaging tool
 - [barelyhuman/goblin](https://github.com/barelyhuman/goblin) – Golang binaries compiled on-demand for your system
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
@@ -866,6 +868,7 @@
 - [criteo/command-launcher](https://github.com/criteo/command-launcher) – A command launcher 🚀 made with ❤️
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
 - [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
+- [csyezheng/ip-scanner](https://github.com/csyezheng/ip-scanner) – This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.
 - [cterence/tailout](https://github.com/cterence/tailout) – Spawn an exit node for your tailnet anywhere
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cuducos/chunk](https://github.com/cuducos/chunk) – 🧱 Chunk is a download manager for slow and unstable servers
@@ -2937,6 +2940,7 @@
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) – Shell into a virtualized linux, with your own tools 
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
+- [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
@@ -3037,6 +3041,7 @@
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) – Make it safe to serve untrusted SVG files
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static linux rust binaries
+- [cn-kali-team/notion-blog](https://github.com/cn-kali-team/notion-blog) – One click build your website with Notion for free using wrangler
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) – The Conventional Commits toolbox
 - [code-inflation/cfspeedtest](https://github.com/code-inflation/cfspeedtest) – Unofficial CLI for speed.cloudflare.com
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
@@ -3111,6 +3116,7 @@
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
+- [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
@@ -3185,6 +3191,8 @@
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
+- [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
+- [makindotcc/fabricbin](https://github.com/makindotcc/fabricbin) – Patch binary file using IDA signatures and defined replacement bytes in YAML.
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
