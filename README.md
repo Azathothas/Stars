@@ -401,7 +401,7 @@
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) – Graphical GREP tool for Windows
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) – Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) – Tunnel TCP connections through a file
-- [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) – Use multiple computers using the one monitor, mouse and keyboard
+- [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) – Use multiple computers using one set of monitors, mouse and keyboard
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) – Sudo for Windows
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) – GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [immense/Remotely](https://github.com/immense/Remotely) – A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
@@ -4114,6 +4114,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) – A browser extension for automating your browser by connecting blocks
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) – Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) – A simple GUI for SCRCPY and other ADB functions
+- [JingBh/ServerStatus-theme](https://github.com/JingBh/ServerStatus-theme) – A custom theme for ServerStatus-Rust
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
