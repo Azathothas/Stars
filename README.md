@@ -7,6 +7,7 @@
 - [Ada](#ada)
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Autoit](#autoit)
 - [Batchfile](#batchfile)
 - [Bitbake](#bitbake)
@@ -92,6 +93,12 @@
 
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) – the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
+
+<div id="astro"></div>
+
+## Astro
+
+- [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) – Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger
 
 <div id="autoit"></div>
 
@@ -362,7 +369,7 @@
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [wolfSSL/wolfCLU](https://github.com/wolfSSL/wolfCLU) – The wolfSSL Command Line Utility wolfCLU
-- [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!
+- [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
@@ -872,6 +879,8 @@
 - [cemulus/crt](https://github.com/cemulus/crt) – A CLI tool to check Certificate Transparency logs of a domain name.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
+- [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
+- [chainreactors/zombie](https://github.com/chainreactors/zombie) – a weak weak pass tool
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1099,6 +1108,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [hectorm/cetusguard](https://github.com/hectorm/cetusguard) – CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 - [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) – Interactive viewer for JSON logs.
+- [hetznercloud/cli](https://github.com/hetznercloud/cli) – A command-line interface for Hetzner Cloud
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [homeport/termshot](https://github.com/homeport/termshot) – Creates screenshots based on terminal command output
@@ -1320,6 +1330,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
+- [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
@@ -1626,6 +1637,8 @@
 
 ## HTML
 
+- [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository
+- [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
@@ -1653,6 +1666,7 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) – NOVA opeN sOurce Video plAyer: main repository to build them all
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) – Writing an OS in Rust
@@ -1820,6 +1834,7 @@
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
 - [caido/workflows](https://github.com/caido/workflows) – 🛠️ Workflows created by the community
+- [ccbikai/ip-api](https://github.com/ccbikai/ip-api) – 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [craigary/nobelium](https://github.com/craigary/nobelium) – A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) – Simple command to backup a Notion workspace
@@ -1867,6 +1882,7 @@
 - [netnr/workers](https://github.com/netnr/workers) – Cloudflare Workers
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) – The next generation OONI Probe desktop app
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+- [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [prettier/prettier](https://github.com/prettier/prettier) – Prettier is an opinionated code formatter.
@@ -1964,6 +1980,7 @@
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) – Android Easter Egg Collections
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info provides information about device hardware and software
@@ -2114,12 +2131,11 @@
 - [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
-- [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table) of all the officially Available Packages in the Termux Registry
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 1000+ Statically Linked Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
+- [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
 - [Azathothas/ndk-pkg-formula-repository-fork-core](https://github.com/Azathothas/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
@@ -3062,6 +3078,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
+- [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
@@ -3397,6 +3414,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues.
+- [serpent-os/moss](https://github.com/serpent-os/moss) – The safe, fast and sane package manager for Linux
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) – a graphical tool to visualize binary data
@@ -4118,6 +4136,7 @@
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service using CloudFlare R2
