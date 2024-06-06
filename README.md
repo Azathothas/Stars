@@ -537,6 +537,7 @@
 
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) – building android-sdk tools  for Android
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) – C++ Library Manager for Windows, Linux, and MacOS
+- [nmeum/android-tools](https://github.com/nmeum/android-tools) – Unoffical CMake-based build system for android command line utilities
 
 <div id="coffeescript"></div>
 
@@ -674,6 +675,7 @@
 - [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) – Blazing fast GraphQL discovery & fingerprinting toolbox.
 - [Eun/logtimer](https://github.com/Eun/logtimer) – Enhance your output with a timer / date
 - [Eun/sshkeys](https://github.com/Eun/sshkeys) – Get all ssh public keys of a ssh server
+- [EwenQuim/entropy](https://github.com/EwenQuim/entropy) – Entropy is a CLI tool that will scan your codebase for high entropy lines, which are often secrets.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) – Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound) – FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool. 
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -956,6 +958,7 @@
 - [devploit/nomore403](https://github.com/devploit/nomore403) – Tool to bypass 403/40X response codes.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
+- [diamondburned/nix-search](https://github.com/diamondburned/nix-search) – A Nix-channel-compatible package search
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
@@ -1041,6 +1044,7 @@
 - [g0ldencybersec/gungnir](https://github.com/g0ldencybersec/gungnir) – CT Log Scanner
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
+- [getporter/porter](https://github.com/getporter/porter) – Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) – Create, share, and run runbooks from your terminal. 
 - [getsops/sops](https://github.com/getsops/sops) – Simple and flexible tool for managing secrets
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
@@ -1146,6 +1150,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
+- [jiro4989/gsv](https://github.com/jiro4989/gsv) – gsv transforms a multi-line CSV into one-line JSON to make it easier to grep.
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
@@ -1197,6 +1202,7 @@
 - [kungze/quic-tun](https://github.com/kungze/quic-tun) – A fast and security tunnel based on QUIC, make you can access remote TCP/UNIX  application like a local application.  一个快速且安全的 TCP  隧道工具，能加速弱网环境下（如网络有丢包）TCP 的转发性能。
 - [kvesta/vesta](https://github.com/kvesta/vesta) – A static analysis of vulnerabilities, Docker and Kubernetes cluster configuration detect toolkit based on the real penetration of cloud computing
 - [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) – Modern web-based distributed hashcracking solution, built on hashcat
+- [laktak/zfind](https://github.com/laktak/zfind) – search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
 - [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
 - [lanrat/certgraph](https://github.com/lanrat/certgraph) – An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) – Really fast sync tool for S3
@@ -1321,6 +1327,7 @@
 - [noborus/ov](https://github.com/noborus/ov) – 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [noborus/trdsql](https://github.com/noborus/trdsql) – CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
+- [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
 - [nwtgck/yamux-cli](https://github.com/nwtgck/yamux-cli) – Multiplexing TCP and UDP using yamux
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – NextTrace, an open source visual route tracking CLI tool
@@ -1348,6 +1355,7 @@
 - [palantir/amalgomate](https://github.com/palantir/amalgomate) – Go tool for combining multiple different main packages into a single program or library
 - [paololazzari/play](https://github.com/paololazzari/play) – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
+- [pasknel/epyon](https://github.com/pasknel/epyon) – Epyon is a swiss army knife tool for pentesting DevOps ecosystems.
 - [patrickhener/gopwntomcat](https://github.com/patrickhener/gopwntomcat) – A little tomcat brute forcer and pwning tool
 - [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design
 - [patrickhoefler/cloudbuildgraph](https://github.com/patrickhoefler/cloudbuildgraph) – Visualize your Google Cloud Build pipelines
@@ -1357,6 +1365,7 @@
 - [peco/peco](https://github.com/peco/peco) – Simplistic interactive filtering tool
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) – Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [peterldowns/localias](https://github.com/peterldowns/localias) – custom local domain aliases for local dev servers
+- [peterldowns/nix-search-cli](https://github.com/peterldowns/nix-search-cli) – CLI for searching packages on search.nixos.org
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) – 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) – Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
@@ -1422,6 +1431,7 @@
 - [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) – Nix derivations as Dockerfiles (`docker build -f default.nix .`)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) – diff for Docker and OCI container images
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
+- [retr0h/gilt](https://github.com/retr0h/gilt) – A GIT layering tool.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
@@ -1522,6 +1532,7 @@
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
+- [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
@@ -1625,10 +1636,12 @@
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) – Turn WireGuard to HTTP & SOCKS5 proxies
+- [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset) – 🔩 A set of Notion automation tools using the Notion API
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) – Public Zone Database
+- [ztelliot/taierspeed-cli](https://github.com/ztelliot/taierspeed-cli) – TaierSpeed CLI
 - [zyedidia/eget](https://github.com/zyedidia/eget) – Easily install prebuilt binaries from GitHub.
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
 - [zyylhn/zscan](https://github.com/zyylhn/zscan) – Zscan a scan blasting tool set
@@ -2081,7 +2094,9 @@
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ NixOS configuration
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
@@ -2446,7 +2461,7 @@
 
 ## PowerShell
 
-- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) – HardeningKitty and Windows Hardening settings and configurations
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) – HardeningKitty and Windows Hardening Settings
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) – Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
@@ -2496,6 +2511,7 @@
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) – A certificate transparency log keyword sniffer written in python
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Ademking/repolist](https://github.com/Ademking/repolist) – Generate wordlists from Github repositories
+- [AethliosIK/reset-tolkien](https://github.com/AethliosIK/reset-tolkien) –  Unsecure time-based secret exploitation and Sandwich attack implementation Resources 
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) – AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
@@ -2771,7 +2787,7 @@
 - [maaaaz/dnsdumps](https://github.com/maaaaz/dnsdumps) – Various DNS dumps (daily new domains, FQDNs, etc.)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
-- [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale host IPs to a cloudflare hosted dns zone
+- [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
 - [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve their internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
@@ -3001,6 +3017,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [DerGoogler/MMRL-CLI](https://github.com/DerGoogler/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
+- [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) – The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) – Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
@@ -3221,7 +3238,7 @@
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
-- [hw0lff/shikane](https://github.com/hw0lff/shikane) – A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
+- [hw0lff/shikane](https://github.com/hw0lff/shikane) – [mirror] A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
@@ -3246,6 +3263,7 @@
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
+- [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) –  🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
@@ -3257,6 +3275,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
+- [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) – Command-line interface wrapper for https://cobalt.tools, written in rust
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) – Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!)
 - [knassar702/hacks](https://github.com/knassar702/hacks) – Build some cyber security tools in Rust :crab: :rocket:
 - [knassar702/lorsrf](https://github.com/knassar702/lorsrf) – Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:
@@ -3295,6 +3314,7 @@
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – A modern environment variables manager
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
+- [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) – A memory safe implementation of sudo and su.
@@ -3311,6 +3331,7 @@
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
+- [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) – The Mullvad VPN client app for desktop and mobile
@@ -3462,6 +3483,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) – Realtime ticker data in your terminal 📈
 - [tbillington/kondo](https://github.com/tbillington/kondo) – Cleans dependencies and build artifacts from your projects.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
+- [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) – Transform Linux Audit logs for SIEM usage
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
 - [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
@@ -3580,7 +3602,7 @@
 - [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates by the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
-- [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the entire network enumeration process in a fire-and-forget manner, among many more functions. Zero effort, zero error network enumeration.
+- [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Zero effort, zero error network enumeration.
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) – The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
@@ -3675,6 +3697,7 @@
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer optimized for Gitpod and power users
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
 - [basant0x01/b3-Hackerone](https://github.com/basant0x01/b3-Hackerone) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
+- [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
@@ -4167,7 +4190,7 @@
 
 ## Yara
 
-- [chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz) – enumerate binary capabilities, including malicious behaviors
+- [chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz) – detect malicious program behaviors
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) – Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 <div id="zig"></div>
