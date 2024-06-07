@@ -764,7 +764,7 @@
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [Z3NTL3/ProxyBeast](https://github.com/Z3NTL3/ProxyBeast) – ProxyBeast is a powerful, complete and free proxy checker with zero dependency and advanced capabilities.
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the dependencies in compiled Go binaries, providing insight into their impact on the final build.
 - [abdfnx/resto](https://github.com/abdfnx/resto) – 🔗 Send pretty HTTP & API requests with TUI.
 - [abdfnx/tran](https://github.com/abdfnx/tran) – 🖥 Securely transfer and send anything between computers with TUI.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
@@ -882,7 +882,7 @@
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
-- [chainreactors/zombie](https://github.com/chainreactors/zombie) – a weak weak pass tool
+- [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer TOOL
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1977,7 +1977,7 @@
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
-- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) – DataBackup for Android
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) – DataBackup for Android 8.0+
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
 - [aniyomiorg/aniyomi-extensions](https://github.com/aniyomiorg/aniyomi-extensions) – Source extensions for the Aniyomi app.
@@ -2788,7 +2788,6 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
-- [marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve their internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
@@ -2928,6 +2927,7 @@
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) – The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
+- [topcodersonline-solutions/betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) – Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
 - [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) – A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -3297,8 +3297,6 @@
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) – A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
-- [llenotre/maestro](https://github.com/llenotre/maestro) – Unix-like kernel written in Rust
-- [llenotre/maestro-utils](https://github.com/llenotre/maestro-utils) – Utility commands for Maestro operating system
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
 - [lotabout/skim](https://github.com/lotabout/skim) – Fuzzy Finder in rust!
@@ -3307,6 +3305,8 @@
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) – Unix-like kernel written in Rust
+- [maestro-os/maestro-utils](https://github.com/maestro-os/maestro-utils) – Utility commands for Maestro operating system
 - [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
 - [makindotcc/fabricbin](https://github.com/makindotcc/fabricbin) – Patch binary file using IDA signatures and defined replacement bytes in YAML.
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
