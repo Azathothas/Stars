@@ -172,6 +172,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
+- [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
@@ -1768,6 +1769,7 @@
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) – Burp Suite extension that offers a toolkit for testing GraphQL endpoints. 
 - [frostwire/frostwire](https://github.com/frostwire/frostwire) – An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share
 - [gh0stkey/HaE](https://github.com/gh0stkey/HaE) – HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [google/ExoPlayer](https://github.com/google/ExoPlayer) – An extensible media player for Android
 - [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
 - [green-green-avk/AnotherTerm](https://github.com/green-green-avk/AnotherTerm) – Local PTY, USB and Bluetooth serial ports, SSH and Telnet terminal client for Android. Xwayland support (in dev only).
@@ -2947,6 +2949,7 @@
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File Downloader when Curl/Wget Fails
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) – SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated exploits.
+- [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) – This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC's activity snapshots.
 - [xbgmsharp/trakt](https://github.com/xbgmsharp/trakt) – Import CSV to Trakt.tv list and Export Trakt.tv list into CSV
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp) – Entry point for issues and wiki. Also contains some scripts and sources.
 - [xnl-h4ck3r/GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension) – Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist
@@ -3633,6 +3636,7 @@
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
+- [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
@@ -4078,7 +4082,6 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) – Make changes to FMHY
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
 - [google/gts](https://github.com/google/gts) – ☂️ TypeScript style guide, formatter, and linter.  
