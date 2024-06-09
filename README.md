@@ -1190,7 +1190,6 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) – PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [kitabisa/mubeng](https://github.com/kitabisa/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
-- [kitabisa/teler](https://github.com/kitabisa/teler) – Real-time HTTP Intrusion Detection
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [knadh/otpgateway](https://github.com/knadh/otpgateway) – Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.)
@@ -1541,6 +1540,7 @@
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
+- [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -2052,6 +2052,7 @@
 
 - [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
+- [am11/VoidWSL](https://github.com/am11/VoidWSL) – Install Void Linux as a WSL Instance (for Windows 10 1803 64bit or later)
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
@@ -3287,7 +3288,7 @@
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) –  🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) –  🦀 | RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making
