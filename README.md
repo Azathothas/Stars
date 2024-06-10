@@ -1975,7 +1975,6 @@
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 and 13.
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
 - [Droid-ify/client](https://github.com/Droid-ify/client) – F-Droid client with Material UI. 
-- [EMResearch/EvoMaster](https://github.com/EMResearch/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
 - [FunkyMuse/Aurora](https://github.com/FunkyMuse/Aurora) –  Non-official Library Genesis (Libgen) Android mobile client.
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) – List DTDs and generate XXE payloads using those local DTDs.
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) – Free and open source manga reader for Android
@@ -1992,6 +1991,7 @@
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) – All in one emulator on Android!
+- [WebFuzzing/EvoMaster](https://github.com/WebFuzzing/EvoMaster) – The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) – DataBackup for Android 8.0+
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
@@ -2141,7 +2141,7 @@
 
 ## Others
 
-- [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) – A collection of awesome one-liners for bug bounty hunting.
+- [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) – A collection of one-liners for bug bounty hunting.
 - [0xPugal/fuzz4bounty](https://github.com/0xPugal/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [0xdabbad00/security_incidents_from_caching](https://github.com/0xdabbad00/security_incidents_from_caching) – Collection of incidents resulting from caching issues
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) – Cybersecurity oriented awesome list
