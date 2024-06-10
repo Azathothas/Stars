@@ -420,6 +420,7 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+- [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) – ✨ Perfect 4K@240Hz Virtual Display
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [reconness/reconness](https://github.com/reconness/reconness) – ReconNess is a platform to allow continuous recon (CR) where you can set up a pipeline of #recon tools (Agents) and trigger it base on schedule or events.
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
@@ -1113,7 +1114,7 @@
 - [hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder) – Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 - [hakluke/hakscale](https://github.com/hakluke/hakscale) – Distribute ordinary bash commands over many systems
 - [hakluke/hakstore](https://github.com/hakluke/hakstore)
-- [handlename/ssmwrap](https://github.com/handlename/ssmwrap) – Exec command with environment variables loaded from AWS SSM.
+- [handlename/ssmwrap](https://github.com/handlename/ssmwrap) – Execute command with environment variables or/and files loaded from AWS SSM.
 - [harakeishi/whris](https://github.com/harakeishi/whris) – "whris" is Displays management information for IPs associated with the domain.
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
