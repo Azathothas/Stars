@@ -35,6 +35,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
+- [Llvm](#llvm)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -181,6 +182,7 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) – Checkpoint/Restore tool
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
@@ -458,7 +460,6 @@
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux eBPF
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
@@ -611,6 +612,7 @@
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) – 🐳 Full-fledged Android SDK Docker Image
+- [vaggeliskls/windows-github-custom-runner](https://github.com/vaggeliskls/windows-github-custom-runner) – A robust, cost-effective solution to deploy containerized custom GitHub Runners in a Windows OS environment on a Linux server. This project utilizes Vagrant VM, libvirt, and docker-compose, providing a seamless, plug-and-play approach that significantly enhances the CI/CD pipeline experience. No prior knowledge of VM creation required
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) – Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
@@ -905,6 +907,8 @@
 - [chmouel/gosmee](https://github.com/chmouel/gosmee) – Command line server and client for webhooks deliveries (and https://smee.io)
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
+- [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) – CLI for executing Cirrus tasks locally and in any CI
+- [cirruslabs/vetu](https://github.com/cirruslabs/vetu) – Create, publish and virtualize ephemeral Linux VMs with ease
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider) – CB-Spider offers a unified view and interface for multi-cloud management.
@@ -1671,6 +1675,7 @@
 - [PalindromeLabs/WebSockets-Playground](https://github.com/PalindromeLabs/WebSockets-Playground) – Jumpstart multiple WebSocket servers quickly
 - [PatrikFehrenbach/practical-bug-bounty](https://github.com/PatrikFehrenbach/practical-bug-bounty) – A Django web application for curating Bug Bounty educational Videos 
 - [SANYIMOE/VPN-free](https://github.com/SANYIMOE/VPN-free) – 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
+- [TheBobPony/bobpony.com](https://github.com/TheBobPony/bobpony.com) – The repo for
 - [adityatelange/bhhb](https://github.com/adityatelange/bhhb) – Burp HTTP history browser (BHHB) - A tool to view HTTP history exported from Burp Suite Community Edition
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) – Automagically reverse-engineer REST APIs via capturing traffic
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
@@ -1717,6 +1722,7 @@
 ## Hcl
 
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [cirruslabs/linux-image-templates](https://github.com/cirruslabs/linux-image-templates)
 - [fduran/sadservers](https://github.com/fduran/sadservers) – SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
 - [nccgroup/cowcloud](https://github.com/nccgroup/cowcloud)
@@ -2047,6 +2053,12 @@
 - [version-fox/version-fox-plugins](https://github.com/version-fox/version-fox-plugins) – plugins repository for VersionFox
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
 
+<div id="llvm"></div>
+
+## Llvm
+
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux eBPF
+
 <div id="makefile"></div>
 
 ## Makefile
@@ -2307,6 +2319,7 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
+- [hegdepavankumar/VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) – Welcome to the VMware ESXi License Keys! Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7
 - [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
@@ -2489,6 +2502,7 @@
 - [NeedsCoffee/Tailscale-Updater-Windows](https://github.com/NeedsCoffee/Tailscale-Updater-Windows) – Windows PowerShell scripts that will keep installations of Tailscale updated daily. Tailscale is an excellent peer-to-peer style mesh VPN based on the Wireguard protocol. See https://tailscale.com
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) – A collection of scripts for assessing Microsoft Azure security
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) – Remote Desktop entirely coded in PowerShell.
+- [Pwd9000-ML/docker-github-runner-windows](https://github.com/Pwd9000-ML/docker-github-runner-windows) – Repository for building a self hosted GitHub runner as a windows container
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
@@ -2509,6 +2523,7 @@
 - [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) – Easily move your WSL distros VHDX file to a new location.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
+- [tiobe/docker-github-runner-windows](https://github.com/tiobe/docker-github-runner-windows) – This repository will run the self-hosted github actions runners for Windows with Visual Studio 2022 buildtools installed by default.
 
 <div id="purescript"></div>
 
@@ -3247,6 +3262,7 @@
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) – 🦀 Find the minimum supported Rust version (MSRV) for your project
+- [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
 - [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
@@ -4098,6 +4114,7 @@
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – GitHub Action for UPX, the Ultimate Packer for eXecutables
+- [cross-platform-actions/action](https://github.com/cross-platform-actions/action) – Cross-platform GitHub action
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
