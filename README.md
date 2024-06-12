@@ -1129,7 +1129,7 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [homeport/termshot](https://github.com/homeport/termshot) – Creates screenshots based on terminal command output
-- [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Receive events (e.g. webhooks) in your development environment
+- [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Free - no account required - alternative to ngrok for localhost asynchronous web development (e.g. webhooks)
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
