@@ -1536,6 +1536,7 @@
 - [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) – CLI to create and hide GitHub comments
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
+- [sw33tLie/uff](https://github.com/sw33tLie/uff) – unleashed ffuf
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) – Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
