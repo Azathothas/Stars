@@ -1140,6 +1140,8 @@
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
+- [ipv6rslimited/hamon](https://github.com/ipv6rslimited/hamon) – Hamon is a tool that uses the djb2 (ca. 1991) hash to map IP addresses to readable words and vice versa. It supports both IPv4 and IPv6 addresses.  The name is derived from HAsh MOdulo Name (ハモン not 刃文).
+- [ipv6rslimited/shrimp](https://github.com/ipv6rslimited/shrimp) – shrimp is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
@@ -3955,6 +3957,7 @@
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
+- [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
