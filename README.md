@@ -202,6 +202,7 @@
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [curl/trurl](https://github.com/curl/trurl) – trurl is a command line tool for URL parsing and manipulation.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
+- [davidly/rvos](https://github.com/davidly/rvos) – Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
 - [deislabs/mystikos](https://github.com/deislabs/mystikos) – Tools and runtime for launching unmodified container images in Trusted Execution Environments
 - [diazona/pwait](https://github.com/diazona/pwait) – Small utility to wait for a process to finish
@@ -347,6 +348,7 @@
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) – SumatraPDF reader
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+- [sysprog21/semu](https://github.com/sysprog21/semu) – A minimalist RISC-V system emulator capable of running Linux kernel
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) – Performance monitoring tools for Linux
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) – a realtime plotting utility for terminal/console with data input from stdin
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
@@ -592,6 +594,7 @@
 ## Dockerfile
 
 - [2moe/build-container](https://github.com/2moe/build-container)
+- [DavidBurela/riscv-emulator-docker-image](https://github.com/DavidBurela/riscv-emulator-docker-image)
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
@@ -1615,7 +1618,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) – An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
-- [watermint/toolbox](https://github.com/watermint/toolbox) – The multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc.
+- [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
@@ -2964,12 +2967,12 @@
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
 - [takito1812/web-hacking-playground](https://github.com/takito1812/web-hacking-playground) – Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
+- [tcosolutions/betterscan-ce](https://github.com/tcosolutions/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) – :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) – The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
-- [topcodersonline-solutions/betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 - [totoroterror/warp-cloner](https://github.com/totoroterror/warp-cloner) – Simple Python script that can clone Warp Plus (1.1.1.1) keys and generate 12PB (or 24PB) keys.
 - [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) – A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
@@ -3344,6 +3347,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [lbl8603/vnt](https://github.com/lbl8603/vnt) – A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
+- [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
@@ -3373,6 +3377,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
+- [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
@@ -3409,6 +3414,7 @@
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
+- [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/flawz](https://github.com/orhun/flawz) – A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
@@ -3774,6 +3780,7 @@
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
 - [candrewlee14/webman-pkgs](https://github.com/candrewlee14/webman-pkgs) – Repo to store package installation config files for https://github.com/candrewlee14/webman
+- [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) – Risc-V journey thru containers and new projects
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Tool for hiding Kali Linux on the network
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
@@ -3785,6 +3792,7 @@
 - [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking
 - [davidhampgonsalves/music-server](https://github.com/davidhampgonsalves/music-server) – Music streaming server on a Android Galaxy S7 
+- [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) – Official builds of debuerreotype-generated Debian tarballs for use in Docker
 - [deepwn/warpod](https://github.com/deepwn/warpod) – A containerized WARP client with gost proxy. (ubuntu:22.04 + warp-svc + gost) for use Zero Trust and private network inside container project and k8s.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) – `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) – Linux enumeration tool for pentesting and CTFs with verbosity levels
@@ -3858,6 +3866,7 @@
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
+- [johnwinans/riscv-toolchain-install-guide](https://github.com/johnwinans/riscv-toolchain-install-guide) – How to download & install qemu a toolchain suitable for building and running freestanding RISC-V C/C++ programs
 - [jschauma/zonecount](https://github.com/jschauma/zonecount) – scripts, templates, and data files to generate TLD domain count stats
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) – s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [jwueller/fdspy.sh](https://github.com/jwueller/fdspy.sh) – Capture stdout, stderr, and other file descriptors of running processes on-the-fly, without redirects, screen, or tmux.
@@ -3995,6 +4004,7 @@
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) – Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+- [stnolting/riscv-gcc-prebuilt](https://github.com/stnolting/riscv-gcc-prebuilt) – 📦 Prebuilt RISC-V GCC toolchains for x64 Linux. 
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) – static builds cURL with HTTP3
 - [su-haris/simple-network-speedtest](https://github.com/su-haris/simple-network-speedtest) – A simple script to bench network performance
 - [supriyo-biswas/static-builds](https://github.com/supriyo-biswas/static-builds) – Statically-built, dependency free binaries of software packages for Linux.
