@@ -738,6 +738,7 @@
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
+- [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
@@ -882,6 +883,7 @@
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [c3l3si4n/godeclutter](https://github.com/c3l3si4n/godeclutter) – Declutters URLs in a fast and flexible way, for improving input for web hacking automations such as crawlers and vulnerability scans. 
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
+- [c3l3si4n/revwhois](https://github.com/c3l3si4n/revwhois) – CLI tool for discovering related base domains using WhoisXMLAPI's reverse Whois endpoints
 - [c3l3si4n/subsift](https://github.com/c3l3si4n/subsift) – experimental wildcard subdomain filtering prototype
 - [c3l3si4n/thankunext](https://github.com/c3l3si4n/thankunext) – Easily gather all routes related to a NextJs application through parsing of _buildManifest.js
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) – Get the contributor stats summary from all repos of any given organization
