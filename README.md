@@ -114,6 +114,7 @@
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) – 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) – A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands
+- [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) – Easily configure Microsoft Edge, the way you want it!
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) – An open source tool to activate and reset trial of Internet Download Manager
 - [blibdoolpoolp/Cloudflared-RDP-Tutorial-Free](https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free) – This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) & SSH connections using Cloudflare's Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare's tunneling technology to create a safe, encrypted connection path.
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
@@ -340,6 +341,7 @@
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
+- [skarnet/nsss](https://github.com/skarnet/nsss) – A small, statically linkable NSS-like implementation of getpwnam() et al. user database access
 - [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
@@ -3001,7 +3003,7 @@
 - [xnl-h4ck3r/urless](https://github.com/xnl-h4ck3r/urless) – De-clutter a list of URLs
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) – Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan & VirusTotal!
 - [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) – A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) – :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) – :shell: Python-powered shell. Full-featured and cross-platform.
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
@@ -3519,6 +3521,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
+- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest web crawler written in Rust. Maintained by @a11ywatch.
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -3807,6 +3810,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dracula/tmux](https://github.com/dracula/tmux) – 🧛🏻‍♂️ Dark theme for tmux
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) – dracut the event driven initramfs infrastructure
+- [droidian/glibc-downgrade](https://github.com/droidian/glibc-downgrade)
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) – text window manager, shell multiplexer, integrated DevOps environment
 - [dwisiswant0/gf-secrets](https://github.com/dwisiswant0/gf-secrets) – Secret and/or credential patterns used for gf.
