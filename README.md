@@ -1174,6 +1174,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
+- [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) – Tool to remotely dump secrets from the Windows registry
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [jiro4989/gsv](https://github.com/jiro4989/gsv) – gsv transforms a multi-line CSV into one-line JSON to make it easier to grep.
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
@@ -2508,6 +2509,7 @@
 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) – HardeningKitty and Windows Hardening Settings
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
+- [BlackSnufkin/Invoke-DumpMDEConfig](https://github.com/BlackSnufkin/Invoke-DumpMDEConfig) – PowerShell script to dump Microsoft Defender Config, protection history and Exploit Guard Protection History  (no admin privileges required )
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) – Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
@@ -2520,6 +2522,7 @@
 - [Pwd9000-ML/docker-github-runner-windows](https://github.com/Pwd9000-ML/docker-github-runner-windows) – Repository for building a self hosted GitHub runner as a windows container
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
+- [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
