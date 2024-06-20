@@ -415,7 +415,7 @@
 - [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [aristosMiliaressis/pwnctl](https://github.com/aristosMiliaressis/pwnctl) – a recon framework that facilitates discovering, scanning and monitoring assets trough a configurable engine running on serverless aws infrastructure.
-- [bitwarden/server](https://github.com/bitwarden/server) – The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) – Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [builtbybel/Appcopier](https://github.com/builtbybel/Appcopier) – Back up key things on your Windows PC, perform a reset or simply go back in time.
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
@@ -566,7 +566,7 @@
 
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
-- [noir-cr/noir](https://github.com/noir-cr/noir) – Attack surface detector that identifies endpoints by static analysis
+- [owasp-noir/noir](https://github.com/owasp-noir/noir) – Attack surface detector that identifies endpoints by static analysis
 
 <div id="dart"></div>
 
