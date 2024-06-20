@@ -732,6 +732,7 @@
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
 - [MantisSTS/GoCloud](https://github.com/MantisSTS/GoCloud) – Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare
 - [ManuelBerrueta/urlyzer](https://github.com/ManuelBerrueta/urlyzer) – urlyzer is a URL parsing analysis tool.
+- [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) – Effortlessly generate chmod commands
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) – Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [Moe-hacker/yoshinon](https://github.com/Moe-hacker/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go)  #Meet the modern TUI
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
@@ -1646,7 +1647,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1440 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1550 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -1799,7 +1800,6 @@
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) – Burp Suite extension that offers a toolkit for testing GraphQL endpoints. 
 - [frostwire/frostwire](https://github.com/frostwire/frostwire) – An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share
 - [gh0stkey/HaE](https://github.com/gh0stkey/HaE) – HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [google/ExoPlayer](https://github.com/google/ExoPlayer) – An extensible media player for Android
 - [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
 - [green-green-avk/AnotherTerm](https://github.com/green-green-avk/AnotherTerm) – Local PTY, USB and Bluetooth serial ports, SSH and Telnet terminal client for Android. Xwayland support (in dev only).
@@ -2190,7 +2190,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 1000+ Statically Linked Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -3954,6 +3954,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
+- [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
@@ -4164,6 +4165,7 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) – Make changes to FMHY
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
 - [google/gts](https://github.com/google/gts) – ☂️ TypeScript style guide, formatter, and linter.  
