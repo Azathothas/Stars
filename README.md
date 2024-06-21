@@ -887,7 +887,7 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf) – The best way of working with Protocol Buffers.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
-- [c3l3si4n/crtdumper](https://github.com/c3l3si4n/crtdumper) – CRTDumper is a Go application designed to interact directly with Certificate Transparency (CT) logs servers  and extract domain names from certificates. Perfect for security researchers and developers interested in massively extracting domain names from CT logs.
+- [c3l3si4n/crtdumper](https://github.com/c3l3si4n/crtdumper) – crtdumper is a Go application designed to interact directly with Certificate Transparency (CT) logs servers  and extract domain names from certificates. Perfect for security researchers and developers interested in massively extracting domain names from CT logs.
 - [c3l3si4n/godeclutter](https://github.com/c3l3si4n/godeclutter) – Declutters URLs in a fast and flexible way, for improving input for web hacking automations such as crawlers and vulnerability scans. 
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
 - [c3l3si4n/revwhois](https://github.com/c3l3si4n/revwhois) – CLI tool for discovering related base domains using WhoisXMLAPI's reverse Whois endpoints
@@ -2861,7 +2861,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
-- [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve their internal addresses
+- [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve its internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
