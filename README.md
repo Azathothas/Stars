@@ -774,7 +774,7 @@
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
 - [VHSgunzo/ssrv](https://github.com/VHSgunzo/ssrv) – Shell server/client
-- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
+- [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [WHOISshuvam/gotld](https://github.com/WHOISshuvam/gotld) – Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) – :hammer: A modern multiple reverse shell sessions manager written in go
@@ -1094,7 +1094,7 @@
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or amd64 PCs!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
@@ -3396,7 +3396,7 @@
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – A modern environment variables cli tool backed by SQLite
+- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
