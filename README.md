@@ -459,7 +459,7 @@
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
 - [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET etc
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
+- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) – Re-Connectable secure remote shell
 - [NVISOsecurity/blogposts](https://github.com/NVISOsecurity/blogposts) – A repo to house files for our blogposts on blog.nviso.eu
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
@@ -3497,7 +3497,7 @@
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth devices
-- [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi
+- [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi for Linux.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) – Rust virtual machine and JIT compiler for eBPF programs
@@ -3567,7 +3567,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest web crawler. Maintained by @a11ywatch.
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -3757,7 +3757,7 @@
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
-- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
+- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
 - [Skimmeroni/Nupk](https://github.com/Skimmeroni/Nupk) – Dummy package manager in roughly 400 lines of shell script
 - [Skimmeroni/Nupk-repository](https://github.com/Skimmeroni/Nupk-repository) – A repository of installation scripts. To be used with Nupk
