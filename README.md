@@ -2067,6 +2067,7 @@
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) – An Android Storage Access Framework document provider for rclone
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) – Android permission explorer 🧑‍✈️
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) – Android Video/Audio Downloader app using yt-dlp
+- [element-hq/element-x-android](https://github.com/element-hq/element-x-android) – Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
 - [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
@@ -4249,6 +4250,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) – 😎 A static blog using notion database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) – Telegram Web K, GPL v3
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
