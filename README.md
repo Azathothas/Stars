@@ -727,7 +727,7 @@
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) – ✂️ Removing CDN IPs from the list of IP addresses
 - [ImAyrix/fallparams](https://github.com/ImAyrix/fallparams) – Find All Parameters - Tool to crawl pages, find potential parameters and generate a custom target parameter wordlist 
 - [ItsIgnacioPortal/hacker-scoper](https://github.com/ItsIgnacioPortal/hacker-scoper) – Automagically filter URLs with Bug Bounty program scope rules scraped from the internet.
-- [JFryy/qq](https://github.com/JFryy/qq) – jq inspired interoperable config format transcoder with interactive querying.
+- [JFryy/qq](https://github.com/JFryy/qq) – jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) – Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae) – Cross shell and platform alias management
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – The most customisable and low-latency cross platform/shell prompt renderer
@@ -1741,6 +1741,7 @@
 - [google/security-crawl-maze](https://github.com/google/security-crawl-maze) – Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.
 - [google/styleguide](https://github.com/google/styleguide) – Style guides for Google-originated open-source projects
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
+- [initialrise/90DaysofInternship](https://github.com/initialrise/90DaysofInternship) – A repository to track progress, notes, tasks etc. during the time of internship
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
@@ -3111,7 +3112,7 @@
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
-- [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A nyaa.si tui tool for browsing and downloading torrents
+- [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [BugBlocker/lotus](https://github.com/BugBlocker/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
