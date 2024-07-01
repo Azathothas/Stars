@@ -1437,6 +1437,7 @@
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
+- [probonopd/go-appimage](https://github.com/probonopd/go-appimage) – Go implementation of AppImage tools
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) – Go CLI and Library for quickly mapping organization network ranges using ASN information.
@@ -1684,7 +1685,7 @@
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1550 statically linked binaries in the repos!
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
@@ -1955,6 +1956,9 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
+- [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
+- [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
+- [liriliri/licia](https://github.com/liriliri/licia) – Useful utility collection with zero dependencies
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) – A fancy self-hosted monitoring tool
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) – Reverse Shell as a Service
 - [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) – Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
