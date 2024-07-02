@@ -213,12 +213,14 @@
 - [deislabs/mystikos](https://github.com/deislabs/mystikos) – Tools and runtime for launching unmodified container images in Trusted Execution Environments
 - [diazona/pwait](https://github.com/diazona/pwait) – Small utility to wait for a process to finish
 - [dimkr/loksh](https://github.com/dimkr/loksh) – A Linux port of OpenBSD's ksh
+- [dixyes/phpmicro](https://github.com/dixyes/phpmicro) – micro sfx SAPI for php (wip, may force push)
 - [edubart/bwrapbox](https://github.com/edubart/bwrapbox) – Linux sandboxing utility on top of bubblewrap
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
+- [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written mostly in C.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
@@ -246,6 +248,7 @@
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
+- [hroptatyr/dateutils](https://github.com/hroptatyr/dateutils) – nifty command line date and time utilities; fast date calculations and conversion in the shell
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
 - [ibara/oksh](https://github.com/ibara/oksh) – Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
@@ -864,6 +867,7 @@
 - [awslabs/amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) – A utility tool to create a tarball of existing objects in Amazon S3
 - [awslabs/aws-simple-ec2-cli](https://github.com/awslabs/aws-simple-ec2-cli) – A CLI tool that simplifies the process of launching, connecting and terminating an EC2 instance.
 - [axllent/mailpit](https://github.com/axllent/mailpit) – An email and SMTP testing tool with API for developers
+- [aydinnyunus/PackageSpy](https://github.com/aydinnyunus/PackageSpy) – PackageSpy is a versatile command-line tool designed to simplify the process of searching for packages on two popular package managers
 - [aydinnyunus/PassDetective](https://github.com/aydinnyunus/PassDetective) – PassDetective is a command-line tool that scans shell command history to detect mistakenly written passwords, API keys, and secrets. Using regular expressions, it helps prevent accidental exposure of sensitive information in your command history. 
 - [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter) – ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) – 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence
@@ -1120,7 +1124,7 @@
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(700+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [goretk/redress](https://github.com/goretk/redress) – Redress - A tool for analyzing stripped Go binaries
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) – A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
@@ -1434,6 +1438,7 @@
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) – A tool to download more RAM (yes, seriously!)
 - [pojntfx/weron](https://github.com/pojntfx/weron) – Overlay networks based on WebRTC.
 - [portapps/portapps](https://github.com/portapps/portapps) – 🛰 Collection of portable apps for Windows
+- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) – A drop-in replacement for SQS designed for great developer experience and efficiency. 
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
@@ -1584,6 +1589,7 @@
 - [sweetbbak/tget](https://github.com/sweetbbak/tget) – wget but for torrents
 - [sweetbbak/toru](https://github.com/sweetbbak/toru) – Bittorrent streaming CLI tool. Stream anime torrents, real-time with no waiting for downloads. 
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) – Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
+- [synacktiv/octoscan](https://github.com/synacktiv/octoscan) – Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [synthesio/selfextract](https://github.com/synthesio/selfextract) – Self-extracting archives creation tool
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
@@ -1684,7 +1690,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1550 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1530 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -2035,6 +2041,7 @@
 ## Kotlin
 
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
+- [BharathVishal/Root-Checker](https://github.com/BharathVishal/Root-Checker) – Displays all root related info(Device Rooted, Root Available, Root Path, Root given, Busy Box installation) of an Android Device. Fully implemented in Jetpack compose using Material 3 dynamic theming and also has a separate implementation in xml with MDC 3.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
@@ -3141,6 +3148,7 @@
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) – Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
+- [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Machine code de-optimizer. 
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
@@ -3492,6 +3500,7 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) – A minimal file upload/pastebin service.
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
+- [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
@@ -3923,6 +3932,7 @@
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) – 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) – 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) – Directory-based environments.
+- [hyugogirubato/mkshrc](https://github.com/hyugogirubato/mkshrc) – Enhance your Android shell experience with mkshrc, a script that provides advanced tools, aliases, and functions for power users and developers.
 - [i5nipe/android-scripts](https://github.com/i5nipe/android-scripts) – Some simple scripts that I use during bug bounty hunting in Android Apps
 - [iamthefrogy/bucketbunny](https://github.com/iamthefrogy/bucketbunny) – AWS S3 open bucket poc automated script.
 - [ice-wzl/Hacknetics](https://github.com/ice-wzl/Hacknetics) – Contained is all my reference material for my OSCP / Red Teaming.  Designed to be a one stop shop for code, guides, command syntax, and high level strategy.  One simple clone and you have access to some of the most popular tools used for pentesting.
@@ -4357,7 +4367,6 @@
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
-- [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
 - [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
