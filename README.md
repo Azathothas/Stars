@@ -180,6 +180,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
+- [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
@@ -438,7 +439,7 @@
 - [immense/Remotely](https://github.com/immense/Remotely) – A remote control and remote scripting solution, built with .NET 8, Blazor, and SignalR.
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) – Android client for the Soulseek peer-to-peer network
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) – mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) – WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) – UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) – Windows system utilities to maximize productivity
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) – Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources. 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) – 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
@@ -466,6 +467,7 @@
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
 - [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET etc
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) – Re-Connectable secure remote shell
@@ -1691,7 +1693,7 @@
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1530 statically linked binaries in the repos!
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
@@ -1989,6 +1991,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) – Prettier is an opinionated code formatter.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [psi-4ward/psitransfer](https://github.com/psi-4ward/psitransfer) – Simple open source self-hosted file sharing solution.  
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) – A Community-led Hyper-Hackable Text Editor
 - [rukh-debug/location-np](https://github.com/rukh-debug/location-np) – Nepal provinces, districts, municipality and wards dot json
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) – PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
@@ -2530,6 +2533,7 @@
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) – 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
 - [Serhatcck/vulnsocket](https://github.com/Serhatcck/vulnsocket) – Vulnerable Web Socket-Web Site
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) – PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. 
+- [box-project/box](https://github.com/box-project/box) – 📦🚀 Fast, zero config application bundler with PHARs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) – Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
@@ -3157,7 +3161,7 @@
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) – GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) – A pretty (simple) alternative to strace
-- [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) – A utility for downloading and packaging the Microsoft CRT headers and libraries, and Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
+- [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) – A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
@@ -3875,6 +3879,7 @@
 - [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking
 - [davidhampgonsalves/music-server](https://github.com/davidhampgonsalves/music-server) – Music streaming server on a Android Galaxy S7 
+- [deamen/transmission-builder](https://github.com/deamen/transmission-builder) – Build statically linked transmission binaries
 - [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) – Official builds of debuerreotype-generated Debian tarballs for use in Docker
 - [deepwn/warpod](https://github.com/deepwn/warpod) – A containerized WARP client with gost proxy. (ubuntu:22.04 + warp-svc + gost) for use Zero Trust and private network inside container project and k8s.
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) – `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
@@ -4004,6 +4009,7 @@
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [mrvcoder/GetASN](https://github.com/mrvcoder/GetASN) – 🌐 Get Some Useful Info From Domain/IP/ASN 🔥
 - [mszcool/devmachinesetup](https://github.com/mszcool/devmachinesetup) – Used for setting up blank Windows (and in the future Linux) development machines by using package managers such as Chocolatey and PowerShell (or Bash). The goal is to automate the setup process as much as possible.
+- [mtdcy/cmdlets](https://github.com/mtdcy/cmdlets) – build static libraries or binaries from source
 - [muicoder/docker-images](https://github.com/muicoder/docker-images) – docker build for images
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) – :earth_africa: `/usr/bin/qemu-*-static`
 - [mux0x/cold.sh](https://github.com/mux0x/cold.sh) – your bestfried for finding URLs of a target
