@@ -366,6 +366,7 @@
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [sysprog21/semu](https://github.com/sysprog21/semu) – A minimalist RISC-V system emulator capable of running Linux kernel
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) – Performance monitoring tools for Linux
+- [telekom-security/tpotce](https://github.com/telekom-security/tpotce) – 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) – a realtime plotting utility for terminal/console with data input from stdin
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
@@ -1005,7 +1006,7 @@
 - [devploit/nomore403](https://github.com/devploit/nomore403) – Tool to bypass 403/40X response codes.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
-- [dhth/mult](https://github.com/dhth/mult) – Run a command multiple times and glance at the outputs
+- [dhth/mult](https://github.com/dhth/mult) – Run a command multiple times and glance at the outputs via a TUI
 - [diamondburned/nix-search](https://github.com/diamondburned/nix-search) – A Nix-channel-compatible package search
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
@@ -1629,7 +1630,7 @@
 - [trickest/trickest-cli](https://github.com/trickest/trickest-cli) – Execute Trickest workflows right from your terminal
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify secrets
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
-- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) – The `tssh --udp` works like `mosh`, and the `tsshd` works like `mosh-server`.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -3036,7 +3037,7 @@
 - [sysdig/wafer](https://github.com/sysdig/wafer)
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) – A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads).
-- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) – Generates millions of keyword-based password mutations in seconds.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) – An XSS exploitation command-line interface and payload generator.
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
