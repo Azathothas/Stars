@@ -222,7 +222,7 @@
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
@@ -552,6 +552,7 @@
 ## CSS
 
 - [833M0L3/test](https://github.com/833M0L3/test)
+- [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
@@ -1631,7 +1632,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify secrets
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
-- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The `tssh --udp` works like `mosh`, and the `tsshd` works like `mosh-server`.
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The `tssh --udp` works like `mosh`, and the `tsshd` works like `mosh-server`. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [tus/tusd](https://github.com/tus/tusd) – Reference server implementation in Go of tus: the open protocol for resumable file uploads
@@ -1694,7 +1695,7 @@
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1530 statically linked binaries in the repos!
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
@@ -2729,6 +2730,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
+- [ading2210/python-static](https://github.com/ading2210/python-static) – A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) – Patch boot image with magisk on windows/linux/macos
 - [agateau/clyde-store](https://github.com/agateau/clyde-store) – Package definitions for Clyde, the prebuilt application package manager.
 - [airbus-seclab/cpu_rec](https://github.com/airbus-seclab/cpu_rec) – Recognize cpu instructions in an arbitrary binary file
@@ -3037,7 +3039,7 @@
 - [sysdig/wafer](https://github.com/sysdig/wafer)
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) – A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads).
-- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) – Generates millions of keyword-based password mutations in seconds.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) – An XSS exploitation command-line interface and payload generator.
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
@@ -3224,7 +3226,6 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
 - [amanharwara/subtitle](https://github.com/amanharwara/subtitle) – Find & download subtitles from the terminal.
-- [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
@@ -3831,6 +3832,7 @@
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) – Simple script to change color-schemes and fonts for Termux.
+- [ading2210/shimboot](https://github.com/ading2210/shimboot) – Boot a desktop Linux distribution from a Chrome OS RMA shim.
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
@@ -4285,6 +4287,7 @@
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
+- [richartkeil/notion-guardian](https://github.com/richartkeil/notion-guardian) – 🛡✍️ Keeps your Notion workspace safe and version controlled at all times.
 - [rubiin/nfdl](https://github.com/rubiin/nfdl) – This cli automatically install your favorite nerd fonts right from the terminal
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) – WebExtension port of Random Agent Spoofer
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
