@@ -3574,7 +3574,7 @@
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
-- [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A slightly more visual way to interact with the docker daemon using prompts. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues.
+- [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues.
 - [serpent-os/moss](https://github.com/serpent-os/moss) – The safe, fast and sane package manager for Linux
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
