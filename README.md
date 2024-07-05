@@ -1632,7 +1632,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify secrets
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
-- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The `tssh --udp` works like `mosh`, and the `tsshd` works like `mosh-server`. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The "tssh --udp" works like mosh , and the tsshd works like mosh-server. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [tus/tusd](https://github.com/tus/tusd) – Reference server implementation in Go of tus: the open protocol for resumable file uploads
