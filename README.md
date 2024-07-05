@@ -31,6 +31,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jq](#jq)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
@@ -1143,7 +1144,7 @@
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) – 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [gvcgo/gobuilder](https://github.com/gvcgo/gobuilder) – An enhancement for official <go build>.
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for 60+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [gwen001/github-endpoints](https://github.com/gwen001/github-endpoints) – Find endpoints on GitHub.
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) – Basically a regexp over a GitHub search.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) – Find subdomains on GitHub.
@@ -1421,7 +1422,7 @@
 - [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) – Golang for Security Professionals
 - [pasknel/epyon](https://github.com/pasknel/epyon) – Epyon is a swiss army knife tool for pentesting DevOps ecosystems.
 - [patrickhener/gopwntomcat](https://github.com/patrickhener/gopwntomcat) – A little tomcat brute forcer and pwning tool
-- [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design
+- [patrickhener/goshs](https://github.com/patrickhener/goshs) – A SimpleHTTPServer written in Go, enhanced with features and with a nice design - https://goshs.de
 - [patrickhoefler/cloudbuildgraph](https://github.com/patrickhoefler/cloudbuildgraph) – Visualize your Google Cloud Build pipelines
 - [patrickhoefler/dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph) – Visualize your multi-stage Dockerfiles
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) – A PDF processor written in Go.
@@ -1632,7 +1633,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify secrets
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
-- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The tsshd works like mosh-server, and the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
+- [trzsz/tsshd](https://github.com/trzsz/tsshd) – The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [tus/tusd](https://github.com/tus/tusd) – Reference server implementation in Go of tus: the open protocol for resumable file uploads
@@ -2022,6 +2023,12 @@
 ## Jinja
 
 - [bootlin/toolchains-webpage](https://github.com/bootlin/toolchains-webpage) – The webpage of http://toolchains.bootlin.com/
+
+<div id="jq"></div>
+
+## Jq
+
+- [wader/jqjq](https://github.com/wader/jqjq) – jq implementation of jq
 
 <div id="jupyter-notebook"></div>
 
@@ -3611,7 +3618,6 @@
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [steven-omaha/pacdef](https://github.com/steven-omaha/pacdef) – multi-backend declarative package manager for Linux
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [surban/aggligator](https://github.com/surban/aggligator) – Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
@@ -3952,6 +3958,8 @@
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itiligent/Guacamole-Install](https://github.com/itiligent/Guacamole-Install) – Easily install Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
+- [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
@@ -4299,6 +4307,7 @@
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
