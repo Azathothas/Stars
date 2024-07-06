@@ -149,6 +149,7 @@
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) – Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) – Simple yet fancy CPU architecture fetching tool
+- [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – 🧙‍♂️ ImageMagick 7
@@ -275,6 +276,7 @@
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
+- [leahneukirchen/outils](https://github.com/leahneukirchen/outils) – port of some non-standard OpenBSD tools to Linux
 - [leleliu008/C-examples](https://github.com/leleliu008/C-examples) – C语言学习项目
 - [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build projects written in C, C++, Rust, Golang, etc.
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
@@ -346,6 +348,7 @@
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [rphang/evilBPF](https://github.com/rphang/evilBPF) – Weaponizing the Linux Kernel (Hide Files/PID, SSH backdoors, SSL Sniffer, ...) by poking around eBPF/XDP
+- [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) – union filesystem using fuse
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) – Self contained, fully static llvm tools & libs
 - [sahib/rmlint](https://github.com/sahib/rmlint) – Extremely fast tool to remove duplicates and other lint from your filesystem
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
@@ -361,6 +364,7 @@
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
+- [stefanberger/swtpm](https://github.com/stefanberger/swtpm) – Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [strace/strace](https://github.com/strace/strace) – strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) – SumatraPDF reader
@@ -463,7 +467,6 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
@@ -3581,7 +3584,7 @@
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
-- [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts. Supdock is a wrapper for the docker binary meaning you can still use all of the other docker commands without issues.
+- [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [serpent-os/moss](https://github.com/serpent-os/moss) – The safe, fast and sane package manager for Linux
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
@@ -3838,7 +3841,9 @@
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) – Simple script to change color-schemes and fonts for Termux.
+- [ading2210/lklfuse-static](https://github.com/ading2210/lklfuse-static) – Scripts for building lklfuse as a single static binary. Mount any Linux filesystem without root.
 - [ading2210/shimboot](https://github.com/ading2210/shimboot) – Boot a desktop Linux distribution from a Chrome OS RMA shim.
+- [ading2210/shimboot-binaries](https://github.com/ading2210/shimboot-binaries) – Scripts for building statically compiled binaries for use in the Shimboot bootloader.
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
