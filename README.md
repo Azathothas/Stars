@@ -3598,7 +3598,7 @@
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
 - [shixinhuang99/sxtetris](https://github.com/shixinhuang99/sxtetris) – A terminal Tetris game
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
-- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI app to view and query CSV files
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files.
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash-based command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
