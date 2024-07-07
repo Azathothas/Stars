@@ -301,6 +301,7 @@
 - [maroofi/bulkDNS](https://github.com/maroofi/bulkDNS) – buldDNS: A DNS scanner for large-scale measurement
 - [maroofi/libctld](https://github.com/maroofi/libctld) – Top Level Domain parser based on Public Suffix List (PSL)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
+- [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
@@ -2662,7 +2663,7 @@
 - [Escape-Technologies/ClairvoyanceNext](https://github.com/Escape-Technologies/ClairvoyanceNext) – Obtain GraphQL API Schema even if the introspection is not enabled
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
-- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – Web application for Freedium.cfd
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) – Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) – A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) – Scots Army Knife for electronics
@@ -3135,7 +3136,6 @@
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An easy and powerful Rust HTTP/Socks5/HTTP2Socks5 Proxy
-- [0x727/ObserverWard](https://github.com/0x727/ObserverWard) – 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool 
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
@@ -3333,6 +3333,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
+- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool 
 - [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
 - [envio-cli/envio](https://github.com/envio-cli/envio) – Envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
