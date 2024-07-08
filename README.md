@@ -3034,6 +3034,7 @@
 - [snovvcrash/DivideAndScan](https://github.com/snovvcrash/DivideAndScan) – Divide full port scan results and use it for targeted Nmap runs
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [spack/spack](https://github.com/spack/spack) – A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) – Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [sqall01/LSMS](https://github.com/sqall01/LSMS) – Linux Security and Monitoring Scripts
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
