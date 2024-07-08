@@ -3462,7 +3462,6 @@
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
-- [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) – A memory safe implementation of sudo and su.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) – A markdown terminal slideshow tool
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
@@ -3647,6 +3646,7 @@
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) – Upgrade all the things
 - [tox-rs/tox](https://github.com/tox-rs/tox) – toxcore implementation in Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) – Rust Weaponization for Red Team Engagements.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
@@ -3738,7 +3738,7 @@
 - [AdarshAddee/root](https://github.com/AdarshAddee/root) – Root - Access root previliges in termux without rooting android device
 - [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – A tool efficiently displays Android system details on Termux.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
-- [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🐲 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things
+- [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🐲 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
@@ -4283,6 +4283,7 @@
 - [karldreher/b2-cloudflare-worker](https://github.com/karldreher/b2-cloudflare-worker) – A cloudflare worker which is used to cache content from a private Backblaze B2 bucket.
 - [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
+- [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service using CloudFlare R2
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
@@ -4354,7 +4355,6 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
-- [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service using CloudFlare R2
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for static site generators.
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) – Another Looking-glass Server
