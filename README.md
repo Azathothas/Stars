@@ -1699,7 +1699,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1530 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +1770 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -3193,7 +3193,6 @@
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) – Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) – 💎 Amber the programming language compiled to bash
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
@@ -3236,6 +3235,7 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
 - [amanharwara/subtitle](https://github.com/amanharwara/subtitle) – Find & download subtitles from the terminal.
+- [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to bash
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
