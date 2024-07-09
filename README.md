@@ -66,6 +66,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [V](#v)
 - [VBScript](#vbscript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -1901,6 +1902,7 @@
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) – Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) – Graphical SFTP client and terminal emulator with helpful utilities
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – An application using the power of Magisk to debloat unwanted system apps!
+- [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) – Source for the Termux build on Google Play.
 - [termux/termux-app](https://github.com/termux/termux-app) – Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [termux/termux-boot](https://github.com/termux/termux-boot) – Termux add-on app allowing programs to be run at boot.
 - [tiann/Leoric](https://github.com/tiann/Leoric) – PoC of fighting against force-stop kill process on Android
@@ -2541,6 +2543,7 @@
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) – An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) – A curated list of various bug bounty tools
 - [vavkamil/awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) – Awesome Vulnerable Applications
+- [vlang/awesome-v](https://github.com/vlang/awesome-v) – A curated list of awesome V frameworks, libraries, software and resources.
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
@@ -2742,6 +2745,7 @@
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) – Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.
+- [Vinyzu/chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints) – A Collection of 10.000 collected Windows Chrome Fingerprints. Usable with an easy-to-use API, available as a compressed (lzma) or full-size Json (view Releases). Its just 1.4mb in size in compressed form, and fast in read times.
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) – This repository presents a proof-of-concept of CVE-2023-7028
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) – 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches and common tags.
 - [Warxim/deluder](https://github.com/Warxim/deluder) – Deluder is a tool for intercepting traffic of proxy unaware applications. Currently, Deluder supports OpenSSL, GnuTLS, SChannel, WinSock and Linux Sockets out of the box.  ⚡ 
@@ -3350,7 +3354,7 @@
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
-- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool 
+- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(observer_ward)Web应用和服务指纹识别工具
 - [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
 - [envio-cli/envio](https://github.com/envio-cli/envio) – Envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
@@ -3558,7 +3562,7 @@
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
-- [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth devices on Linux.
+- [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
@@ -4148,6 +4152,7 @@
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
+- [termux-play-store/termux-packages](https://github.com/termux-play-store/termux-packages) – Packages for the current Termux build on Google Play.
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [termux/proot-distro](https://github.com/termux/proot-distro) – An utility for managing installations of the Linux distributions in Termux.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
@@ -4343,6 +4348,16 @@
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – Yet another PasteBin based on Cloudflare Worker and KV
+
+<div id="v"></div>
+
+## V
+
+- [vlang/coreutils](https://github.com/vlang/coreutils) – This repository contains programs equivalent to GNU coreutils, written in the V language.
+- [vlang/v](https://github.com/vlang/v) – Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
+- [vlang/ved](https://github.com/vlang/ved) – 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
+- [vlang/vinix](https://github.com/vlang/vinix) – Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
+- [vlang/vpm](https://github.com/vlang/vpm) – V's package manager
 
 <div id="vbscript"></div>
 
