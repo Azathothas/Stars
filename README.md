@@ -1408,6 +1408,7 @@
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [noperator/chromedb](https://github.com/noperator/chromedb) – Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the browser.
+- [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) – Portable SSH Server
 - [nwtgck/yamux-cli](https://github.com/nwtgck/yamux-cli) – Multiplexing TCP and UDP using yamux
@@ -2205,9 +2206,12 @@
 
 ## Nim
 
+- [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) – LLVM-based compiler for the Nim language
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
+- [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) – A highly customizable systemfetch written in nim
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
 
 <div id="nix"></div>
 
@@ -3725,7 +3729,7 @@
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
-- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [mirror]
+- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [Mirror only]
 
 <div id="scss"></div>
 
@@ -4048,7 +4052,7 @@
 - [moovweb/gvm](https://github.com/moovweb/gvm) – Go Version Manager
 - [moparisthebest/static-curl](https://github.com/moparisthebest/static-curl) – fully static builds of curl, runs anywhere
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) – CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers.
-- [mrdotx/shell](https://github.com/mrdotx/shell) – shell scripts for system/hardware management and general maintenance like alsa, aria2c, aur, package, stats, build, backlight, backup, color, picker, cyanrip, metafiles, dynv6, fritzbox, git, clone, compress, extract, multi, notify, test, padd, pdf, speed, ssh, status, stopwatch, cleanup, touchpad, urxvt, w3m, wallpaper, windows, key, wireguard
+- [mrdotx/shell](https://github.com/mrdotx/shell) – shell scripts for system/hardware management and general maintenance like alsa, aria2c, aur, package, stats, build, backlight, backup, color, picker, cyanrip, dynv6, fritzbox, git, clone, compress, extract, multi, notify, test, padd, pdf, speed, ssh, status, stopwatch, cleanup, touchpad, urxvt, w3m, wallpaper, windows, key, wireguard
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) – A magisk module to enable WiFi ADB automatically.
 - [mrvcoder/GetASN](https://github.com/mrvcoder/GetASN) – 🌐 Get Some Useful Info From Domain/IP/ASN 🔥
 - [mszcool/devmachinesetup](https://github.com/mszcool/devmachinesetup) – Used for setting up blank Windows (and in the future Linux) development machines by using package managers such as Chocolatey and PowerShell (or Bash). The goal is to automate the setup process as much as possible.
