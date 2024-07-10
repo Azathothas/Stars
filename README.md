@@ -1472,6 +1472,7 @@
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) – Go CLI and Library for quickly mapping organization network ranges using ASN information.
+- [projectdiscovery/awesome-search-queries](https://github.com/projectdiscovery/awesome-search-queries) – Community curated list of search queries for various products across multiple search engines.
 - [projectdiscovery/cdncheck](https://github.com/projectdiscovery/cdncheck) – A utility to detect various technology for a given IP address.
 - [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) – Go client to communicate with Chaos DB API. 
 - [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) – Cloudlist is a tool for listing Assets from multiple Cloud Providers.
@@ -2496,7 +2497,6 @@
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
-- [projectdiscovery/awesome-search-queries](https://github.com/projectdiscovery/awesome-search-queries) – Community curated list of search queries for various products across multiple search engines.
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [ramit-mitra/blocklist-ipsets](https://github.com/ramit-mitra/blocklist-ipsets) – An IP list of bad actors targeting public infra like website, ssh endpoints, etc. 
