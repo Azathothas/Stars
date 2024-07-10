@@ -474,7 +474,7 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.2: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -948,7 +948,7 @@
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) – 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) – Backup and restore Ed25519 SSH keys with seed words 🫠
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
@@ -2613,7 +2613,7 @@
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) – A collection of scripts for assessing Microsoft Azure security
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) – Remote Desktop entirely coded in PowerShell.
 - [Pwd9000-ML/docker-github-runner-windows](https://github.com/Pwd9000-ML/docker-github-runner-windows) – Repository for building a self hosted GitHub runner as a windows container
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
