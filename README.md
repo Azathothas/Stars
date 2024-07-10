@@ -411,6 +411,7 @@
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
+- [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
@@ -3002,6 +3003,7 @@
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) – Passive hostname, domain and IP lookup tool for non-robots
+- [piskvorky/smart_open](https://github.com/piskvorky/smart_open) – Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) – Simple internet performance tester written in Python
 - [praetorian-inc/gato](https://github.com/praetorian-inc/gato) – GitHub Actions Pipeline Enumeration and Attack Tool
 - [pry0cc/proteus](https://github.com/pry0cc/proteus) – A projectdiscovery driven attack surface monitoring bot powered by axiom 
