@@ -1637,7 +1637,6 @@
 - [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [timbray/topfew](https://github.com/timbray/topfew) – Finds the field values (or combinations of values) which appear most often in a stream of records.
-- [tminaorg/ffmpegof](https://github.com/tminaorg/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) – A tool for adding new lines to files, skipping duplicates
 - [tomnomnom/gf](https://github.com/tomnomnom/gf) – A wrapper around grep, to help you grep for things
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) – A collection of hacks and one-off scripts
@@ -1688,6 +1687,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [voidsolutionsorg/ffmpegof](https://github.com/voidsolutionsorg/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
@@ -2418,7 +2418,7 @@
 - [fscarmen2/V2-for-Patr](https://github.com/fscarmen2/V2-for-Patr)
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
-- [getcursor/cursor](https://github.com/getcursor/cursor) – The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) – The AI Code Editor
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – A simple and lightweight Linux® distribution based on musl libc and toybox
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) – 📜 A collective list of public GraphQL APIs
