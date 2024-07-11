@@ -324,6 +324,7 @@
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
+- [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) – The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [oleg-derevenetz/bwping](https://github.com/oleg-derevenetz/bwping) – ICMP-based network bandwidth measurement tool
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
@@ -1388,7 +1389,7 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [neptship/ignore](https://github.com/neptship/ignore) – the fastest cli generator for .ignore files
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
 - [nezhahq/agent](https://github.com/nezhahq/agent)
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
@@ -3551,6 +3552,7 @@
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
+- [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) – A full-featured implementation of the Network Time Protocol, including NTS support.
 - [phip1611/ttfb](https://github.com/phip1611/ttfb) – Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
@@ -4001,6 +4003,7 @@
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) – Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
+- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
 - [jean0t/archon](https://github.com/jean0t/archon) – A minimalist low level package manager for your linux, compatible with all linux distros due to the use of POSIX.
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
