@@ -1686,7 +1686,7 @@
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [veops/oneterm](https://github.com/veops/oneterm) – Provide secure access and control over all infrastructure
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-- [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
+- [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a lightweight tagging SSH client
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [voidsolutionsorg/ffmpegof](https://github.com/voidsolutionsorg/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
