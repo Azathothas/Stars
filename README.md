@@ -1208,7 +1208,7 @@
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
 - [itsprason/Auth0-Dump](https://github.com/itsprason/Auth0-Dump)
 - [iximiuz/cdebug](https://github.com/iximiuz/cdebug) – cdebug - a swiss army knife of container debugging
-- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram tookit written in Golang
+- [iyear/tdl](https://github.com/iyear/tdl) – 📥 A Telegram toolkit written in Golang
 - [izzetemredemir/GoSitemap2Md](https://github.com/izzetemredemir/GoSitemap2Md) – GoSitemap2Md is a Golang program that generates a sitemap URL in Markdown format and stores the URLs in a urls.json file for easy adding of new URLs. This tool simplifies the process of generating and maintaining a sitemap for your website.
 - [j3ssie/durl](https://github.com/j3ssie/durl) – Remove duplicate URLs by retaining only the unique combinations of hostname, path, and parameter names
 - [j3ssie/go-auxs](https://github.com/j3ssie/go-auxs) – Collection of auxiliary command line tools
