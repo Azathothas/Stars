@@ -53,6 +53,7 @@
 - [PowerShell](#powershell)
 - [Purescript](#purescript)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -189,6 +190,7 @@
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
+- [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
@@ -487,6 +489,7 @@
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) – Re-Connectable secure remote shell
 - [NVISOsecurity/blogposts](https://github.com/NVISOsecurity/blogposts) – A repo to house files for our blogposts on blog.nviso.eu
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
+- [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1189,7 +1192,7 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [homeport/termshot](https://github.com/homeport/termshot) – Creates screenshots based on terminal command output
-- [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Free - no account required - alternative to ngrok for localhost asynchronous web development (e.g. webhooks)
+- [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Alternative to ngrok for localhost asynchronous web development (e.g. webhooks). No account required.
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
@@ -1969,7 +1972,6 @@
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) – Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
-- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -2177,6 +2179,7 @@
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
+- [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 
@@ -2224,6 +2227,7 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
+- [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -3123,6 +3127,12 @@
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
+
+<div id="rich-text-format"></div>
+
+## Rich Text Format
+
+- [icedterminal/ffmpeg-installer](https://github.com/icedterminal/ffmpeg-installer) – Windows MSI package for installing ffmpeg command line
 
 <div id="roff"></div>
 
@@ -4296,6 +4306,7 @@
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
 - [dvlden/ps-awake](https://github.com/dvlden/ps-awake) – Keep PlanetScale database awake on free tier...
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
