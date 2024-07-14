@@ -3293,6 +3293,7 @@
 - [bgkillas/kalc](https://github.com/bgkillas/kalc) – a complex numbers, 2d/3d graphing, arbitrary precision, vector/matrix, cli calculator with real-time output and support for units
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) – A binary encoder / decoder implementation in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) – CLI Native WebRTC Agent in Rust
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) – A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
