@@ -774,6 +774,7 @@
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
+- [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
@@ -2289,7 +2290,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled (& UPX Packed) Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -4271,7 +4272,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Effortless, instant screen sharing.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) – Enterprise, fast, secure VPN & SSO platform with hardware keys, 2FA/MFA
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only ,real 2FA/MFA' WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
