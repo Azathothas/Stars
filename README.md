@@ -3087,7 +3087,7 @@
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
 - [takito1812/web-hacking-playground](https://github.com/takito1812/web-hacking-playground) – Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
-- [tcosolutions/betterscan-ce](https://github.com/tcosolutions/betterscan-ce) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+- [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) – :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
