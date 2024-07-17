@@ -1469,7 +1469,7 @@
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) – A tool to download more RAM (yes, seriously!)
 - [pojntfx/weron](https://github.com/pojntfx/weron) – Overlay networks based on WebRTC.
 - [portapps/portapps](https://github.com/portapps/portapps) – 🛰 Collection of portable apps for Windows
-- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) – A drop-in replacement for SQS designed for great developer experience and efficiency. 
+- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) – A drop-in replacement for SQS designed for great developer experience and efficiency. 
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
@@ -1816,6 +1816,7 @@
 ## Hcl
 
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
+- [Sprocket-Security/gigaproxy](https://github.com/Sprocket-Security/gigaproxy) – One proxy to rule them all
 - [cirruslabs/linux-image-templates](https://github.com/cirruslabs/linux-image-templates)
 - [fduran/sadservers](https://github.com/fduran/sadservers) – SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
@@ -2843,6 +2844,7 @@
 - [dbhi/qus](https://github.com/dbhi/qus) – qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) – 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
+- [defparam/lemma](https://github.com/defparam/lemma) – Remote CLI tools at your fingertips
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
@@ -3522,7 +3524,6 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) – The Mullvad VPN client app for desktop and mobile
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
-- [musikid/gateau](https://github.com/musikid/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – A toolkit for building distributed applications
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
@@ -3623,6 +3624,7 @@
 - [rusty-ferris-club/rustwrap](https://github.com/rusty-ferris-club/rustwrap) – 📦+🦀=♥️ A tool that helps wrap binary releases for easy distribution
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [s3m/s3m](https://github.com/s3m/s3m) – CLI for streams of data in S3 buckets
+- [saidsay-so/gateau](https://github.com/saidsay-so/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
