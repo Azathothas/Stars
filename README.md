@@ -36,7 +36,6 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
-- [Llvm](#llvm)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -500,6 +499,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux eBPF
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
@@ -1230,6 +1230,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) – simple terminal UI for git commands
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) – Instant, easy, and predictable development environments
 - [jfjallid/go-secdump](https://github.com/jfjallid/go-secdump) – Tool to remotely dump secrets from the Windows registry
+- [jgiannuzzi/wgfwd](https://github.com/jgiannuzzi/wgfwd) – User-space Wireguard port forwarder
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [jiro4989/gsv](https://github.com/jiro4989/gsv) – gsv transforms a multi-line CSV into one-line JSON to make it easier to grep.
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
@@ -2162,12 +2163,6 @@
 - [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neo(vim), the less is more.
 - [version-fox/version-fox-plugins](https://github.com/version-fox/version-fox-plugins) – plugins repository for VersionFox
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
-
-<div id="llvm"></div>
-
-## Llvm
-
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux eBPF
 
 <div id="makefile"></div>
 
@@ -3206,6 +3201,7 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
+- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
@@ -3714,7 +3710,6 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -3849,7 +3844,7 @@
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
 - [Skimmeroni/Nupk](https://github.com/Skimmeroni/Nupk) – Dummy package manager in roughly 350 lines of shell script
-- [Skimmeroni/Nupk-repository](https://github.com/Skimmeroni/Nupk-repository) – A repository of installation scripts. To be used with Nupk
+- [Skimmeroni/Nupk-repository](https://github.com/Skimmeroni/Nupk-repository) – A repository of installation scripts
 - [SkyperTHC/pure-bash-bible](https://github.com/SkyperTHC/pure-bash-bible) – 📖 A collection of pure bash alternatives to external processes.
 - [Smiley-McSmiles/jellyman](https://github.com/Smiley-McSmiles/jellyman) – Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
