@@ -3201,7 +3201,6 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
-- [Eugeny/warpgate](https://github.com/Eugeny/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
@@ -3439,7 +3438,7 @@
 - [iustin24/rextract](https://github.com/iustin24/rextract) – CLI tool that extracts a regex pattern from a list of urls ( Rust ) 
 - [ivre/masscanned](https://github.com/ivre/masscanned) – Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
-- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store
+- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store, hooking binder
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
@@ -3710,6 +3709,7 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
