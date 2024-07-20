@@ -160,6 +160,7 @@
 - [LaKabane/libtuntap](https://github.com/LaKabane/libtuntap) – The portable Tun/Tap devices configuration utility
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
+- [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -179,6 +180,7 @@
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) – Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) – Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
+- [Thraetaona/Blitzping](https://github.com/Thraetaona/Blitzping) – Sending IP packets as fast as possible in userland.
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -618,7 +620,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
-- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga and watching anime available on Android, iOS, macOS, Linux and Windows
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) –  and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
@@ -1991,6 +1993,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – save what you love
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
+- [johnfactotum/foliate](https://github.com/johnfactotum/foliate) – Read e-books in style
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -3708,6 +3711,7 @@
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
+- [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) –  Wipe files and drives securely with random ASCII dicks 
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
@@ -4004,7 +4008,7 @@
 - [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) – Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
-- [itiligent/Guacamole-Install](https://github.com/itiligent/Guacamole-Install) – Easily install Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
+- [itiligent/Guacamole-Installer](https://github.com/itiligent/Guacamole-Installer) – Easy automated install of Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
