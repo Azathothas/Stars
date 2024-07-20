@@ -1420,7 +1420,7 @@
 - [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) – Portable SSH Server
-- [nwtgck/yamux-cli](https://github.com/nwtgck/yamux-cli) – Multiplexing TCP and UDP using yamux
+- [nwtgck/yamux-cli](https://github.com/nwtgck/yamux-cli) – TCP and UDP multiplexer using yamux
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) – NextTrace, an open source visual route tracking CLI tool
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
@@ -2345,6 +2345,7 @@
 - [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
+- [WorksOnArm/equinix-metal-arm64-cluster](https://github.com/WorksOnArm/equinix-metal-arm64-cluster) – Arm and Equinix Metal have partnered to make powerful Neoverse based Armv8 bare metal infrastructure including latest generation Ampere systems — available for open source software developers to build, test and optimize for Arm64 architecture.
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 精品书源（网络小说）
 - [acidvegas/bgp](https://github.com/acidvegas/bgp) – Research & Experiments with Border Gateway Protocol (BGP)
@@ -2994,7 +2995,7 @@
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
-- [oilshell/oil](https://github.com/oilshell/oil) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
+- [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [okigan/awscurl](https://github.com/okigan/awscurl) – curl-like access to AWS resources with AWS Signature Version 4 request signing.
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
@@ -3159,6 +3160,7 @@
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) – ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) – 🏴‍☠️ Find dead-links (broken links)
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) – Computing-focused community centered around link aggregation and discussion
+- [mame/quine-relay](https://github.com/mame/quine-relay) – An uroboros program with 100+ programming languages
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The OS for your personal finances
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
@@ -3264,6 +3266,7 @@
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
+- [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
 - [aaronriekenberg/rust-parallel](https://github.com/aaronriekenberg/rust-parallel) – Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
 - [aerys/gpm](https://github.com/aerys/gpm) – Git-based Package Manager.
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
@@ -4456,7 +4459,7 @@
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
-- [txthinking/zhen](https://github.com/txthinking/zhen) – zhen - process and cron manager
+- [txthinking/z](https://github.com/txthinking/z) – z - process manager
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
 - [ziglang/zig](https://github.com/ziglang/zig) – General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
