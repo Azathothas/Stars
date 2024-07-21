@@ -19,6 +19,7 @@
 - [Cmake](#cmake)
 - [Coffeescript](#coffeescript)
 - [Crystal](#crystal)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
@@ -331,6 +332,7 @@
 - [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) – The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [oleg-derevenetz/bwping](https://github.com/oleg-derevenetz/bwping) – ICMP-based network bandwidth measurement tool
+- [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
@@ -601,6 +603,12 @@
 - [busyloop/envcat](https://github.com/busyloop/envcat) – Shell Environment Swiss Army Knife
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) – The Crystal Programming Language
 - [owasp-noir/noir](https://github.com/owasp-noir/noir) – Attack surface detector that identifies endpoints by static analysis
+
+<div id="d"></div>
+
+## D
+
+- [dlang/dmd](https://github.com/dlang/dmd) – dmd D Programming Language compiler
 
 <div id="dart"></div>
 
@@ -1416,6 +1424,7 @@
 - [noborus/ov](https://github.com/noborus/ov) – 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [noborus/trdsql](https://github.com/noborus/trdsql) – CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
+- [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) – Userspace TCP/IP Sockets For WireGuard.
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [noperator/chromedb](https://github.com/noperator/chromedb) – Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the browser.
 - [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
@@ -1898,7 +1907,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
-- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStable from plain text/json
+- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or Json. The Data Loading Workhorse behind lookup.segfault.net 
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是新一代的测试管理和接口测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
@@ -2290,7 +2299,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled (& UPX Packed) Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled (UPX Packed) Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -2741,6 +2750,7 @@
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [SkyperTHC/curlshell](https://github.com/SkyperTHC/curlshell) – reverse shell using curl
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
 - [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
