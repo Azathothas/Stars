@@ -2153,7 +2153,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser made by extraordinary addons: Ubuntu, Terminal, file manager, ritch qr reader etc...
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser for addons, by addons, and for addons.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
@@ -2893,7 +2893,6 @@
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) – Scalable fuzzing infrastructure.
 - [google/gcp_scanner](https://github.com/google/gcp_scanner) – A comprehensive scanner for Google Cloud
-- [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [greshake/Alice](https://github.com/greshake/Alice) – Giving ChatGPT access to a real terminal
 - [gruns/furl](https://github.com/gruns/furl) – 🌐 URL parsing and manipulation made easy.
@@ -3426,6 +3425,7 @@
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
+- [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
@@ -3759,7 +3759,7 @@
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
-- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [Mirror only]
+- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. (Mirror only, No PR here.)
 
 <div id="scss"></div>
 
@@ -4366,6 +4366,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [richartkeil/notion-guardian](https://github.com/richartkeil/notion-guardian) – 🛡✍️ Keeps your Notion workspace safe and version controlled at all times.
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) – record and replay the web
 - [rubiin/nfdl](https://github.com/rubiin/nfdl) – This cli automatically install your favorite nerd fonts right from the terminal
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) – WebExtension port of Random Agent Spoofer
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
