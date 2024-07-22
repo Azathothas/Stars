@@ -935,7 +935,7 @@
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) – CLI to perform various actions on CIDR ranges
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) – Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bufbuild/buf](https://github.com/bufbuild/buf) – The best way of working with Protocol Buffers.
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
