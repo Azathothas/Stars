@@ -1482,7 +1482,7 @@
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) – A tool to download more RAM (yes, seriously!)
 - [pojntfx/weron](https://github.com/pojntfx/weron) – Overlay networks based on WebRTC.
 - [portapps/portapps](https://github.com/portapps/portapps) – 🛰 Collection of portable apps for Windows
-- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) – A drop-in replacement for SQS designed for great developer experience and efficiency. 
+- [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) – An improved drop-in replacement for SQS
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
@@ -1756,7 +1756,7 @@
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) – Turn WireGuard to HTTP & SOCKS5 proxies
 - [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset) – 🔩 A set of Notion automation tools using the Notion API
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
-- [zmap/zdns](https://github.com/zmap/zdns) – Fast CLI DNS Lookup Tool
+- [zmap/zdns](https://github.com/zmap/zdns) – Fast DNS Lookup Library and CLI Tool
 - [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) – Public Zone Database
 - [ztelliot/taierspeed-cli](https://github.com/ztelliot/taierspeed-cli) – TaierSpeed CLI
