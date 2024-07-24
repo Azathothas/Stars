@@ -399,6 +399,7 @@
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) – Advanced system monitor & process supervisor for Linux
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [txthinking/joker](https://github.com/txthinking/joker) – Joker can turn process into daemon. Zero-Configuration
+- [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – A C compiler written in POSIX shell and generating POSIX shell scripts
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
@@ -2475,7 +2476,6 @@
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
-- [linuxone-community-cloud/technical-resources](https://github.com/linuxone-community-cloud/technical-resources) – Repository for technical resources
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) – For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
@@ -2747,6 +2747,7 @@
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [RevoltSecurities/Dnsbruter](https://github.com/RevoltSecurities/Dnsbruter) – Dnsbruter is a powerful tool designed to perform active subdomain enumeration and discovery. It uses DNS resolution to efficiently bruteforce and identify potential subdomains for a given target domain. With its multithreading capability, users can control the concurrency level to speed up the process.
+- [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) – SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -2854,7 +2855,6 @@
 - [dbhi/qus](https://github.com/dbhi/qus) – qemu-user-static (qus) and containers, non-invasive minimal working setups
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) – 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
-- [defparam/lemma](https://github.com/defparam/lemma) – Remote CLI tools at your fingertips
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
@@ -2951,6 +2951,7 @@
 - [lijiejie/ds_store_exp](https://github.com/lijiejie/ds_store_exp) – A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads files recursively.
 - [linkedin/qark](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities
 - [linsomniac/ztproxy](https://github.com/linsomniac/ztproxy) – A user-space stdin-to-ZeroTier proxy
+- [linuxone-community-cloud/technical-resources](https://github.com/linuxone-community-cloud/technical-resources) – Repository for technical resources
 - [lithops-cloud/lithops](https://github.com/lithops-cloud/lithops) – A multi-cloud framework for big data analytics and embarrassingly parallel jobs, that provides an universal API for building parallel applications in the cloud ☁️🚀
 - [localstack/localstack](https://github.com/localstack/localstack) – 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – 🐧 A list of awesome Linux softwares 
@@ -3136,7 +3137,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser)
 - [zer1t0/awsenum](https://github.com/zer1t0/awsenum) – Enumerate AWS permissions and resources.
-- [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
 
@@ -3569,7 +3569,7 @@
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) – A minimal file upload/pastebin service.
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
-- [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – Mount your Microsoft OneDrive storage as FUSE filesystem.
+- [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
@@ -4022,7 +4022,7 @@
 - [infrastlabs/docker-headless](https://github.com/infrastlabs/docker-headless) – Remote Desktop with Docker: XRDP/NOVNC/PulseAudio. (Xfce, Mate, Cinnamon, Gnome, Plasma) MultiScreen Support!
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
-- [itiligent/Guacamole-Installer](https://github.com/itiligent/Guacamole-Installer) – Easy automated install of Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
+- [itiligent/Guacamole-Installer](https://github.com/itiligent/Guacamole-Installer) – Automated install of Gucamole with optional HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
@@ -4238,6 +4238,7 @@
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
 - [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
+- [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zongou/sndk](https://github.com/zongou/sndk) – Android SDK & NDK on any platform.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
 
@@ -4287,7 +4288,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Effortless, instant screen sharing.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only ,real 2FA/MFA' WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only _real_ 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
