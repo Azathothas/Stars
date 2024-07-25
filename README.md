@@ -1894,7 +1894,7 @@
 - [forcesunseen/graphquail](https://github.com/forcesunseen/graphquail) – Burp Suite extension that offers a toolkit for testing GraphQL endpoints. 
 - [frostwire/frostwire](https://github.com/frostwire/frostwire) – An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share
 - [gh0stkey/HaE](https://github.com/gh0stkey/HaE) – HaE - Highlighter and Extractor, Empower ethical hacker for efficient operations.
-- [google/ExoPlayer](https://github.com/google/ExoPlayer) – An extensible media player for Android
+- [google/ExoPlayer](https://github.com/google/ExoPlayer) – This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media
 - [google/bindiff](https://github.com/google/bindiff) – Quickly find differences and similarities in disassembled code
 - [green-green-avk/AnotherTerm](https://github.com/green-green-avk/AnotherTerm) – Local PTY, USB and Bluetooth serial ports, SSH and Telnet terminal client for Android. Xwayland support (in dev only).
 - [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) – Debugging gRPC application with swagger-ui.
