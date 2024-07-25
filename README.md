@@ -4226,7 +4226,6 @@
 - [wowsignal-io/android-tools](https://github.com/wowsignal-io/android-tools)
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) – A collection of utilities for Windows Subsystem for Linux
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
-- [xhilmi/google-cloud](https://github.com/xhilmi/google-cloud) – Are you a GCP user? This will help u to simplify using GCP. This repo have a Based Setting to Allow Remote SSH, Setting Load Balancing, Setting Cloud DNS, and .etc
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [xpack-dev-tools/gcc-xpack](https://github.com/xpack-dev-tools/gcc-xpack) – A binary distribution of the GNU Compiler Collection (GCC)
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
