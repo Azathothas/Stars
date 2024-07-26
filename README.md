@@ -359,6 +359,9 @@
 - [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
 - [rmyorston/pdpmake](https://github.com/rmyorston/pdpmake) – Public domain POSIX make
 - [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) – TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
+- [rofl0r/musl](https://github.com/rofl0r/musl) – musl libc working copy
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) – proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [rphang/evilBPF](https://github.com/rphang/evilBPF) – Weaponizing the Linux Kernel (Hide Files/PID, SSH backdoors, SSL Sniffer, ...) by poking around eBPF/XDP
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) – union filesystem using fuse
@@ -1651,6 +1654,7 @@
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
+- [tenox7/wrp](https://github.com/tenox7/wrp) – Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
@@ -1752,6 +1756,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+- [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
@@ -2155,7 +2160,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser for addons, by addons, and for addons.
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Android browser of addons, by addons, and for addons.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
@@ -3426,6 +3431,7 @@
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
+- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
 - [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
