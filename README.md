@@ -389,6 +389,7 @@
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [sysprog21/semu](https://github.com/sysprog21/semu) – A minimalist RISC-V system emulator capable of running Linux kernel
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) – Performance monitoring tools for Linux
+- [tantosec/oneshell](https://github.com/tantosec/oneshell) – Reverse shell listener and payload generator designed to work on most Linux targets
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) – 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) – a realtime plotting utility for terminal/console with data input from stdin
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
@@ -2864,6 +2865,7 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
+- [devrim/cloudflare-noip](https://github.com/devrim/cloudflare-noip) – free alternative to paid dynamic DNS services like NoIP.com
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 - [disclose/diodb](https://github.com/disclose/diodb) – Open-source vulnerability disclosure and bug bounty program database
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
