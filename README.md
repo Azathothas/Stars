@@ -918,6 +918,7 @@
 - [balibuild/bali](https://github.com/balibuild/bali) – Bali -  Minimalist Golang build and packaging tool
 - [barelyhuman/goblin](https://github.com/barelyhuman/goblin) – Golang binaries compiled on-demand for your system
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
+- [beescuit/githubid](https://github.com/beescuit/githubid) – Quickly find all identities someone has used on their Github commits
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
@@ -2933,6 +2934,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
+- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
@@ -4041,9 +4043,9 @@
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
+- [izabera/ps](https://github.com/izabera/ps)
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) – Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
-- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
 - [jean0t/archon](https://github.com/jean0t/archon) – A minimalist low level package manager for your linux, compatible with all linux distros due to the use of POSIX.
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
