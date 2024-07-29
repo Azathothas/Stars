@@ -3320,6 +3320,7 @@
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
 - [bgkillas/kalc](https://github.com/bgkillas/kalc) – a complex numbers, 2d/3d graphing, arbitrary precision, vector/matrix, cli calculator with real-time output and support for units
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) – Statistics-driven benchmarking library for Rust
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) – A binary encoder / decoder implementation in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) – CLI Native WebRTC Agent in Rust
