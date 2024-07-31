@@ -1102,6 +1102,7 @@
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
+- [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – Request analytics from the nginx access logs
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [ferama/rospo](https://github.com/ferama/rospo) – 🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server
