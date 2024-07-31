@@ -732,7 +732,7 @@
 - [Damian89/yataf](https://github.com/Damian89/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
-- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Kubernetes Attack Graph
+- [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Tool for building Kubernetes attack paths
 - [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) – :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) – An unofficial GUI wrapper around the Tailscale CLI client.
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
@@ -1990,6 +1990,7 @@
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [copy/v86](https://github.com/copy/v86) – x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [craigary/nobelium](https://github.com/craigary/nobelium) – A static blog build on top of Notion and NextJS, deployed on Vercel.
+- [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) – A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) – Simple command to backup a Notion workspace
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
 - [deadlyjack/Acode](https://github.com/deadlyjack/Acode) – Acode - powerful text/code editor for android
@@ -2644,7 +2645,7 @@
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) – A collection of scripts for assessing Microsoft Azure security
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) – Remote Desktop entirely coded in PowerShell.
 - [Pwd9000-ML/docker-github-runner-windows](https://github.com/Pwd9000-ML/docker-github-runner-windows) – Repository for building a self hosted GitHub runner as a windows container
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
@@ -3198,7 +3199,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An easy and powerful Rust HTTP/Socks5/HTTP2Socks5 Proxy
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An easy and powerful Rust HTTP/Socks5 Proxy
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
@@ -3575,6 +3576,7 @@
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
+- [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/flawz](https://github.com/orhun/flawz) – A Terminal UI for browsing security vulnerabilities (CVEs)
