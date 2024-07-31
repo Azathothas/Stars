@@ -2786,7 +2786,6 @@
 - [Warxim/deluder](https://github.com/Warxim/deluder) – Deluder is a tool for intercepting traffic of proxy unaware applications. Currently, Deluder supports OpenSSL, GnuTLS, SChannel, WinSock and Linux Sockets out of the box.  ⚡ 
 - [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) – A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Cloudflare challenges to visitors
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
-- [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
@@ -3915,6 +3914,7 @@
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) – Scripts to install Google Apps into a WSA image. Plus optional root
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) – An X11 server and client libraries for macOS
+- [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
