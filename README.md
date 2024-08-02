@@ -968,6 +968,7 @@
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
+- [chainreactors/spray](https://github.com/chainreactors/spray) – Next Generation HTTP Dir/File Fuzz Tool
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer TOOL
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
@@ -1417,6 +1418,7 @@
 - [neptship/ignore](https://github.com/neptship/ignore) – the fastest cli generator for .ignore files
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
+- [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
 - [nezhahq/agent](https://github.com/nezhahq/agent)
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) – Generate files from docker container meta-data
@@ -1974,6 +1976,7 @@
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
+- [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) – Bypass ad counter if possible.
@@ -2203,6 +2206,7 @@
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) – 10x cheaper GitHub Action runners. 5x faster caches. On premise.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 
@@ -2470,6 +2474,7 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones 
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
+- [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) – Download IP address lists grouped by country
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) – Awesome list of status page open source software, services and public status pages of major internet companies
@@ -3021,6 +3026,7 @@
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
+- [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [okigan/awscurl](https://github.com/okigan/awscurl) – curl-like access to AWS resources with AWS Signature Version 4 request signing.
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
@@ -3686,7 +3692,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest, most efficient web crawler and scraper written in Rust. Maintained by @a11ywatch.
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -4356,6 +4362,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
+- [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in JavaScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
