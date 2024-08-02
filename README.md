@@ -4028,6 +4028,7 @@
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.3 For Termux , Version : 2.9.3 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+- [hackerschoice/hackshell](https://github.com/hackerschoice/hackshell) – Make BASH stealthy and hacker friendly with lots of bash functions
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
