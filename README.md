@@ -636,7 +636,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
-- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) –  and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
@@ -1059,6 +1059,7 @@
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) – Simple ethernet interface traffic monitor and reporting tool
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
+- [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -1299,7 +1300,7 @@
 - [kost/sqlc](https://github.com/kost/sqlc) – sqlc - Universal DBMS/SQL client with exfiltration features :)
 - [kost/tty2web](https://github.com/kost/tty2web) – Share your terminal as a web application in bind/reverse mode
 - [kpym/gm](https://github.com/kpym/gm) – Cli tool converting Markdown to HTML. This tool is a thin wrapper around the github.com/yuin/goldmark library.
-- [ksctl/ksctl](https://github.com/ksctl/ksctl) – Cloud Agnostic Kubernetes Management (Core) 
+- [ksctl/ksctl](https://github.com/ksctl/ksctl) – Simplified Kubernetes Clusters Lifecycle Management (Core) 
 - [ktr0731/evans](https://github.com/ktr0731/evans) – Evans: more expressive universal gRPC client
 - [kubesphere/kubeeye](https://github.com/kubesphere/kubeeye) – KubeEye aims to find various problems on Kubernetes, such as application misconfiguration, unhealthy cluster components and node problems.
 - [kungze/quic-tun](https://github.com/kungze/quic-tun) – A fast and security tunnel based on QUIC, make you can access remote TCP/UNIX  application like a local application.  一个快速且安全的 TCP  隧道工具，能加速弱网环境下（如网络有丢包）TCP 的转发性能。
@@ -2258,11 +2259,11 @@
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
-- [chadcat7/crystal](https://github.com/chadcat7/crystal) – nix dotfiles for chilly people
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ NixOS configuration
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
+- [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
