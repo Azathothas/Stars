@@ -1879,6 +1879,7 @@
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) – LSPosed Framework
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) – A full-featured package manager and viewer for Android
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
+- [Neamar/KISS](https://github.com/Neamar/KISS) – Lightning fast, open-source, < 250kb Android launcher
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
@@ -2126,6 +2127,7 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) – 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) – Manga reader for Android
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) – Android app for streaming and downloading Movies, TV-Series and Anime.
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) – A search-focused Android launcher
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – GitHub reimagined with Material You
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro)
