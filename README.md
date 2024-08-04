@@ -1749,7 +1749,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2200 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2150 statically linked binaries in the repos!
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -3137,7 +3137,7 @@
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
-- [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension generates dynamic payloads to uncover injection flaws (LFI, RCE, SQLi), creates user access tables to identify authentication and authorization issues, attempts to bypass HTTP 403 access restrictions, and converts HTTP requests as JavaScript code for enhanced XSS exploitation.
+- [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) – 🚀 The best source for dashboard icons.
 - [wasp-os/wasp-os](https://github.com/wasp-os/wasp-os) – A MicroPython based development environment for smart watches (including Pine64 PineTime)
