@@ -1683,7 +1683,7 @@
 - [trickest/mkpath](https://github.com/trickest/mkpath) – Make URL path combinations using a wordlist
 - [trickest/mksub](https://github.com/trickest/mksub) – Generate tens of thousands of subdomain combinations in a matter of seconds
 - [trickest/trickest-cli](https://github.com/trickest/trickest-cli) – Execute Trickest workflows right from your terminal
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find, verify, and analyze leaked credentials
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) – The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
