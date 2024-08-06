@@ -1717,7 +1717,7 @@
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [veops/oneterm](https://github.com/veops/oneterm) – Provide secure access and control over all infrastructure
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-- [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a lightweight tagging SSH client
+- [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
 - [voidsolutionsorg/ffmpegof](https://github.com/voidsolutionsorg/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
@@ -1977,6 +1977,7 @@
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
+- [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
