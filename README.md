@@ -1631,7 +1631,7 @@
 - [square/certstrap](https://github.com/square/certstrap) – Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [stateful/runme](https://github.com/stateful/runme) – DevOps Workflows Built with Markdown
+- [stateful/runme](https://github.com/stateful/runme) – DevOps Notebooks Built with Markdown
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) – A simple HTTP proxy that fogs over naughty URLs    
 - [sudosammy/knary](https://github.com/sudosammy/knary) – A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
@@ -3211,7 +3211,7 @@
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An easy and powerful Rust HTTP/Socks5 Proxy
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An fast asynchronous Rust HTTP/Socks5 Proxy
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
