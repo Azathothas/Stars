@@ -1923,7 +1923,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
-- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or Json. The Data Loading Workhorse behind lookup.segfault.net 
+- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or Json. The Data Loading Workhorse behind https://ip.thc.org
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
@@ -2321,7 +2321,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled (UPX Packed) Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Statically Linked Pre-Compiled (& UPX Packed) Binaries & Build Scripts for Android (arm64-v8a), Linux (aarch64 | x86-64), Windows (AMD64) :: https://bin.ajam.dev
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -2477,7 +2477,7 @@
 - [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) – An anti detection version frida-server for android.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) – A collection of modern/faster/saner alternatives to common unix commands.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
-- [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones 
+- [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim vulnerable domains.
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) – Download IP address lists grouped by country
@@ -4110,6 +4110,7 @@
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [milahu/opensubtitles-scraper-new-subs](https://github.com/milahu/opensubtitles-scraper-new-subs)
 - [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
+- [minos-org/minos-static](https://github.com/minos-org/minos-static) – static binaries for linux
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
 - [modernish/modernish](https://github.com/modernish/modernish) – Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
