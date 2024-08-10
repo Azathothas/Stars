@@ -1568,6 +1568,7 @@
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
 - [rsc/unix](https://github.com/rsc/unix) – Old Unix programs running on modern computers.
+- [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
 - [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) – Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
@@ -2402,7 +2403,7 @@
 - [bol-van/bins](https://github.com/bol-van/bins) – precompiled static binaries for android
 - [bromite/bromite](https://github.com/bromite/bromite) – Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
-- [caido/awesome](https://github.com/caido/awesome) – 🔗 A curated list of awesome Caido related projects
+- [caido-community/awesome](https://github.com/caido-community/awesome) – 🔗 A curated list of awesome Caido related projects
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [cenk/nrd](https://github.com/cenk/nrd) – Newly Registered Domains - Generated from WhoisDS.com free NRD database.
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
@@ -2486,7 +2487,7 @@
 - [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
 - [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) – K4YT3X's Hardened OpenSSH Server Configuration
-- [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) – K4YT3X's Hardened sysctl Configuration
+- [k4yt3x/sysctl](https://github.com/k4yt3x/sysctl) – K4YT3X's Hardened & Optimized Linux Kernel Parameters
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
