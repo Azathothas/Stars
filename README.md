@@ -2667,6 +2667,7 @@
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell scripts (.ps1) for every system!
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -2904,6 +2905,7 @@
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) – A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
+- [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) – Up-to-date simple useragent faker with real world database
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
 - [firerpa/lamda](https://github.com/firerpa/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
@@ -4010,6 +4012,7 @@
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
+- [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) – 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) – Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
