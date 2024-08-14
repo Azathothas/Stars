@@ -9,6 +9,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Autoit](#autoit)
+- [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bitbake](#bitbake)
 - [Blitzbasic](#blitzbasic)
@@ -112,6 +113,12 @@
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) – Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
+<div id="awk"></div>
+
+## Awk
+
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – X bootstrap 1000+ tools and your scripts.
+
 <div id="batchfile"></div>
 
 ## Batchfile
@@ -148,6 +155,8 @@
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
+- [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
+- [CompuRoot/static-sqlite3](https://github.com/CompuRoot/static-sqlite3) – Statically compiled binary shell sqlite3
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) – Macro-header for compile-time C obfuscation (tcc, win x86/x64)
@@ -510,7 +519,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
@@ -550,6 +559,7 @@
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
+- [rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt) – LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
@@ -1030,7 +1040,7 @@
 - [d3mondev/crossjoin](https://github.com/d3mondev/crossjoin) – Generate a cross join, also known as a Cartesian product, from the lines of the specified files. This process is useful for creating fuzzing payloads.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
-- [daguflow/dagu](https://github.com/daguflow/dagu) – Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
@@ -1361,7 +1371,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [minio/dperf](https://github.com/minio/dperf) – Drive performance measurement tool
 - [minio/mc](https://github.com/minio/mc) – Simple | Fast tool to manage MinIO clusters :cloud:
-- [minio/minio](https://github.com/minio/minio) – The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) – MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/selfupdate](https://github.com/minio/selfupdate) – Build self-updating Go programs
 - [minio/warp](https://github.com/minio/warp) – S3 benchmarking tool
 - [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
@@ -2177,6 +2187,7 @@
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
@@ -2595,6 +2606,7 @@
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) – Public peers in the Yggdrasil network
 - [you-dont-need/You-Dont-Need-GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) – Stop relying on GUI; CLI **ROCKS**
+- [yt-dlp/yt-dlp-nightly-builds](https://github.com/yt-dlp/yt-dlp-nightly-builds) – yt-dlp nightly builds
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) – A collection of things you can do with ZeroTier, how-to guides, and more
 - [zloi-user/hideip.me](https://github.com/zloi-user/hideip.me) –   proxy list that updates every 10 minutes
 - [zzzteph/probable_subdomains](https://github.com/zzzteph/probable_subdomains) – Subdomains analysis and generation tool. Reveal the hidden!
@@ -2635,6 +2647,7 @@
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) – cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [htrgouvea/nozaki](https://github.com/htrgouvea/nozaki) – HTTP fuzzer engine security oriented
 - [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
+- [jetmore/swaks](https://github.com/jetmore/swaks) – Swaks - Swiss Army Knife for SMTP
 - [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) – Rip web accessible (distributed) version control systems: SVN/GIT/HG...
 - [pmqs/zipdetails](https://github.com/pmqs/zipdetails) – zipdetails - Display details about the internal structure of Zip files.
 - [pstray/rename](https://github.com/pstray/rename) – Rename renames the filenames supplied according to the rule specified as the first argument. The argument is a Perl expression which is expected to modify the $_ string for at least some of the filenames specified.
@@ -3534,6 +3547,7 @@
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
+- [m4b/goblin](https://github.com/m4b/goblin) – An impish, cross-platform binary parsing crate, written in Rust
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) – Unix-like kernel written in Rust
 - [maestro-os/maestro-utils](https://github.com/maestro-os/maestro-utils) – Utility commands for Maestro operating system
 - [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
@@ -3601,6 +3615,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) – Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/rustypaste](https://github.com/orhun/rustypaste) – A minimal file upload/pastebin service.
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
+- [osa1/tiny](https://github.com/osa1/tiny) – A terminal IRC client 
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
@@ -3700,9 +3715,10 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest, most efficient web crawler and scraper written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest, most efficient web crawler and scraper written in Rust.
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -3834,6 +3850,7 @@
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/Azathothas/Toolpacks
+- [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) – Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
@@ -4200,6 +4217,7 @@
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
 - [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
+- [smileaf419/spkg](https://github.com/smileaf419/spkg) – Bash based package manager
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
@@ -4284,6 +4302,7 @@
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) – Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
 - [tempoz/cosmo_cc_bazel_toolchain](https://github.com/tempoz/cosmo_cc_bazel_toolchain) – Bazel toolchain that is backed by cosmopolitan
+- [tweag/clodl](https://github.com/tweag/clodl) – Turn dynamically linked ELF binaries and libraries into self-contained closures.
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) – Bazel C/C++ toolchain for cross-compiling C/C++ programs
 
 <div id="svelte"></div>
