@@ -1590,7 +1590,6 @@
 - [s0rg/decompose](https://github.com/s0rg/decompose) – Reverse-engineering tool for docker environments
 - [sHesl/amazon-where-services](https://github.com/sHesl/amazon-where-services) – Automated determination of which AWS services run where
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) – Scan for misconfigured S3 buckets across S3-compatible APIs!
-- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [safing/portmaster](https://github.com/safing/portmaster) – 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [sairash/chitosocket](https://github.com/sairash/chitosocket) – ChitoSocket - The best Socket Server
 - [sampointer/digaws](https://github.com/sampointer/digaws) – Look up region and other information for any AWS IP address
@@ -3686,6 +3685,7 @@
 - [rusty-ferris-club/rustwrap](https://github.com/rusty-ferris-club/rustwrap) – 📦+🦀=♥️ A tool that helps wrap binary releases for easy distribution
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [s3m/s3m](https://github.com/s3m/s3m) – CLI for streams of data in S3 buckets
+- [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [saidsay-so/gateau](https://github.com/saidsay-so/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
