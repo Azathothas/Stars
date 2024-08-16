@@ -3261,6 +3261,7 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
+- [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
