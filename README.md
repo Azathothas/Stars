@@ -181,7 +181,7 @@
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc  全平台通用换源工具. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -1535,6 +1535,7 @@
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) – Go alternative of python SimpleHTTPServer
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
+- [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder) – A streamlined tool for discovering TLDs, associated domains, and related domain names.
 - [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx) – Fast and configurable TLS grabber focused on TLS based data collection.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) – Quickly discover exposed hosts on the internet using multiple search engines.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) – A high performance go implementation of Wappalyzer Technology Detection Library
