@@ -1149,6 +1149,7 @@
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
 - [g0ldencybersec/EasyEASM](https://github.com/g0ldencybersec/EasyEASM) – Zero-dollar attack surface management tool
 - [g0ldencybersec/gungnir](https://github.com/g0ldencybersec/gungnir) – CT Log Scanner
+- [galalen/btail](https://github.com/galalen/btail) – Interactive File Tail Viewer
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
 - [getporter/porter](https://github.com/getporter/porter) – Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
