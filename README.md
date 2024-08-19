@@ -191,7 +191,7 @@
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) – Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) – Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
-- [Thraetaona/Blitzping](https://github.com/Thraetaona/Blitzping) – Sending IP packets as fast as possible in userland.
+- [Thraetaona/Blitzping](https://github.com/Thraetaona/Blitzping) – A very high-speed, configurable, and portable packet-crafting utility optimized for embedded devices
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -4130,6 +4130,7 @@
 - [matan-h/adb-shell](https://github.com/matan-h/adb-shell) – better `adb shell` 
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
 - [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
+- [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) – Write any bash with only the punctuation characters
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
 - [metis-os/metis-wallpapers](https://github.com/metis-os/metis-wallpapers) – ✨  A collection of beautiful wallpapers for @metis-os
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
