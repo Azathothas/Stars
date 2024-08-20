@@ -1277,6 +1277,7 @@
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
 - [jpillora/installer](https://github.com/jpillora/installer) – One-liner for installing binaries from Github releases
 - [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite) – A feature-light sshd(8) for Windows, Mac, and Linux written in Go
+- [jrnd-io/jr](https://github.com/jrnd-io/jr) – JR: streaming quality random data from the command line
 - [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli) – A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers
 - [juanfont/headscale](https://github.com/juanfont/headscale) – An open source, self-hosted implementation of the Tailscale control server
 - [juev/starred](https://github.com/juev/starred) – Create your own Awesome List by GitHub stars!
@@ -1715,7 +1716,6 @@
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – [deprecated] Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
-- [ugol/jr](https://github.com/ugol/jr) – JR: streaming quality random data from the command line
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
 - [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
@@ -3344,7 +3344,7 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) – ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) – An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/rye](https://github.com/astral-sh/rye) – a Hassle-Free Python Experience
-- [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
