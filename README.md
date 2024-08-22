@@ -3709,7 +3709,7 @@
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
 - [shixinhuang99/sxtetris](https://github.com/shixinhuang99/sxtetris) – A terminal Tetris game
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
-- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV or TSV files.
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and tabular data files, such as CSV, TSV, or parquet.
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
@@ -4386,7 +4386,7 @@
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – GitHub Action for UPX, the Ultimate Packer for eXecutables
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) – Cross-platform GitHub action
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
-- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader
+- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
