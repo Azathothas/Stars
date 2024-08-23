@@ -117,7 +117,7 @@
 
 ## Awk
 
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – X bootstrap 1000+ tools and your scripts.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – X bootstrap 1000+ tools and scripts.
 
 <div id="batchfile"></div>
 
@@ -498,7 +498,7 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.4: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -593,6 +593,7 @@
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
+- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
 - [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -943,7 +944,7 @@
 - [bitnami/wait-for-port](https://github.com/bitnami/wait-for-port) – CLI tool for waiting until a TCP port reaches the desired state
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) – An IIS short filename enumeration tool
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) – Bitrise runner CLI - run your automations on your Mac or Linux machine -
-- [blacknon/lssh](https://github.com/blacknon/lssh) – List selection type ssh/scp/sftp client command. Supports single connection and parallel connection. Local bashrc can also be used without placing it on a remote machine. Written in Golang.
+- [blacknon/lssh](https://github.com/blacknon/lssh) – lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) – net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. 
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
@@ -1763,7 +1764,8 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
-- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos!
+- [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2510 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
@@ -1980,7 +1982,6 @@
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
-- [Hulxv/vnstat-client](https://github.com/Hulxv/vnstat-client) – GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
@@ -2031,6 +2032,7 @@
 - [holesail/holesail](https://github.com/holesail/holesail) – A P2P based node package to expose your local ports on the Holepunch protocol
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
+- [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) – GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – save what you love
@@ -2281,6 +2283,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ NixOS configuration * home-manager for PopOs
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
+- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
@@ -3046,6 +3049,7 @@
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) – Obtain GraphQL API schema even if the introspection is disabled
 - [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leak data search engines and aggregators 
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
+- [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
 - [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
@@ -3574,7 +3578,6 @@
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
-- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
@@ -3660,6 +3663,7 @@
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rapiz1/catp](https://github.com/rapiz1/catp) – Print the output of a running process
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
