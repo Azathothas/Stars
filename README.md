@@ -536,6 +536,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [google/nsjail](https://github.com/google/nsjail) – A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [hadriansecurity/sanicdns](https://github.com/hadriansecurity/sanicdns) – Gotta go fast
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) – Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
