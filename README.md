@@ -4011,6 +4011,7 @@
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) – A versatile (cross-)toolchain generator.
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
+- [curl/wcurl](https://github.com/curl/wcurl) – a simple wrapper around curl to easily download files
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
 - [dalaolala/blog](https://github.com/dalaolala/blog) – 用issue来写博客 和别人学的
 - [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
