@@ -1136,6 +1136,7 @@
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) – firectl is a command-line tool to run Firecracker microVMs
 - [firefart/stunner](https://github.com/firefart/stunner) – Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
+- [foodatbar/gorya](https://github.com/foodatbar/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [forestnode-io/oneshot](https://github.com/forestnode-io/oneshot) – A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [fortio/dnsping](https://github.com/fortio/dnsping) – DNS Ping: to check packet loss and latency issues with DNS servers
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
@@ -1257,7 +1258,6 @@
 - [j3ssie/goverview](https://github.com/j3ssie/goverview) – goverview - Get an overview of the list of URLs
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) – OSINT tools and more but without API key
 - [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) – A Workflow Engine for Offensive Security
-- [jacobnguyenn/gorya](https://github.com/jacobnguyenn/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [jacobsa/ssh_ping](https://github.com/jacobsa/ssh_ping) – Utility for measuring SSH session latency
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
