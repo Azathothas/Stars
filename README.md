@@ -2389,7 +2389,6 @@
 - [RebootEx/CertStream-Bangladesh](https://github.com/RebootEx/CertStream-Bangladesh) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Bangladesh 🇧🇩
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) – MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 - [RoseSecurity/Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) – Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
-- [SecOps-Institute/Tor-IP-Addresses](https://github.com/SecOps-Institute/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR) – VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios
 - [Simizfo/WSATools](https://github.com/Simizfo/WSATools) – Easy-to-use APK installer and more for Windows Subsystem for Android
 - [T4P4N/Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) – Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
@@ -2553,6 +2552,7 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
+- [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
@@ -4480,7 +4480,7 @@
 
 ## Vala
 
-- [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
 
 <div id="vim-script"></div>
 
