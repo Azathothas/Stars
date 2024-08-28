@@ -1191,6 +1191,7 @@
 - [goretk/redress](https://github.com/goretk/redress) – Redress - A tool for analyzing stripped Go binaries
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) – A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [grafana/loki](https://github.com/grafana/loki) – Like Prometheus, but for logs.
+- [grahamhelton/USP](https://github.com/grahamhelton/USP) – Establishes persistence on a Linux system by creating a udev rule that triggers the execution of a specified payload (binary or script)
 - [gravitational/teleport](https://github.com/gravitational/teleport) – The easiest, and most secure way to access and protect all of your infrastructure.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) – Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [groundsec/waybackshots](https://github.com/groundsec/waybackshots) – Get screenshots of URLs stored in the Wayback Machine in a smart way
