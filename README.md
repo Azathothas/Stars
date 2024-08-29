@@ -1045,7 +1045,7 @@
 - [d3mondev/crossjoin](https://github.com/d3mondev/crossjoin) – Generate a cross join, also known as a Cartesian product, from the lines of the specified files. This process is useful for creating fuzzing payloads.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
-- [daguflow/dagu](https://github.com/daguflow/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
@@ -2055,7 +2055,6 @@
 - [macbre/phantomas](https://github.com/macbre/phantomas) – Headless Chromium-based web performance metrics collector and monitoring tool
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
@@ -2810,7 +2809,7 @@
 - [Th0h0/autossrf](https://github.com/Th0h0/autossrf) – Smart context-based SSRF vulnerability scanner.
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) – An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) – Fully featured and community-driven hacking environment
-- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) – Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) – Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's timings.
 - [Tw1sm/RITM](https://github.com/Tw1sm/RITM) – Roast in the Middle
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
@@ -3283,7 +3282,6 @@
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
-- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
@@ -3550,6 +3548,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
@@ -4424,6 +4423,7 @@
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
