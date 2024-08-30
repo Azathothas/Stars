@@ -1015,6 +1015,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
+- [coder/wush](https://github.com/coder/wush) – :link::file_folder: p2p wireguard file transfers, shells, and more
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
@@ -2174,7 +2175,7 @@
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) – Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
-- [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) – Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) – Android Easter Egg Collections
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
@@ -2333,7 +2334,7 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
