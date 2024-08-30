@@ -2968,7 +2968,7 @@
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
 - [iterative/dvc](https://github.com/iterative/dvc) – 🦉 ML Experiments and Data Management with Git
 - [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. Based on PycURL and Python Requests.
-- [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, etc.
+- [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
