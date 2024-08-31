@@ -519,7 +519,7 @@
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
@@ -858,7 +858,7 @@
 - [abdfnx/tran](https://github.com/abdfnx/tran) – 🖥 Securely transfer and send anything between computers with TUI.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
-- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner with web GUI
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [activecm/rita-legacy](https://github.com/activecm/rita-legacy) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [adhocore/gronx](https://github.com/adhocore/gronx) – Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 - [aerokube/init](https://github.com/aerokube/init) – Correct init process for Docker containers
@@ -1068,7 +1068,6 @@
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [divyam234/teldrive](https://github.com/divyam234/teldrive) –  Telegram Drive
 - [dkorunic/axfr2hosts](https://github.com/dkorunic/axfr2hosts) – Fetches one or more DNS zones via AXFR and dumps in Unix hosts format for local use
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) – Simple ethernet interface traffic monitor and reporting tool
@@ -1683,6 +1682,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
 - [tenox7/wrp](https://github.com/tenox7/wrp) – Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) –  Telegram Drive
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
 - [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
@@ -1753,7 +1753,7 @@
 - [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [windvalley/gossh](https://github.com/windvalley/gossh) – 🚀🚀A high-performance and high-concurrency ssh tool written in Go. It is 10 times faster than Ansible. If you need much more performance and better ease of use, you will love it.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) – Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) – Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [worlpaker/gitty](https://github.com/worlpaker/gitty) – Download GitHub File & Directory
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) – The personal information dashboard for your terminal
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
@@ -1841,6 +1841,7 @@
 - [raesene/Cloud-Native-Security-Talks](https://github.com/raesene/Cloud-Native-Security-Talks)
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) – A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -2288,6 +2289,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [milahu/nixos-tails](https://github.com/milahu/nixos-tails) – tails linux based on nixos linux. tails linux implemented in the nix language
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
@@ -3208,6 +3210,7 @@
 - [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
 - [slimm609/checksec.sh](https://github.com/slimm609/checksec.sh) – Checksec.sh
 
@@ -3284,6 +3287,7 @@
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
@@ -4182,7 +4186,7 @@
 - [oasislinux/root-x86_64](https://github.com/oasislinux/root-x86_64)
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
