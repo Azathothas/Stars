@@ -1015,7 +1015,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
-- [coder/wush](https://github.com/coder/wush) – :link::file_folder: p2p wireguard file transfers, shells, and more
+- [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via wireguard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
@@ -3050,7 +3050,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) – Graphical client for the Soulseek peer-to-peer network
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) – Obtain GraphQL API schema even if the introspection is disabled
-- [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leak data search engines and aggregators 
+- [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leaked data search engines and aggregators 
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
 - [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
