@@ -192,6 +192,7 @@
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) – Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [Thraetaona/Blitzping](https://github.com/Thraetaona/Blitzping) – A very high-speed, configurable, and portable packet-crafting utility optimized for embedded devices
+- [TinyCC/tinycc](https://github.com/TinyCC/tinycc) – Unofficial mirror of mob development branch
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) – A top utility for IO
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
@@ -359,6 +360,7 @@
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) – Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
+- [pts/minilibc686](https://github.com/pts/minilibc686) – libc and tools for creating size-optimized, statically linked Linux i386 and i686 programs
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
@@ -485,6 +487,7 @@
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [reconness/reconness](https://github.com/reconness/reconness) – ReconNess is a platform to allow continuous recon (CR) where you can set up a pipeline of #recon tools (Agents) and trigger it base on schedule or events.
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
+- [slskd/slskd](https://github.com/slskd/slskd) – A modern client-server application for the Soulseek file sharing network.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Removes Ads From Various Places Around Windows 11
@@ -546,6 +549,7 @@
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats
 - [lix-project/lix](https://github.com/lix-project/lix) – [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
@@ -651,7 +655,7 @@
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox app using Flutter
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
@@ -671,6 +675,7 @@
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
+- [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [ironpeakservices/iron-scratch](https://github.com/ironpeakservices/iron-scratch) – Secure base image for running Go (or any other static) applications.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
@@ -3040,7 +3045,7 @@
 - [mzfr/slicer](https://github.com/mzfr/slicer) – A tool to automate the boring process of APK recon
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) – Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [napisani/procmux](https://github.com/napisani/procmux) – a TUI utility for running multiple commands in parallel in easily switchable terminals
-- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) – Differential testing and fuzzing of HTTP servers and proxies
+- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) – Differential fuzzing REPL for HTTP implementations.
 - [nathom/streamrip](https://github.com/nathom/streamrip) – A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) – A tool for quickly evaluating IAM permissions in AWS.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-Cloud Security Auditing Tool
