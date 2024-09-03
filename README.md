@@ -151,6 +151,7 @@
 
 ## C
 
+- [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
@@ -211,7 +212,6 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
-- [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) – Checkpoint/Restore tool
@@ -323,6 +323,7 @@
 - [maroofi/libctld](https://github.com/maroofi/libctld) – Top Level Domain parser based on Public Suffix List (PSL)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
+- [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
@@ -524,6 +525,7 @@
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
+- [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
@@ -1021,7 +1023,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
-- [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via wireguard
+- [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via WireGuard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
@@ -1162,7 +1164,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
 - [getporter/porter](https://github.com/getporter/porter) – Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) – Create, share, and run runbooks from your terminal. 
+- [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) – Automatically capture and surface your team's tribal knowledge
 - [getsops/sops](https://github.com/getsops/sops) – Simple and flexible tool for managing secrets
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
@@ -1773,6 +1775,7 @@
 - [xhzeem/toxicache](https://github.com/xhzeem/toxicache) –  Go scanner to find web cache poisoning vulnerabilities in a list of URLs
 - [xm1k3/cent](https://github.com/xm1k3/cent) – Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
+- [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2510 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
@@ -1840,6 +1843,7 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
+- [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) – Awesome list of keywords and artifacts for Threat Hunting sessions
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) – NOVA opeN sOurce Video plAyer: main repository to build them all
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) – Writing an OS in Rust
@@ -2084,7 +2088,7 @@
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) – A Community-led Hyper-Hackable Text Editor
 - [rukh-debug/location-np](https://github.com/rukh-debug/location-np) – Nepal provinces, districts, municipality and wards dot json
 - [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) – Awesome XSS stuff
-- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) – PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) – PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [sepehrdaddev/zap-scripts](https://github.com/sepehrdaddev/zap-scripts) – Zed Attack Proxy Scripts for finding CVEs and Secrets.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
@@ -2245,6 +2249,7 @@
 
 ## Markdown
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – 📚 Collaborative cheatsheets for console commands
 
 <div id="mathematica"></div>
@@ -2446,7 +2451,6 @@
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) – A list of free, public, forward proxy servers. UPDATED DAILY!
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) – Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting) – Overview of free hosting offers, incl. compute hosting, app hosting, databases, serverless etc.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [craiu/mobiletrackers](https://github.com/craiu/mobiletrackers) – A repository of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) – 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) – API Security Project aims to present unique attack & defense methods in API Security field
@@ -2861,6 +2865,7 @@
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [beeware/briefcase](https://github.com/beeware/briefcase) – Tools to support converting a Python project into a standalone native application.
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) – AWS, Azure, Alibaba and Google bucket scanner
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) – Tools & Interesting Things for RedTeam Ops
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
@@ -2967,6 +2972,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) – An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) – A command-line tool to download photos from iCloud
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [imhunterand/ApachSAL](https://github.com/imhunterand/ApachSAL) – It's a vulnerability scanner tool for test Apache Path Traversal 👾
 - [indigo-dc/udocker](https://github.com/indigo-dc/udocker) – A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
@@ -3236,7 +3242,7 @@
 - [mame/quine-relay](https://github.com/mame/quine-relay) – An uroboros program with 100+ programming languages
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The OS for your personal finances
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
 
@@ -3580,6 +3586,7 @@
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
+- [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
@@ -3753,6 +3760,7 @@
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [steven-omaha/pacdef](https://github.com/steven-omaha/pacdef) – multi-backend declarative package manager for Linux
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [surban/aggligator](https://github.com/surban/aggligator) – Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
@@ -4311,6 +4319,7 @@
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
+- [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
 - [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
@@ -4467,7 +4476,6 @@
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
