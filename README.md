@@ -1777,7 +1777,7 @@
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2510 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
-- [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
@@ -1944,7 +1944,7 @@
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) – A tool for reverse engineering Android apk files
 - [irsdl/IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) – latest version of scanners for IIS short filename (8.3) disclosure vulnerability
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
@@ -3630,6 +3630,7 @@
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
+- [orhun/binsider](https://github.com/orhun/binsider) – Analyze ELF binaries like a boss
 - [orhun/flawz](https://github.com/orhun/flawz) – A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
@@ -3665,6 +3666,8 @@
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
+- [pythops/lobtui](https://github.com/pythops/lobtui) – 🌐 TUI for lobste.rs website
+- [pythops/oryx](https://github.com/pythops/oryx) – 🕵️‍♂️ TUI for sniffing network traffic using eBPF 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) – Rust virtual machine and JIT compiler for eBPF programs
