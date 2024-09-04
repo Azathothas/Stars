@@ -366,6 +366,7 @@
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
@@ -568,6 +569,7 @@
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
+- [radareorg/iaito](https://github.com/radareorg/iaito) – Official QT frontend of radare2
 - [rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt) – LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 - [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
@@ -1689,6 +1691,7 @@
 - [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
 - [tenox7/wrp](https://github.com/tenox7/wrp) – Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
+- [termkit/gama](https://github.com/termkit/gama) – Manage your GitHub Actions from Terminal with great UI 🧪
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) –  Telegram Drive
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1777,7 +1780,7 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2510 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2530 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -2281,6 +2284,7 @@
 - [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) – A highly customizable systemfetch written in nim
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [nim-lang/choosenim](https://github.com/nim-lang/choosenim) – Official tool for easily installing and managing multiple versions of the Nim programming language.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
 
 <div id="nix"></div>
@@ -2703,7 +2707,7 @@
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell sample scripts (.ps1) for every system!
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -2944,7 +2948,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) – Up-to-date simple useragent faker with real world database
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
-- [firerpa/lamda](https://github.com/firerpa/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证框架，你的工作从未如此简单快捷。
+- [firerpa/lamda](https://github.com/firerpa/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE 框架，你的工作从未如此简单快捷。
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
@@ -3286,6 +3290,7 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
+- [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
@@ -3944,6 +3949,7 @@
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+- [Samueru-sama/mpv-AppImage](https://github.com/Samueru-sama/mpv-AppImage) – Unofficial AppImage of mpv
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
 - [Skimmeroni/Nupk](https://github.com/Skimmeroni/Nupk) – Dummy package manager in roughly 350 lines of shell script
