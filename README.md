@@ -368,6 +368,7 @@
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
+- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
@@ -1146,7 +1147,6 @@
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) – firectl is a command-line tool to run Firecracker microVMs
 - [firefart/stunner](https://github.com/firefart/stunner) – Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
-- [foodatbar/gorya](https://github.com/foodatbar/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [forestnode-io/oneshot](https://github.com/forestnode-io/oneshot) – A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [fortio/dnsping](https://github.com/fortio/dnsping) – DNS Ping: to check packet loss and latency issues with DNS servers
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
@@ -1511,6 +1511,7 @@
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) – 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) – Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
+- [phuongdnguyen/gorya](https://github.com/phuongdnguyen/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) – DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 - [picosh/pico](https://github.com/picosh/pico) – hacker labs - open source and managed web services leveraging SSH
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
@@ -2319,6 +2320,7 @@
 - [schizofox/schizofox](https://github.com/schizofox/schizofox) – Hardened Firefox flake for the delusional and the schizophrenics.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) – Nix-packaged Android SDK
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
+- [tweag/jupyenv](https://github.com/tweag/jupyenv) – Declarative and reproducible Jupyter environments - powered by Nix
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 
 <div id="nsis"></div>
@@ -2351,7 +2353,7 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
@@ -2368,6 +2370,7 @@
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
+- [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A list of interesting open-source security tools, mostly reviewed and commented by me.
 - [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – Can you change the server ?
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
@@ -2439,6 +2442,7 @@
 - [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) – A curated list of blockchain security Capture the Flag (CTF) competitions
 - [bluscreenofjeff/Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) – Wiki to collect Red Team infrastructure hardening resources
 - [bol-van/bins](https://github.com/bol-van/bins) – precompiled static binaries for android
+- [boredsquirrel/dont-use-appimages](https://github.com/boredsquirrel/dont-use-appimages) – Appimages are an insecure packaging system with very limited use cases. Please use Flatpak instead!
 - [bromite/bromite](https://github.com/bromite/bromite) – Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [caido-community/awesome](https://github.com/caido-community/awesome) – 🔗 A curated list of awesome Caido related projects
@@ -2672,6 +2676,7 @@
 ## Perl
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) – cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [c-skills/passport](https://github.com/c-skills/passport)
 - [htrgouvea/nozaki](https://github.com/htrgouvea/nozaki) – HTTP fuzzer engine security oriented
 - [ido50/Svsh](https://github.com/ido50/Svsh) – Process supervision shell for daemontools, perp, s6 and runit
 - [jetmore/swaks](https://github.com/jetmore/swaks) – Swaks - Swiss Army Knife for SMTP
@@ -3225,6 +3230,7 @@
 - [containers/container-selinux](https://github.com/containers/container-selinux) – SELinux policy files for Container Runtimes
 - [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
+- [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
@@ -3425,6 +3431,7 @@
 - [cn-kali-team/notion-blog](https://github.com/cn-kali-team/notion-blog) – One click build your website with Notion for free using wrangler
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) – The Conventional Commits toolbox
 - [code-inflation/cfspeedtest](https://github.com/code-inflation/cfspeedtest) – Unofficial CLI for speed.cloudflare.com
+- [codyd51/uefirc](https://github.com/codyd51/uefirc) – An IRC client in your motherboard
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [containers/bootc](https://github.com/containers/bootc) – Boot and upgrade via container images
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
@@ -4389,7 +4396,7 @@
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only _real_ 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you.
+- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
@@ -4532,7 +4539,7 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for static site generators.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for GitHub projects
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) – Another Looking-glass Server
 
