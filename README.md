@@ -3654,7 +3654,7 @@
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
-- [orhun/binsider](https://github.com/orhun/binsider) – Analyze ELF binaries like a boss
+- [orhun/binsider](https://github.com/orhun/binsider) – Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [orhun/flawz](https://github.com/orhun/flawz) – A Terminal UI for browsing security vulnerabilities (CVEs)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) – A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐
