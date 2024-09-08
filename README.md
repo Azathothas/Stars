@@ -701,6 +701,7 @@
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) – Pre-Built Vulnerable Environments Based on Docker-Compose
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) – Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies
+- [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [yurymuski/curl-http3](https://github.com/yurymuski/curl-http3) – Curl docker image compiled with BoringSSL and quiche for HTTP3 support + httpstat
 - [zydou/GFW](https://github.com/zydou/GFW) – Various tools to bypass the GFW. 
 
@@ -1782,7 +1783,7 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2530 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2570 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -3364,6 +3365,7 @@
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
+- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) – 👩‍💻 A CLI to view your shell history stats, with support for zsh, bash, fish, and atuin.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
 - [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
@@ -3768,7 +3770,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – Efficient Web Crawler and Scraper with AI Integration in Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper with AI Integration for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
@@ -3964,6 +3966,7 @@
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+- [Samueru-sama/android-tools-AppImage](https://github.com/Samueru-sama/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. 
 - [Samueru-sama/mpv-AppImage](https://github.com/Samueru-sama/mpv-AppImage) – Unofficial AppImage of mpv
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
@@ -4349,7 +4352,6 @@
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
 - [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
-- [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) – 🐳 Build once, run anywhere
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
 - [z-shell/zi](https://github.com/z-shell/zi) – ✨ A Swiss Army Knife for Zsh - Unix Shell
