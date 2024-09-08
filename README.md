@@ -129,7 +129,7 @@
 - [blibdoolpoolp/Cloudflared-RDP-Tutorial-Free](https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free) – This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) & SSH connections using Cloudflare's Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare's tunneling technology to create a safe, encrypted connection path.
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [mmgordon82/BurpSuiteInstaller](https://github.com/mmgordon82/BurpSuiteInstaller) – Install and Crack your Burp Suite Professional Latest (Updated Weekly).
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
@@ -363,13 +363,13 @@
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) – Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [pts/minilibc686](https://github.com/pts/minilibc686) – libc and tools for creating size-optimized, statically linked Linux i386 and i686 programs
+- [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) – Like `execve`, but for userspace
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
-- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
@@ -2319,6 +2319,7 @@
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
+- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
 - [schizofox/schizofox](https://github.com/schizofox/schizofox) – Hardened Firefox flake for the delusional and the schizophrenics.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) – Nix-packaged Android SDK
@@ -2840,6 +2841,7 @@
 - [Tw1sm/RITM](https://github.com/Tw1sm/RITM) – Roast in the Middle
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
+- [VHSgunzo/runimage-fake-systemd](https://github.com/VHSgunzo/runimage-fake-systemd) – Fake systemd for RunImage container
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) – Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.
 - [Vinyzu/chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints) – A Collection of 10.000 collected Windows Chrome Fingerprints. Usable with an easy-to-use API, available as a compressed (lzma) or full-size Json (view Releases). Its just 1.4mb in size in compressed form, and fast in read times.
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) – This repository presents a proof-of-concept of CVE-2023-7028
@@ -3691,7 +3693,7 @@
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
 - [pythops/lobtui](https://github.com/pythops/lobtui) – 🌐 TUI for lobste.rs website
-- [pythops/oryx](https://github.com/pythops/oryx) – 🕵️‍♂️ TUI for sniffing network traffic using eBPF 
+- [pythops/oryx](https://github.com/pythops/oryx) – 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
 - [qarmin/system-info-collector](https://github.com/qarmin/system-info-collector) – App to collect ram/cpu usage from OS and show it in pretty graphs
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) – Rust virtual machine and JIT compiler for eBPF programs
@@ -3766,7 +3768,7 @@
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – The fastest, most efficient web crawler and scraper written in Rust.
+- [spider-rs/spider](https://github.com/spider-rs/spider) – Efficient Web Crawler and Scraper with AI Integration in Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
@@ -3986,6 +3988,7 @@
 - [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/runimage-fake-nvidia-driver](https://github.com/VHSgunzo/runimage-fake-nvidia-driver) – Fake Nvidia driver for RunImage container
+- [VHSgunzo/runimage-nvidia-drivers](https://github.com/VHSgunzo/runimage-nvidia-drivers) – Nvidia driver images for runimage
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
 - [VHSgunzo/sed-static](https://github.com/VHSgunzo/sed-static) – Statically compiled sed with musl
@@ -4134,6 +4137,7 @@
 - [itiligent/Guacamole-Installer](https://github.com/itiligent/Guacamole-Installer) – Automated install of Gucamole with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
+- [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built on top of "Conty" (Arch Linux). 
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
@@ -4262,6 +4266,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
+- [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
@@ -4503,7 +4508,7 @@
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
-- [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – Yet another PasteBin based on Cloudflare Worker and KV
+- [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
 
 <div id="v"></div>
 
