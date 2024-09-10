@@ -2015,6 +2015,7 @@
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
+- [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
@@ -2055,7 +2056,6 @@
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) – GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) – save what you love
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) – Read e-books in style
@@ -3757,7 +3757,7 @@
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
 - [shixinhuang99/sxtetris](https://github.com/shixinhuang99/sxtetris) – A terminal Tetris game
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
-- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and tabular data files, such as CSV, TSV, or parquet.
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and query tabular data files, such as CSV, TSV, or parquet.
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
@@ -4377,6 +4377,7 @@
 ## Svelte
 
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 
 <div id="swift"></div>
 
