@@ -422,7 +422,7 @@
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) – Advanced system monitor & process supervisor for Linux
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [txthinking/joker](https://github.com/txthinking/joker) – Joker can turn process into daemon. Zero-Configuration
-- [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
+- [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – 🥜 A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
@@ -1787,6 +1787,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2570 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
