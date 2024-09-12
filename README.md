@@ -277,7 +277,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
 - [ibara/oksh](https://github.com/ibara/oksh) – Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
-- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts.
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [iovisor/bcc](https://github.com/iovisor/bcc) – BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [iproute2/iproute2](https://github.com/iproute2/iproute2) – Iproute2 Source Code Mirror - This is a publish-only repository. Please follow README.devel procedure for any changes.
 - [iputils/iputils](https://github.com/iputils/iputils) – The iputils package is set of small old utilities for Linux networking.
