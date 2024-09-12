@@ -181,7 +181,7 @@
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
-- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [SkyperTHC/dnsstream](https://github.com/SkyperTHC/dnsstream) – Network Capture DNS answers
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
@@ -579,6 +579,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
+- [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) – Mount Android phones on Linux with adb. No root required.
 - [stealth/crash](https://github.com/stealth/crash) – crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
 - [stealth/fraud-bridge](https://github.com/stealth/fraud-bridge) – ICMP and DNS tunneling via IPv4 and IPv6
 - [stealth/psc](https://github.com/stealth/psc) – E2E encryption for multi-hop tty sessions or portshells + TCP/UDP port forward
@@ -758,8 +759,6 @@
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack) – ↕️🤫 Stealth redirector for your red team operation security
 - [DBCDK/morph](https://github.com/DBCDK/morph) – NixOS deployment tool
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
-- [Damian89/ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
-- [Damian89/yataf](https://github.com/Damian89/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Tool for building Kubernetes attack paths
@@ -1095,6 +1094,9 @@
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
+- [dsecuredcom/dynamic-file-searcher](https://github.com/dsecuredcom/dynamic-file-searcher) – Tool to scan servers and hosts using dynamic paths.
+- [dsecuredcom/ffufPostprocessing](https://github.com/dsecuredcom/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
+- [dsecuredcom/yataf](https://github.com/dsecuredcom/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) – An HTTP toolkit for security research.
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) – SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 - [dundee/gdu](https://github.com/dundee/gdu) – Fast disk usage analyzer with console interface written in Go
@@ -2299,7 +2301,6 @@
 
 ## Nix
 
-- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
@@ -2544,6 +2545,7 @@
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
+- [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
@@ -3355,8 +3357,10 @@
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) – Kill orphan processes
 - [Troels51/dtui](https://github.com/Troels51/dtui) – Small TUI for introspecting the state of the system/session dbus
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
+- [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
@@ -3380,7 +3384,7 @@
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
 - [amanharwara/subtitle](https://github.com/amanharwara/subtitle) – Find & download subtitles from the terminal.
-- [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
@@ -3990,13 +3994,18 @@
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
 - [VHSgunzo/grep-static](https://github.com/VHSgunzo/grep-static) – Statically compiled grep with musl
 - [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
+- [VHSgunzo/portarch](https://github.com/VHSgunzo/portarch) – Portable Arch Linux
 - [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/runimage-fake-nvidia-driver](https://github.com/VHSgunzo/runimage-fake-nvidia-driver) – Fake Nvidia driver for RunImage container
+- [VHSgunzo/runimage-fake-sudo-pkexec](https://github.com/VHSgunzo/runimage-fake-sudo-pkexec) – Fake sudo and pkexec for RunImage container
 - [VHSgunzo/runimage-nvidia-drivers](https://github.com/VHSgunzo/runimage-nvidia-drivers) – Nvidia driver images for runimage
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
+- [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
+- [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
 - [VHSgunzo/sed-static](https://github.com/VHSgunzo/sed-static) – Statically compiled sed with musl
+- [VHSgunzo/socat-static](https://github.com/VHSgunzo/socat-static) – Statically compiled socat with musl
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
 - [VHSgunzo/tar-static](https://github.com/VHSgunzo/tar-static) – Statically compiled tar with musl
 - [VHSgunzo/util-linux-static](https://github.com/VHSgunzo/util-linux-static) – Statically compiled util-linux
@@ -4590,6 +4599,7 @@
 
 ## Zig
 
+- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
