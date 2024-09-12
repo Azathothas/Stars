@@ -803,6 +803,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – The most customisable and low-latency cross platform/shell prompt renderer
 - [Josue87/gotator](https://github.com/Josue87/gotator) – Gotator is a tool to generate DNS wordlists through permutations.
 - [Josue87/roboxtractor](https://github.com/Josue87/roboxtractor) – Extract endpoints marked as disallow in robots files to generate wordlists.
+- [K0IN/docker-to-wsl](https://github.com/K0IN/docker-to-wsl) – Build your own wsl distro in docker, based on this example: https://gist.github.com/K0IN/485b6c9e442d10aa666c28672d621604
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) – Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [LeanerCloud/aws-ipv4-cost-viewer](https://github.com/LeanerCloud/aws-ipv4-cost-viewer) – CLI tool that shows the future public IPv4 costs for a variety of AWS resources across all AWS regions from an account.
@@ -1788,7 +1789,7 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2570 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2590 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -2549,7 +2550,7 @@
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
-- [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
+- [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Web Pentesting
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) – For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) – A curated list of awesome privilege escalation
 - [makotom/iperf3-binaries](https://github.com/makotom/iperf3-binaries) – Executable binaries of iperf3
@@ -4283,6 +4284,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
+- [ruanformigoni/flatimage](https://github.com/ruanformigoni/flatimage) – FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
