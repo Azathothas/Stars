@@ -2599,6 +2599,7 @@
 - [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) – Advanced topics to take advantage of zsh 👩‍💻👨‍💻
+- [ruanformigoni/imagemagick-static-musl](https://github.com/ruanformigoni/imagemagick-static-musl) – Imagemagick Statically compiled with musl
 - [rui314/setup-mold](https://github.com/rui314/setup-mold) – A GitHub Action to install the mold linker
 - [ruslanmv/How-to-connect-via-ssh-to-SageMaker](https://github.com/ruslanmv/How-to-connect-via-ssh-to-SageMaker) – How to connect to Sagemaker Notebook via SSH and run Flask
 - [saeidshirazi/awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) – A curated list of Android Security materials and resources For Pentesters and Bug Hunters
@@ -2993,6 +2994,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) – An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
+- [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) – The official Python client for the Huggingface Hub.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) – A command-line tool to download photos from iCloud
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [imhunterand/ApachSAL](https://github.com/imhunterand/ApachSAL) – It's a vulnerability scanner tool for test Apache Path Traversal 👾
@@ -3731,6 +3733,7 @@
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) – Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
+- [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
