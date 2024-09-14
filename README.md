@@ -1066,6 +1066,7 @@
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
