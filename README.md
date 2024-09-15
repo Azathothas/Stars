@@ -3060,6 +3060,7 @@
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) – Hide your payload in DNS
 - [micahflee/hacks-leaks-and-revelations](https://github.com/micahflee/hacks-leaks-and-revelations) – Code that goes along with the Hacks, Leaks, and Revelations book
 - [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) – RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) – Manage AppImages with ease 📦
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
@@ -4290,6 +4291,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
+- [ruanformigoni/arch-bootstrap](https://github.com/ruanformigoni/arch-bootstrap) – Bootstrap a base Arch Linux system
 - [ruanformigoni/flatimage](https://github.com/ruanformigoni/flatimage) – FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
@@ -4507,6 +4509,7 @@
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) – 😎 A static blog using notion database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) – Telegram Web K, GPL v3
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
+- [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nkcmr/age-online](https://github.com/nkcmr/age-online) – a fully in-browser tool to encrypt data with the age encryption tool.
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
@@ -4520,7 +4523,6 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) – record and replay the web
 - [rubiin/nfdl](https://github.com/rubiin/nfdl) – This cli automatically install your favorite nerd fonts right from the terminal
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) – WebExtension port of Random Agent Spoofer
-- [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [snyk/cli](https://github.com/snyk/cli) – Snyk CLI scans and monitors your projects for security vulnerabilities.
