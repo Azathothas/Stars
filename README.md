@@ -184,6 +184,7 @@
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [SkyperTHC/dnsstream](https://github.com/SkyperTHC/dnsstream) – Network Capture DNS answers
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) – Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) – A Linux version of the ProcDump Sysinternals tool
@@ -235,6 +236,7 @@
 - [dabao1955/moe-container-manager](https://github.com/dabao1955/moe-container-manager) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [davidly/rvos](https://github.com/davidly/rvos) – Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.
+- [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) – Alternative to GNU coreutils using software from FreeBSD
 - [deadpixi/mtm](https://github.com/deadpixi/mtm) – Perhaps the smallest useful terminal multiplexer in the world.
 - [deislabs/mystikos](https://github.com/deislabs/mystikos) – Tools and runtime for launching unmodified container images in Trusted Execution Environments
 - [diazona/pwait](https://github.com/diazona/pwait) – Small utility to wait for a process to finish
@@ -3186,7 +3188,7 @@
 - [sysdig/wafer](https://github.com/sysdig/wafer)
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) – A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads).
-- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 - [t3l3machus/psudohash](https://github.com/t3l3machus/psudohash) – Generates millions of keyword-based password mutations in seconds.
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) – An XSS exploitation command-line interface and payload generator.
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
@@ -4463,6 +4465,7 @@
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 - [bebiksior/EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) – EvenBetterExtensions allows you to quicky install and keep updated Caido extensions.
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) – Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
