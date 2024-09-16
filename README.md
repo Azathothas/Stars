@@ -1186,6 +1186,7 @@
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
 - [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) – Protect and discover secrets using Gitleaks 🔑
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gittuf/gittuf](https://github.com/gittuf/gittuf) – A security layer for Git repositories
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
 - [glebarez/cero](https://github.com/glebarez/cero) – Scrape domain names from SSL certificates of arbitrary hosts
@@ -2220,7 +2221,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – Rich bookmarklet development android app.  For bookmarklet example, ubuntu terminal, file manager, ritch qr reader etc...
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has history capture UI, active URL history by gif, Ubuntu as historical master peace  
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
@@ -4012,6 +4013,7 @@
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/runimage-fake-nvidia-driver](https://github.com/VHSgunzo/runimage-fake-nvidia-driver) – Fake Nvidia driver for RunImage container
 - [VHSgunzo/runimage-fake-sudo-pkexec](https://github.com/VHSgunzo/runimage-fake-sudo-pkexec) – Fake sudo and pkexec for RunImage container
+- [VHSgunzo/runimage-mirrorlist](https://github.com/VHSgunzo/runimage-mirrorlist) – Repository mirrorlist for RunImage container with precompiled packages
 - [VHSgunzo/runimage-nvidia-drivers](https://github.com/VHSgunzo/runimage-nvidia-drivers) – Nvidia driver images for runimage
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
@@ -4486,7 +4488,6 @@
 - [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) – Make changes to FMHY
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
 - [google/gts](https://github.com/google/gts) – ☂️ TypeScript style guide, formatter, and linter.  
