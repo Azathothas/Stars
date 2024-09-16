@@ -519,6 +519,7 @@
 - [NVISOsecurity/blogposts](https://github.com/NVISOsecurity/blogposts) – A repo to house files for our blogposts on blog.nviso.eu
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+- [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -3669,6 +3670,8 @@
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
+- [orf/docker-repack](https://github.com/orf/docker-repack) – Repack docker images to optimize for pulling speed.
+- [orf/git-workspace](https://github.com/orf/git-workspace) – Sync personal and work git repositories from multiple providers :rocket:
 - [orf/gping](https://github.com/orf/gping) – Ping, but with a graph
 - [orhun/binsider](https://github.com/orhun/binsider) – Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [orhun/flawz](https://github.com/orhun/flawz) – A Terminal UI for browsing security vulnerabilities (CVEs)
