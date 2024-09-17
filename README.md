@@ -298,6 +298,7 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
+- [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [leahneukirchen/outils](https://github.com/leahneukirchen/outils) – port of some non-standard OpenBSD tools to Linux
@@ -1600,6 +1601,7 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
 - [richardlehane/siegfried](https://github.com/richardlehane/siegfried) – signature-based file format identification
+- [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [riza/indextree](https://github.com/riza/indextree) – Generates the tree of the directory listing page.
 - [riza/linx](https://github.com/riza/linx) – Reveals invisible links within JavaScript files
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
@@ -2221,7 +2223,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has history capture UI, active URL history by gif, Ubuntu as historical master peace  
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon  
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
@@ -2677,7 +2679,6 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
-- [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [wadelau/Base62x](https://github.com/wadelau/Base62x) – Base62x is an alternative approach to Base 64 without symbols in output. 无符号的Base64编码解码方案.
 - [yanncam/ShuckNT](https://github.com/yanncam/ShuckNT) – ShuckNT is the script of Shuck.sh online service for on-premise use. It is design to dowgrade, convert, dissect and shuck authentication token based on Data Encryption Standard (DES).
 
@@ -3596,7 +3597,6 @@
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
-- [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely on Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
