@@ -466,6 +466,7 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
 - [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) – Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
 - [GoogleCloudPlatform/iap-desktop](https://github.com/GoogleCloudPlatform/iap-desktop) – IAP Desktop is a Windows application that provides zero-trust Remote Desktop and SSH access to Linux and Windows VMs on Google Cloud. 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) – Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) – Remove large amounts of unwanted applications quickly.
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) – PowerShell for every system!
@@ -1608,7 +1609,7 @@
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [root-gg/plik](https://github.com/root-gg/plik) – Plik is a temporary file upload system (Wetransfer like) in Go.
 - [root4loot/ctlog](https://github.com/root4loot/ctlog) – Obtain domains from certificate transparency logs
-- [root4loot/rescope](https://github.com/root4loot/rescope) – A scope generation tool for Burp Suite & ZAP
+- [root4loot/rescope](https://github.com/root4loot/rescope) – Bugbounty scope tool
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
@@ -1796,7 +1797,7 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2610 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2825 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -2075,6 +2076,7 @@
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [krisk/Fuse](https://github.com/krisk/Fuse) – Lightweight fuzzy-search, in JavaScript
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
@@ -2380,6 +2382,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Multi-Platform (Android|Linux|Windows) Pre-Compiled (+ UPXed) Static Binaries (incl. Build Scripts) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -2555,7 +2558,7 @@
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
-- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – List of Continuous Integration services
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – The list of continuous integration services and tools
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Web Pentesting
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) – For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
@@ -2711,7 +2714,6 @@
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
 - [BlackSnufkin/Invoke-DumpMDEConfig](https://github.com/BlackSnufkin/Invoke-DumpMDEConfig) – PowerShell script to dump Microsoft Defender Config, protection history and Exploit Guard Protection History  (no admin privileges required )
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) – Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
 - [IAL32/WSL2-Create-Distro](https://github.com/IAL32/WSL2-Create-Distro) – Creates a distro from a tarball and optionally adds a user to it
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) – Module to compile powershell scripts to executables
@@ -2730,7 +2732,7 @@
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell sample scripts (.ps1) for every system!
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -2992,7 +2994,7 @@
 - [gwen001/graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer) – Graphql introspection query analyzer.
 - [gwen001/pentest-tools](https://github.com/gwen001/pentest-tools) – A collection of custom security tools for quick needs.
 - [gwen001/related-domains](https://github.com/gwen001/related-domains) – Find related domains of a given domain.
-- [hacefresko/CVE-2021-4045-PoC](https://github.com/hacefresko/CVE-2021-4045-PoC) – Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera
+- [hacefresko/CVE-2021-4045](https://github.com/hacefresko/CVE-2021-4045) – Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) – Natural language browser automation
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
