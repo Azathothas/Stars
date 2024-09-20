@@ -155,6 +155,7 @@
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
+- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
 - [CompuRoot/static-sqlite3](https://github.com/CompuRoot/static-sqlite3) – Statically compiled binary shell sqlite3
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
@@ -1262,6 +1263,7 @@
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibuildthecloud/wtfk8s](https://github.com/ibuildthecloud/wtfk8s) – Watch and print changes in k8s
+- [iineva/ipa-server](https://github.com/iineva/ipa-server) – Upload and install Apple ipa and Android apk in web.
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
@@ -1729,6 +1731,7 @@
 - [trickest/mkpath](https://github.com/trickest/mkpath) – Make URL path combinations using a wordlist
 - [trickest/mksub](https://github.com/trickest/mksub) – Generate tens of thousands of subdomain combinations in a matter of seconds
 - [trickest/trickest-cli](https://github.com/trickest/trickest-cli) – Execute Trickest workflows right from your terminal
+- [tristanisham/zvm](https://github.com/tristanisham/zvm) – zvm (Zig Version Manager) lets you easily install/upgrade between different versions of Zig.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) – Find, verify, and analyze leaked credentials
 - [trzsz/trzsz-go](https://github.com/trzsz/trzsz-go) – trzsz-go is the go version of trzsz, makes all terminals that support local shell to support trzsz ( trz / tsz ).
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) – trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
@@ -2167,7 +2170,6 @@
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) – A V2Ray client for Android, support Xray core and v2fly core
 - [BharathVishal/Root-Checker](https://github.com/BharathVishal/Root-Checker) – Displays all root related info(Device Rooted, Root Available, Root Path, Root given, Busy Box installation) of an Android Device. Fully implemented in Jetpack compose using Material 3 dynamic theming and also has a separate implementation in xml with MDC 3.
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
-- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 through 14.
@@ -2763,6 +2765,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) – Animation engine for explanatory math videos
 - [3xp10it/xwaf](https://github.com/3xp10it/xwaf) – Automatic bypass (brute force) waf
 - [5f0ne/pdf-examiner](https://github.com/5f0ne/pdf-examiner) – Provides an overview of the inner file structure of a PDF
+- [9001/copyparty](https://github.com/9001/copyparty) – Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [A-poc/certSniff](https://github.com/A-poc/certSniff) – A certificate transparency log keyword sniffer written in python
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) – The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Ademking/repolist](https://github.com/Ademking/repolist) – Generate wordlists from Github repositories
@@ -2839,6 +2842,7 @@
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) – A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X Devs.
 - [SkyperTHC/curlshell](https://github.com/SkyperTHC/curlshell) – reverse shell using curl
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
 - [Squiblydoo/debloat](https://github.com/Squiblydoo/debloat) – A GUI and CLI tool for removing bloat from executables
@@ -4475,6 +4479,7 @@
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
@@ -4482,6 +4487,7 @@
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) – Cross-platform GitHub action
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
+- [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
@@ -4489,7 +4495,7 @@
 - [electron/asar](https://github.com/electron/asar) – Simple extensive tar-like archive format with indexing
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
-- [fmhy/FMHYedit](https://github.com/fmhy/FMHYedit) – Make changes to FMHY
+- [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
