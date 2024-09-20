@@ -298,7 +298,6 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
-- [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [leahneukirchen/outils](https://github.com/leahneukirchen/outils) – port of some non-standard OpenBSD tools to Linux
@@ -1228,7 +1227,7 @@
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) – 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [gvcgo/gobuilder](https://github.com/gvcgo/gobuilder) – An enhancement for official <go build>.
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [gwen001/github-endpoints](https://github.com/gwen001/github-endpoints) – Find endpoints on GitHub.
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) – Basically a regexp over a GitHub search.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) – Find subdomains on GitHub.
@@ -1502,7 +1501,7 @@
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
-- [ory/kratos](https://github.com/ory/kratos) – Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!
+- [ory/kratos](https://github.com/ory/kratos) – The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owasp-amass/oam-tools](https://github.com/owasp-amass/oam-tools) – Analysis and management tools for an Open Asset Model database
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
@@ -1889,6 +1888,7 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 <div id="hcl"></div>
 
@@ -2732,7 +2732,7 @@
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ PowerShell sample scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -3599,6 +3599,7 @@
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
+- [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely on Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
@@ -4459,6 +4460,7 @@
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
+- [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) – Action for generating build provenance attestations for workflow artifacts
 - [actions/setup-node](https://github.com/actions/setup-node) – Set up your GitHub Actions workflow with a specific version of node.js
