@@ -822,6 +822,7 @@
 - [ManuelBerrueta/urlyzer](https://github.com/ManuelBerrueta/urlyzer) – urlyzer is a URL parsing analysis tool.
 - [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) – Effortlessly generate chmod commands
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) – Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) – Bare metal to production ready in mins; your own fly server on your VPS.
 - [Moe-hacker/yoshinon](https://github.com/Moe-hacker/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go)  #Meet the modern TUI
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -2030,6 +2031,7 @@
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+- [SoftwareDownloadListing/msdl](https://github.com/SoftwareDownloadListing/msdl) – Microsoft Software Download Listing
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
@@ -2066,7 +2068,6 @@
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
 - [holesail/holesail](https://github.com/holesail/holesail) – A P2P based node package to expose your local ports on the Holepunch protocol
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -3809,6 +3810,7 @@
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunfishcode/eyra](https://github.com/sunfishcode/eyra) – Rust programs written entirely in Rust
 - [surban/aggligator](https://github.com/surban/aggligator) – Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
