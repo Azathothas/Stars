@@ -2387,6 +2387,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Multi-Platform (Android|Linux|Windows) Pre-Compiled (+ UPXed) Static Binaries (incl. Build Scripts) :: https://bin.ajam.dev
+- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – (DEMO) 
 - [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -3797,7 +3798,6 @@
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
 - [sitkevij/hex](https://github.com/sitkevij/hex) – 🔮 Futuristic take on hexdump, made in Rust. 
-- [smallnest/mping-rs](https://github.com/smallnest/mping-rs) – a multi-targets ping tool and library,  which supports 10,000 packets/second, accurate latency
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
@@ -4039,6 +4039,7 @@
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
 - [VHSgunzo/sed-static](https://github.com/VHSgunzo/sed-static) – Statically compiled sed with musl
+- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run shared binary everywhere
 - [VHSgunzo/socat-static](https://github.com/VHSgunzo/socat-static) – Statically compiled socat with musl
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
 - [VHSgunzo/tar-static](https://github.com/VHSgunzo/tar-static) – Statically compiled tar with musl
