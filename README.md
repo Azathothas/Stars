@@ -443,7 +443,6 @@
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [wolfSSL/wolfCLU](https://github.com/wolfSSL/wolfCLU) – The wolfSSL Command Line Utility wolfCLU
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
-- [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
@@ -1269,6 +1268,7 @@
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) – Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+- [infosecn1nja/VeilTransfer](https://github.com/infosecn1nja/VeilTransfer) – VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
@@ -2387,7 +2387,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Multi-Platform (Android|Linux|Windows) Pre-Compiled (+ UPXed) Static Binaries (incl. Build Scripts) :: https://bin.ajam.dev
-- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – 📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -3794,6 +3794,7 @@
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
@@ -4394,6 +4395,7 @@
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
+- [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
 - [wowsignal-io/android-tools](https://github.com/wowsignal-io/android-tools)
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) – A collection of utilities for Windows Subsystem for Linux
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
@@ -4651,6 +4653,7 @@
 - [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
+- [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [txthinking/z](https://github.com/txthinking/z) – z - process manager
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
