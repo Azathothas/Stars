@@ -1005,8 +1005,8 @@
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
-- [chainreactors/spray](https://github.com/chainreactors/spray) – Next Generation HTTP Dir/File Fuzz Tool
-- [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer TOOL
+- [chainreactors/spray](https://github.com/chainreactors/spray) – Next Generation HTTP Dir/File Fuzz Artifact
+- [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer Artifact
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1211,6 +1211,7 @@
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(700+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Deliver Go binaries as fast and easily as possible
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [goretk/redress](https://github.com/goretk/redress) – Redress - A tool for analyzing stripped Go binaries
@@ -2335,6 +2336,7 @@
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
+- [nix-community/nixGL](https://github.com/nix-community/nixGL) – A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
@@ -2387,7 +2389,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Multi-Platform (Android|Linux|Windows) Pre-Compiled (+ UPXed) Static Binaries (incl. Build Scripts) :: https://bin.ajam.dev
-- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -2427,6 +2429,7 @@
 - [PalindromeLabs/awesome-websocket-security](https://github.com/PalindromeLabs/awesome-websocket-security) – Awesome information for WebSockets security research
 - [PeterDaveHello/threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist) – Comprehensive domain blocklists for 🚨 threats (🕷malware, 🎣phishing, 🕵️spyware, 🤖botnets). Ideal for DNS-based filtering tools like Pi-Hole, AdGuard Home, Blocky.
 - [PinoyWH1Z/SSH-Private-Key-Looting-Wordlists](https://github.com/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists) – SSH Private Key Looting Wordlists. A collection of wordlists to aid in locating or brute-forcing SSH private key file names.
+- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – The database of all AppImage packages and portable applications for GNU/Linux... from here you can download, install (and update) them all! Find out more!
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) – The Unofficial PowerShell Best Practices and Style Guide
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
@@ -3269,7 +3272,7 @@
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
-- [slimm609/checksec.sh](https://github.com/slimm609/checksec.sh) – Checksec.sh
+- [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec.sh
 
 <div id="ruby"></div>
 
@@ -3711,6 +3714,7 @@
 - [phip1611/ttfb](https://github.com/phip1611/ttfb) – Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) – CLI to manage emails
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
@@ -3868,7 +3872,7 @@
 - [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) –  Wipe files and drives securely with random ASCII dicks 
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
@@ -3928,7 +3932,6 @@
 
 ## Shell
 
-- [0xSpidey/cloudrecon](https://github.com/0xSpidey/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) – Quickly analyze and reverse engineer Android packages
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
@@ -4014,6 +4017,7 @@
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
 - [SomajitDey/tunnel](https://github.com/SomajitDey/tunnel) – Peer-to-peer, secure, TCP/UDP port forwarding using HTTP(s) relay for NAT/firewall traversal
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
+- [Spideza/cloudrecon](https://github.com/Spideza/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
@@ -4228,7 +4232,6 @@
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
-- [luitel777/dotfiles_public](https://github.com/luitel777/dotfiles_public)
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [maciejwalkowiak/sinit](https://github.com/maciejwalkowiak/sinit) – sinit - command line shiny Spring Boot project initialzer 🚀
@@ -4339,6 +4342,7 @@
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
+- [spewwerrier/dotfiles_public](https://github.com/spewwerrier/dotfiles_public)
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
@@ -4412,7 +4416,7 @@
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
 - [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
-- [zongou/android-sndk](https://github.com/zongou/android-sndk) – Android SDK & NDK on any platform.
+- [zongou/sndk](https://github.com/zongou/sndk) – Android SDK & NDK on any platform.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
 
 <div id="starlark"></div>
