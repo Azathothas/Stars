@@ -2687,6 +2687,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
+- [hackerschoice/memexec](https://github.com/hackerschoice/memexec) – Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) – This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -2901,6 +2902,7 @@
 - [anmolksachan/JIRAya](https://github.com/anmolksachan/JIRAya) – JIRA"YA is a vulnerability analyzer for JIRA instances. It runs active scans to identify vulnerabilities by interacting with the host and conducting tests. 
 - [anrbn/GATOR](https://github.com/anrbn/GATOR) – GATOR - GCP Attack Toolkit for Offensive Research, a tool designed to aid in research and exploiting Google Cloud Environments
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [anvilsecure/ulexecve](https://github.com/anvilsecure/ulexecve) – ulexecve is a userland execve() implementation which helps you execute arbitrary ELF binaries on Linux from userland without the binaries ever having to touch storage. This is useful for red-teaming and anti-forensics purposes.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
@@ -4018,7 +4020,7 @@
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
 - [SomajitDey/tunnel](https://github.com/SomajitDey/tunnel) – Peer-to-peer, secure, TCP/UDP port forwarding using HTTP(s) relay for NAT/firewall traversal
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
-- [Spideza/cloudrecon](https://github.com/Spideza/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
+- [Spix0r/cloudrecon](https://github.com/Spix0r/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
@@ -4159,6 +4161,7 @@
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
+- [fsquillace/junest](https://github.com/fsquillace/junest) – The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [fwcd/archlinuxarm-images](https://github.com/fwcd/archlinuxarm-images) – Unofficial, automated Arch Linux ARM image builds, e.g. for Raspberry Pis
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
