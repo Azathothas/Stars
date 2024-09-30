@@ -690,6 +690,7 @@
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
+- [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [fwcd/docker-archlinux](https://github.com/fwcd/docker-archlinux) – Unofficial multi-platform Docker images of Arch Linux and its ports (x86_64, aarch64, armv7h, pentium4, riscv64, powerpc64le)
@@ -887,6 +888,7 @@
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) – Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
+- [ajutamangdev/S3Khoj](https://github.com/ajutamangdev/S3Khoj) –  robust s3 security tool designed to help detect sensitive files at AWS public S3 buckets.
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
@@ -1094,6 +1096,7 @@
 - [dkorunic/axfr2hosts](https://github.com/dkorunic/axfr2hosts) – Fetches one or more DNS zones via AXFR and dumps in Unix hosts format for local use
 - [dkorunic/betteralign](https://github.com/dkorunic/betteralign) – Make your Go programs use less memory (maybe)
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) – Simple ethernet interface traffic monitor and reporting tool
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) – A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
