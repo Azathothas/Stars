@@ -203,6 +203,7 @@
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
+- [Zzorz/NixImage](https://github.com/Zzorz/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
@@ -1256,7 +1257,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [hectorm/cetusguard](https://github.com/hectorm/cetusguard) – CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 - [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) – Interactive viewer for JSON logs.
-- [henrygd/beszel](https://github.com/henrygd/beszel) – A lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [henrygd/beszel](https://github.com/henrygd/beszel) – Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) – A command-line interface for Hetzner Cloud
 - [hibiken/asynq](https://github.com/hibiken/asynq) – Simple, reliable, and efficient distributed task queue in Go
 - [homeport/dyff](https://github.com/homeport/dyff) – /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
@@ -2373,7 +2374,6 @@
 - [0xPugal/fuzz4bounty](https://github.com/0xPugal/fuzz4bounty) – 1337 Wordlists for Bug Bounty Hunting
 - [0xdabbad00/security_incidents_from_caching](https://github.com/0xdabbad00/security_incidents_from_caching) – Collection of incidents resulting from caching issues
 - [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) – Cybersecurity oriented awesome list
-- [0xtavian/awesome-attack-surface-monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [1ndianl33t/Bug-Bounty-Roadmaps](https://github.com/1ndianl33t/Bug-Bounty-Roadmaps) – Bug Bounty Roadmaps
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) – A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [4skinSkywalker/Anti-Porn-HOSTS-File](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File) – Hosts file for "blocking" porn sites
@@ -2465,6 +2465,7 @@
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) – This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [assetnote/blind-ssrf-chains](https://github.com/assetnote/blind-ssrf-chains) – An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
+- [attacksurge/awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
@@ -2806,6 +2807,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) – Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) – GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) – A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) – Scots Army Knife for electronics
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) – Unified GUI Censorship Resistant Solution Powered by Xray
@@ -2824,6 +2826,7 @@
 - [KissPeter/APIFuzzer](https://github.com/KissPeter/APIFuzzer) – Fuzz test your application using your OpenAPI or Swagger API definition without coding
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) – A powerful and useful hacker dictionary builder for a brute-force attack
+- [LorenEteval/Furious](https://github.com/LorenEteval/Furious) – A GUI proxy client based on PySide6. Support Xray-core & hysteria
 - [LukeLambert/fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) – Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) – Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
@@ -2911,6 +2914,7 @@
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
+- [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [beeware/briefcase](https://github.com/beeware/briefcase) – Tools to support converting a Python project into a standalone native application.
@@ -2922,6 +2926,7 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers.
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
+- [borgbase/vorta](https://github.com/borgbase/vorta) – Desktop Backup Client for Borg Backup
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) – Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [brevityinmotion/goodfaith](https://github.com/brevityinmotion/goodfaith) – Stay within program scope
@@ -2937,7 +2942,6 @@
 - [carlospolop/Pastos](https://github.com/carlospolop/Pastos)
 - [caronc/apprise](https://github.com/caronc/apprise) – Apprise - Push Notifications that work with just about every platform!
 - [castilho101/FuzzyGuard](https://github.com/castilho101/FuzzyGuard)
-- [casualsnek/cassowary](https://github.com/casualsnek/cassowary) – Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) – Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
@@ -2998,10 +3002,12 @@
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) – Unleash the power of cloud
 - [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
+- [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) – Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images)
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) – docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) – A library for parsing .DS_Store files and extracting file names
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
+- [git-cola/git-cola](https://github.com/git-cola/git-cola) – git-cola: The highly caffeinated Git GUI
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) – Scalable fuzzing infrastructure.
 - [google/gcp_scanner](https://github.com/google/gcp_scanner) – A comprehensive scanner for Google Cloud
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
@@ -3037,6 +3043,7 @@
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
@@ -3060,6 +3067,7 @@
 - [lanjelot/patator](https://github.com/lanjelot/patator) – Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [leetCipher/bug-bounty-labs](https://github.com/leetCipher/bug-bounty-labs) – All the labs in this repository simulate real world bugs I found in the wild
 - [lemonlove7/dirsearch_bypass403](https://github.com/lemonlove7/dirsearch_bypass403) – 目录扫描+JS文件中提取URL和子域+403状态绕过+指纹识别
+- [leovan/SciHubEVA](https://github.com/leovan/SciHubEVA) – A Cross Platform Sci-Hub GUI Application
 - [lexfo/sshimpanzee](https://github.com/lexfo/sshimpanzee) – SSHD Based implant supporting tunneling mecanisms to reach the C2 (DNS, ICMP, HTTP Encapsulation, HTTP/Socks Proxies, UDP...)
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) – A `.git` folder disclosure exploit
 - [lijiejie/ds_store_exp](https://github.com/lijiejie/ds_store_exp) – A .DS_Store file disclosure exploit.   It parses .DS_Store file and downloads files recursively.
@@ -3137,6 +3145,7 @@
 - [p0dalirius/crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) – Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
 - [p0dalirius/objectwalker](https://github.com/p0dalirius/objectwalker) – A python module to explore the object tree to extract paths to interesting objects in memory.
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) – Persepolis is a download manager written in Python.
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) – Passive hostname, domain and IP lookup tool for non-robots
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) – Utils for streaming large files (S3, HDFS, gzip, bz2...)
@@ -3231,6 +3240,7 @@
 - [unkn0wnamd/ByteWizard](https://github.com/unkn0wnamd/ByteWizard)
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
+- [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
@@ -3277,7 +3287,7 @@
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
-- [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec.sh
+- [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec
 
 <div id="ruby"></div>
 
