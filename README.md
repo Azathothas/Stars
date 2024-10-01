@@ -1232,7 +1232,7 @@
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) – 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [gvcgo/gobuilder](https://github.com/gvcgo/gobuilder) – An enhancement for official <go build>.
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [gwen001/github-endpoints](https://github.com/gwen001/github-endpoints) – Find endpoints on GitHub.
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) – Basically a regexp over a GitHub search.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) – Find subdomains on GitHub.
@@ -1615,7 +1615,7 @@
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) – ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [root-gg/plik](https://github.com/root-gg/plik) – Plik is a temporary file upload system (Wetransfer like) in Go.
-- [root4loot/ctlog](https://github.com/root4loot/ctlog) – Obtain domains from certificate transparency logs
+- [root4loot/crtsher](https://github.com/root4loot/crtsher) – Obtain domains from certificate transparency logs
 - [root4loot/rescope](https://github.com/root4loot/rescope) – Bugbounty scope tool
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
@@ -3325,7 +3325,6 @@
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
-- [BugBlocker/lotus](https://github.com/BugBlocker/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -3333,6 +3332,7 @@
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) – Terminal Network scanner & diagnostic tool with modern TUI
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
+- [CyAxe/lotus](https://github.com/CyAxe/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [DerGoogler/MMRL-CLI](https://github.com/DerGoogler/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) – The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
@@ -4101,6 +4101,7 @@
 - [arp242/goon](https://github.com/arp242/goon) – Run Go on another machine such as a QEMU VM or cloud instance
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
+- [attacksurge/ax](https://github.com/attacksurge/ax) – Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our seven supported cloud providers.
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer optimized for Gitpod and power users
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
