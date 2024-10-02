@@ -255,6 +255,7 @@
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+- [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
@@ -1755,6 +1756,7 @@
 - [u-root/cpu](https://github.com/u-root/cpu) – cpu command in Go, inspired by the Plan 9 cpu command
 - [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) – Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – [deprecated] Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
@@ -3407,7 +3409,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) – Count your code, quickly.
 - [XDream8/file-rs](https://github.com/XDream8/file-rs) – a tool for determining file types, extensions etc.
-- [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall and scripted MitM.
+- [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall, App-based policies and scripted MitM.
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
