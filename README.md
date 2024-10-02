@@ -2033,7 +2033,6 @@
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
-- [ProxymanApp/quick-diff](https://github.com/ProxymanApp/quick-diff) – 🔐 A Privacy-first Diff tool for everyone. ✅ Your data never hits our servers.
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
