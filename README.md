@@ -2331,7 +2331,7 @@
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
-- [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ NixOS configuration * home-manager for PopOs
+- [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ ηix configuration for PopOS
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
@@ -2438,6 +2438,7 @@
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) – The Unofficial PowerShell Best Practices and Style Guide
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
+- [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh) – Android security guides, roadmap, docs, courses, write-ups, and teryaagh. 
 - [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application.
