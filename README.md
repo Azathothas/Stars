@@ -3403,6 +3403,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
+- [VHSgunzo/ulexec](https://github.com/VHSgunzo/ulexec) – A tool for loading and executing PE on Windows and ELF on Linux from memory written in Rust
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
