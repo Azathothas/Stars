@@ -559,6 +559,7 @@
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
 - [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
