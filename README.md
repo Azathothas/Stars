@@ -1058,6 +1058,7 @@
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 - [crazy-max/diun](https://github.com/crazy-max/diun) – Receive notifications when an image is updated on a Docker registry
 - [criteo/command-launcher](https://github.com/criteo/command-launcher) – A command launcher 🚀 made with ❤️
+- [criyle/go-sandbox](https://github.com/criyle/go-sandbox) – Sandbox implemented in GO with container / ptrace / seccomp
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
 - [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
 - [csyezheng/ip-scanner](https://github.com/csyezheng/ip-scanner) – This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.
@@ -2099,7 +2100,6 @@
 - [macbre/phantomas](https://github.com/macbre/phantomas) – Headless Chromium-based web performance metrics collector and monitoring tool
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
@@ -3592,6 +3592,7 @@
 - [insanitybit/cargo-sandbox](https://github.com/insanitybit/cargo-sandbox)
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [io12/unf](https://github.com/io12/unf) – UNixize Filename -- replace annoying anti-unix characters in filenames
+- [io12/userland-execve-rust](https://github.com/io12/userland-execve-rust) – An implementation of execve() in user space
 - [irishmaestro/fubar](https://github.com/irishmaestro/fubar) – Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration.
 - [islet-project/islet](https://github.com/islet-project/islet) – An on-device confidential computing platform
 - [ismaelgv/rnr](https://github.com/ismaelgv/rnr) – A command-line tool to batch rename files and directories
@@ -3676,7 +3677,7 @@
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
-- [msfjarvis/adx](https://github.com/msfjarvis/adx) – CLI to poll Google Maven repository for updates to AndroidX artifacts
+- [msfjarvis/adx](https://github.com/msfjarvis/adx) – CLI to check Google Maven repository for updates to AndroidX artifacts
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mtkennerly/shawl](https://github.com/mtkennerly/shawl) – Windows service wrapper for arbitrary commands
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
@@ -3697,6 +3698,7 @@
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
 - [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [norskeld/pingmole](https://github.com/norskeld/pingmole) – CLI that helps to filter Mullvad servers and pick the closest one.
+- [novafacing/memfd-exec](https://github.com/novafacing/memfd-exec) – Execute binaries straight from memory, without touching disk, with a friendly interface!
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [numtide/system-manager](https://github.com/numtide/system-manager) – Manage system config using nix on any distro
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
@@ -4561,6 +4563,7 @@
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
