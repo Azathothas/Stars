@@ -3972,6 +3972,7 @@
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) – Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) – Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CaffeineDuck/Balderdash](https://github.com/CaffeineDuck/Balderdash) – Bathe your code in ganga jaal.
 - [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) – A library with useful Bash functions
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) – Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
@@ -3991,6 +3992,7 @@
 - [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates by the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
+- [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Zero effort, zero error network enumeration.
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
