@@ -527,6 +527,7 @@
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
+- [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) – Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
@@ -543,6 +544,7 @@
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
+- [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
@@ -2331,6 +2333,7 @@
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
+- [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ ηix configuration for PopOS
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
@@ -3130,6 +3133,7 @@
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
 - [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
+- [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) – Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
@@ -3244,6 +3248,7 @@
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) – Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
@@ -3498,6 +3503,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [curlpipe/ox](https://github.com/curlpipe/ox) – An independent Rust text editor that runs in your terminal!
+- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) – Screen saver for your terminal.
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) – tool for generating wordlists or extending an existing one using mutations.
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
@@ -3561,6 +3567,7 @@
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) – 🦀 Find the minimum supported Rust version (MSRV) for your project
+- [foresterre/sic](https://github.com/foresterre/sic) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
 - [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
@@ -4220,6 +4227,8 @@
 - [itiligent/Guacamole-Installer](https://github.com/itiligent/Guacamole-Installer) – Automated install of Gucamole with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update (for real) and manage ALL of them (system-wide or locally) thanks to its ever-growing AUR-inspired database listing 2000+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
+- [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
+- [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
 - [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built on top of "Conty" (Arch Linux). 
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
@@ -4574,6 +4583,7 @@
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) – Telegram Web K, GPL v3
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
+- [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [nkcmr/age-online](https://github.com/nkcmr/age-online) – a fully in-browser tool to encrypt data with the age encryption tool.
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
