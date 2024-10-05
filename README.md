@@ -4005,6 +4005,7 @@
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
+- [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – An OS built with the Ironclad kernel and GNU tools
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) – The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
