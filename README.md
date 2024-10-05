@@ -122,7 +122,6 @@
 
 ## Batchfile
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) – 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) – A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) – Easily configure Microsoft Edge, the way you want it!
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) – An open source tool to activate and reset trial of Internet Download Manager
@@ -2334,6 +2333,7 @@
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
+- [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ ηix configuration for PopOS
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
@@ -2346,7 +2346,6 @@
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) – A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
-- [nixguy/nix](https://github.com/nixguy/nix) – ❄️ ηix configuration for PopOS
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
@@ -2733,6 +2732,7 @@
 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) – HardeningKitty and Windows Hardening Settings
 - [3v4Si0N/HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell) – Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) – 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [BlackSnufkin/Invoke-DumpMDEConfig](https://github.com/BlackSnufkin/Invoke-DumpMDEConfig) – PowerShell script to dump Microsoft Defender Config, protection history and Exploit Guard Protection History  (no admin privileges required )
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) – Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HotNoob/Oracle-Free-Arm-VPS-PS](https://github.com/HotNoob/Oracle-Free-Arm-VPS-PS) – Simple Powershell Script that automatically tries to create a arm vps in oracle cloud using OCI. Resulting in a work-around for "out of capacity"
