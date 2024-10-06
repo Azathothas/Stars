@@ -576,6 +576,8 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) – Featureful ncurses based MPD client inspired by ncmpc
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) – An RSS/Atom feed reader for text terminals
 - [oasislinux/toolchain](https://github.com/oasislinux/toolchain) – a static toolchain targeting x86_64-linux-musl
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
@@ -3169,6 +3171,7 @@
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) – An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [radude/rentry](https://github.com/radude/rentry) – Markdown pastebin from command line
 - [rahiel/telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
+- [ranger/ranger](https://github.com/ranger/ranger) – A VIM-inspired filemanager for the console
 - [rarecoil/unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps.
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) – Top disclosed reports from HackerOne
@@ -3758,7 +3761,7 @@
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
-- [pwnwriter/x4](https://github.com/pwnwriter/x4) – 💭 Execute shell commands to server(s) via ssh protocol [wip] 
+- [pwnwriter/x4](https://github.com/pwnwriter/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
 - [pythops/lobtui](https://github.com/pythops/lobtui) – 🌐 TUI for lobste.rs website
@@ -3792,6 +3795,7 @@
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) – Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
@@ -4534,6 +4538,7 @@
 - [bebiksior/EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) – EvenBetterExtensions allows you to quicky install and keep updated Caido extensions.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) – Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
+- [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
@@ -4643,6 +4648,7 @@
 ## Vim Script
 
 - [ghfli/ops](https://github.com/ghfli/ops) – Utilize contabo cntb and ubuntu multipass to set up production and dev environments  
+- [neovim/neovim](https://github.com/neovim/neovim) – Vim-fork focused on extensibility and usability
 
 <div id="vue"></div>
 
