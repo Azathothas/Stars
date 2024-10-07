@@ -1812,7 +1812,8 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2790 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2930 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -3327,6 +3328,7 @@
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+- [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An fast asynchronous Rust HTTP/Socks5 Proxy
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
@@ -3516,6 +3518,7 @@
 - [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd) – A tool to create visual HTML reports from collections of CSV/TSV tables
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) – Convert CSV files to HTML tables
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) – Track changes in JSON data from the command line
+- [dbohdan/s2png](https://github.com/dbohdan/s2png) – Store any data in PNG images
 - [devmatteini/dra](https://github.com/devmatteini/dra) – A command line tool to download release assets from GitHub
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
 - [djc/topfew-rs](https://github.com/djc/topfew-rs) – Rust implementation of Tim Bray's topfew tool
@@ -3915,6 +3918,7 @@
 - [whitfin/jen](https://github.com/whitfin/jen) – A fast utility to generate fake/test documents based on a template
 - [whitfin/runiq](https://github.com/whitfin/runiq) – An efficient way to filter duplicate lines from input, à la uniq. 
 - [wlh320/portguard](https://github.com/wlh320/portguard) – A port forwarding tool works like ssh tunneling, but Zero Config for client.
+- [woelper/oculante](https://github.com/woelper/oculante) – A fast and simple image viewer / editor for many operating systems
 - [woodruffw/toml2json](https://github.com/woodruffw/toml2json) – A very small CLI for converting TOML to JSON
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
