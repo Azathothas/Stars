@@ -4459,7 +4459,7 @@
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
 - [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
-- [zongou/sndk](https://github.com/zongou/sndk) – Android SDK & NDK on any platform.
+- [zongou/android-build](https://github.com/zongou/android-build) – Build Android Application and Android targetd binary on unsupported os/arch.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
 
 <div id="starlark"></div>
