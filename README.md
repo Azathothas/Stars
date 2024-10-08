@@ -252,6 +252,7 @@
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
+- [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
@@ -2875,6 +2876,7 @@
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
 - [Sybil-Scan/TLDbrute](https://github.com/Sybil-Scan/TLDbrute) – A simple utility to generate domain names with all possible TLDs
 - [Syzik/DockerRegistryGrabber](https://github.com/Syzik/DockerRegistryGrabber) – Enumerate / Dump Docker Registry
+- [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) – The music player of today! :city_sunrise:
 - [Tedixx/dmarc-subdomains](https://github.com/Tedixx/dmarc-subdomains) – Tool to parse subdomains from dmarc.live
 - [Textualize/textual-web](https://github.com/Textualize/textual-web) – Run TUIs and terminals in your browser
 - [Th0h0/autossrf](https://github.com/Th0h0/autossrf) – Smart context-based SSRF vulnerability scanner.
@@ -4693,7 +4695,7 @@
 
 ## Yara
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – detect malicious program behaviors
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – the paranoid open-source malware scanner
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) – Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 <div id="zig"></div>
