@@ -623,6 +623,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
+- [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) – Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
 - [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -3021,6 +3022,7 @@
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) – docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) – A library for parsing .DS_Store files and extracting file names
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
+- [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) – A nice way to display CLI Github user / repo / organization info inspired in neofetch
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) – git-cola: The highly caffeinated Git GUI
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) – Scalable fuzzing infrastructure.
 - [google/gcp_scanner](https://github.com/google/gcp_scanner) – A comprehensive scanner for Google Cloud
