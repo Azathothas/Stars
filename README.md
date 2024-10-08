@@ -2408,6 +2408,7 @@
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
 - [Azathothas/ndk-pkg-formula-repository-fork-core](https://github.com/Azathothas/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
+- [BlackFan/content-type-research](https://github.com/BlackFan/content-type-research) – Content-Type Research
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A list of interesting open-source security tools, mostly reviewed and commented by me.
@@ -3592,6 +3593,7 @@
 - [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
@@ -4477,6 +4479,7 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) – 🥑  Language focused docker images, minus the operating system.  
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) – Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
+- [lalten/rules_appimage](https://github.com/lalten/rules_appimage) – Bazel rules to create portable Linux applications by bundling a binary target and all its runfiles into a self-contained AppImage binary.
 - [tempoz/cosmo_cc_bazel_toolchain](https://github.com/tempoz/cosmo_cc_bazel_toolchain) – Bazel toolchain that is backed by cosmopolitan
 - [tweag/clodl](https://github.com/tweag/clodl) – Turn dynamically linked ELF binaries and libraries into self-contained closures.
 - [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) – Bazel C/C++ toolchain for cross-compiling C/C++ programs
