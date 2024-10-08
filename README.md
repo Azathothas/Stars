@@ -210,6 +210,7 @@
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
+- [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) – Command line ASCII boxes unlimited!
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
@@ -309,6 +310,7 @@
 - [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build projects written in C, C++, Rust, Golang, etc.
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
+- [lemire/despacer](https://github.com/lemire/despacer) – C library to remove white space from strings as fast as possible
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
@@ -3681,6 +3683,7 @@
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
+- [maxcurzi/tplay](https://github.com/maxcurzi/tplay) – A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
@@ -4716,6 +4719,7 @@
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
+- [seatedro/asciigen](https://github.com/seatedro/asciigen) – convert images, video to ascii!
 - [so-dang-cool/dt](https://github.com/so-dang-cool/dt) – dt - duct tape for your unix pipes
 - [txthinking/z](https://github.com/txthinking/z) – z - process manager
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
