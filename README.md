@@ -4166,6 +4166,7 @@
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Tool for hiding Kali Linux on the network
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
+- [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) – A versatile (cross-)toolchain generator.
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
