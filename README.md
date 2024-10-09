@@ -924,6 +924,7 @@
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [andydunstall/piko](https://github.com/andydunstall/piko) – An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
+- [anthonynsimon/bild](https://github.com/anthonynsimon/bild) – Image processing algorithms in pure Go
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) – Terminal countdown timer
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
@@ -1147,6 +1148,7 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) – Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [ekalinin/awsping](https://github.com/ekalinin/awsping) – Console tool to check the latency to each Amazon EC2 region
 - [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) – Remove all the resources from an AWS account
+- [eliukblau/pixterm](https://github.com/eliukblau/pixterm) – Draw images in your ANSI terminal with true color
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [elmasy-com/columbus-scanner](https://github.com/elmasy-com/columbus-scanner) – Log scanner CLI to upload to Columbus server.
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) – Open Source External Attack Surface Management
@@ -1545,7 +1547,6 @@
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) – Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) – 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) – Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
-- [phuongdnguyen/gorya](https://github.com/phuongdnguyen/gorya) – Compute unit scheduler that helps to reduce costs for non-production environments.
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) – DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 - [picosh/pico](https://github.com/picosh/pico) – hacker labs - open source and managed web services leveraging SSH
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
@@ -4721,7 +4722,7 @@
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
-- [kubkon/zld](https://github.com/kubkon/zld) – Zig's ld drop-in replacement
+- [kubkon/zld](https://github.com/kubkon/zld) – ld drop-in replacement written in Zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
