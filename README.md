@@ -4378,7 +4378,7 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
-- [rix4uni/Origin-IP-Finder](https://github.com/rix4uni/Origin-IP-Finder) – Find origin ip using originipfinder
+- [rix4uni/originip](https://github.com/rix4uni/originip) – Find origin ip using originip
 - [robxu9/bash-static](https://github.com/robxu9/bash-static) – Because we need exercises in minimalism.
 - [rohsec/LEAKEY](https://github.com/rohsec/LEAKEY) – LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services.
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
