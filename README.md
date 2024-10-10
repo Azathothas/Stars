@@ -585,9 +585,9 @@
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) – An RSS/Atom feed reader for text terminals
 - [oasislinux/toolchain](https://github.com/oasislinux/toolchain) – a static toolchain targeting x86_64-linux-musl
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
+- [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
 - [radareorg/iaito](https://github.com/radareorg/iaito) – Official QT frontend of radare2
@@ -1512,6 +1512,7 @@
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
