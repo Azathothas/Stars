@@ -983,6 +983,7 @@
 - [bitnami/wait-for-port](https://github.com/bitnami/wait-for-port) – CLI tool for waiting until a TCP port reaches the desired state
 - [bitquark/shortscan](https://github.com/bitquark/shortscan) – An IIS short filename enumeration tool
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) – Bitrise runner CLI - run your automations on your Mac or Linux machine -
+- [bjesus/pipet](https://github.com/bjesus/pipet) – a swiss-army tool for scraping and extracting data from online assets, made for hackers 
 - [blacknon/lssh](https://github.com/blacknon/lssh) – lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) – net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. 
@@ -3453,6 +3454,7 @@
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
 - [amanharwara/subtitle](https://github.com/amanharwara/subtitle) – Find & download subtitles from the terminal.
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
+- [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
