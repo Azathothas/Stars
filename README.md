@@ -98,6 +98,7 @@
 
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) – the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [Francesco149/nolibc-httpd](https://github.com/Francesco149/nolibc-httpd) – 1kb single-page http server, static binary for linux x86_64
+- [hackerschoice/memexec](https://github.com/hackerschoice/memexec) – Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
 
 <div id="astro"></div>
@@ -2709,7 +2710,6 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
-- [hackerschoice/memexec](https://github.com/hackerschoice/memexec) – Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) – This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -4069,6 +4069,7 @@
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
 - [Samueru-sama/android-tools-AppImage](https://github.com/Samueru-sama/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. 
+- [Samueru-sama/deploy-linux.sh](https://github.com/Samueru-sama/deploy-linux.sh) – POSIX(ish) shell script that deploys dependencies for AppImages, similar to linuxdeploy, linuxdeploy-qt, go-appimage and others.
 - [Samueru-sama/mpv-AppImage](https://github.com/Samueru-sama/mpv-AppImage) – Unofficial AppImage of mpv
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
@@ -4076,6 +4077,7 @@
 - [Skimmeroni/Nupk-repository](https://github.com/Skimmeroni/Nupk-repository) – A repository of installation scripts
 - [SkyperTHC/pure-bash-bible](https://github.com/SkyperTHC/pure-bash-bible) – 📖 A collection of pure bash alternatives to external processes.
 - [Smiley-McSmiles/jellyman](https://github.com/Smiley-McSmiles/jellyman) – Jellyman is a set of scripts to install/manage and update the jellyfin-combined tar.gz generic linux package
+- [SoftCreatR/imei](https://github.com/SoftCreatR/imei) – IMEI - ImageMagick Easy Install
 - [Sohil876/Termux-zsh](https://github.com/Sohil876/Termux-zsh) – Make termux a better looking and much more functional terminal
 - [SomajitDey/tunnel](https://github.com/SomajitDey/tunnel) – Peer-to-peer, secure, TCP/UDP port forwarding using HTTP(s) relay for NAT/firewall traversal
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
