@@ -1822,6 +1822,7 @@
 - [xo/usql](https://github.com/xo/usql) – Universal command-line interface for SQL databases
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
+- [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2930 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -3598,7 +3599,7 @@
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
-- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – A HellPot inspired HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
+- [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
 - [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
