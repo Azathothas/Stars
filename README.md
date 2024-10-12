@@ -2286,6 +2286,7 @@
 ## Makefile
 
 - [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
+- [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [am11/VoidWSL](https://github.com/am11/VoidWSL) – Install Void Linux as a WSL Instance (for Windows 10 1803 64bit or later)
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
@@ -3469,6 +3470,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
+- [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
