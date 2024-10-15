@@ -527,6 +527,7 @@
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
+- [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -700,7 +701,6 @@
 - [DavidBurela/riscv-emulator-docker-image](https://github.com/DavidBurela/riscv-emulator-docker-image)
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
-- [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [Rikorose/gcc-cmake](https://github.com/Rikorose/gcc-cmake) – Docker container build on top off the official gcc image including cmake
 - [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
@@ -758,6 +758,7 @@
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlistGo/alist](https://github.com/AlistGo/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [Allaman/gstring](https://github.com/Allaman/gstring) – Swiss army knife for manipulating strings.
 - [Allaman/werkzeugkasten](https://github.com/Allaman/werkzeugkasten) – Download your favorite command-line tools with ease!
 - [Android-Guards/apk-extractor](https://github.com/Android-Guards/apk-extractor)
@@ -912,7 +913,6 @@
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
 - [alecthomas/bit](https://github.com/alecthomas/bit) – Bit - A simple yet powerful build tool
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) – Chaos testing, network emulation, and stress testing tool for containers
-- [alist-org/alist](https://github.com/alist-org/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) – Alibaba Cloud CLI
 - [alphasoc/flightsim](https://github.com/alphasoc/flightsim) – A utility to safely generate malicious network traffic patterns and evaluate controls.
 - [alwaystest18/hbit](https://github.com/alwaystest18/hbit) – 一款用于安全测试中信息收集的自动化工具
@@ -1828,7 +1828,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2401 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2375 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -2874,6 +2874,7 @@
 - [Peco602/findwall](https://github.com/Peco602/findwall) – Check if your provider is blocking you!
 - [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec) – The Network Execution Tool
 - [PortSwigger/request-minimizer](https://github.com/PortSwigger/request-minimizer)
+- [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [ProjectNull0/Firebase-exploit](https://github.com/ProjectNull0/Firebase-exploit) – Fast and customizable Firebase api and Project ID extractor .
 - [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) –  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
@@ -3155,6 +3156,7 @@
 - [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leaked data search engines and aggregators 
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
+- [nullenc0de/paramhunter](https://github.com/nullenc0de/paramhunter) – Looks for parameters in urls
 - [nullt3r/jfscan](https://github.com/nullt3r/jfscan) – JF⚡can - Super fast port scanning & service discovery using Masscan and Nmap. Scan large networks with Masscan and use Nmap's scripting abilities to discover information about services. Generate report.
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) – Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
@@ -3462,7 +3464,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
-- [amanharwara/subtitle](https://github.com/amanharwara/subtitle) – Find & download subtitles from the terminal.
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
@@ -3485,6 +3486,7 @@
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
 - [bgkillas/kalc](https://github.com/bgkillas/kalc) – a complex numbers, 2d/3d graphing, arbitrary precision, vector/matrix, cli calculator with real-time output and support for units
+- [bgpkit/oneio](https://github.com/bgpkit/oneio) – OneIO is a Rust library that provides unified simple IO interface for reading and writing to and from data files from different sources and compressions.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) – Statistics-driven benchmarking library for Rust
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) – A binary encoder / decoder implementation in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -3537,9 +3539,10 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [curlpipe/ox](https://github.com/curlpipe/ox) – An independent Rust text editor that runs in your terminal!
-- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) – Screen saver for your terminal.
+- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) – Screensavers for your terminal.
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) – tool for generating wordlists or extending an existing one using mutations.
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
+- [dalance/pipecolor](https://github.com/dalance/pipecolor) – A terminal filter to colorize output
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -3654,7 +3657,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – CSVs sliced, diced & analyzed.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – Blazing-fast Data-Wrangling toolkit
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making
 - [jwt-rs/jwt-ui](https://github.com/jwt-rs/jwt-ui) – A command line UI for decoding/encoding JSON Web Tokens
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
@@ -3867,7 +3870,7 @@
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
@@ -3938,6 +3941,7 @@
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
+- [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) –  A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection.
 - [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) –  Wipe files and drives securely with random ASCII dicks 
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
@@ -4106,6 +4110,7 @@
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
 - [VHSgunzo/grep-static](https://github.com/VHSgunzo/grep-static) – Statically compiled grep with musl
 - [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
+- [VHSgunzo/lwrun](https://github.com/VHSgunzo/lwrun) – Lux Wine runtime container
 - [VHSgunzo/portarch](https://github.com/VHSgunzo/portarch) – Portable Arch Linux
 - [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
@@ -4498,7 +4503,7 @@
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
 - [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
-- [zongou/android-build](https://github.com/zongou/android-build) – Build Android Application and Android targetd binary on unsupported os/arch.
+- [zongou/android-build](https://github.com/zongou/android-build) – Build Android Application and Android targeted binary on unsupported OS/arch.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
 
 <div id="starlark"></div>
