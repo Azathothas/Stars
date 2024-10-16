@@ -1431,7 +1431,7 @@
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) – A command line editor for HCL
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [minio/dperf](https://github.com/minio/dperf) – Drive performance measurement tool
-- [minio/mc](https://github.com/minio/mc) – Simple | Fast tool to manage MinIO clusters :cloud:
+- [minio/mc](https://github.com/minio/mc) – MinIO Client (mc) - Unix like utilities for object store.
 - [minio/minio](https://github.com/minio/minio) – MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/selfupdate](https://github.com/minio/selfupdate) – Build self-updating Go programs
 - [minio/warp](https://github.com/minio/warp) – S3 benchmarking tool
@@ -2362,6 +2362,7 @@
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
+- [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) – Bundle Nix derivations to run anywhere!
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
@@ -2857,6 +2858,7 @@
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) – Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) – Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) – Swiss-knife for updating nix packages.
 - [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) – Expose your TCP/UDP port behind full-cone NAT to the Internet.
 - [MikeWang000000/n4](https://github.com/MikeWang000000/n4) – 双 NAT4 网络打洞 PoC
 - [Mr-Robert0/Logsensor](https://github.com/Mr-Robert0/Logsensor) – A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning 
@@ -3029,6 +3031,7 @@
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) – Unleash the power of cloud
+- [fzakaria/shrinkwrap](https://github.com/fzakaria/shrinkwrap) – A tool that embosses the needed dependencies on the top level executable
 - [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) – Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images)
@@ -3066,7 +3069,7 @@
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) – Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [intruder-io/guidtool](https://github.com/intruder-io/guidtool) – A tool to inspect and attack version 1 GUIDs
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
-- [iterative/dvc](https://github.com/iterative/dvc) – 🦉 ML Experiments and Data Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) – 🦉 Data Versioning and ML Experiments
 - [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. Based on PycURL and Python Requests.
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
@@ -3429,6 +3432,7 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
+- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Open source Linux distro optimized for self-hosting
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [TheAlgorythm/zsplit](https://github.com/TheAlgorythm/zsplit) – Split text into multiple files by line
@@ -4008,6 +4012,7 @@
 ## Shell
 
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) – Quickly analyze and reverse engineer Android packages
+- [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) – Simple Nix derivations to bundle executables
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) – Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [AdarshAddee/root](https://github.com/AdarshAddee/root) – Root - Access root previliges in termux without rooting android device
@@ -4460,6 +4465,7 @@
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
 - [tiiuae/aarch64_bin_builder](https://github.com/tiiuae/aarch64_bin_builder) – Statically linked arm64/aarch64 binaries for everyday needs
 - [tincan-linux/repo-core](https://github.com/tincan-linux/repo-core) – Core package repository for Tin Can Linux.
+- [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
