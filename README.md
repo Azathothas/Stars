@@ -3593,6 +3593,7 @@
 - [evilsocket/legba](https://github.com/evilsocket/legba) – A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) – A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) – Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [eza-community/eza](https://github.com/eza-community/eza) – A modern alternative to ls
 - [face-hh/webx](https://github.com/face-hh/webx) – An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 - [facebook/buck2](https://github.com/facebook/buck2) – Build system, successor to Buck
