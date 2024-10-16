@@ -3371,6 +3371,7 @@
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) – Terminal Network scanner & diagnostic tool with modern TUI
 - [CleanCut/headtail](https://github.com/CleanCut/headtail) – head and tail simultaneously
+- [ClementNerma/Fetchy](https://github.com/ClementNerma/Fetchy) – A basic but blazingly fast and simple file-based package manager
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [CyAxe/lotus](https://github.com/CyAxe/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
