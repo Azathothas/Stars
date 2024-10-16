@@ -1431,7 +1431,7 @@
 - [minamijoyo/hcledit](https://github.com/minamijoyo/hcledit) – A command line editor for HCL
 - [miniflux/v2](https://github.com/miniflux/v2) – Minimalist and opinionated feed reader
 - [minio/dperf](https://github.com/minio/dperf) – Drive performance measurement tool
-- [minio/mc](https://github.com/minio/mc) – MinIO Client (mc) - Unix like utilities for object store.
+- [minio/mc](https://github.com/minio/mc) – Unix like utilities for object store
 - [minio/minio](https://github.com/minio/minio) – MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/selfupdate](https://github.com/minio/selfupdate) – Build self-updating Go programs
 - [minio/warp](https://github.com/minio/warp) – S3 benchmarking tool
@@ -3393,6 +3393,7 @@
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
