@@ -698,6 +698,7 @@
 
 - [2moe/build-container](https://github.com/2moe/build-container)
 - [Azathothas/docker-archlinux](https://github.com/Azathothas/docker-archlinux) – Forked : https://github.com/fwcd/docker-archlinux (+ DockerHub Builds)
+- [CachyOS/docker](https://github.com/CachyOS/docker) – CachyOS Docker Images for the x86-64, x86-64-v3
 - [DavidBurela/riscv-emulator-docker-image](https://github.com/DavidBurela/riscv-emulator-docker-image)
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
@@ -2610,7 +2611,6 @@
 - [mendel5/iperf3-results](https://github.com/mendel5/iperf3-results) – Interpretation of iperf and iperf3 results, especially regarding data-transfer rates aka speed (Mbit/s, Gbit/s)
 - [metis-os/metis-hypr](https://github.com/metis-os/metis-hypr) – 🍦 Hyprland window manager for metislinux
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) – Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
-- [minnyres/aria2-windows-arm64](https://github.com/minnyres/aria2-windows-arm64) –  Build aria2 for Windows on ARM64 
 - [misterch0c/what_is_this_c2](https://github.com/misterch0c/what_is_this_c2) – For all these times you're asking yourself "what is this panel again?"
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) – Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) – USB WiFi Adapter Information for Linux
@@ -4346,6 +4346,7 @@
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [milahu/opensubtitles-scraper-new-subs](https://github.com/milahu/opensubtitles-scraper-new-subs)
 - [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
+- [minnyres/aria2-windows-arm64](https://github.com/minnyres/aria2-windows-arm64) –  Build aria2 for Windows on ARM64 
 - [minos-org/minos-static](https://github.com/minos-org/minos-static) – static binaries for linux
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
