@@ -2353,7 +2353,7 @@
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
-- [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ ηix configuration for PopOS
+- [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ nix configuration for PopOS
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
