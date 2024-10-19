@@ -526,9 +526,11 @@
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
+- [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) – Partially open-source alternative Steam Client for Linux. 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) – Compatibility tool for Steam Play based on Wine and additional components
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) – Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
@@ -554,6 +556,7 @@
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) – Stream virtual desktops and games running in Docker
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [google/nsjail](https://github.com/google/nsjail) – A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
@@ -717,6 +720,7 @@
 - [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
 - [karellen/karellen-gha-runner](https://github.com/karellen/karellen-gha-runner) – Karellen GitHub Action Server Docker Image
 - [kpcyrd/i-probably-didnt-backdoor-this](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) – A practical experiment on supply-chain security using reproducible builds
+- [linuxserver/docker-steamos](https://github.com/linuxserver/docker-steamos) – Vanilla Arch modified into SteamOS with web based Desktop access, useful for remote play and lower end games
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) – An optimized docker image includes Android, Kotlin, Flutter sdk.
@@ -1780,6 +1784,7 @@
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – [deprecated] Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
+- [umair9747/4oFour](https://github.com/umair9747/4oFour) – A tech enumeration toolkit focused on 404 Not found pages.
 - [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [umputun/sys-agent](https://github.com/umputun/sys-agent) – System agent. Reports server status via HTTP API
@@ -2002,7 +2007,7 @@
 - [honoki/burp-digitalocean-droplet-proxy](https://github.com/honoki/burp-digitalocean-droplet-proxy) – Deploy a SOCKS5 proxy in DigitalOcean and autoconfigure the Burp proxy settings to route all traffic through the droplet
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) – A tool for reverse engineering Android apk files
 - [irsdl/IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) – latest version of scanners for IIS short filename (8.3) disclosure vulnerability
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，SCA漏洞分析，批量分析JAR包，方法调用关系搜索，字符串搜索，Spring组件分析，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) – Jar Analyzer - 一个JAR包分析工具，批量分析，SCA漏洞分析，方法调用关系搜索，字符串搜索，Spring组件分析，信息泄露检查，CFG程序分析，JVM栈帧分析，进阶表达式搜索，字节码指令级的动态调试分析，反编译JAR包一键导出，一键提取序列化数据恶意代码，一键分析BCEL字节码
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) – An unofficial Zerotier Android client patched from official client
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
@@ -2346,6 +2351,7 @@
 
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
 - [QaidVoid/nix-config](https://github.com/QaidVoid/nix-config)
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
@@ -2459,6 +2465,7 @@
 - [PeterDaveHello/threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist) – Comprehensive domain blocklists for 🚨 threats (🕷malware, 🎣phishing, 🕵️spyware, 🤖botnets). Ideal for DNS-based filtering tools like Pi-Hole, AdGuard Home, Blocky.
 - [PinoyWH1Z/SSH-Private-Key-Looting-Wordlists](https://github.com/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists) – SSH Private Key Looting Wordlists. A collection of wordlists to aid in locating or brute-forcing SSH private key file names.
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) – The Unofficial PowerShell Best Practices and Style Guide
+- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) – A list of FLOSS games available on Steam (75 so far)
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
@@ -2820,6 +2827,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
+- [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) – Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
 - [Drew-Alleman/autodeauth](https://github.com/Drew-Alleman/autodeauth) – Automated Linux service that collects information on local Wi-Fi networks and performs deauthentication attacks.
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner)
@@ -2995,6 +3003,7 @@
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) – 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) – Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [defparam/smuggler](https://github.com/defparam/smuggler) – Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
+- [derrod/legendary](https://github.com/derrod/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [devrim/cloudflare-noip](https://github.com/devrim/cloudflare-noip) – free alternative to paid dynamic DNS services like NoIP.com
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
@@ -3090,6 +3099,7 @@
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) – Download music from Deezer with a nice front end
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) – Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) – pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
+- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – A GTK4 + Libadwaita game launcher
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) – bypass-url-parser
@@ -3456,6 +3466,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) – 👩‍💻 A CLI Tool for Command Line Insights
+- [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) – 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
 - [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
@@ -4029,6 +4040,7 @@
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [Azathothas/Toolpacks-Temp-Builds](https://github.com/Azathothas/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
+- [Azathothas/flatimage-base](https://github.com/Azathothas/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
 - [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/Azathothas/Toolpacks
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
@@ -4038,6 +4050,7 @@
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CaffeineDuck/Balderdash](https://github.com/CaffeineDuck/Balderdash) – Bathe your code in ganga jaal.
 - [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) – A library with useful Bash functions
+- [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) – Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
@@ -4092,6 +4105,7 @@
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
+- [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) – RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
@@ -4109,6 +4123,7 @@
 - [SomajitDey/tunnel](https://github.com/SomajitDey/tunnel) – Peer-to-peer, secure, TCP/UDP port forwarding using HTTP(s) relay for NAT/firewall traversal
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) – a bash script to help you bypass GFW
 - [Spix0r/cloudrecon](https://github.com/Spix0r/cloudrecon) – This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider.
+- [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) – A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
@@ -4200,6 +4215,7 @@
 - [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) – Risc-V journey thru containers and new projects
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Tool for hiding Kali Linux on the network
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
+- [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) – Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
@@ -4225,6 +4241,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dracula/tmux](https://github.com/dracula/tmux) – 🧛🏻‍♂️ Dark theme for tmux
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) – dracut the event driven initramfs infrastructure
+- [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) – Emulator configurator for Steam Deck
 - [dreamkinn/CompileCSDocker](https://github.com/dreamkinn/CompileCSDocker) – Compile SharpHound and others on Linux
 - [droidian/glibc-downgrade](https://github.com/droidian/glibc-downgrade)
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
@@ -4254,11 +4271,13 @@
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [fsquillace/junest](https://github.com/fsquillace/junest) – The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [fwcd/archlinuxarm-images](https://github.com/fwcd/archlinuxarm-images) – Unofficial, automated Arch Linux ARM image builds, e.g. for Raspberry Pis
+- [games-on-whales/gow](https://github.com/games-on-whales/gow) – A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
+- [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.3 For Termux , Version : 2.9.3 , Maintained
@@ -4317,6 +4336,7 @@
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) – A collection of regexes for every possbile use
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
+- [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) – a few helpers for working with XBPS
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
@@ -4338,6 +4358,7 @@
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) – YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [matan-h/adb-shell](https://github.com/matan-h/adb-shell) – better `adb shell` 
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
+- [mdeguzis/SteamOS-Tools](https://github.com/mdeguzis/SteamOS-Tools) – Tools, scripts, and hosted packages for SteamOS. 
 - [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) – Write any bash with only the punctuation characters
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
@@ -4434,7 +4455,7 @@
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
-- [slyfox1186/Fixing-Error-0x80070057-Invalid-Parameter](https://github.com/slyfox1186/Fixing-Error-0x80070057-Invalid-Parameter) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
+- [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
 - [smileaf419/spkg](https://github.com/smileaf419/spkg) – Bash based package manager
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
@@ -4482,6 +4503,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a custom image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
 - [unypkg/unypkg](https://github.com/unypkg/unypkg) – Universal, simple and classical Linux package manager
@@ -4498,6 +4520,7 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) – :zzz: A utility tool powered by fzf for using git interactively.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
+- [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) – winesapOS - Game with Linux anywhere, no installation required!
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
 - [wowsignal-io/android-tools](https://github.com/wowsignal-io/android-tools)
@@ -4576,6 +4599,7 @@
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) – Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) – HTTP Request snippet generator for many languages & libraries
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
