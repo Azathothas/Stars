@@ -1488,7 +1488,7 @@
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [nathants/libaws](https://github.com/nathants/libaws) – aws should be easy
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
 - [neptship/ignore](https://github.com/neptship/ignore) – 🚀 The fastest cli generator for .ignore files
@@ -2554,6 +2554,7 @@
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [fightwing/Free-Own-VPN](https://github.com/fightwing/Free-Own-VPN) – Free and Easy! Set up your own personal VPN using AWS EC2 and Outline with our easy-to-follow tutorial. Get the benefits of a secure, private connection without paying for a subscription. 
+- [flathub/flathub](https://github.com/flathub/flathub) – Issue tracker and new submissions
 - [fpliu1214/uppm](https://github.com/fpliu1214/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) – Docs, Channels, example configs and more - Guix is Awesome
 - [freefq/free](https://github.com/freefq/free) – 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -3082,6 +3083,7 @@
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
+- [jc141x/releases-feed](https://github.com/jc141x/releases-feed) – All our releases scraped into various machine readable files (CSV, JSON, RSS)
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
@@ -4369,6 +4371,7 @@
 - [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [minnyres/aria2-windows-arm64](https://github.com/minnyres/aria2-windows-arm64) –  Build aria2 for Windows on ARM64 
 - [minos-org/minos-static](https://github.com/minos-org/minos-static) – static binaries for linux
+- [mintsuki/jinx](https://github.com/mintsuki/jinx) – Meta-build-system for bootstrapping operating system distributions.
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
 - [modernish/modernish](https://github.com/modernish/modernish) – Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
