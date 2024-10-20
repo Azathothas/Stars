@@ -3374,6 +3374,7 @@
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [CachyOS/cachy-chroot](https://github.com/CachyOS/cachy-chroot)
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
 - [Chleba/netscanner](https://github.com/Chleba/netscanner) – Terminal Network scanner & diagnostic tool with modern TUI
