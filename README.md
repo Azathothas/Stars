@@ -688,7 +688,7 @@
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
-- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga, watching anime and streaming torrent available on Android, iOS, macOS, Linux and Windows
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
@@ -1922,6 +1922,7 @@
 ## Haskell
 
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) – A shell script which checks your $HOME for unwanted files and directories.
+- [cachix/cachix](https://github.com/cachix/cachix) – Command line client for Nix binary cache hosting:
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
@@ -3423,7 +3424,7 @@
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers
-- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound written in Rust. 🦀
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound Legacy written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
@@ -4195,7 +4196,7 @@
 - [arp242/goon](https://github.com/arp242/goon) – Run Go on another machine such as a QEMU VM or cloud instance
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
-- [attacksurge/ax](https://github.com/attacksurge/ax) – Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our seven supported cloud providers.
+- [attacksurge/ax](https://github.com/attacksurge/ax) – Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers!
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer optimized for Gitpod and power users
@@ -4789,7 +4790,7 @@
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
-- [kubkon/zld](https://github.com/kubkon/zld) – ld drop-in replacement written in Zig
+- [kubkon/emerald](https://github.com/kubkon/emerald) – ld drop-in replacement written in Zig
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
