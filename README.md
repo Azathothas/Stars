@@ -1032,6 +1032,7 @@
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
 - [chainreactors/spray](https://github.com/chainreactors/spray) – Next Generation HTTP Dir/File Fuzz Artifact
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer Artifact
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) – serve as a reverse proxy to protect your web services from attacks and exploits.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
