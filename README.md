@@ -550,7 +550,7 @@
 - [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -2280,6 +2280,7 @@
 
 ## LUA
 
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) – A code editor made with Godot. Code has never been more lit!
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
@@ -2806,6 +2807,7 @@
 
 ## Python
 
+- [0ex/fake-sudo](https://github.com/0ex/fake-sudo) – A drop-in sudo replacement that uses user namespaces to pretend we are root.
 - [0xacb/recollapse](https://github.com/0xacb/recollapse) – REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
 - [0xacb/viewgen](https://github.com/0xacb/viewgen) – Viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys
 - [3b1b/manim](https://github.com/3b1b/manim) – Animation engine for explanatory math videos
@@ -2926,6 +2928,7 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
+- [actionless/pikaur](https://github.com/actionless/pikaur) – AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
 - [ading2210/python-static](https://github.com/ading2210/python-static) – A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) – Patch boot image with magisk on windows/linux/macos
@@ -4055,6 +4058,7 @@
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CaffeineDuck/Balderdash](https://github.com/CaffeineDuck/Balderdash) – Bathe your code in ganga jaal.
 - [CecilWesterhof/BashLibrary](https://github.com/CecilWesterhof/BashLibrary) – A library with useful Bash functions
+- [Changaco/nosudo](https://github.com/Changaco/nosudo) – A small bash script that fakes sudo using su
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) – Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -4198,6 +4202,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
 - [attacksurge/ax](https://github.com/attacksurge/ax) – Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers!
+- [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer optimized for Gitpod and power users
@@ -4277,6 +4282,7 @@
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [fsquillace/junest](https://github.com/fsquillace/junest) – The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
 - [fwcd/archlinuxarm-images](https://github.com/fwcd/archlinuxarm-images) – Unofficial, automated Arch Linux ARM image builds, e.g. for Raspberry Pis
+- [gameimage/runners](https://github.com/gameimage/runners) – Runners used by GameImage
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) – A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
@@ -4486,7 +4492,7 @@
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) – GitHub Action for building and uploading Rust binary to GitHub Releases.
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
-- [tclahr/uac](https://github.com/tclahr/uac) – UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- [tclahr/uac](https://github.com/tclahr/uac) – UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
