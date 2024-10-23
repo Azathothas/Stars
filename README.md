@@ -445,6 +445,7 @@
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [wolfSSL/wolfCLU](https://github.com/wolfSSL/wolfCLU) – The wolfSSL Command Line Utility wolfCLU
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
+- [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 - [yarrick/iodine](https://github.com/yarrick/iodine) – Official git repo for iodine dns tunnel
@@ -1330,7 +1331,6 @@
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [jiro4989/gsv](https://github.com/jiro4989/gsv) – gsv transforms a multi-line CSV into one-line JSON to make it easier to grep.
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
-- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2783,6 +2783,7 @@
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
@@ -3428,7 +3429,7 @@
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers
-- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data collector for BloodHound Legacy written in Rust. 🦀
+- [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
@@ -4064,7 +4065,7 @@
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
 - [DanielGibson/DanielGibson.github.io](https://github.com/DanielGibson/DanielGibson.github.io) – My blog, I guess
-- [DannyBen/rush-cli](https://github.com/DannyBen/rush-cli) – Personal Package Manager - run your GitHub hosted scripts, locally.
+- [DannyBen/rush](https://github.com/DannyBen/rush) – Personal Package Manager - run your GitHub hosted scripts, locally.
 - [DannyBen/rush-repo](https://github.com/DannyBen/rush-repo) – My package repository for the Rush package manager
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
@@ -4454,6 +4455,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
+- [rti/nixwrap](https://github.com/rti/nixwrap) – Easy Application Sandboxing
 - [ruanformigoni/arch-bootstrap](https://github.com/ruanformigoni/arch-bootstrap) – Bootstrap a base Arch Linux system
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
@@ -4523,6 +4525,7 @@
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
+- [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
 - [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm) – Use DragonFly BSD in github actions
@@ -4542,6 +4545,7 @@
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
+- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo that builds a ton of appbundles, weekly, completely automated.
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
 - [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
@@ -4739,6 +4743,7 @@
 ## Vala
 
 - [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
+- [manjaro/pamac](https://github.com/manjaro/pamac) – Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
 
 <div id="vim-script"></div>
 
