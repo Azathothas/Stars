@@ -4507,7 +4507,7 @@
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
-- [termux-play-store/termux-packages](https://github.com/termux-play-store/termux-packages) – Packages for the current Termux build on Google Play.
+- [termux-play-store/termux-packages](https://github.com/termux-play-store/termux-packages) – Packages for Termux on Google Play.
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [termux/proot-distro](https://github.com/termux/proot-distro) – An utility for managing installations of the Linux distributions in Termux.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
