@@ -248,9 +248,11 @@
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
+- [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
+- [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
 - [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
@@ -984,6 +986,7 @@
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [billcoding/sshpass](https://github.com/billcoding/sshpass) – A sshpass implementation for Linux and Mac in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
 - [binwiederhier/pcopy](https://github.com/binwiederhier/pcopy) – pcopy is a temporary file host, nopaste and clipboard across machines. It can be used from the Web UI, via a CLI or without a client by using curl.
@@ -1754,7 +1757,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) – A collection of hacks and one-off scripts
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) – Fetch many paths for many hosts - without killing the hosts
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) – Pull out bits of URLs provided on stdin
-- [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite)
+- [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite) – gcloud-lite is a distribution of the google cloud platform (GCP) CLI that strips unnecessary dependencies to reduce the size by > 75%, with significant cost & time savings.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [trickest/dsieve](https://github.com/trickest/dsieve) – Filter and enrich a list of subdomains by level
 - [trickest/enumerepo](https://github.com/trickest/enumerepo) – List all public repositories for (valid) GitHub usernames
@@ -2546,7 +2549,7 @@
 - [dtolnay/foreach](https://github.com/dtolnay/foreach)
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) – Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [easimon/maximize-build-space](https://github.com/easimon/maximize-build-space) – Github action to maximize the available disk space on Github runners
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) – JAILBREAK PROMPTS FOR LIBERATING AI MODELS
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) – TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
@@ -3040,6 +3043,7 @@
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
 - [firerpa/lamda](https://github.com/firerpa/lamda) – ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE 框架，你的工作从未如此简单快捷。
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
+- [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) – Unleash the power of cloud
@@ -3375,6 +3379,7 @@
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
+- [Amjad50/plastic](https://github.com/Amjad50/plastic) – NES emulator in rust with egui and TUI
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) – muvm - run programs from your system in a microVM
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
@@ -3559,6 +3564,7 @@
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
+- [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [curlpipe/ox](https://github.com/curlpipe/ox) – An independent Rust text editor that runs in your terminal!
@@ -3624,6 +3630,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) – Secure and fast microVMs for serverless computing.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
 - [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker) – cwe_checker finds vulnerable patterns in binary executables
+- [flatpak/flat-manager](https://github.com/flatpak/flat-manager) – Manager for flatpak repositories
 - [flo-at/minmon](https://github.com/flo-at/minmon) – MinMon - an opinionated minimal monitoring and alarming tool
 - [flox/flox](https://github.com/flox/flox) – Developer environments you can take with you
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
@@ -4744,6 +4751,7 @@
 
 - [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
 - [manjaro/pamac](https://github.com/manjaro/pamac) – Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
+- [manjaro/pamac-cli](https://github.com/manjaro/pamac-cli) – Terminal Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
 
 <div id="vim-script"></div>
 
