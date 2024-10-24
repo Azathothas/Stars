@@ -169,6 +169,7 @@
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
+- [NekoSekaiMoe/moe-container-manager](https://github.com/NekoSekaiMoe/moe-container-manager) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
@@ -233,7 +234,6 @@
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [curl/trurl](https://github.com/curl/trurl) – a command line tool for URL parsing and manipulation.
-- [dabao1955/moe-container-manager](https://github.com/dabao1955/moe-container-manager) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [davidly/rvos](https://github.com/davidly/rvos) – Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.
 - [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) – Alternative to GNU coreutils using software from FreeBSD
@@ -249,7 +249,7 @@
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
@@ -1334,6 +1334,7 @@
 - [jinzhu/configor](https://github.com/jinzhu/configor) – Golang Configuration tool that support YAML, JSON, TOML, Shell Environment
 - [jiro4989/gsv](https://github.com/jiro4989/gsv) – gsv transforms a multi-line CSV into one-line JSON to make it easier to grep.
 - [jiro4989/relma](https://github.com/jiro4989/relma) – GitHub Releases Management cli
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2420,6 +2421,7 @@
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
+- [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [Azathothas/CertStream-Nepal](https://github.com/Azathothas/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
@@ -2786,7 +2788,6 @@
 - [fcharlie/wincurl](https://github.com/fcharlie/wincurl) – cURL build script, based on Github Actions (msvc flavor)
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
-- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) – Linux/Windows post-exploitation framework made by linux user
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
@@ -3441,6 +3442,7 @@
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) – Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [QaidVoid/soar](https://github.com/QaidVoid/soar) – WIP: A highly experimental package manager
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
