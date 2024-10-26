@@ -4061,6 +4061,7 @@
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
 - [Azathothas/Toolpacks-Temp-Builds](https://github.com/Azathothas/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [Azathothas/flatimage-base](https://github.com/Azathothas/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
+- [Azathothas/nix-appimage](https://github.com/Azathothas/nix-appimage) – Convert a nixos derivation into an AppImage
 - [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/Azathothas/Toolpacks
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
