@@ -516,7 +516,7 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -2356,6 +2356,7 @@
 ## Nix
 
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
+- [Jo-Blade/nix-appimage](https://github.com/Jo-Blade/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
@@ -2613,7 +2614,7 @@
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – The list of continuous integration services and tools
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
-- [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Web Pentesting
+- [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
 - [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) – For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙
 - [m0nad/awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) – A curated list of awesome privilege escalation
 - [makotom/iperf3-binaries](https://github.com/makotom/iperf3-binaries) – Executable binaries of iperf3
@@ -3168,7 +3169,7 @@
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-Cloud Security Auditing Tool
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [nccgroup/cq](https://github.com/nccgroup/cq)
-- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) – Check your WAF before an attacker does
+- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) – Check your WAF before an attacker does. Discuss: https://shorturl.at/rbPTl
 - [neoncloud/Zerotier-port-forward](https://github.com/neoncloud/Zerotier-port-forward) – The Zerotier userspace port forwarder without TUN.
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL) – CrackQL is a GraphQL password brute-force and fuzzing utility.
@@ -3470,6 +3471,7 @@
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
 - [VHSgunzo/ulexec](https://github.com/VHSgunzo/ulexec) – A tool for loading and executing PE on Windows and ELF on Linux from memory written in Rust
+- [VHSgunzo/uruntime](https://github.com/VHSgunzo/uruntime) – Universal RunImage and AppImage runtime with SquashFS and DwarFS supports
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
