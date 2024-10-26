@@ -1874,6 +1874,7 @@
 
 ## HTML
 
+- [Avinash0x1/custom-cv](https://github.com/Avinash0x1/custom-cv) – my-cc
 - [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository :: https://nixos-packages.ajam.dev/
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
@@ -3929,7 +3930,6 @@
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
 - [steven-omaha/pacdef](https://github.com/steven-omaha/pacdef) – multi-backend declarative package manager for Linux
 - [str4d/rage](https://github.com/str4d/rage) – A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
-- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) – Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) – Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) – Rust programs written entirely in Rust
@@ -4725,6 +4725,7 @@
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
+- [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
