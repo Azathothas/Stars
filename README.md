@@ -3113,6 +3113,7 @@
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) – Download music from Deezer with a nice front end
 - [knavesec/CredMaster](https://github.com/knavesec/CredMaster) – Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) – pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) – Cross-platform, fast, feature-rich, GPU based terminal
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – A GTK4 + Libadwaita game launcher
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
@@ -3170,7 +3171,7 @@
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-Cloud Security Auditing Tool
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) – Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [nccgroup/cq](https://github.com/nccgroup/cq)
-- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) – Check your WAF before an attacker does. Discuss: https://shorturl.at/rbPTl
+- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass) – Check your WAF before an attacker does
 - [neoncloud/Zerotier-port-forward](https://github.com/neoncloud/Zerotier-port-forward) – The Zerotier userspace port forwarder without TUN.
 - [net4people/bbs](https://github.com/net4people/bbs) – Forum for discussing Internet censorship circumvention
 - [nicholasaleks/CrackQL](https://github.com/nicholasaleks/CrackQL) – CrackQL is a GraphQL password brute-force and fuzzing utility.
