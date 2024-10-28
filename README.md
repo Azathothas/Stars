@@ -22,6 +22,7 @@
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
+- [Diff](#diff)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
 - [Elm](#elm)
@@ -699,6 +700,12 @@
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 
+<div id="diff"></div>
+
+## Diff
+
+- [secureblue/hardened-chromium](https://github.com/secureblue/hardened-chromium) – A hardened chromium for desktop Linux inspired by Vanadium.
+
 <div id="dockerfile"></div>
 
 ## Dockerfile
@@ -920,6 +927,7 @@
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
 - [alecthomas/bit](https://github.com/alecthomas/bit) – Bit - A simple yet powerful build tool
+- [aleksasiriski/ffmpegof](https://github.com/aleksasiriski/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) – Chaos testing, network emulation, and stress testing tool for containers
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) – Alibaba Cloud CLI
 - [alphasoc/flightsim](https://github.com/alphasoc/flightsim) – A utility to safely generate malicious network traffic patterns and evaluate controls.
@@ -1028,7 +1036,7 @@
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – multi-shell multi-command argument completer
 - [cashapp/hermit](https://github.com/cashapp/hermit) – 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
-- [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source security log auditing & RDP, VNC, SSH bastion platform, online demo: https://door.casvisor.com
+- [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source cloud operating system management platform, online demo: https://door.casvisor.com
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) – 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [cemulus/crt](https://github.com/cemulus/crt) – A CLI tool to check Certificate Transparency logs of a domain name.
@@ -1806,7 +1814,6 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
-- [voidsolutionsorg/ffmpegof](https://github.com/voidsolutionsorg/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
@@ -2785,6 +2792,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 My Windows 11 dotfiles
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
@@ -3448,6 +3456,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
+- [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
 - [QaidVoid/soar](https://github.com/QaidVoid/soar) – WIP: A highly experimental package manager
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
@@ -4799,6 +4808,7 @@
 ## Yaml
 
 - [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry) – aqua's Standard Registry
+- [secureblue/secureblue](https://github.com/secureblue/secureblue) – Hardened Fedora Atomic and Fedora CoreOS images 
 
 <div id="yara"></div>
 
