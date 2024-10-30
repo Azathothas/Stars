@@ -718,6 +718,7 @@
 - [CachyOS/docker](https://github.com/CachyOS/docker) – CachyOS Docker Images for the x86-64, x86-64-v3
 - [DavidBurela/riscv-emulator-docker-image](https://github.com/DavidBurela/riscv-emulator-docker-image)
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
+- [OlivierLDff/QtLinuxCMakeDocker](https://github.com/OlivierLDff/QtLinuxCMakeDocker) – 🐳 Docker image with latest Qt/CMake/GCC to build AppImage.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
 - [Rikorose/gcc-cmake](https://github.com/Rikorose/gcc-cmake) – Docker container build on top off the official gcc image including cmake
 - [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
@@ -1881,6 +1882,7 @@
 - [ztelliot/taierspeed-cli](https://github.com/ztelliot/taierspeed-cli) – TaierSpeed CLI
 - [zyedidia/eget](https://github.com/zyedidia/eget) – Easily install prebuilt binaries from GitHub.
 - [zyedidia/micro](https://github.com/zyedidia/micro) – A modern and intuitive terminal-based text editor
+- [zyrouge/pho](https://github.com/zyrouge/pho) – The AppImage Manager that Linux always deserved.
 - [zyylhn/zscan](https://github.com/zyylhn/zscan) – Zscan a scan blasting tool set
 
 <div id="html"></div>
@@ -2990,6 +2992,7 @@
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
 - [borgbase/vorta](https://github.com/borgbase/vorta) – Desktop Backup Client for Borg Backup
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) – Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) – Run Windows software and games on Linux
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [brevityinmotion/goodfaith](https://github.com/brevityinmotion/goodfaith) – Stay within program scope
 - [bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy) – Bugcrowd’s baseline priority ratings for common security vulnerabilities
@@ -3591,7 +3594,6 @@
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [containers/bootc](https://github.com/containers/bootc) – Boot and upgrade via container images
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
-- [containers/youki](https://github.com/containers/youki) – A container runtime written in Rust
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
@@ -3605,6 +3607,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd) – A tool to create visual HTML reports from collections of CSV/TSV tables
+- [datrs/hypercore](https://github.com/datrs/hypercore) – Secure, distributed, append-only log
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) – Convert CSV files to HTML tables
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) – Track changes in JSON data from the command line
 - [dbohdan/s2png](https://github.com/dbohdan/s2png) – Store any data in PNG images
@@ -3616,6 +3619,7 @@
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) – ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) – Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) – Peer-to-peer VPN
 - [dszczyt/rust-jwt-cracker](https://github.com/dszczyt/rust-jwt-cracker) – JWT brute force token cracker written in rust
 - [dtolnay/build-alert](https://github.com/dtolnay/build-alert)
@@ -3749,6 +3753,7 @@
 - [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
+- [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more!
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
 - [lotabout/skim](https://github.com/lotabout/skim) – Fuzzy Finder in rust!
@@ -4033,6 +4038,7 @@
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) – A simple terminal UI for search and replace, ala VS Code.
 - [yinheli/kungfu](https://github.com/yinheli/kungfu) – Flexible DNS hijacking and proxy tool.
 - [ynqa/jnv](https://github.com/ynqa/jnv) – Interactive JSON filter using jq
+- [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
 - [yshui/job-security](https://github.com/yshui/job-security) – job control from anywhere!
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) – Terminal UI to list, browse and run APIs defined with openapi spec.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -4258,7 +4264,7 @@
 - [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
-- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) - Also with stats & Hall of Shame blocklists!!
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) - Also with stats & dynamic Hall of Shame blocklists!!
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
@@ -4748,7 +4754,7 @@
 - [sereneblue/chameleon](https://github.com/sereneblue/chameleon) – WebExtension port of Random Agent Spoofer
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) – A private messenger for Windows, macOS, and Linux.
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
-- [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS - a fast, scalable version control file storage for graphic files :art:
+- [snowtrack/snowfs](https://github.com/snowtrack/snowfs) – SnowFS v1 - a fast, scalable version control file storage for graphic files :art:
 - [snyk/cli](https://github.com/snyk/cli) – Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
