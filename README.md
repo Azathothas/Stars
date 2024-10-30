@@ -611,6 +611,7 @@
 - [suoyuan666/ReleaseButler](https://github.com/suoyuan666/ReleaseButler) – 📣📣 package manager on GitHub 📣📣
 - [tacesrever/easy-frida](https://github.com/tacesrever/easy-frida) – a simple tool for easyily dev/debug using frida and write module for agent. (mainly used for android)
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) – Telegram Desktop messaging app
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
 - [tnodir/fort](https://github.com/tnodir/fort) – Fort Firewall for Windows
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) – The Magic Mask for Android
 - [torrent-file-editor/torrent-file-editor](https://github.com/torrent-file-editor/torrent-file-editor) – Qt based GUI tool designed to create and edit .torrent files
@@ -1189,7 +1190,7 @@
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
-- [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – Request analytics from the nginx access logs
+- [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – nginx access logs analytics
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [ferama/rospo](https://github.com/ferama/rospo) – 🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server
@@ -3999,6 +4000,7 @@
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [viperML/nh](https://github.com/viperML/nh) – Yet another nix cli helper
+- [vn971/rua](https://github.com/vn971/rua) – Build tool for Arch Linux providing control, review and jailed build options
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) – An efficient VPN. 简便高效的异地组网、内网穿透工具
 - [voidash/8085-Emulator](https://github.com/voidash/8085-Emulator) – online 8085 emulator using Rust, WebAssembly and React
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
