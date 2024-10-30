@@ -2480,6 +2480,7 @@
 - [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) – :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) – awesome linux minimalism suggestions
+- [Moe-hacker/Moe-hacker](https://github.com/Moe-hacker/Moe-hacker) – Self-introduction
 - [NikeshX001/Runners](https://github.com/NikeshX001/Runners)
 - [NitinYadav00/gf-patterns](https://github.com/NitinYadav00/gf-patterns) – Some of the gf patterns which i use
 - [NyaMisty/warp-on-actions](https://github.com/NyaMisty/warp-on-actions) – Install Cloudflare WARP on Github actions.
@@ -4680,6 +4681,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
