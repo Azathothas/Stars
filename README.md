@@ -727,6 +727,7 @@
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
+- [captn3m0/repology-dump-docker](https://github.com/captn3m0/repology-dump-docker)
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
@@ -3457,6 +3458,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
 - [Lukas-Heiligenbrunner/AURCache](https://github.com/Lukas-Heiligenbrunner/AURCache) – A cache build server for Archlinux AUR packages and serving them
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
+- [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) – Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital footprint, or enhance your reconnaissance capabilities for penetration testing and bug bounty hunting.
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [Mic92/vmsh](https://github.com/Mic92/vmsh) – Shell into a virtualized linux, with your own tools 
