@@ -367,6 +367,7 @@
 - [pengutronix/genimage](https://github.com/pengutronix/genimage) – tool to generate multiple filesystem and flash images from a tree
 - [pixelomer/bin2video](https://github.com/pixelomer/bin2video) – Tool for encoding files as videos
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) – package compiler and linker metadata toolkit
+- [pkgxdev/pantry](https://github.com/pkgxdev/pantry) – pkg manifests
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
@@ -676,6 +677,7 @@
 ## D
 
 - [dlang/dmd](https://github.com/dlang/dmd) – dmd D Programming Language compiler
+- [ibara/repology](https://github.com/ibara/repology) – Command line interface for Repology.org
 
 <div id="dart"></div>
 
@@ -2371,6 +2373,7 @@
 ## Nix
 
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
+- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
 - [Jo-Blade/nix-appimage](https://github.com/Jo-Blade/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
@@ -3247,6 +3250,9 @@
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) – An AI-powered Personal Identifiable Information (PII) scanner.
 - [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – releng-tool aims to provide developers a way to manage multiple packages to assist in building a project
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
+- [repology/repology-rules](https://github.com/repology/repology-rules) – Package normalization ruleset for Repology
+- [repology/repology-updater](https://github.com/repology/repology-updater) – Repology backend service to update repository and package data
+- [repology/repology-webapp](https://github.com/repology/repology-webapp) – Repology web application
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
 - [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
@@ -3417,7 +3423,6 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [CyAxe/lotus](https://github.com/CyAxe/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
-- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
 - [DerGoogler/MMRL-CLI](https://github.com/DerGoogler/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) – The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -3450,6 +3455,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
+- [Lukas-Heiligenbrunner/AURCache](https://github.com/Lukas-Heiligenbrunner/AURCache) – A cache build server for Archlinux AUR packages and serving them
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
@@ -3769,6 +3775,7 @@
 - [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
 - [makindotcc/fabricbin](https://github.com/makindotcc/fabricbin) – Patch binary file using IDA signatures and defined replacement bytes in YAML.
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
+- [marcoradocchia/microxdg](https://github.com/marcoradocchia/microxdg) – An XDG Base Directory Specification Rust library that aims to be conservative on memory allocation and overall memory footprint.
 - [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
@@ -3896,6 +3903,7 @@
 - [redox-os/relibc](https://github.com/redox-os/relibc) – Mirror of https://gitlab.redox-os.org/redox-os/relibc
 - [replit/rippkgs](https://github.com/replit/rippkgs) – A CLI for indexing and searching packages in Nix expressions
 - [replydev/cotp](https://github.com/replydev/cotp) – Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+- [repology/repology-rs](https://github.com/repology/repology-rs) – Repology rewrite in Rust
 - [resyncgg/ripgen](https://github.com/resyncgg/ripgen) – Rust-based high performance domain permutation generator.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) – A fast, simple TUI for interacting with systemd services and their logs
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
@@ -4546,6 +4554,7 @@
 - [termux-play-store/termux-packages](https://github.com/termux-play-store/termux-packages) – Packages for Termux on Google Play.
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) – A place for all types of Termux packages. 
 - [termux/proot-distro](https://github.com/termux/proot-distro) – An utility for managing installations of the Linux distributions in Termux.
+- [termux/repology-metadata](https://github.com/termux/repology-metadata) – Scripts and Github Actions workflow for generating Repology metadata.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
 - [termux/termux-tools](https://github.com/termux/termux-tools) – Scripts and small programs that are packaged into termux's termux-tools package
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) – Bash function to run tasks in parallel and display pretty output as they complete.
@@ -4743,6 +4752,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
