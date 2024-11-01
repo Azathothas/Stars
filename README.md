@@ -809,6 +809,7 @@
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
 - [DataDog/KubeHound](https://github.com/DataDog/KubeHound) – Tool for building Kubernetes attack paths
 - [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) – :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+- [Debian/debiman](https://github.com/Debian/debiman) – debiman generates a static manpage HTML repository out of a Debian archive
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) – An unofficial GUI wrapper around the Tailscale CLI client.
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
@@ -1234,6 +1235,7 @@
 - [getporter/porter](https://github.com/getporter/porter) – Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [getsavvyinc/savvy-cli](https://github.com/getsavvyinc/savvy-cli) – Automatically capture and surface your team's tribal knowledge
 - [getsops/sops](https://github.com/getsops/sops) – Simple and flexible tool for managing secrets
+- [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper) – 💀 Don't fear the Reaper 👻
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
@@ -1562,6 +1564,7 @@
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
 - [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
+- [pacur/pacur](https://github.com/pacur/pacur) – Automated deb, rpm and pkgbuild build system
 - [padok-team/yatas](https://github.com/padok-team/yatas) – :owl::mag_right: A simple tool to audit your AWS/GCP infrastructure for misconfiguration or potential security issues with plugins integration
 - [palantir/amalgomate](https://github.com/palantir/amalgomate) – Go tool for combining multiple different main packages into a single program or library
 - [paololazzari/play](https://github.com/paololazzari/play) – A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
@@ -1742,7 +1745,6 @@
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
 - [sw33tLie/uff](https://github.com/sw33tLie/uff) – unleashed ffuf
-- [sw33tLie/vhostfuzzer](https://github.com/sw33tLie/vhostfuzzer)
 - [sweetbbak/find-suid](https://github.com/sweetbbak/find-suid) – Find setuid binaries on a file system with speed. A lot faster than using "find" and a lot more practical.
 - [sweetbbak/tget](https://github.com/sweetbbak/tget) – wget but for torrents
 - [sweetbbak/toru](https://github.com/sweetbbak/toru) – Bittorrent streaming CLI tool. Stream anime torrents, real-time with no waiting for downloads. 
@@ -3818,6 +3820,7 @@
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
