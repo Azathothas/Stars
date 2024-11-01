@@ -1222,6 +1222,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) – An interactive web UI for gRPC, along the lines of postman
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [fyne-io/apps](https://github.com/fyne-io/apps) – Fyne App Browser
 - [fyoorer/ffufsee](https://github.com/fyoorer/ffufsee) – Ffuf output browser
 - [fzdwx/burst](https://github.com/fzdwx/burst) – Expose ports to the server quickly
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
@@ -2374,7 +2375,6 @@
 ## Nix
 
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
-- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
 - [Jo-Blade/nix-appimage](https://github.com/Jo-Blade/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
@@ -3424,6 +3424,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) – Yet another cross-platform graphical process/system monitor.
 - [CyAxe/lotus](https://github.com/CyAxe/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
 - [DerGoogler/MMRL-CLI](https://github.com/DerGoogler/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) – The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -3606,7 +3607,7 @@
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
-- [curlpipe/ox](https://github.com/curlpipe/ox) – An independent Rust text editor that runs in your terminal!
+- [curlpipe/ox](https://github.com/curlpipe/ox) – The simple but flexible text editor
 - [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) – Screensavers for your terminal.
 - [d4rckh/gorilla](https://github.com/d4rckh/gorilla) – tool for generating wordlists or extending an existing one using mutations.
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
