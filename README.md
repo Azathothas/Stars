@@ -549,6 +549,7 @@
 - [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
+- [capnproto/capnproto](https://github.com/capnproto/capnproto) – Cap'n Proto serialization/RPC system - core tools and C++ library
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
@@ -857,6 +858,7 @@
 - [LeanerCloud/ec2-instances-info](https://github.com/LeanerCloud/ec2-instances-info) – Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) – OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) – Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
+- [M0Rf30/yap](https://github.com/M0Rf30/yap) – Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
@@ -952,6 +954,7 @@
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [andydunstall/piko](https://github.com/andydunstall/piko) – An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
+- [anoriqq/qpm](https://github.com/anoriqq/qpm) – 📦 Qanat Package Manager
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) – Image processing algorithms in pure Go
 - [antoniomika/sish](https://github.com/antoniomika/sish) – HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) – Terminal countdown timer
@@ -1224,6 +1227,7 @@
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [fyne-io/apps](https://github.com/fyne-io/apps) – Fyne App Browser
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI toolkit in Go inspired by Material Design
 - [fyoorer/ffufsee](https://github.com/fyoorer/ffufsee) – Ffuf output browser
 - [fzdwx/burst](https://github.com/fzdwx/burst) – Expose ports to the server quickly
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
@@ -2441,7 +2445,7 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
@@ -3408,6 +3412,7 @@
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An fast asynchronous Rust HTTP/Socks5 Proxy
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
+- [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) – NES emulator in rust with egui and TUI
@@ -3480,8 +3485,10 @@
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
-- [QaidVoid/soar](https://github.com/QaidVoid/soar) – WIP: A highly experimental package manager
+- [QaidVoid/soar](https://github.com/QaidVoid/soar) – WIP: A fast, modern package manager for Linux systems.
+- [QaidVoid/to-capnp](https://github.com/QaidVoid/to-capnp) – JSON metadata to Cap'n Proto
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) – 🤖 The Modern Port Scanner 🤖
@@ -4152,6 +4159,7 @@
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
 - [LloydAsp/NodeBench](https://github.com/LloydAsp/NodeBench) – vps聚合测试脚本，直接输出排版好的markdown格式，方便粘贴
 - [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) – Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
+- [M0Rf30/PKGBUILD](https://github.com/M0Rf30/PKGBUILD) – robertfoster's PKGBUILD
 - [Macmod/CloudPersist](https://github.com/Macmod/CloudPersist) – A collection of simple scripts to achieve persistence quick in cloud environments without generating too much noise.
 - [Magisk-Modules-Alt-Repo/custom-certificate-authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) – A Magisk module which adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store. 
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
@@ -4567,6 +4575,7 @@
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) – 🐳 Full-fledged Android SDK Docker Image
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
 - [tiiuae/aarch64_bin_builder](https://github.com/tiiuae/aarch64_bin_builder) – Statically linked arm64/aarch64 binaries for everyday needs
+- [tincan-linux/graveyard](https://github.com/tincan-linux/graveyard) – Where packages go to die.
 - [tincan-linux/repo-core](https://github.com/tincan-linux/repo-core) – Core package repository for Tin Can Linux.
 - [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -4719,6 +4728,7 @@
 - [electron/asar](https://github.com/electron/asar) – Simple extensive tar-like archive format with indexing
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
+- [flathub-infra/website](https://github.com/flathub-infra/website) – Monorepo with website and API
 - [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -4854,7 +4864,7 @@
 
 ## Yara
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – the paranoid open-source malware scanner
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – the subtle malware scanner
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) – Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 <div id="zig"></div>
@@ -4869,6 +4879,7 @@
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
 - [kubkon/emerald](https://github.com/kubkon/emerald) – ld drop-in replacement written in Zig
+- [kubkon/zelf](https://github.com/kubkon/zelf) – Zig's ELF parser utility
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
