@@ -171,7 +171,6 @@
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation.
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – ruri container manager.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
-- [NekoSekaiMoe/moe-container-manager](https://github.com/NekoSekaiMoe/moe-container-manager) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
@@ -555,6 +554,7 @@
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
 - [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
+- [dabao1955/moe-container-manager](https://github.com/dabao1955/moe-container-manager) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
@@ -1862,7 +1862,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2420 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3030 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -4502,6 +4502,7 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
+- [probonopd/xordspar0-packages](https://github.com/probonopd/xordspar0-packages)
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
@@ -4869,7 +4870,7 @@
 
 ## Yara
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – the subtle malware scanner
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – not your typical #malware scanner
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) – Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 <div id="zig"></div>
