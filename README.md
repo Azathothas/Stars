@@ -729,6 +729,7 @@
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
 - [alvr/alpine-android](https://github.com/alvr/alpine-android) – 🐋 Small docker image for building & testing Android applications.
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
+- [beeware/briefcase-linux-appimage-template](https://github.com/beeware/briefcase-linux-appimage-template) – A template for generating Linux AppImage projects with Briefcase
 - [captn3m0/repology-dump-docker](https://github.com/captn3m0/repology-dump-docker)
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
@@ -3512,6 +3513,7 @@
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) – Kill orphan processes
+- [Toxikuu/rid](https://github.com/Toxikuu/rid) – minimal source-based package manager for lfs in rust
 - [Troels51/dtui](https://github.com/Troels51/dtui) – Small TUI for introspecting the state of the system/session dbus
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
@@ -4183,6 +4185,7 @@
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
+- [Phantop/appdwarf](https://github.com/Phantop/appdwarf) – Tool to compress and run programs using dwarfs
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
@@ -4209,6 +4212,7 @@
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
+- [Toxikuu/rid-meta](https://github.com/Toxikuu/rid-meta) – main rid repository
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
 - [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
 - [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
@@ -4502,7 +4506,7 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
-- [probonopd/xordspar0-packages](https://github.com/probonopd/xordspar0-packages)
+- [probonopd/alpine2appimage](https://github.com/probonopd/alpine2appimage)
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
@@ -4870,7 +4874,7 @@
 
 ## Yara
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – not your typical #malware scanner
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) – a new take on #malware #detection
 - [rednaga/APKiD](https://github.com/rednaga/APKiD) – Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
 <div id="zig"></div>
