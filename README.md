@@ -194,6 +194,7 @@
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) – Unofficial mirror of mob development branch
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) – A top utility for IO
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [VHSgunzo/runimage-runtime-static](https://github.com/VHSgunzo/runimage-runtime-static) – Statically compiled runimage-runtime
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) – Less than 100 Kilobytes. Works for Android 5.1 and above
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
@@ -2678,6 +2679,7 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -2952,7 +2954,6 @@
 - [Tw1sm/RITM](https://github.com/Tw1sm/RITM) – Roast in the Middle
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
-- [VHSgunzo/runimage-fake-systemd](https://github.com/VHSgunzo/runimage-fake-systemd) – Fake systemd for RunImage container
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) – Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captchas for free with AI.
 - [Vinyzu/chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints) – A Collection of 10.000 collected Windows Chrome Fingerprints. Usable with an easy-to-use API, available as a compressed (lzma) or full-size Json (view Releases). Its just 1.4mb in size in compressed form, and fast in read times.
 - [Vozec/CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) – This repository presents a proof-of-concept of CVE-2023-7028
@@ -4222,10 +4223,10 @@
 - [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
 - [VHSgunzo/lwrun](https://github.com/VHSgunzo/lwrun) – Lux Wine runtime container
 - [VHSgunzo/portarch](https://github.com/VHSgunzo/portarch) – Portable Arch Linux
-- [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/runimage-fake-nvidia-driver](https://github.com/VHSgunzo/runimage-fake-nvidia-driver) – Fake Nvidia driver for RunImage container
 - [VHSgunzo/runimage-fake-sudo-pkexec](https://github.com/VHSgunzo/runimage-fake-sudo-pkexec) – Fake sudo and pkexec for RunImage container
+- [VHSgunzo/runimage-fake-systemd](https://github.com/VHSgunzo/runimage-fake-systemd) – Fake systemd for RunImage container
 - [VHSgunzo/runimage-mirrorlist](https://github.com/VHSgunzo/runimage-mirrorlist) – Repository mirrorlist for RunImage container with precompiled packages
 - [VHSgunzo/runimage-nvidia-drivers](https://github.com/VHSgunzo/runimage-nvidia-drivers) – Nvidia driver images for runimage
 - [VHSgunzo/runimage-openssh](https://github.com/VHSgunzo/runimage-openssh) – SSH protocol implementation for remote login, command execution and file transfer for RunImage container
