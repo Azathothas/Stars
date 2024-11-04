@@ -2193,6 +2193,7 @@
 - [wdahlenburg/Hounds](https://github.com/wdahlenburg/Hounds) – Chromium based web crawler that identifies in-scope urls
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
+- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
@@ -2676,6 +2677,7 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
+- [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -3488,7 +3490,6 @@
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
-- [QaidVoid/soar](https://github.com/QaidVoid/soar) – WIP: A fast, modern package manager for Linux systems.
 - [QaidVoid/to-capnp](https://github.com/QaidVoid/to-capnp) – JSON metadata to Cap'n Proto
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
@@ -3516,6 +3517,7 @@
 - [Toxikuu/rid](https://github.com/Toxikuu/rid) – minimal source-based package manager for lfs in rust
 - [Troels51/dtui](https://github.com/Troels51/dtui) – Small TUI for introspecting the state of the system/session dbus
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+- [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
@@ -3881,6 +3883,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) – CLI to manage emails
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
+- [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – `pls` is a prettier and powerful `ls(1)` for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
@@ -3947,6 +3950,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
 - [saidsay-so/gateau](https://github.com/saidsay-so/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
+- [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) – A set of crates dedicated to parsing YAML.
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
@@ -4214,17 +4218,10 @@
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
 - [Toxikuu/rid-meta](https://github.com/Toxikuu/rid-meta) – main rid repository
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
-- [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
-- [VHSgunzo/bubblewrap-static](https://github.com/VHSgunzo/bubblewrap-static) – Statically compiled bubblewrap
-- [VHSgunzo/coreutils-static](https://github.com/VHSgunzo/coreutils-static) – Statically compiled coreutils with musl
-- [VHSgunzo/findutils-static](https://github.com/VHSgunzo/findutils-static) – Statically compiled findutils with musl
-- [VHSgunzo/gawk-static](https://github.com/VHSgunzo/gawk-static) – Statically compiled gawk with musl
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
-- [VHSgunzo/grep-static](https://github.com/VHSgunzo/grep-static) – Statically compiled grep with musl
 - [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
 - [VHSgunzo/lwrun](https://github.com/VHSgunzo/lwrun) – Lux Wine runtime container
 - [VHSgunzo/portarch](https://github.com/VHSgunzo/portarch) – Portable Arch Linux
-- [VHSgunzo/procps-static](https://github.com/VHSgunzo/procps-static) – Statically compiled procps
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) – Portable single-file linux container
 - [VHSgunzo/runimage-fake-nvidia-driver](https://github.com/VHSgunzo/runimage-fake-nvidia-driver) – Fake Nvidia driver for RunImage container
@@ -4235,15 +4232,7 @@
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
-- [VHSgunzo/sed-static](https://github.com/VHSgunzo/sed-static) – Statically compiled sed with musl
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run shared binary everywhere
-- [VHSgunzo/socat-static](https://github.com/VHSgunzo/socat-static) – Statically compiled socat with musl
-- [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically compiled squashfs-tools
-- [VHSgunzo/tar-static](https://github.com/VHSgunzo/tar-static) – Statically compiled tar with musl
-- [VHSgunzo/util-linux-static](https://github.com/VHSgunzo/util-linux-static) – Statically compiled util-linux
-- [VHSgunzo/which-static](https://github.com/VHSgunzo/which-static) – Statically compiled which with musl
-- [VHSgunzo/xz-static](https://github.com/VHSgunzo/xz-static) – Statically compiled xz with musl
-- [VHSgunzo/zstd-static](https://github.com/VHSgunzo/zstd-static) – Statically compiled zstd with musl
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) – 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -4623,7 +4612,6 @@
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
-- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
 - [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
