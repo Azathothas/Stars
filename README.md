@@ -2194,7 +2194,7 @@
 - [wdahlenburg/Hounds](https://github.com/wdahlenburg/Hounds) – Chromium based web crawler that identifies in-scope urls
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
-- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
+- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
@@ -2304,7 +2304,7 @@
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-- [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop ⚡
+- [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
@@ -2460,7 +2460,6 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Multi-Platform (Android|Linux|Windows) Pre-Compiled (+ UPXed) Static Binaries (incl. Build Scripts) :: https://bin.ajam.dev
-- [Azathothas/Toolpacks-Extras](https://github.com/Azathothas/Toolpacks-Extras) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -2678,8 +2677,8 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs)
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -3419,6 +3418,7 @@
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
+- [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) – NES emulator in rust with egui and TUI
@@ -3622,6 +3622,7 @@
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
+- [crazyscot/qcp](https://github.com/crazyscot/qcp) – Quick File Copy using QUIC
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
 - [curlpipe/ox](https://github.com/curlpipe/ox) – The simple but flexible text editor
 - [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) – Screensavers for your terminal.
@@ -3725,6 +3726,7 @@
 - [immunant/c2rust](https://github.com/immunant/c2rust) – Migrate C code to Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
+- [indygreg/linux-packaging-rs](https://github.com/indygreg/linux-packaging-rs) – Rust projects related to Linux packaging
 - [innobead/huber](https://github.com/innobead/huber) – Huber 📦, Package Install Manager for GitHub repos
 - [insanitybit/cargo-sandbox](https://github.com/insanitybit/cargo-sandbox)
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
@@ -3812,6 +3814,7 @@
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
+- [miniben-90/x-win](https://github.com/miniben-90/x-win) – This package allows you to retrieve precise information about active and open windows on Windows, MacOS, and Linux. You can obtain the position, size, title, and other memory of windows.
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
@@ -3980,6 +3983,7 @@
 - [sitkevij/hex](https://github.com/sitkevij/hex) – 🔮 Futuristic take on hexdump, made in Rust. 
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
+- [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits and seccomp.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
@@ -4233,7 +4237,7 @@
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
-- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run shared binary everywhere
+- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked binaries everywhere
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) – 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -4284,7 +4288,7 @@
 - [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
-- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) - Also with stats & dynamic Hall of Shame blocklists!!
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) - Also with stats & dynamic Hall of Shame blocklists.
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
@@ -4493,6 +4497,7 @@
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Soar Build (.SBUILD) Recipes to Build, Install & Integrate Everything 
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
