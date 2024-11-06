@@ -168,7 +168,7 @@
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation.
+- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation, currently supports arm64, armv7, armhf, riscv64, i386, loong64, s390x, ppc64le and x86_64.
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – ruri container manager.
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -2677,7 +2677,7 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [WORK-IN-PROGRESS]📀 Smoll Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -3630,6 +3630,7 @@
 - [dalance/gip](https://github.com/dalance/gip) – a command-line tool to get global IP address
 - [dalance/pipecolor](https://github.com/dalance/pipecolor) – A terminal filter to colorize output
 - [dalance/procs](https://github.com/dalance/procs) – A modern replacement for ps written in Rust
+- [dan-online/parrot](https://github.com/dan-online/parrot) – 🦜Parrot is a Rust-based GUI in Tauri for the Arch Linux package manager, pacman using the wrapper paru. Designed to be intuitive, powerful and user-friendly
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd) – A tool to create visual HTML reports from collections of CSV/TSV tables
@@ -4237,7 +4238,7 @@
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
-- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked binaries everywhere
+- [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked ELF binaries everywhere
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) – 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -4423,6 +4424,7 @@
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
+- [leleliu008/non-relocatable-binary-packages](https://github.com/leleliu008/non-relocatable-binary-packages)
 - [leleliu008/ppkg](https://github.com/leleliu008/ppkg) – A portable package builder/manager for Unix-like system.
 - [leleliu008/ppkg-formula-repository-official-core](https://github.com/leleliu008/ppkg-formula-repository-official-core) – official formula repository for ppkg
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
