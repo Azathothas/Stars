@@ -2680,7 +2680,6 @@
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
-- [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -3225,6 +3224,7 @@
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
+- [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [okigan/awscurl](https://github.com/okigan/awscurl) – curl-like access to AWS resources with AWS Signature Version 4 request signing.
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
@@ -3540,6 +3540,7 @@
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) – 👩‍💻 A CLI Tool for Command Line Insights
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) – 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
+- [Zalexanninev15/GRU](https://github.com/Zalexanninev15/GRU) – Updater for applications from GitHub.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) – Network Top -- Help you monitor network traffic with bpf
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
 - [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
@@ -3555,6 +3556,7 @@
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
+- [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: access data freely.
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [asciinema/agg](https://github.com/asciinema/agg) – asciinema gif generator
@@ -3650,6 +3652,7 @@
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) – ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [dpc/fs-dir-cache](https://github.com/dpc/fs-dir-cache) – A CLI tool for CIs and build scripts, making file system based caching easy and correct (locking, eviction, etc.)
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) – Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [dswd/vpncloud](https://github.com/dswd/vpncloud) – Peer-to-peer VPN
 - [dszczyt/rust-jwt-cracker](https://github.com/dszczyt/rust-jwt-cracker) – JWT brute force token cracker written in rust
@@ -3707,6 +3710,7 @@
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
+- [gimli-rs/object](https://github.com/gimli-rs/object) – A unified interface for reading and writing object file formats
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
@@ -3759,6 +3763,7 @@
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – Blazing-fast Data-Wrangling toolkit
 - [jubako/arx](https://github.com/jubako/arx) –   Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [jullanggit/bubblewrapped](https://github.com/jullanggit/bubblewrapped) – My personal bubblewrap-wrapper
+- [justxuewei/ubuild](https://github.com/justxuewei/ubuild) – The ubuild, standing for universal build, runs commands in a portable environment.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making
 - [jwt-rs/jwt-ui](https://github.com/jwt-rs/jwt-ui) – A command line UI for decoding/encoding JSON Web Tokens
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
@@ -3790,7 +3795,6 @@
 - [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more!
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
-- [lotabout/skim](https://github.com/lotabout/skim) – Fuzzy Finder in rust!
 - [lowitea/gitlobster](https://github.com/lowitea/gitlobster) – 🦞 A tool for full cloning all available repositories from a GitLab instance.
 - [lsk569937453/eagle](https://github.com/lsk569937453/eagle) – A tool to plot the memory and cpu usage.
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
@@ -3894,6 +3898,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More
+- [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – `pls` is a prettier and powerful `ls(1)` for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
@@ -3988,6 +3993,7 @@
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
 - [sitkevij/hex](https://github.com/sitkevij/hex) – 🔮 Futuristic take on hexdump, made in Rust. 
+- [skim-rs/skim](https://github.com/skim-rs/skim) – Fuzzy Finder in rust!
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits and seccomp.
@@ -4294,7 +4300,7 @@
 - [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
 - [blues-lab/getapk](https://github.com/blues-lab/getapk) – Small CLI program that uses an Android device and adb tp download raw APK files from the Google Play store.
 - [bootlin/toolchains-builder](https://github.com/bootlin/toolchains-builder)
-- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence) - Also with stats & dynamic Hall of Shame blocklists.
+- [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence)
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
@@ -4492,7 +4498,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [oasislinux/root-x86_64](https://github.com/oasislinux/root-x86_64)
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
-- [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
