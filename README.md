@@ -4836,7 +4836,7 @@
 
 ## Vala
 
-- [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) – Task manager with Todoist & Nextcloud support designed for GNOME
 - [manjaro/pamac](https://github.com/manjaro/pamac) – Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
 - [manjaro/pamac-cli](https://github.com/manjaro/pamac-cli) – Terminal Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support
 
