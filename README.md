@@ -1591,7 +1591,7 @@
 - [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) – 👻Stowaway -- Multi-hop Proxy Tool for pentesters
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) – Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [piaolin/DetectDee](https://github.com/piaolin/DetectDee) – DetectDee: Hunt down social media accounts by username, email or phone across social networks.
-- [picosh/pico](https://github.com/picosh/pico) – hacker labs - open source and managed web services leveraging SSH
+- [picosh/pico](https://github.com/picosh/pico) – services that empower developers using ssh
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
@@ -2084,6 +2084,7 @@
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -2313,7 +2314,6 @@
 
 ## LUA
 
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) – A code editor made with Godot. Code has never been more lit!
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
