@@ -2970,6 +2970,7 @@
 - [actionless/pikaur](https://github.com/actionless/pikaur) – AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
 - [ading2210/python-static](https://github.com/ading2210/python-static) – A set of scripts to compile a static Python binary that's only 5.1MB in size, inlcuding the entire standard library.
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) – A linter for YAML files.
 - [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) – Patch boot image with magisk on windows/linux/macos
 - [agateau/clyde-store](https://github.com/agateau/clyde-store) – Package definitions for Clyde, the prebuilt application package manager.
 - [airbus-seclab/cpu_rec](https://github.com/airbus-seclab/cpu_rec) – Recognize cpu instructions in an arbitrary binary file
@@ -3814,6 +3815,7 @@
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) – A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
+- [mcandre/unmake](https://github.com/mcandre/unmake) – a makefile linter
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
