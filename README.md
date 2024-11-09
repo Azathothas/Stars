@@ -3855,6 +3855,7 @@
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
 - [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
+- [nixcloud/fixPath](https://github.com/nixcloud/fixPath) – A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [norskeld/pingmole](https://github.com/norskeld/pingmole) – CLI that helps to filter Mullvad servers and pick the closest one.
 - [novafacing/memfd-exec](https://github.com/novafacing/memfd-exec) – Execute binaries straight from memory, without touching disk, with a friendly interface!
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
