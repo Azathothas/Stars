@@ -25,6 +25,7 @@
 - [Diff](#diff)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
+- [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
 - [HTML](#html)
@@ -44,6 +45,7 @@
 - [Mathematica](#mathematica)
 - [Mdx](#mdx)
 - [Meson](#meson)
+- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nsis](#nsis)
@@ -147,6 +149,7 @@
 
 - [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [Alessandro-Salerno/tarman](https://github.com/Alessandro-Salerno/tarman) – The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
@@ -206,6 +209,7 @@
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) – [MIRROR] Alpine package manager
 - [antirez/kilo](https://github.com/antirez/kilo) – A text editor in less than 1000 LOC with syntax highlight and search.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
@@ -564,6 +568,7 @@
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
+- [falconindy/auracle](https://github.com/falconindy/auracle) – A flexible command line client for Arch Linux's User Repository
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) – Stream virtual desktops and games running in Docker
@@ -765,6 +770,12 @@
 
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) – Compile binaries for macOS on Linux
 
+<div id="elixir"></div>
+
+## Elixir
+
+- [upmaru/pakman](https://github.com/upmaru/pakman) – 📦 Build project into Self contained package for deployment
+
 <div id="elm"></div>
 
 ## Elm
@@ -785,6 +796,7 @@
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
+- [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) – 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [AlistGo/alist](https://github.com/AlistGo/alist) – 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [Allaman/gstring](https://github.com/Allaman/gstring) – Swiss army knife for manipulating strings.
@@ -1053,6 +1065,7 @@
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – multi-shell multi-command argument completer
 - [cashapp/hermit](https://github.com/cashapp/hermit) – 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
+- [cassava/repoctl](https://github.com/cassava/repoctl) – Make it easy to manage your local Arch Linux repository.
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source cloud operating system management platform, online demo: https://door.casvisor.com
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) – 📦  Make security testing of K8s, Docker, and Containerd easier.
@@ -1384,7 +1397,7 @@
 - [k1LoW/sheer-heart-attack](https://github.com/k1LoW/sheer-heart-attack) – :bomb: A debugging tool that can execute any command on process/host metrics trigger :boom: .
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [kahing/goofys](https://github.com/kahing/goofys) – a high-performance, POSIX-ish Amazon S3 file system written in Go
-- [kairos-io/kairos](https://github.com/kairos-io/kairos) – :penguin: The immutable Linux meta-distribution for edge Kubernetes.
+- [kairos-io/kairos](https://github.com/kairos-io/kairos) – The immutable Linux meta-distribution for edge Kubernetes.
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
 - [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need, without compromising your apps.
@@ -1439,7 +1452,7 @@
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) – Web based real-time log viewer. Stream ANY content to a web UI with autogenerated filters. Parse any format with TypeScript.
 - [lollipopkit/server_box_monitor](https://github.com/lollipopkit/server_box_monitor) – ServerBox on server end.
 - [lostdusty/cobalt](https://github.com/lostdusty/cobalt) – Unofficial cobalt command line client made in go.
-- [lucasew/ts-proxy](https://github.com/lucasew/ts-proxy) – Allows one to expose one HTTP port as one tailscale device. Supports funnel.
+- [lucasew/ts-proxy](https://github.com/lucasew/ts-proxy) – Simple proxy program to allow exposing individual services to a Tailnet, and even to the Internet using Tailscale Funnel.
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [lwch/natpass](https://github.com/lwch/natpass) – 🔥居家办公，远程开发神器
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) – System container image builder for LXC and Incus
@@ -1725,6 +1738,7 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) – Talos Linux is a modern Linux distribution built for Kubernetes.
 - [sigstore/cosign](https://github.com/sigstore/cosign) – Code signing and transparency for containers and binaries
 - [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
+- [simonfxr/nix-download](https://github.com/simonfxr/nix-download) – A fully self contained tool to fetch nix store paths from binary caches
 - [six-ddc/plow](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [six2dez/ipcdn](https://github.com/six2dez/ipcdn) – Check which CDN providers an IP list belongs to
 - [sj14/dbbench](https://github.com/sj14/dbbench) – 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
@@ -1870,7 +1884,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3030 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3070 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -2203,6 +2217,7 @@
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
 - [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
+- [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
@@ -2321,6 +2336,7 @@
 
 ## LUA
 
+- [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) – Official Alpine Linux Docker image. Win at minimalism!
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) – A code editor made with Godot. Code has never been more lit!
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
@@ -2375,6 +2391,12 @@
 
 - [frida/frida](https://github.com/frida/frida) – Clone this repo to build Frida
 
+<div id="mustache"></div>
+
+## Mustache
+
+- [meowrch/meowrch](https://github.com/meowrch/meowrch) – ≽ܫ≼ Meowrch: where Linux purrs with elegance and grace.
+
 <div id="nim"></div>
 
 ## Nim
@@ -2398,6 +2420,7 @@
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) – A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
 - [QaidVoid/nix-config](https://github.com/QaidVoid/nix-config)
+- [SamLukeYes/archix](https://github.com/SamLukeYes/archix) – Utilities for Arch Linux development, in a flake
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
@@ -2468,7 +2491,7 @@
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries (incl. Build Scripts) & Package Manager (rust) :: https://github.com/pkgforge/soar
-- [Azathothas/Toolpacks-Snapshots-Actions](https://github.com/Azathothas/Toolpacks-Snapshots-Actions) – GH Actions for https://huggingface.co/datasets/Azathothas/Toolpacks-Snapshots
+- [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Importing  Toolpacks to PkgForge's BinCache
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -2511,7 +2534,7 @@
 - [PeterDaveHello/threat-hostlist](https://github.com/PeterDaveHello/threat-hostlist) – Comprehensive domain blocklists for 🚨 threats (🕷malware, 🎣phishing, 🕵️spyware, 🤖botnets). Ideal for DNS-based filtering tools like Pi-Hole, AdGuard Home, Blocky.
 - [PinoyWH1Z/SSH-Private-Key-Looting-Wordlists](https://github.com/PinoyWH1Z/SSH-Private-Key-Looting-Wordlists) – SSH Private Key Looting Wordlists. A collection of wordlists to aid in locating or brute-forcing SSH private key file names.
 - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) – The Unofficial PowerShell Best Practices and Style Guide
-- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) – A list of FLOSS games available on Steam (75 so far)
+- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) – A list of FLOSS games, mods and software available on Steam (86 so far)
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
@@ -2966,6 +2989,7 @@
 - [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) – A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Cloudflare challenges to visitors
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
+- [a-scie/lift](https://github.com/a-scie/lift) – Provides science, a high level tool to build scies with.
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
@@ -3521,6 +3545,7 @@
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
+- [Systemcluster/wrappe](https://github.com/Systemcluster/wrappe) –  Packer for creating self-contained single-binary applications from executables and directories. Distribute your application without the need for an installer, with smaller file size and faster startup than many alternatives 📦
 - [TheAlgorythm/zsplit](https://github.com/TheAlgorythm/zsplit) – Split text into multiple files by line
 - [TheBinitGhimire/NtHiM](https://github.com/TheBinitGhimire/NtHiM) – Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
@@ -3536,6 +3561,7 @@
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
 - [VHSgunzo/ulexec](https://github.com/VHSgunzo/ulexec) – A tool for loading and executing PE on Windows and ELF on Linux from memory written in Rust
 - [VHSgunzo/uruntime](https://github.com/VHSgunzo/uruntime) – Universal RunImage and AppImage runtime with SquashFS and DwarFS supports
+- [VHSgunzo/wrappe](https://github.com/VHSgunzo/wrappe) –  Packer for creating self-contained single-binary applications from executables and directories. Distribute your application without the need for an installer, with smaller file size and faster startup than many alternatives 📦
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
@@ -3606,6 +3632,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) – JS to WebAssembly toolchain
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
+- [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [casey/intermodal](https://github.com/casey/intermodal) – A command-line utility for BitTorrent torrent file creation, verification, and more
@@ -3750,6 +3777,7 @@
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [io12/unf](https://github.com/io12/unf) – UNixize Filename -- replace annoying anti-unix characters in filenames
 - [io12/userland-execve-rust](https://github.com/io12/userland-execve-rust) – An implementation of execve() in user space
+- [iqlusioninc/canister](https://github.com/iqlusioninc/canister) –  Deploy self-contained binaries from GCP Container Registry (gcr.io) as systemd service units
 - [irishmaestro/fubar](https://github.com/irishmaestro/fubar) – Formidable Unix Binary Arsenal & Repository. TUI built for offline payload generation, retrieval, and exfiltration.
 - [islet-project/islet](https://github.com/islet-project/islet) – An on-device confidential computing platform
 - [ismaelgv/rnr](https://github.com/ismaelgv/rnr) – A command-line tool to batch rename files and directories
@@ -3923,7 +3951,6 @@
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
-- [pwnwriter/x4](https://github.com/pwnwriter/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
@@ -4061,6 +4088,7 @@
 - [twitchax/rtz](https://github.com/twitchax/rtz) – A tool to easily work with timezone lookups via a binary, a library, or a server.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
 - [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
+- [ursm/handlematters](https://github.com/ursm/handlematters) – Self-contained template system with Handlebars and inline shell scripts
 - [uutils/coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
 - [uutils/diffutils](https://github.com/uutils/diffutils) – Drop-in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
@@ -4168,6 +4196,7 @@
 - [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) – A Steam Big Picture based couch gaming OS
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) – Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) – Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+- [Cody-Learner/aurch](https://github.com/Cody-Learner/aurch) – An Arch Linux AUR helper, aurutils wrapper script that sets up aurutils in an nspawn container.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) – 🚦Bash script to generate a static status page.
 - [DanielGibson/DanielGibson.github.io](https://github.com/DanielGibson/DanielGibson.github.io) – My blog, I guess
 - [DannyBen/rush](https://github.com/DannyBen/rush) – Personal Package Manager - run your GitHub hosted scripts, locally.
@@ -4289,6 +4318,9 @@
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
 - [ansemjo/version.sh](https://github.com/ansemjo/version.sh) – output identical version strings from repository clones or downloaded archives
+- [archlinux/arch-boxes](https://github.com/archlinux/arch-boxes) – Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors (read-only mirror) 
+- [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) – Docker Base Image for Arch Linux (read-only mirror)
+- [archlinux/devtools](https://github.com/archlinux/devtools) – Tools for Arch Linux package maintainers (read-only mirror)
 - [arget13/DDexec](https://github.com/arget13/DDexec) – A technique to run binaries filelessly and stealthily on Linux by "overwriting" the shell's process with another.
 - [armbian/build](https://github.com/armbian/build) – Armbian Linux build framework generates custom Debian or Ubuntu image for x86, aarch64, riscv64 & armhf
 - [armbian/os](https://github.com/armbian/os) – Armbian operating system rolling releases provides automated nightly builds of maintained targets
@@ -4307,6 +4339,7 @@
 - [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) – 一键DD/重装脚本 (One-click reinstall OS on VPS)
+- [binhex/arch-base](https://github.com/binhex/arch-base) – Docker build script for Arch Linux base
 - [binpash/try](https://github.com/binpash/try) – Inspect a command's effects before modifying your live system
 - [bitnami/minideb](https://github.com/bitnami/minideb) – A small image based on Debian designed for use in containers
 - [blinksh/mosh-static-multiarch](https://github.com/blinksh/mosh-static-multiarch) – Static builds of mosh-server
@@ -4348,7 +4381,9 @@
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) – dracut the event driven initramfs infrastructure
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) – Emulator configurator for Steam Deck
 - [dreamkinn/CompileCSDocker](https://github.com/dreamkinn/CompileCSDocker) – Compile SharpHound and others on Linux
+- [drizzt/vps2arch](https://github.com/drizzt/vps2arch) – The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
 - [droidian/glibc-downgrade](https://github.com/droidian/glibc-downgrade)
+- [drunkod/nix-static-setup](https://github.com/drunkod/nix-static-setup) – Bash script that automates the steps you provided for setting up a static version of Nix. This script will download the latest static version of Nix, configure the necessary settings, and provide commands to build and run programs.
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) – Concise GitHub Action for installing a Rust toolchain
 - [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) – text window manager, shell multiplexer, integrated DevOps environment
 - [dwisiswant0/gf-secrets](https://github.com/dwisiswant0/gf-secrets) – Secret and/or credential patterns used for gf.
@@ -4362,6 +4397,7 @@
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) – Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
+- [fcolista/apkfile](https://github.com/fcolista/apkfile) – Search files inside various version of Alpine Linux packages 
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
@@ -4393,6 +4429,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
+- [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
 - [heyhusen/archlinux-package-action](https://github.com/heyhusen/archlinux-package-action) – GitHub Action to run Arch Linux's package tools
 - [hiifeng/V2ray-for-AlwaysData](https://github.com/hiifeng/V2ray-for-AlwaysData) – The tool can install v2ray on the AlwaysData, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
@@ -4448,8 +4485,10 @@
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
 - [leleliu008/non-relocatable-binary-packages](https://github.com/leleliu008/non-relocatable-binary-packages)
+- [leleliu008/perl-distribution](https://github.com/leleliu008/perl-distribution) – A self-contained and relocatable Perl distribution
 - [leleliu008/ppkg](https://github.com/leleliu008/ppkg) – A portable package builder/manager for Unix-like system.
 - [leleliu008/ppkg-formula-repository-official-core](https://github.com/leleliu008/ppkg-formula-repository-official-core) – official formula repository for ppkg
+- [leleliu008/python-distribution](https://github.com/leleliu008/python-distribution) – A self-contained and relocatable CPython distribution
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
@@ -4459,6 +4498,7 @@
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [maciejwalkowiak/sinit](https://github.com/maciejwalkowiak/sinit) – sinit - command line shiny Spring Boot project initialzer 🚀
+- [macmpi/alpine-linux-headless-bootstrap](https://github.com/macmpi/alpine-linux-headless-bootstrap) – Headless Alpine Linux bootstrapping scripts
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) – Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) – 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) – Desktop notifications for long-running commands in zsh.
@@ -4470,6 +4510,7 @@
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) – Write any bash with only the punctuation characters
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
 - [metis-os/metis-wallpapers](https://github.com/metis-os/metis-wallpapers) – ✨  A collection of beautiful wallpapers for @metis-os
+- [microsounds/atelier](https://github.com/microsounds/atelier) – Personal dotfiles, shell scripts—my self-contained graphical shell environment for Debian GNU/Linux, based on xorg, dwm, sxhkd, and urxvt.
 - [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide) – Raspberry Pi Guide. Learn all about the Raspberry Pi and other cool tools such as Tailscale, WireGuard, Home Assistant, Homebridge, ESPHome, and Watchdog timer.
 - [milahu/opensubtitles-scraper-new-subs](https://github.com/milahu/opensubtitles-scraper-new-subs)
 - [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
@@ -4514,6 +4555,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
+- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
@@ -4540,6 +4582,7 @@
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
 - [rdavid/shellbase](https://github.com/rdavid/shellbase) – The framework is specifically designed for Unix shell scripts.
 - [rear/rear](https://github.com/rear/rear) – Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
+- [redoracle/nixos](https://github.com/redoracle/nixos) – Alpine + Nix (latest version)
 - [redox-os/redox](https://github.com/redox-os/redox) – Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [redraw/gh-install](https://github.com/redraw/gh-install) – install GitHub release binaries from the CLI interactively
 - [referefref/canarytokendetector](https://github.com/referefref/canarytokendetector) – Detect and remove the presence of canary tokens
@@ -4558,6 +4601,7 @@
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
+- [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
@@ -4574,7 +4618,7 @@
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spewwerrier/dotfiles_public](https://github.com/spewwerrier/dotfiles_public)
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
@@ -4612,6 +4656,7 @@
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
+- [tpowa/Archboot](https://github.com/tpowa/Archboot) –  Archboot is a most advanced, modular Arch Linux boot/install image creation utility to generate bootable media for CD/USB/PXE, designed for installation or rescue operation.
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
@@ -4626,6 +4671,7 @@
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
+- [vegardit/await.sh](https://github.com/vegardit/await.sh) – Self-contained POSIX shell scripts to await the availability of resources and services. Can be used as a workaround for Docker Swarm's missing depends_on support.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
 - [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm) – Use DragonFly BSD in github actions
 - [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) – Use FreeBSD in github actions
@@ -4634,6 +4680,7 @@
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) – The Void source packages collection
 - [wfxr/forgit](https://github.com/wfxr/forgit) – :zzz: A utility tool powered by fzf for using git interactively.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
+- [wick3dr0se/archstrap](https://github.com/wick3dr0se/archstrap) – A stupid simple script to bootstrap Arch Linux from other Linux distributions
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) – winesapOS - Game with Linux anywhere, no installation required!
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
@@ -4641,6 +4688,7 @@
 - [wowsignal-io/android-tools](https://github.com/wowsignal-io/android-tools)
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) – A collection of utilities for Windows Subsystem for Linux
 - [x1337loser/Dependency-Confusion](https://github.com/x1337loser/Dependency-Confusion) – All About Dependency Confusion Attack, (Detecting, Finding, Mitigating)
+- [x3ric/ArchX](https://github.com/x3ric/ArchX) – Automated Arch Installer
 - [xombiemp/ultimate-torrent-setup](https://github.com/xombiemp/ultimate-torrent-setup) – All the files needed for the Ultimate Torrent Setup, featuring Ubuntu, rtorrent, ruTorrent, Sonarr, Radarr.
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
