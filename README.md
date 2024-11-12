@@ -2966,7 +2966,7 @@
 - [SkyperTHC/curlshell](https://github.com/SkyperTHC/curlshell) – reverse shell using curl
 - [Sprocket-Security/fireproxng](https://github.com/Sprocket-Security/fireproxng) – Next generation fireprox AWS API endpoint creation utility.
 - [Squiblydoo/debloat](https://github.com/Squiblydoo/debloat) – A GUI and CLI tool for removing bloat from executables
-- [StateFarmIns/LambdaLooter](https://github.com/StateFarmIns/LambdaLooter) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
+- [StateFarmIns/CLAWS](https://github.com/StateFarmIns/CLAWS) – This application was built to help reduce the amount of time it takes to review AWS Lambda code.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) – 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) – Supervisor process control system for Unix (supervisord)
 - [Sybil-Scan/TLDbrute](https://github.com/Sybil-Scan/TLDbrute) – A simple utility to generate domain names with all possible TLDs
