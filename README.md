@@ -472,7 +472,7 @@
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) – A modern, lightweight text editor with a minimalist design.
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) – One Remote Access Manager to Rule Them All
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and v2fly core and others
 - [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) – PowerToys Run Plugin for searching and opening GitHub repositories
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
