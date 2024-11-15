@@ -2496,8 +2496,8 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – 📦 Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries (incl. Build Scripts) & Package Manager (rust) :: https://github.com/pkgforge/soar
-- [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Importing  Toolpacks to PkgForge's BinCache
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Official (pkgforge-edge) Repo 📦📀 & The Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries (incl. Build Scripts) & Package Manager (rust) :: https://github.com/pkgforge/soar
+- [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
@@ -2711,7 +2711,7 @@
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -2848,7 +2848,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 My Windows 11 dotfiles
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 My Windows dotfiles
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module for fine-tuning Windows
@@ -4574,7 +4574,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Soar Build (.SBUILD) Recipes to Build, Install & Integrate Everything 
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
