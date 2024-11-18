@@ -189,8 +189,6 @@
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) – Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-- [Sysinternals/ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux) – A Linux version of the ProcDump Sysinternals tool
-- [Sysinternals/SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF) – The Linux port of the Sysinternals Sysmon tool.
 - [TUVIMEN/reliq](https://github.com/TUVIMEN/reliq) – HTML parsing and searching tool
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) – Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) – Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
@@ -347,6 +345,8 @@
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
 - [micropython/micropython](https://github.com/micropython/micropython) – MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [microsoft/DirectX-Headers](https://github.com/microsoft/DirectX-Headers) – Official DirectX headers available under an open source license
+- [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) – A Linux version of the ProcDump Sysinternals tool
+- [microsoft/SysinternalsEBPF](https://github.com/microsoft/SysinternalsEBPF) – The Linux port of the Sysinternals Sysmon tool.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) – mimalloc is a compact general purpose allocator with excellent performance.
 - [microsoft/ntttcp](https://github.com/microsoft/ntttcp)
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
@@ -608,7 +608,7 @@
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
-- [radareorg/iaito](https://github.com/radareorg/iaito) – Official QT frontend of radare2
+- [radareorg/iaito](https://github.com/radareorg/iaito) – Official radare2 GUI
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt) – LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 - [ruanformigoni/flatimage](https://github.com/ruanformigoni/flatimage) – FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
@@ -1213,7 +1213,6 @@
 - [elvisgraho/jwt-cracker-go](https://github.com/elvisgraho/jwt-cracker-go) – jwt-cracker-go is a simple brute force cracker for HS256, HS384, and HS512 JWT tokens, inspired by jwt-cracker.
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [ericpauley/ec2-autostart](https://github.com/ericpauley/ec2-autostart) – Automatically starts EC2 instances based on network traffic
-- [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) – Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
@@ -1585,6 +1584,7 @@
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) – OCI Runtime Tools
 - [opensubtitlescli/rest](https://github.com/opensubtitlescli/rest) – Client for accessing the OpenSubtitles REST API.
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+- [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
 - [ory/kratos](https://github.com/ory/kratos) – The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
@@ -1887,8 +1887,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3070 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
-- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3085 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -2513,7 +2512,7 @@
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
-- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd open-source licenses.
+- [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd "open-source" licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
@@ -2585,6 +2584,7 @@
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [caido-community/awesome](https://github.com/caido-community/awesome) – 🔗 A curated list of awesome Caido related projects
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) – Terminal Emulators
 - [cenk/nrd](https://github.com/cenk/nrd) – Newly Registered Domains - Generated from WhoisDS.com free NRD database.
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [chaitin/xpoc](https://github.com/chaitin/xpoc) – 为供应链漏洞扫描设计的快速应急响应工具  [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
@@ -2773,6 +2773,7 @@
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
+- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
@@ -3209,6 +3210,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve its internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
@@ -3302,7 +3304,7 @@
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [repology/repology-rules](https://github.com/repology/repology-rules) – Package normalization ruleset for Repology
 - [repology/repology-updater](https://github.com/repology/repology-updater) – Repology backend service to update repository and package data
-- [repology/repology-webapp](https://github.com/repology/repology-webapp) – Repology web application
+- [repology/repology-webapp](https://github.com/repology/repology-webapp) – Legacy python Repology web application. Deprecated by rust rewrite.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
 - [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
@@ -3496,6 +3498,7 @@
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
+- [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
@@ -3562,11 +3565,11 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
+- [VHSgunzo/notify-send-rs](https://github.com/VHSgunzo/notify-send-rs) – Rust version of notify-send for display notifications on the linux desktop using notify-rust
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
 - [VHSgunzo/ulexec](https://github.com/VHSgunzo/ulexec) – A tool for loading and executing PE on Windows and ELF on Linux from memory written in Rust
 - [VHSgunzo/uruntime](https://github.com/VHSgunzo/uruntime) – Universal RunImage and AppImage runtime with SquashFS and DwarFS supports
-- [VHSgunzo/wrappe](https://github.com/VHSgunzo/wrappe) –  Packer for creating self-contained single-binary applications from executables and directories. Distribute your application without the need for an installer, with smaller file size and faster startup than many alternatives 📦
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
@@ -3646,6 +3649,7 @@
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) – Tool and framework for securely reading untrusted USB mass storage devices.
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) – CLI reimplementation of Scoop in Rust
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) – Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot
+- [chevdor/tera-cli](https://github.com/chevdor/tera-cli) – A command line utility on top of the tera templating engine. Takes json|yaml|toml as input and can merge ENV in. You may see it as envsubst on steroid.
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
 - [cjrh/lifter](https://github.com/cjrh/lifter) – Download and sync new releases of single-file binaries from Github Releases and other sites
@@ -3663,6 +3667,7 @@
 - [codyd51/uefirc](https://github.com/codyd51/uefirc) – An IRC client in your motherboard
 - [cole14/rust-elf](https://github.com/cole14/rust-elf) – Library for parsing ELF files for Rust
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
 - [containers/bootc](https://github.com/containers/bootc) – Boot and upgrade via container images
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
@@ -3774,6 +3779,7 @@
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) – A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
+- [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) – A text editor in ≤1024 lines of code, written in Rust
 - [immunant/c2rust](https://github.com/immunant/c2rust) – Migrate C code to Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
@@ -3793,6 +3799,7 @@
 - [ivre/masscanned](https://github.com/ivre/masscanned) – Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store, hooking binder
+- [jaemk/self_update](https://github.com/jaemk/self_update) – Self updates for rust executables
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
@@ -3899,6 +3906,7 @@
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
 - [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) – A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
+- [nlewo/hydra-cli](https://github.com/nlewo/hydra-cli) – A client for the Hydra Nix CI
 - [norskeld/pingmole](https://github.com/norskeld/pingmole) – CLI that helps to filter Mullvad servers and pick the closest one.
 - [novafacing/memfd-exec](https://github.com/novafacing/memfd-exec) – Execute binaries straight from memory, without touching disk, with a friendly interface!
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
@@ -3943,7 +3951,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) – CLI to manage emails
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
-- [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More
+- [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – `pls` is a prettier and powerful `ls(1)` for the pros.
@@ -3992,13 +4000,16 @@
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
+- [ronnychevalier/cargo-multivers](https://github.com/ronnychevalier/cargo-multivers) – Cargo subcommand to build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) – Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
 - [ruslashev/elfcat](https://github.com/ruslashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
+- [rust-cli/rexpect](https://github.com/rust-cli/rexpect) – .github/workflows/ci.yml
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) – Rust library for build scripts to compile C/C++ code into a Rust library
 - [rust-lang/libm](https://github.com/rust-lang/libm) – A port of MUSL's libm to Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
@@ -4016,6 +4027,7 @@
 - [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) – A set of crates dedicated to parsing YAML.
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
+- [scientiac/toss](https://github.com/scientiac/toss) – throw and catch style moving and copying program
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [serpent-os/tools](https://github.com/serpent-os/tools) – The home of moss (system state manager) and boulder (moss format build tool)
@@ -4574,7 +4586,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – [WORK-IN-PROGRESS] Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
