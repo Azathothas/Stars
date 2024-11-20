@@ -173,7 +173,7 @@
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 - [MirBSD/mksh](https://github.com/MirBSD/mksh) – MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead. See https://github.com/mirabilos/mksh for some experiments autobuilding this with Travis-CI and GitHub Actions and for Coverity Scan.
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Lightweight, User-friendly Linux-container Implementation, currently supports arm64, armv7, armhf, riscv64, i386, loong64, s390x, ppc64le and x86_64.
+- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Linux container, with zero dependency (Lightweight User-friendly Linux-container Implementation)
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -1895,7 +1895,7 @@
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, tab completion, cut/paste portals and a simple gdb front-end.
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, llm tab completion, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [ycd/dstp](https://github.com/ycd/dstp) – 🧪 Run common networking tests against any site.
@@ -1979,6 +1979,7 @@
 
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) – A shell script which checks your $HOME for unwanted files and directories.
 - [cachix/cachix](https://github.com/cachix/cachix) – Command line client for Nix binary cache hosting:
+- [fosskers/aura](https://github.com/fosskers/aura) – A multilingual package manager for Arch Linux and the AUR.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
@@ -3713,6 +3714,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
+- [emabee/flexi_logger](https://github.com/emabee/flexi_logger) – A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
 - [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(observer_ward)Web应用和服务指纹识别工具
 - [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
@@ -3738,6 +3740,7 @@
 - [facebookincubator/below](https://github.com/facebookincubator/below) – A time traveling resource monitor for modern Linux systems
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) – Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
+- [ffizer/ffizer](https://github.com/ffizer/ffizer) – ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
 - [fioncat/otree](https://github.com/fioncat/otree) – A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) – Secure and fast microVMs for serverless computing.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) – The user-friendly command line shell.
@@ -3817,6 +3820,7 @@
 - [justxuewei/ubuild](https://github.com/justxuewei/ubuild) – The ubuild, standing for universal build, runs commands in a portable environment.
 - [jvns/dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making
 - [jwt-rs/jwt-ui](https://github.com/jwt-rs/jwt-ui) – A command line UI for decoding/encoding JSON Web Tokens
+- [k3ii/qdir](https://github.com/k3ii/qdir) – Qdir- Quick Directory Generator
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
@@ -3841,6 +3845,7 @@
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
 - [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
 - [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more!
@@ -3891,11 +3896,12 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) – The Mullvad VPN client app for desktop and mobile
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) – A toolkit for building distributed applications
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [neosmart/securestore-rs](https://github.com/neosmart/securestore-rs) – A simple, encrypted, git-friendly, file-backed secrets manager for rust
+- [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) – Distributed System that simplifies the management of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -3979,6 +3985,7 @@
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) – Find the fastest DNS in your location to improve internet browsing experience.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
+- [radumarias/rencfs](https://github.com/radumarias/rencfs) – An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -4146,6 +4153,7 @@
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) – A JSON Query Language CLI tool
+- [yarrow/zet](https://github.com/yarrow/zet) – CLI utility to find the union, intersection, set difference, etc of files considered as sets of lines
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) – A simple terminal UI for search and replace, ala VS Code.
 - [yinheli/kungfu](https://github.com/yinheli/kungfu) – Flexible DNS hijacking and proxy tool.
 - [ynqa/jnv](https://github.com/ynqa/jnv) – Interactive JSON filter using jq
