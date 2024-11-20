@@ -473,7 +473,7 @@
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) – A modern, lightweight text editor with a minimalist design.
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) – One Remote Access Manager to Rule Them All
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and v2fly core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and others
 - [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) – PowerToys Run Plugin for searching and opening GitHub repositories
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
@@ -1416,6 +1416,7 @@
 - [knadh/otpgateway](https://github.com/knadh/otpgateway) – Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.)
 - [knadh/stuffbin](https://github.com/knadh/stuffbin) – Compress and embed static files and assets into Go binaries and access them with a virtual file system in production
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) – 无状态子域名爆破工具
+- [knqyf263/go-deb-version](https://github.com/knqyf263/go-deb-version) – A golang library for parsing deb package versions
 - [ko-build/ko](https://github.com/ko-build/ko) – Build and deploy Go applications
 - [koki-develop/clive](https://github.com/koki-develop/clive) – ⚡ Automates terminal operations.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1878,6 +1879,7 @@
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
 - [xNaCly/x-git-sync](https://github.com/xNaCly/x-git-sync) – Backup your repository at configured intervals using git
 - [xddxdd/bird-lg-go](https://github.com/xddxdd/bird-lg-go) – BIRD looking glass in Go, for better maintainability, easier deployment & smaller memory footprint
+- [xdeb-org/xdeb-install](https://github.com/xdeb-org/xdeb-install) – Simple tool to automatically download, convert, and install DEB packages on Void Linux via the awesome xdeb tool.
 - [xenophonsec/keeptrak](https://github.com/xenophonsec/keeptrak) – Track recon/OSINT commands in an organized, grepable, fasion.
 - [xenophonsec/w3kollector](https://github.com/xenophonsec/w3kollector) – A greedy website scanner, scraper, and crawler.
 - [xhzeem/paramix](https://github.com/xhzeem/paramix) – Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.
@@ -2713,6 +2715,7 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -2950,7 +2953,7 @@
 - [Ne00n/Multi-Ping](https://github.com/Ne00n/Multi-Ping)
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.12. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) – The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [OfriOuzan/HardeningMeter](https://github.com/OfriOuzan/HardeningMeter) – HardeningMeter is an open-source Python tool carefully designed to comprehensively assess the security hardening of binaries and systems.
 - [Osb0rn3/bugbounty-targets](https://github.com/Osb0rn3/bugbounty-targets) – An automated GitHub Actions-based crawler that fetches and updates public scopes from popular bug bounty platforms.
@@ -3494,6 +3497,7 @@
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
+- [ErrorNoInternet/overmask](https://github.com/ErrorNoInternet/overmask) – Add a writeable overlay on top of read-only files
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
@@ -3509,6 +3513,7 @@
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) – A pretty (simple) alternative to strace
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) – A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
+- [Kixunil/debcrafter](https://github.com/Kixunil/debcrafter) – Crafts complex debian packages from *very rich* specification files
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
@@ -3525,6 +3530,7 @@
 - [MindPatch/lorsrf](https://github.com/MindPatch/lorsrf) – Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load :artificial_satellite: :crab:
 - [MohamedSherifNoureldin/PCtrl](https://github.com/MohamedSherifNoureldin/PCtrl) – Rust based Linux Process Manager with both a GUI and a TUI
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) – Feature packed AUR helper
+- [Morganamilo/srcinfo.rs](https://github.com/Morganamilo/srcinfo.rs) – parser for makepkg's .SRCINFO file format
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
@@ -3532,6 +3538,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) – Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
+- [Patryk27/skicka](https://github.com/Patryk27/skicka) – Send files between machines - no installation required!
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
@@ -3555,6 +3562,7 @@
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
+- [Systemcluster/staticfilemap](https://github.com/Systemcluster/staticfilemap) – Procedural macro to embed files during compilation with optional compression
 - [Systemcluster/wrappe](https://github.com/Systemcluster/wrappe) –  Packer for creating self-contained single-binary applications from executables and directories. Distribute your application without the need for an installer, with smaller file size and faster startup than many alternatives 📦
 - [TheAlgorythm/zsplit](https://github.com/TheAlgorythm/zsplit) – Split text into multiple files by line
 - [TheBinitGhimire/NtHiM](https://github.com/TheBinitGhimire/NtHiM) – Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
@@ -3595,8 +3603,10 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
+- [altfoxie/url-uploader](https://github.com/altfoxie/url-uploader) – Upload files to Telegram by URLs
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
+- [andreibachim/shortcut](https://github.com/andreibachim/shortcut) – Make desktop files
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
@@ -3673,6 +3683,7 @@
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
+- [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
 - [crazyscot/qcp](https://github.com/crazyscot/qcp) – Quick File Copy using QUIC
 - [cross-rs/cross](https://github.com/cross-rs/cross) – “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -3697,6 +3708,7 @@
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
 - [dndx/uip](https://github.com/dndx/uip) – A tool to obtain your public IP address with the help of STUN servers
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
+- [donnie4w/tklog](https://github.com/donnie4w/tklog) – lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) – ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 - [dpc/fs-dir-cache](https://github.com/dpc/fs-dir-cache) – A CLI tool for CIs and build scripts, making file system based caching easy and correct (locking, eviction, etc.)
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) – Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -3754,16 +3766,20 @@
 - [foresterre/sic](https://github.com/foresterre/sic) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
+- [funatsufumiya/git-lfs-agent-rclone](https://github.com/funatsufumiya/git-lfs-agent-rclone) – A custom transfer agent for git-lfs that uses rclone to transfer files.
 - [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [gimli-rs/object](https://github.com/gimli-rs/object) – A unified interface for reading and writing object file formats
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
+- [gitext-rs/git-dive](https://github.com/gitext-rs/git-dive) – Dive into a file's history to find root cause
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
+- [google/command-fds](https://github.com/google/command-fds) – A Rust library for passing arbitrary file descriptors when spawning child processes.
 - [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
+- [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
@@ -3776,6 +3792,7 @@
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
 - [hw0lff/shikane](https://github.com/hw0lff/shikane) – [mirror] A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
+- [i5-650/rusty-exif](https://github.com/i5-650/rusty-exif) – A simple sketchy rust program to export exif into json file
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
@@ -3822,6 +3839,7 @@
 - [jwt-rs/jwt-ui](https://github.com/jwt-rs/jwt-ui) – A command line UI for decoding/encoding JSON Web Tokens
 - [k3ii/qdir](https://github.com/k3ii/qdir) – Qdir- Quick Directory Generator
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
+- [kardeiz/sanitize-filename](https://github.com/kardeiz/sanitize-filename)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
@@ -3871,6 +3889,7 @@
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) – A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
 - [mcandre/unmake](https://github.com/mcandre/unmake) – a makefile linter
+- [mdsteele/rust-ar](https://github.com/mdsteele/rust-ar) – Rust library for encoding/decoding Unix archive (.a) files
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
@@ -3898,12 +3917,14 @@
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
+- [nanozuki/dantalian](https://github.com/nanozuki/dantalian) – A nfo file generator for your anime. Source from Bangumi.
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [neosmart/securestore-rs](https://github.com/neosmart/securestore-rs) – A simple, encrypted, git-friendly, file-backed secrets manager for rust
 - [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) – Distributed System that simplifies the management of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
+- [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
@@ -4069,6 +4090,7 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
@@ -4081,6 +4103,7 @@
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) – Rust programs written entirely in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) – Rust programs written entirely in Rust
 - [surban/aggligator](https://github.com/surban/aggligator) – Aggregates multiple links (TCP, Bluetooth, USB or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
+- [suve/copydeps](https://github.com/suve/copydeps) – Find and copy all the .so / .dll files required by an executable
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) – The fastest way to identify anything!
@@ -4107,6 +4130,7 @@
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
+- [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [tux3/armerge](https://github.com/tux3/armerge) – Tool to merge static libraries and hide their private symbols
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) – 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
@@ -4168,6 +4192,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) – A simple, stateless NixOS deployment tool
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
+- [zmwangx/metadata](https://github.com/zmwangx/metadata) – Media file metadata for human consumption
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
 - [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. (Mirror only, No PR here.)
 
@@ -4786,7 +4811,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only _real_ 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only true 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) – Automatically refresh your Nix Flakes.
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
