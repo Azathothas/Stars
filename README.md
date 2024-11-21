@@ -2126,6 +2126,7 @@
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
+- [Tamrakar182/cloudflareAppBundleHub](https://github.com/Tamrakar182/cloudflareAppBundleHub)
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
@@ -4812,7 +4813,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) – The only true 2FA MFA WireGuard Enterprise VPN with build-in SSO, hardware keys management and more!
+- [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) – Automatically refresh your Nix Flakes.
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
@@ -4932,6 +4933,7 @@
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
+- [wei/pull](https://github.com/wei/pull) – 🤖 Keep your forks up-to-date via automated PRs
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
 
 <div id="v"></div>
