@@ -1084,6 +1084,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – Backup and restore Ed25519 SSH keys with seed words 🫠
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) – Human-readable ANSI sequences 🪩
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) – The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) – Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) – The SSH directory ✨
@@ -1172,6 +1173,7 @@
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
+- [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare TCPoCDN (TCP over CDN)
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
@@ -2717,7 +2719,6 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
-- [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -3980,6 +3981,7 @@
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) – CLI to manage emails
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
+- [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
@@ -4347,6 +4349,7 @@
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked ELF binaries everywhere
+- [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically linked squashfs-tools compiled with musl libc
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
 - [ValdikSS/nat-traversal-github-actions-openvpn-wireguard](https://github.com/ValdikSS/nat-traversal-github-actions-openvpn-wireguard) – OpenVPN and WireGuard server on GitHub Actions: representative NAT traversal case
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) – 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -4619,6 +4622,7 @@
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
+- [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – [WORK-IN-PROGRESS] Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
