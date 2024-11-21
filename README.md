@@ -173,7 +173,7 @@
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 - [MirBSD/mksh](https://github.com/MirBSD/mksh) – MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead. See https://github.com/mirabilos/mksh for some experiments autobuilding this with Travis-CI and GitHub Actions and for Coverity Scan.
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Linux container, with zero dependency (Lightweight User-friendly Linux-container Implementation)
+- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -2199,6 +2199,7 @@
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
+- [pkgforge-dev/WWW](https://github.com/pkgforge-dev/WWW) – The official website for pkgforge. (store frontend) [Maintainers=@xplshn|@Tamrakar182]
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [prettier/prettier](https://github.com/prettier/prettier) – Prettier is an opinionated code formatter.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -4908,6 +4909,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
+- [probot/probot](https://github.com/probot/probot) – 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
