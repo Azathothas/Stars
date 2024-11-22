@@ -526,7 +526,7 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – NEW ugrep 7.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -1173,7 +1173,7 @@
 - [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
-- [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare TCPoCDN (TCP over CDN)
+- [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare Firewall Piercing (TCP over CDN)
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
@@ -1590,6 +1590,7 @@
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
+- [orcastor/fico](https://github.com/orcastor/fico) – 🔬【FileICOn】从文件提取图标（支持图片[bmp/gif/jpg/jpeg/jp2/jpeg2000/png/tiff]、图标[ico/icns]、Windows可执行文件[exe/dll]、资源文件[mui/mun]、Linux可执行文件[*.desktop{*.AppImage/*.run}]、手机应用安装包[apk/ipa]、Windows文件夹图标[autorun.inf/desktop.ini]、MacOSX程序[*.app]）Extract icon from file or directory.
 - [ory/kratos](https://github.com/ory/kratos) – The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
@@ -1619,6 +1620,7 @@
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
+- [pkgforge/sbuilder-go](https://github.com/pkgforge/sbuilder-go) – GoLang Utilities for Linting and Building SBUILD Packages [Maintainer=@xplshn]
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [plutov/playgo](https://github.com/plutov/playgo) – CLI tool to send .go file to the Go Playground
 - [pojntfx/htorrent](https://github.com/pojntfx/htorrent) – HTTP to BitTorrent gateway with seeking support.
@@ -3044,7 +3046,7 @@
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy) – A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses!
 - [blacklanternsecurity/baddns](https://github.com/blacklanternsecurity/baddns) – Check subdomains for subdomain takeovers and other DNS tomfoolery
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers.
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers. 🧡
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
 - [borgbase/vorta](https://github.com/borgbase/vorta) – Desktop Backup Client for Borg Backup
@@ -4061,6 +4063,7 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
 - [scientiac/toss](https://github.com/scientiac/toss) – throw and catch style moving and copying program
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
+- [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) – intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
 - [serpent-os/tools](https://github.com/serpent-os/tools) – The home of moss (system state manager) and boulder (moss format build tool)
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
@@ -4623,6 +4626,7 @@
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
+- [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – [WORK-IN-PROGRESS] Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
