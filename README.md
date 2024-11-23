@@ -1534,7 +1534,6 @@
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [mxpv/podsync](https://github.com/mxpv/podsync) – Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [naiba/nezha](https://github.com/naiba/nezha) – :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
 - [nao1215/mimixbox](https://github.com/nao1215/mimixbox) – MimixBox - mimic BusyBox on Linux
@@ -1550,6 +1549,7 @@
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) – NextDNS CLI client (DoH Proxy)
 - [nezhahq/agent](https://github.com/nezhahq/agent)
+- [nezhahq/nezha](https://github.com/nezhahq/nezha) – :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) – Generate files from docker container meta-data
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) – Wireguard web interface
@@ -2431,6 +2431,7 @@
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) – A user-friendly method of sandboxing applications using bubblewrap with portals support.
+- [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) – Config for the Community aarch64 NixOS box
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
 - [QaidVoid/nix-config](https://github.com/QaidVoid/nix-config)
 - [SamLukeYes/archix](https://github.com/SamLukeYes/archix) – Utilities for Arch Linux development, in a flake
@@ -2717,6 +2718,7 @@
 - [osamahamad/payout-targets-data](https://github.com/osamahamad/payout-targets-data) – Provides public bug bounty programs in-scope data that offer rewards and monitors public bug bounty programs assets.
 - [osmedeus/osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) – Community Workflow for the Osmedeus Engine that describes basic reconnaissance methodology for you to build your own
 - [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) – A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby  
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
@@ -4759,7 +4761,7 @@
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
-- [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
+- [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages/FlatImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
