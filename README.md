@@ -1949,6 +1949,7 @@
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) – HTTPLeaks - All possible ways, a website can leak HTTP requests
+- [developer-macos/LinuxAppStoreRem](https://github.com/developer-macos/LinuxAppStoreRem) – The Remastered version of Linux App Store.   [ Current Status: pre-alpha 0.0.1   ]
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
 - [ebelinski/apilevels](https://github.com/ebelinski/apilevels) – A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
@@ -2279,6 +2280,7 @@
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – MMRL is an Android app that helps manage your own modules repository.
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
 - [Droid-ify/client](https://github.com/Droid-ify/client) – F-Droid client with Material UI. 
+- [FelipeIgansi/LinuxStore](https://github.com/FelipeIgansi/LinuxStore)
 - [FunkyMuse/Aurora](https://github.com/FunkyMuse/Aurora) –  Non-official Library Genesis (Libgen) Android mobile client.
 - [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) – List DTDs and generate XXE payloads using those local DTDs.
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) – Free and open source manga reader for Android
@@ -2723,6 +2725,7 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System
+- [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
@@ -3645,6 +3648,7 @@
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) – CLI Native WebRTC Agent in Rust
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) – A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
+- [blueOkiris/aip-man](https://github.com/blueOkiris/aip-man) – An App Image Package Manager
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
 - [boinkor-net/flac-tracksplit](https://github.com/boinkor-net/flac-tracksplit) – Tool to losslessly, quickly & accurately split CUE+FLAC files into multiple tracks
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
@@ -4833,6 +4837,7 @@
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) – Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) – The open source frontend for GitBook doc sites
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) – HTTP Request snippet generator for many languages & libraries
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
