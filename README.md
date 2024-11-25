@@ -2726,6 +2726,7 @@
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
+- [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
