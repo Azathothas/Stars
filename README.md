@@ -1667,7 +1667,7 @@
 - [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) – MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 - [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) – Go alternative of python SimpleHTTPServer
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) – Fast passive subdomain enumeration tool.
-- [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder) – A streamlined tool for discovering TLDs, associated domains, and related domain names.
+- [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder) – A streamlined tool for discovering private TLDs for security research.
 - [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx) – Fast and configurable TLS grabber focused on TLS based data collection.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) – Quickly discover exposed hosts on the internet using multiple search engines.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) – A high performance go implementation of Wappalyzer Technology Detection Library
@@ -4162,7 +4162,7 @@
 - [tox-rs/tox](https://github.com/tox-rs/tox) – toxcore implementation in Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) – Rust Weaponization for Red Team Engagements.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
-- [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools to encode/decode things
+- [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools: encoders/decoders, CTF and reverse engineering helpers.
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
