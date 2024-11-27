@@ -2648,7 +2648,7 @@
 - [elliotwutingfeng/Inversion-DNSBL-Blocklists](https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists) – Malicious URLs identified by scanning various public URL sources using the Google Safe Browsing API (over 6 billion URLs scanned daily)
 - [elliotwutingfeng/SpamdexingSites](https://github.com/elliotwutingfeng/SpamdexingSites) – URL feed for blocking spamdexing websites. Let's banish them to the rubbish bin where they belong!
 - [ethanolivertroy/hackspacecon-2023](https://github.com/ethanolivertroy/hackspacecon-2023) – Workshop & Talk Slide Decks from HackSpaceCon
-- [ex16x41/bugbounty](https://github.com/ex16x41/bugbounty) – always updating
+- [ex16x41/bugbounty](https://github.com/ex16x41/bugbounty) – Cloud, WEB, API
 - [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets) – A curated list of Websocket libraries and resources.
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
@@ -3656,6 +3656,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
 - [b1-team/superman](https://github.com/b1-team/superman) – 🤖 Kill The Protected Process 🤖
+- [barely-a-dev/spm](https://github.com/barely-a-dev/spm) – A (really [trash]) package manager. Repository containing packages is barely-a-dev/spm_repo
 - [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) – Compile Rust projects against the Android NDK without hassle
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
@@ -4705,6 +4706,7 @@
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
 - [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
 - [smileaf419/spkg](https://github.com/smileaf419/spkg) – Bash based package manager
+- [smileaf419/spkg-repository](https://github.com/smileaf419/spkg-repository) – package build file repository for the spkg package management system.
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) – :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
