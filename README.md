@@ -27,6 +27,7 @@
 - [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Glsl](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -150,6 +151,7 @@
 
 - [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [Alessandro-Salerno/htmc](https://github.com/Alessandro-Salerno/htmc) – Ever wanted to code a website in C? No? Well, now you can!
 - [Alessandro-Salerno/tarman](https://github.com/Alessandro-Salerno/tarman) – The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
@@ -644,6 +646,8 @@
 
 - [833M0L3/test](https://github.com/833M0L3/test)
 - [Avinash0x1/custom-cv](https://github.com/Avinash0x1/custom-cv) – my-cc
+- [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
+- [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
@@ -783,6 +787,12 @@
 
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) – Search NixOS packages and options
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) – A music player that connects to your cloud/distributed storage.
+
+<div id="glsl"></div>
+
+## Glsl
+
+- [Toxikuu/gentoo-dotfiles](https://github.com/Toxikuu/gentoo-dotfiles) – My dotfiles for gentoo
 
 <div id="go"></div>
 
@@ -956,6 +966,7 @@
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
 - [alecthomas/bit](https://github.com/alecthomas/bit) – Bit - A simple yet powerful build tool
 - [aleksasiriski/ffmpegof](https://github.com/aleksasiriski/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
+- [alexeev-prog/carbon_pkg](https://github.com/alexeev-prog/carbon_pkg) – Blazing fast and modern package manager written in Golang
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) – Chaos testing, network emulation, and stress testing tool for containers
 - [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli) – Alibaba Cloud CLI
 - [alphasoc/flightsim](https://github.com/alphasoc/flightsim) – A utility to safely generate malicious network traffic patterns and evaluate controls.
@@ -1894,6 +1905,7 @@
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3085 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -2460,7 +2472,7 @@
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
-- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) – Hackable NixOS container and devShells collection
 - [schizofox/schizofox](https://github.com/schizofox/schizofox) – Hardened Firefox flake for the delusional and the schizophrenics.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) – Nix-packaged Android SDK
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
@@ -2566,6 +2578,7 @@
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
 - [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
+- [Toxikuu/Toxikuu](https://github.com/Toxikuu/Toxikuu) – Config files for my GitHub profile.
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 自用书源（网络小说）
@@ -2595,6 +2608,7 @@
 - [bromite/bromite](https://github.com/bromite/bromite) – Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [caido-community/awesome](https://github.com/caido-community/awesome) – 🔗 A curated list of awesome Caido related projects
+- [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) – Terminal Emulators
 - [cenk/nrd](https://github.com/cenk/nrd) – Newly Registered Domains - Generated from WhoisDS.com free NRD database.
@@ -2789,7 +2803,6 @@
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
-- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
@@ -3000,6 +3013,7 @@
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) – An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) – Fully featured and community-driven hacking environment
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) – Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's timings.
+- [Toxikuu/tf](https://github.com/Toxikuu/tf) – My fetch script for LFS
 - [Tw1sm/RITM](https://github.com/Tw1sm/RITM) – Roast in the Middle
 - [Twingate-Labs/Twingate-CLI](https://github.com/Twingate-Labs/Twingate-CLI)
 - [UndeadSec/SwaggerSpy](https://github.com/UndeadSec/SwaggerSpy) – Automated OSINT on SwaggerHub
@@ -3581,7 +3595,9 @@
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) – Kill orphan processes
+- [Toxikuu/mo](https://github.com/Toxikuu/mo) – mv replacement that overwrites without flinching
 - [Toxikuu/rid](https://github.com/Toxikuu/rid) – minimal source-based package manager for lfs in rust
+- [Toxikuu/tuun](https://github.com/Toxikuu/tuun) – My music player.
 - [Troels51/dtui](https://github.com/Troels51/dtui) – Small TUI for introspecting the state of the system/session dbus
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
@@ -3616,6 +3632,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
+- [ali77gh/bake-rs](https://github.com/ali77gh/bake-rs) – Simple and easy to use "script runner" written in Rust.
 - [altfoxie/url-uploader](https://github.com/altfoxie/url-uploader) – Upload files to Telegram by URLs
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
@@ -4252,7 +4269,6 @@
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
-- [Azathothas/Toolpacks-Temp-Builds](https://github.com/Azathothas/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/Azathothas/Toolpacks
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
@@ -4342,6 +4358,7 @@
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
+- [Toxikuu/gimme](https://github.com/Toxikuu/gimme) – Simple source-based package manager in python
 - [Toxikuu/rid-meta](https://github.com/Toxikuu/rid-meta) – main rid repository
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
@@ -4632,13 +4649,14 @@
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
+- [pkgforge-community/Toolpacks-Temp-Builds](https://github.com/pkgforge-community/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – [WORK-IN-PROGRESS] Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
@@ -4864,7 +4882,6 @@
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) – Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
