@@ -3332,7 +3332,7 @@
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) – Top disclosed reports from HackerOne
 - [redhuntlabs/KubeStalk](https://github.com/redhuntlabs/KubeStalk) – KubeStalk discovers Kubernetes and related infrastructure based attack surface from a black-box perspective.
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) – An AI-powered Personal Identifiable Information (PII) scanner.
-- [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – releng-tool aims to provide developers a way to manage multiple packages to assist in building a project
+- [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – releng-tool aims to provide a way for developers to tailor the building  of multiple software components to help prepare packages for desired  runtime environments (e.g. cross-platform portable packages, embedded  targets, etc.).
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [repology/repology-rules](https://github.com/repology/repology-rules) – Package normalization ruleset for Repology
 - [repology/repology-updater](https://github.com/repology/repology-updater) – Repology backend service to update repository and package data
