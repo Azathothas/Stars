@@ -223,6 +223,7 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) – Checkpoint/Restore tool
@@ -1556,7 +1557,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
-- [neptship/ignore](https://github.com/neptship/ignore) – 🚀 The fastest cli generator for .ignore files
+- [neptship/ignore](https://github.com/neptship/ignore) – 🚀 Fast and simple .ignore file generator, built in Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) – Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [netrixone/udig](https://github.com/netrixone/udig) – ÜberDig - dig on steroids
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) – An (experimental) elegant TUI for configuring Tailscale.
@@ -3634,6 +3635,7 @@
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
+- [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
@@ -3935,6 +3937,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [mgree/ffs](https://github.com/mgree/ffs) – the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
+- [microsoft/sudo](https://github.com/microsoft/sudo) – It's sudo, for Windows
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [miniben-90/x-win](https://github.com/miniben-90/x-win) – This package allows you to retrieve precise information about active and open windows on Windows, MacOS, and Linux. You can obtain the position, size, title, and other memory of windows.
