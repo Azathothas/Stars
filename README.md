@@ -2220,6 +2220,7 @@
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
 - [pkgforge-dev/WWW](https://github.com/pkgforge-dev/WWW) – The official website for pkgforge. (store frontend) [Maintainers=@xplshn|@Tamrakar182]
+- [pkgforge-dev/reverse-proxies](https://github.com/pkgforge-dev/reverse-proxies) – CloudFlare Worker Config to reverse proxy to GitHub, GitLab, Codeberg, Repology & More [Maintainer=@Azathothas]
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [prettier/prettier](https://github.com/prettier/prettier) – Prettier is an opinionated code formatter.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) – Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -2601,6 +2602,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) – A collection of special paths linked to common sensitive APIs, devops internals, frameworks conf, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
+- [barely-a-dev/spm_repo](https://github.com/barely-a-dev/spm_repo) – The package repo for my project, spm (https://github.com/barely-a-dev/spm)
 - [birajkarki/birajkarki](https://github.com/birajkarki/birajkarki) – My personal repository
 - [bishalcpgn/terminal-shortcuts](https://github.com/bishalcpgn/terminal-shortcuts)
 - [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) – A curated list of blockchain security Capture the Flag (CTF) competitions
@@ -2741,6 +2743,7 @@
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System
+- [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
@@ -4937,6 +4940,7 @@
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
 - [microsoft/vscode](https://github.com/microsoft/vscode) – Visual Studio Code
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) – The swiss army knife of lossless video/audio editing
+- [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) – Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) – 😎 A static blog using notion database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) – Telegram Web K, GPL v3
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
