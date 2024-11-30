@@ -543,6 +543,7 @@
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
 - [NekoSekaiMoe/moe-container-manager_old](https://github.com/NekoSekaiMoe/moe-container-manager_old) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+- [Nitrux/nx-software-center](https://github.com/Nitrux/nx-software-center) – NX Software Center. A GUI to install and manage AppImages.
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) – Partially open-source alternative Steam Client for Linux. 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
@@ -3637,6 +3638,7 @@
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
+- [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
