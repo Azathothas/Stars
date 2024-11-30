@@ -891,6 +891,7 @@
 - [M0Rf30/yap](https://github.com/M0Rf30/yap) – Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
+- [Macmod/godap](https://github.com/Macmod/godap) – A complete TUI for LDAP.
 - [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
 - [MantisSTS/GoCloud](https://github.com/MantisSTS/GoCloud) – Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare
 - [ManuelBerrueta/urlyzer](https://github.com/ManuelBerrueta/urlyzer) – urlyzer is a URL parsing analysis tool.
