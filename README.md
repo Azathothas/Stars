@@ -2751,6 +2751,7 @@
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
+- [pkgforge/soar-store](https://github.com/pkgforge/soar-store) – GUI for Soar: A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [Maintainer=@ahqsoftwares]
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -3637,6 +3638,7 @@
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
+- [ahq-softwares/lead](https://github.com/ahq-softwares/lead) – The Lead Programming Language
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
@@ -3858,6 +3860,7 @@
 - [itsjunetime/tdf](https://github.com/itsjunetime/tdf) – A tui-based PDF viewer
 - [iustin24/chameleon](https://github.com/iustin24/chameleon)
 - [iustin24/rextract](https://github.com/iustin24/rextract) – CLI tool that extracts a regex pattern from a list of urls ( Rust ) 
+- [ivangabriele/clamav-desktop](https://github.com/ivangabriele/clamav-desktop) – Cross-platform Desktop GUI for ClamAV antivirus.
 - [ivre/masscanned](https://github.com/ivre/masscanned) – Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store, hooking binder
