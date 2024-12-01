@@ -171,6 +171,7 @@
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [Kitware/CMake](https://github.com/Kitware/CMake) – Mirror of CMake upstream repository
 - [LaKabane/libtuntap](https://github.com/LaKabane/libtuntap) – The portable Tun/Tap devices configuration utility
+- [LearnixOS/pms](https://github.com/LearnixOS/pms) – pms - pack my sh*t (or software) is a minimal package manager that functions more in line with Arch's PKGBUILDS and Gentoo's ebuilds.
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) – The RISC-V Virtual Machine 
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
@@ -184,7 +185,6 @@
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
-- [Rekketstone/pms](https://github.com/Rekketstone/pms) – pms - pack my sh*t (or software) is a minimal package manager that functions more in line with Arch's PKGBUILDS and Gentoo's ebuilds.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
@@ -550,6 +550,7 @@
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) – Compatibility tool for Steam Play based on Wine and additional components
+- [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) – Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
@@ -586,7 +587,6 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
-- [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
