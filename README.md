@@ -564,8 +564,8 @@
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) – Cap'n Proto serialization/RPC system - core tools and C++ library
-- [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃的功能，以及FEC，自带中继服务器支持
-- [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping
+- [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃、IP地址跳跃的功能，以及FEC，自带中继服务器支持
+- [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃及IP地址跳跃工具。A tool of UDP's Port Hopping & IP Address Hopping
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
 - [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
@@ -2392,6 +2392,7 @@
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
+- [pkgforge/soar-store](https://github.com/pkgforge/soar-store) – GUI for Soar: A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [Maintainer=@ahqsoftwares]
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) – 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
@@ -2515,7 +2516,7 @@
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alessandro-Salerno/tarman-user-repository](https://github.com/Alessandro-Salerno/tarman-user-repository) – The TUR: Tarman User Repository - Where tarman recipes are held!
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
@@ -2751,7 +2752,6 @@
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
-- [pkgforge/soar-store](https://github.com/pkgforge/soar-store) – GUI for Soar: A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [Maintainer=@ahqsoftwares]
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
@@ -2887,7 +2887,7 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 My Windows dotfiles
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 Dotfiles for my windows rice
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module for fine-tuning Windows
@@ -3339,7 +3339,7 @@
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) – Top disclosed reports from HackerOne
 - [redhuntlabs/KubeStalk](https://github.com/redhuntlabs/KubeStalk) – KubeStalk discovers Kubernetes and related infrastructure based attack surface from a black-box perspective.
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) – An AI-powered Personal Identifiable Information (PII) scanner.
-- [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – releng-tool aims to provide a way for developers to tailor the building  of multiple software components to help prepare packages for desired  runtime environments (e.g. cross-platform portable packages, embedded  targets, etc.).
+- [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – A tool to tailor the building of multiple software components to help prepare packages for desired runtime environments (e.g. cross-platform portable packages, embedded targets, etc.).
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [repology/repology-rules](https://github.com/repology/repology-rules) – Package normalization ruleset for Repology
 - [repology/repology-updater](https://github.com/repology/repology-updater) – Repology backend service to update repository and package data
@@ -3741,6 +3741,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) – A syntax-highlighting pager for git, diff, grep, and blame output
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) – Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd) – A tool to create visual HTML reports from collections of CSV/TSV tables
+- [dathere/qsv](https://github.com/dathere/qsv) – Blazing-fast Data-Wrangling toolkit
 - [datrs/hypercore](https://github.com/datrs/hypercore) – Secure, distributed, append-only log
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) – Convert CSV files to HTML tables
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) – Track changes in JSON data from the command line
@@ -3875,7 +3876,6 @@
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
-- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) – Blazing-fast Data-Wrangling toolkit
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
 - [jubako/arx](https://github.com/jubako/arx) –   Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [jullanggit/bubblewrapped](https://github.com/jullanggit/bubblewrapped) – My personal bubblewrap-wrapper
@@ -4827,7 +4827,7 @@
 
 ## Svelte
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 htop on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 system monitoring on steroids
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
