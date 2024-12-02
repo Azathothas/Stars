@@ -9,7 +9,6 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [Autoit](#autoit)
-- [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bitbake](#bitbake)
 - [C](#c)
@@ -117,12 +116,6 @@
 ## Autoit
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) – Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
-
-<div id="awk"></div>
-
-## Awk
-
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – X bootstrap 1000+ tools and scripts.
 
 <div id="batchfile"></div>
 
@@ -435,6 +428,7 @@
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
+- [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tio/tio](https://github.com/tio/tio) – A serial device I/O tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
@@ -2812,6 +2806,7 @@
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – X bootstrap 1000+ tools and scripts.
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
@@ -3076,7 +3071,7 @@
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy) – A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses!
 - [blacklanternsecurity/baddns](https://github.com/blacklanternsecurity/baddns) – Check subdomains for subdomain takeovers and other DNS tomfoolery
-- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – A recursive internet scanner for hackers. 🧡
+- [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) – The recursive internet scanner for hackers. 🧡
 - [bluet/proxybroker2](https://github.com/bluet/proxybroker2) – The New (auto rotate) Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts:
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
 - [borgbase/vorta](https://github.com/borgbase/vorta) – Desktop Backup Client for Borg Backup
@@ -3977,6 +3972,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
 - [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
@@ -4098,6 +4094,7 @@
 - [rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear) – Secure shell history commands by finding sensitive data
 - [s3m/s3m](https://github.com/s3m/s3m) – CLI for streams of data in S3 buckets
 - [sachaos/viddy](https://github.com/sachaos/viddy) – 👀 A modern watch command. Time machine and pager etc.
+- [sagiegurari/duckscript](https://github.com/sagiegurari/duckscript) – Simple, extendable and embeddable scripting language.
 - [sagiegurari/run_script](https://github.com/sagiegurari/run_script) – Run shell scripts in rust.
 - [saidsay-so/gateau](https://github.com/saidsay-so/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
@@ -4758,7 +4755,6 @@
 - [tiiuae/aarch64_bin_builder](https://github.com/tiiuae/aarch64_bin_builder) – Statically linked arm64/aarch64 binaries for everyday needs
 - [tincan-linux/graveyard](https://github.com/tincan-linux/graveyard) – Where packages go to die.
 - [tincan-linux/repo-core](https://github.com/tincan-linux/repo-core) – Core package repository for Tin Can Linux.
-- [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
