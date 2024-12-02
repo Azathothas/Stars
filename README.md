@@ -899,7 +899,7 @@
 - [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) – Effortlessly generate chmod commands
 - [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) – Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) – Bare metal to production ready in mins; your own fly server on your VPS.
-- [Moe-hacker/yoshinon](https://github.com/Moe-hacker/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go)  #Meet the modern TUI
+- [Moe-sushi/yoshinon](https://github.com/Moe-sushi/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go)  #Meet the modern TUI
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
@@ -3545,6 +3545,8 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) – GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [JMP-0xFF/ghostport](https://github.com/JMP-0xFF/ghostport) –  A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection.
+- [JMP-0xFF/wipedicks](https://github.com/JMP-0xFF/wipedicks) –  Wipe files and drives securely with random ASCII dicks 
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) – A pretty (simple) alternative to strace
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) – A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
@@ -4202,8 +4204,6 @@
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
-- [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) –  A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection.
-- [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) –  Wipe files and drives securely with random ASCII dicks 
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
