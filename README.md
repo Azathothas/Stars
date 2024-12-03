@@ -324,6 +324,7 @@
 - [lifenjoiner/wget-for-windows](https://github.com/lifenjoiner/wget-for-windows) – Windows native mod of GNU wget | GNU wget 的 Windows 原生适配
 - [linux-audit/audit-userspace](https://github.com/linux-audit/audit-userspace) – Linux audit userspace repository
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
+- [liquidaty/zsv](https://github.com/liquidaty/zsv) – zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) – The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
@@ -471,7 +472,7 @@
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) – A modern, lightweight text editor with a minimalist design.
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) – One Remote Access Manager to Rule Them All
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 - [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) – PowerToys Run Plugin for searching and opening GitHub repositories
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
@@ -798,7 +799,7 @@
 - [0x5ubt13/enumeraga](https://github.com/0x5ubt13/enumeraga) – Automatic multiprocess Linux CLI tool that aims for a quick enumeration wrapping pentesting tools.
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -959,6 +960,7 @@
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
 - [ajutamangdev/S3Khoj](https://github.com/ajutamangdev/S3Khoj) –  robust s3 security tool designed to help detect sensitive files at AWS public S3 buckets.
+- [akkuman/blob-uploader](https://github.com/akkuman/blob-uploader)
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
 - [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
@@ -1360,6 +1362,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) – Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [infosecn1nja/VeilTransfer](https://github.com/infosecn1nja/VeilTransfer) – VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
+- [int128/ghcp](https://github.com/int128/ghcp) – Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
 - [ipv6rslimited/hamon](https://github.com/ipv6rslimited/hamon) – Hamon is a tool that uses the djb2 (ca. 1991) hash to map IP addresses to readable words and vice versa. It supports both IPv4 and IPv6 addresses.  The name is derived from HAsh MOdulo Name (ハモン not 刃文).
@@ -2148,6 +2151,7 @@
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
+- [YappyBots/YappyGitHub](https://github.com/YappyBots/YappyGitHub) – A github monitor bot for Discord
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) – Convert Complex JSON Schemas into Markdown Documentation
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) – Bypass ad counter if possible.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
@@ -2745,6 +2749,7 @@
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
+- [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – A fast download manager
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -3660,6 +3665,7 @@
 - [atanunq/viuer](https://github.com/atanunq/viuer) – Rust library for displaying images in the terminal.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
+- [aws/aperf](https://github.com/aws/aperf) – A CLI tool to gather performance data and visualize using HTML graphs. Data from multiple collection runs can be viewed side-by-side, allowing for easy comparison of the same workload across different system configurations.
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
