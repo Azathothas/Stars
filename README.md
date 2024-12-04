@@ -2739,7 +2739,6 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [osamahamad/payout-targets-data](https://github.com/osamahamad/payout-targets-data) – Provides public bug bounty programs in-scope data that offer rewards and monitors public bug bounty programs assets.
 - [osmedeus/osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) – Community Workflow for the Osmedeus Engine that describes basic reconnaissance methodology for you to build your own
-- [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) – A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby  
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
@@ -3313,6 +3312,7 @@
 - [p0dalirius/RDWAtool](https://github.com/p0dalirius/RDWAtool) – A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application 
 - [p0dalirius/crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) – Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
 - [p0dalirius/objectwalker](https://github.com/p0dalirius/objectwalker) – A python module to explore the object tree to extract paths to interesting objects in memory.
+- [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) – Persepolis is a download manager written in Python.
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
