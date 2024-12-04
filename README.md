@@ -2427,7 +2427,7 @@
 
 ## Mustache
 
-- [meowrch/meowrch](https://github.com/meowrch/meowrch) – ≽ܫ≼ Meowrch: where Linux purrs with elegance and grace.
+- [meowrch/meowrch](https://github.com/meowrch/meowrch) – 🐧 A distribution based on Arch linux
 
 <div id="nim"></div>
 
