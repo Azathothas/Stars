@@ -3478,6 +3478,7 @@
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) – Computing-focused community centered around link aggregation and discussion
 - [mame/quine-relay](https://github.com/mame/quine-relay) – An uroboros program with 100+ programming languages
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The OS for your personal finances
+- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) – Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
@@ -3589,6 +3590,7 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) – Open source Dropbox-like file sharing with full client encryption !
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) – Elegantly record your screen
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) – Hidden parameters discovery suite
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
@@ -4174,6 +4176,7 @@
 - [tbillington/kondo](https://github.com/tbillington/kondo) – Cleans dependencies and build artifacts from your projects.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 - [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) – Interactive find and replace in the terminal
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) – Transform Linux Audit logs for SIEM usage
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
 - [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
@@ -4587,6 +4590,7 @@
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) – a few helpers for working with XBPS
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
+- [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
@@ -4965,6 +4969,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
@@ -5041,7 +5046,6 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – A user-friendly CMS for GitHub projects
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) – Another Looking-glass Server
 
