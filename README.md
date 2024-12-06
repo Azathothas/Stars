@@ -1269,6 +1269,7 @@
 - [g0ldencybersec/CloudRecon](https://github.com/g0ldencybersec/CloudRecon)
 - [g0ldencybersec/EasyEASM](https://github.com/g0ldencybersec/EasyEASM) – Zero-dollar attack surface management tool
 - [g0ldencybersec/gungnir](https://github.com/g0ldencybersec/gungnir) – CT Log Scanner
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) – Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [galalen/btail](https://github.com/galalen/btail) – Interactive File Tail Viewer
 - [gcla/termshark](https://github.com/gcla/termshark) – A terminal UI for tshark, inspired by Wireshark
 - [gennaro-tedesco/element](https://github.com/gennaro-tedesco/element) – 🧪 periodic table on the command line
@@ -2705,6 +2706,7 @@
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 A collection of wordlists for many different usages
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
+- [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
@@ -3601,6 +3603,7 @@
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
+- [Syntrait/splinux](https://github.com/Syntrait/splinux) – A tool for splitting the screen on Linux, and passing inputs to them 
 - [Systemcluster/staticfilemap](https://github.com/Systemcluster/staticfilemap) – Procedural macro to embed files during compilation with optional compression
 - [Systemcluster/wrappe](https://github.com/Systemcluster/wrappe) –  Packer for creating self-contained single-binary applications from executables and directories. Distribute your application without the need for an installer, with smaller file size and faster startup than many alternatives 📦
 - [TheAlgorythm/zsplit](https://github.com/TheAlgorythm/zsplit) – Split text into multiple files by line
@@ -3882,6 +3885,7 @@
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
+- [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) – Tmux Sessionizer: A tool for opening git repositories as tmux sessions
 - [jubako/arx](https://github.com/jubako/arx) –   Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [jullanggit/bubblewrapped](https://github.com/jullanggit/bubblewrapped) – My personal bubblewrap-wrapper
 - [justxuewei/ubuild](https://github.com/justxuewei/ubuild) – The ubuild, standing for universal build, runs commands in a portable environment.
@@ -3984,6 +3988,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) – Install & Run nix without root permissions [maintainer=@Mic92]
+- [nix-community/nurl](https://github.com/nix-community/nurl) – Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [nix-community/patsh](https://github.com/nix-community/patsh) – A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) – A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [nlewo/hydra-cli](https://github.com/nlewo/hydra-cli) – A client for the Hydra Nix CI
@@ -4593,7 +4598,6 @@
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) – a few helpers for working with XBPS
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
-- [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
