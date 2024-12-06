@@ -22,6 +22,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Diff](#diff)
+- [Digital Command Language](#digital-command-language)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
 - [Elixir](#elixir)
@@ -274,7 +275,7 @@
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
 - [henrypp/errorlookup](https://github.com/henrypp/errorlookup) – Simple tool for retrieving information about Windows errors codes.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
@@ -725,6 +726,12 @@
 
 - [secureblue/hardened-chromium](https://github.com/secureblue/hardened-chromium) – A hardened chromium for desktop Linux inspired by Vanadium.
 
+<div id="digital-command-language"></div>
+
+## Digital Command Language
+
+- [github/dmca](https://github.com/github/dmca) – Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at 
+
 <div id="dockerfile"></div>
 
 ## Dockerfile
@@ -1148,6 +1155,7 @@
 - [cuducos/chunk](https://github.com/cuducos/chunk) – 🧱 Chunk is a download manager for slow and unstable servers
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) – Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
+- [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) – Go utilities for Debian APT repositories
 - [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) – Distributed Linux user management using etcd
 - [cybozu-go/neco](https://github.com/cybozu-go/neco) – Project Neco
 - [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) – This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.
@@ -3290,6 +3298,7 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) – Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) – Graphical client for the Soulseek peer-to-peer network
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) – Obtain GraphQL API schema even if the introspection is disabled
+- [nix-community/NUR](https://github.com/nix-community/NUR) – Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
 - [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leaked data search engines and aggregators 
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
@@ -4204,6 +4213,7 @@
 - [twitchax/kord](https://github.com/twitchax/kord) – A music theory binary and library for Rust / JS.
 - [twitchax/rtz](https://github.com/twitchax/rtz) – A tool to easily work with timezone lookups via a binary, a library, or a server.
 - [typst/typst](https://github.com/typst/typst) – A new markup-based typesetting system that is powerful and easy to learn.
+- [uni-tue-kn/P4TG](https://github.com/uni-tue-kn/P4TG) – This repository contains the source code for P4TG, a 1 Tb/s traffic generator for Ethernet/IP networks
 - [unique1o1/uniqx](https://github.com/unique1o1/uniqx) – A simple HTTP/TCP tunnel - Ngrok Alternative 
 - [ursm/handlematters](https://github.com/ursm/handlematters) – Self-contained template system with Handlebars and inline shell scripts
 - [uutils/coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
@@ -4219,6 +4229,7 @@
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
+- [w4/gitlab-cargo-shim](https://github.com/w4/gitlab-cargo-shim) – 🦀 Say goodbye to your Git dependencies, host a Cargo registry using the GitLab package repository
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
