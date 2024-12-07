@@ -378,7 +378,7 @@
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
-- [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) – Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
 - [pts/minilibc686](https://github.com/pts/minilibc686) – libc and tools for creating size-optimized, statically linked Linux i386 and i686 programs
 - [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) – Like `execve`, but for userspace
@@ -1483,6 +1483,7 @@
 - [lostdusty/cobalt](https://github.com/lostdusty/cobalt) – Unofficial cobalt command line client made in go.
 - [lucasew/ts-proxy](https://github.com/lucasew/ts-proxy) – Simple proxy program to allow exposing individual services to a Tailnet, and even to the Internet using Tailscale Funnel.
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
+- [lure-sh/lure](https://github.com/lure-sh/lure) – The community repository missing from your Linux distro
 - [lwch/natpass](https://github.com/lwch/natpass) – 🔥居家办公，远程开发神器
 - [lxc/distrobuilder](https://github.com/lxc/distrobuilder) – System container image builder for LXC and Incus
 - [m1k1o/neko](https://github.com/m1k1o/neko) – A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2139,6 +2140,7 @@
 - [0xbigshaq/firepwn-tool](https://github.com/0xbigshaq/firepwn-tool) – Firepwn is a tool made for testing the Security Rules of a firebase application. 
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
+- [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
@@ -2181,7 +2183,6 @@
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) – A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) – Simple command to backup a Notion workspace
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
-- [deadlyjack/Acode](https://github.com/deadlyjack/Acode) – Acode - powerful text/code editor for android
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) – Mine URLs from Browser's Heap Snapshot for fun and profit 
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
@@ -4684,6 +4685,7 @@
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) – An AUR-inspired package manager for Ubuntu
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
@@ -4927,6 +4929,7 @@
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
+- [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) – The official website's repository for the Snap store
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
@@ -5062,6 +5065,7 @@
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+- [eweOS/web](https://github.com/eweOS/web) – Website for eweOS
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
