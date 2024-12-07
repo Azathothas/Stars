@@ -566,6 +566,7 @@
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
 - [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
+- [cvengler/sysget](https://github.com/cvengler/sysget) – One package manager to rule them all
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
@@ -3481,6 +3482,7 @@
 ## Ruby
 
 - [Acceis/unisec](https://github.com/Acceis/unisec) – Unicode Security Toolkit
+- [Homebrew/brew](https://github.com/Homebrew/brew) – 🍺 The missing package manager for macOS (or Linux)
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
 - [digininja/CeWL](https://github.com/digininja/CeWL) – CeWL is a Custom Word List Generator
@@ -4566,6 +4568,7 @@
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) – 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) – 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) – Directory-based environments.
+- [hyperupcall/bake](https://github.com/hyperupcall/bake) – A Bash-based Make alternative.
 - [hyugogirubato/mkshrc](https://github.com/hyugogirubato/mkshrc) – Enhance your Android shell experience with mkshrc, a script that provides advanced tools, aliases, and functions for power users and developers.
 - [i5nipe/android-scripts](https://github.com/i5nipe/android-scripts) – Some simple scripts that I use during bug bounty hunting in Android Apps
 - [iamthefrogy/bucketbunny](https://github.com/iamthefrogy/bucketbunny) – AWS S3 open bucket poc automated script.
