@@ -231,6 +231,7 @@
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [collectd/collectd](https://github.com/collectd/collectd) – The system statistics collection daemon. Please send Pull Requests here!
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- [containers/composefs](https://github.com/containers/composefs) – The reliability of disk images, the flexibility of files
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [cooperative-computing-lab/cctools](https://github.com/cooperative-computing-lab/cctools) – The Cooperative Computing Tools (cctools) enable large scale distributed computations to harness hundreds to thousands of machines from clusters, clouds, and grids.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) – upstream mirror
@@ -1086,6 +1087,7 @@
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – multi-shell multi-command argument completer
+- [carvel-dev/imgpkg](https://github.com/carvel-dev/imgpkg) – Store application configuration files in Docker/OCI registries
 - [cashapp/hermit](https://github.com/cashapp/hermit) – 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [cassava/repoctl](https://github.com/cassava/repoctl) – Make it easy to manage your local Arch Linux repository.
 - [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source cloud operating system management platform, online demo: https://door.casvisor.com
@@ -1616,6 +1618,7 @@
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
+- [oras-project/oras](https://github.com/oras-project/oras) – OCI registry client - managing content like artifacts, images, packages
 - [orcastor/fico](https://github.com/orcastor/fico) – 🔬【FileICOn】从文件提取图标（支持图片[bmp/gif/jpg/jpeg/jp2/jpeg2000/png/tiff]、图标[ico/icns]、Windows可执行文件[exe/dll]、资源文件[mui/mun]、Linux可执行文件[*.desktop{*.AppImage/*.run}]、手机应用安装包[apk/ipa]、Windows文件夹图标[autorun.inf/desktop.ini]、MacOSX程序[*.app]）Extract icon from file or directory.
 - [ory/kratos](https://github.com/ory/kratos) – The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
@@ -1684,6 +1687,7 @@
 - [projectdiscovery/tldfinder](https://github.com/projectdiscovery/tldfinder) – A streamlined tool for discovering private TLDs for security research.
 - [projectdiscovery/tlsx](https://github.com/projectdiscovery/tlsx) – Fast and configurable TLS grabber focused on TLS based data collection.
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) – Quickly discover exposed hosts on the internet using multiple search engines.
+- [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) – A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) – A high performance go implementation of Wappalyzer Technology Detection Library
 - [projectmonke/burp2caido](https://github.com/projectmonke/burp2caido) – A tool to migrate Burpsuite HTTP history to Caido.
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
@@ -1706,6 +1710,7 @@
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) – BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text.
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [referefref/honeydet](https://github.com/referefref/honeydet) – Signature based honeypot detector tool written in Golang
+- [regclient/regclient](https://github.com/regclient/regclient) – Docker and OCI Registry Client in Go and tooling using those libraries.
 - [regmicmahesh/duckchatstallmaninspired](https://github.com/regmicmahesh/duckchatstallmaninspired)
 - [regmicmahesh/infrastructure-backend-pulumi](https://github.com/regmicmahesh/infrastructure-backend-pulumi) – IaC Reference Implementation with Layer Architecture in Pulumi (aws-go)
 - [relastle/pmy](https://github.com/relastle/pmy) – :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
@@ -1962,6 +1967,7 @@
 - [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [HeliumOS-org/website](https://github.com/HeliumOS-org/website)
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
 - [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) – 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
@@ -2394,6 +2400,7 @@
 ## Makefile
 
 - [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
+- [HeliumOS-org/iso](https://github.com/HeliumOS-org/iso)
 - [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [am11/VoidWSL](https://github.com/am11/VoidWSL) – Install Void Linux as a WSL Instance (for Windows 10 1803 64bit or later)
@@ -3483,6 +3490,7 @@
 
 - [Acceis/unisec](https://github.com/Acceis/unisec) – Unicode Security Toolkit
 - [Homebrew/brew](https://github.com/Homebrew/brew) – 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) – 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
 - [digininja/CeWL](https://github.com/digininja/CeWL) – CeWL is a Custom Word List Generator
@@ -4086,6 +4094,7 @@
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) – Slice and dice logs on the command line
+- [reciperium/recipe-lang](https://github.com/reciperium/recipe-lang) – Write recipes understood by humans and machines
 - [redox-os/extrautils](https://github.com/redox-os/extrautils) – Mirror of https://gitlab.redox-os.org/redox-os/extrautils
 - [redox-os/pkgutils](https://github.com/redox-os/pkgutils) – Mirror of https://gitlab.redox-os.org/redox-os/pkgutils
 - [redox-os/redox-ssh](https://github.com/redox-os/redox-ssh) – Mirror of https://gitlab.redox-os.org/redox-os/redox-ssh
@@ -4098,6 +4107,7 @@
 - [rewe-digital/schema2000](https://github.com/rewe-digital/schema2000) – Schema2000 is a tool that parses exsiting JSON documents and tries to derive a JSON schema from these documents.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) – A fast, simple TUI for interacting with systemd services and their logs
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) – Rhai - An embedded scripting language for Rust.
+- [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rolling Rhino
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
@@ -4246,6 +4256,7 @@
 - [wlh320/portguard](https://github.com/wlh320/portguard) – A port forwarding tool works like ssh tunneling, but Zero Config for client.
 - [woelper/oculante](https://github.com/woelper/oculante) – A fast and simple image viewer / editor for many operating systems
 - [woodruffw/toml2json](https://github.com/woodruffw/toml2json) – A very small CLI for converting TOML to JSON
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) – A static analysis tool for GitHub Actions
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
@@ -4343,6 +4354,7 @@
 - [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates by the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
+- [HeliumOS-org/bootc](https://github.com/HeliumOS-org/bootc) – Mirror of https://codeberg.org/HeliumOS/bootc
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
@@ -4636,6 +4648,7 @@
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) – Desktop notifications for long-running commands in zsh.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) – YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [matan-h/adb-shell](https://github.com/matan-h/adb-shell) – better `adb shell` 
+- [matias-pizarro/freebsd-oci-containers](https://github.com/matias-pizarro/freebsd-oci-containers) – A repository of Podman/Docker images for FreeBSD
 - [mayTermux/myTermux](https://github.com/mayTermux/myTermux) – Make your Termux look better
 - [mdeguzis/SteamOS-Tools](https://github.com/mdeguzis/SteamOS-Tools) – Tools, scripts, and hosted packages for SteamOS. 
 - [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
@@ -4904,6 +4917,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) – A terminal for a more modern age
 - [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) – Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) – The open source frontend for GitBook doc sites
+- [HaidongPang/registry-proxy](https://github.com/HaidongPang/registry-proxy) – Use Cloudflare Workers to proxy repositories that implement OCI Distribution Spec (ghcr, gcr, etc.)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) – A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [Kong/httpsnippet](https://github.com/Kong/httpsnippet) – HTTP Request snippet generator for many languages & libraries
 - [KusStar/deno-serverless-functions](https://github.com/KusStar/deno-serverless-functions) – Deno Deploy Functions
