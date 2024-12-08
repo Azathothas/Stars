@@ -1902,6 +1902,7 @@
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
+- [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) – Homebrew, but with Docker images
 - [whoissecure/yaset](https://github.com/whoissecure/yaset) –  Yet Another Subdomain Enumeration Tool, a template based tool to enumerate subdomains passively.
 - [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
@@ -1968,6 +1969,8 @@
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [HeliumOS-org/website](https://github.com/HeliumOS-org/website)
+- [Homebrew/brew.sh](https://github.com/Homebrew/brew.sh) – 🔖 The Homebrew homepage
+- [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) – 🏎 An online formulae browser for Homebrew
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
 - [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io)
 - [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) – 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
@@ -2023,7 +2026,6 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) – Dockerfile linter, validate inline bash, written in Haskell
 - [jgm/pandoc](https://github.com/jgm/pandoc) – Universal markup converter
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) – ShellCheck, a static analysis tool for shell scripts
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 <div id="hcl"></div>
 
@@ -2374,6 +2376,7 @@
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
@@ -2464,6 +2467,7 @@
 
 ## Nix
 
+- [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) – Experimental nix expression to package all MacOS casks from homebrew automatically
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [Jo-Blade/nix-appimage](https://github.com/Jo-Blade/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -2533,7 +2537,6 @@
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alessandro-Salerno/tarman-user-repository](https://github.com/Alessandro-Salerno/tarman-user-repository) – The TUR: Tarman User Repository - Where tarman recipes are held!
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
@@ -2950,6 +2953,7 @@
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) – AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) – Easily manage Linux Chroot(s) and Containers with Atoms.
@@ -3980,6 +3984,7 @@
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
+- [momo-os/blossom](https://github.com/momo-os/blossom) – 🌸 A Delightful Package Manager for Linux
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
@@ -4067,6 +4072,7 @@
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal package builder for Windows, macOS and Linux
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) – Solve and install Python packages quickly with rip (pip in Rust)
+- [printfn/fend](https://github.com/printfn/fend) – Arbitrary-precision unit-aware calculator
 - [project-oak/oak](https://github.com/project-oak/oak) – Meaningful control of data in distributed systems.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
@@ -4109,6 +4115,7 @@
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) – Rhai - An embedded scripting language for Rust.
 - [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rolling Rhino
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
+- [ripytide/metapac](https://github.com/ripytide/metapac) – multi-backend declarative package manager
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
 - [ronnychevalier/cargo-multivers](https://github.com/ronnychevalier/cargo-multivers) – Cargo subcommand to build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary
@@ -4356,6 +4363,7 @@
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
 - [HeliumOS-org/bootc](https://github.com/HeliumOS-org/bootc) – Mirror of https://codeberg.org/HeliumOS/bootc
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
+- [Homebrew/install](https://github.com/Homebrew/install) – 📥 Homebrew (un)installer
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
 - [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – An OS built with the Ironclad kernel and GNU tools
@@ -4702,6 +4710,7 @@
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) – An AUR-inspired package manager for Ubuntu
+- [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) – Pacstall's official program repository
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
 - [perryflynn/minimon](https://github.com/perryflynn/minimon) – ICMP, HTTP and TCP Monitoring in one Bash Script
 - [pg83/ix](https://github.com/pg83/ix) – ix package manager
@@ -5009,6 +5018,7 @@
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
+- [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to explore, search & query all our Packages
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
