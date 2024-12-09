@@ -1755,6 +1755,7 @@
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
 - [sclevine/yj](https://github.com/sclevine/yj) – CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [screego/server](https://github.com/screego/server) – screen sharing for developers https://screego.net/
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) – ✨ Safely clean up your local branches
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) – FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
 - [securego/gosec](https://github.com/securego/gosec) – Go security checker
@@ -2681,6 +2682,7 @@
 - [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI) – Collection of Cyber Threat Intelligence sources from the deep and dark web
 - [fawazahmed0/cloudflare-trace-api](https://github.com/fawazahmed0/cloudflare-trace-api) – Get IP Address, TimeStamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & more by Cloudflare
 - [fightwing/Free-Own-VPN](https://github.com/fightwing/Free-Own-VPN) – Free and Easy! Set up your own personal VPN using AWS EC2 and Outline with our easy-to-follow tutorial. Get the benefits of a secure, private connection without paying for a subscription. 
+- [firasuke/awesome](https://github.com/firasuke/awesome) – A curated list of awesome projects
 - [flathub/flathub](https://github.com/flathub/flathub) – Issue tracker and new submissions
 - [fpliu1214/uppm](https://github.com/fpliu1214/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [franzos/awesome-guix](https://github.com/franzos/awesome-guix) – Docs, Channels, example configs and more - Guix is Awesome
@@ -4727,7 +4729,7 @@
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Soar User Repository ⚙️ containing (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
