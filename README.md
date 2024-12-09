@@ -714,6 +714,7 @@
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
@@ -2770,7 +2771,6 @@
 - [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -4486,6 +4486,7 @@
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
 - [basant0x01/b3-Hackerone](https://github.com/basant0x01/b3-Hackerone) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
 - [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
+- [bash-bastion/basalt](https://github.com/bash-bastion/basalt) – The rock-solid Bash package manager.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
 - [bdloser404/Fluttermux](https://github.com/bdloser404/Fluttermux) – Run Flutter on Termux Natively. Install Latest Flutter SDK on Termux within hour.
 - [benpye/alpine-droplet](https://github.com/benpye/alpine-droplet) – Alpine Linux image generator for digital ocean
@@ -4725,6 +4726,7 @@
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Repo ⚙️ containing Soar Build (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
