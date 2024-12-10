@@ -4419,6 +4419,7 @@
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) – RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
+- [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) – Build script for BareMetal OS and its related utilities
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
