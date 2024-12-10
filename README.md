@@ -1606,7 +1606,7 @@
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
@@ -2461,6 +2461,7 @@
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 - [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) – A highly customizable systemfetch written in nim
+- [kreatolinux/src](https://github.com/kreatolinux/src) – Kreato Linux source tree
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [nim-lang/choosenim](https://github.com/nim-lang/choosenim) – Official tool for easily installing and managing multiple versions of the Nim programming language.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
@@ -2492,11 +2493,13 @@
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
+- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) – Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) – Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin] 
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) – A wrapper tool for nix OpenGL application [maintainer=@guibou]
+- [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) – A template for NUR repositories: [maintainer=@fgaz] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
@@ -2719,6 +2722,7 @@
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) – Awesome list of status page open source software, services and public status pages of major internet companies
 - [jhswartz/static-builds](https://github.com/jhswartz/static-builds) – Get statically linked utilities 
+- [jubalh/awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) – How to become a packager
 - [jueve/build-glibc](https://github.com/jueve/build-glibc) – A note of building The GNU C Library(https://www.gnu.org/software/libc/)
 - [jvoisin/compiler-flags-distro](https://github.com/jvoisin/compiler-flags-distro) – Usage of enabled-by-default hardening-related compiler flags across Linux distributions
 - [k4yt3x/sshd_config](https://github.com/k4yt3x/sshd_config) – K4YT3X's Hardened OpenSSH Server Configuration
@@ -3653,6 +3657,7 @@
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
+- [WombatLinux/comet](https://github.com/WombatLinux/comet) – Comet is the new standalone package manager for Wombat Linux, built in Rust
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) – Count your code, quickly.
 - [XDream8/file-rs](https://github.com/XDream8/file-rs) – a tool for determining file types, extensions etc.
 - [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall, App-based policies and scripted MitM.
@@ -3984,9 +3989,11 @@
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [miniben-90/x-win](https://github.com/miniben-90/x-win) – This package allows you to retrieve precise information about active and open windows on Windows, MacOS, and Linux. You can obtain the position, size, title, and other memory of windows.
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) – MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [momo-os/blossom](https://github.com/momo-os/blossom) – 🌸 A Delightful Package Manager for Linux
+- [moonrepo/proto](https://github.com/moonrepo/proto) – A pluggable multi-language version manager.
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
@@ -4010,6 +4017,7 @@
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -4355,6 +4363,8 @@
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
+- [FigSystems/app_bundle_creator](https://github.com/FigSystems/app_bundle_creator) – An AppBundle creation utility.
+- [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a UI with the quality of the early MacOS versions, and human readable file paths.
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
@@ -4484,7 +4494,7 @@
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
-- [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer optimized for Gitpod and power users
+- [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer framework optimized for Gitpod and power users
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
 - [basant0x01/b3-Hackerone](https://github.com/basant0x01/b3-Hackerone) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
 - [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
@@ -4631,6 +4641,7 @@
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [kokoko3k/ssh-rdp](https://github.com/kokoko3k/ssh-rdp) – Real display ssh based remote desktop
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) – Hardening Ubuntu. Systemd edition.
+- [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) – Official repository for Kreato Linux.
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) – A collection of regexes for every possbile use
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
@@ -4745,11 +4756,13 @@
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) – Simplified and community-driven man pages
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
 - [rdavid/shellbase](https://github.com/rdavid/shellbase) – The framework is specifically designed for Unix shell scripts.
+- [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux) – Sigma Linux - Σlite Operating System
 - [rear/rear](https://github.com/rear/rear) – Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
 - [redoracle/nixos](https://github.com/redoracle/nixos) – Alpine + Nix (latest version)
 - [redox-os/redox](https://github.com/redox-os/redox) – Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [redraw/gh-install](https://github.com/redraw/gh-install) – install GitHub release binaries from the CLI interactively
 - [referefref/canarytokendetector](https://github.com/referefref/canarytokendetector) – Detect and remove the presence of canary tokens
+- [reinterpretcat/lfs](https://github.com/reinterpretcat/lfs) – Docker configuration for building Linux From Scratch system
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
