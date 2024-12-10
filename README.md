@@ -1293,7 +1293,7 @@
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
 - [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) – Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) – Find secrets with Gitleaks 🔑
 - [gittuf/gittuf](https://github.com/gittuf/gittuf) – A security layer for Git repositories
 - [glanceapp/glance](https://github.com/glanceapp/glance) – A self-hosted dashboard that puts all your feeds in one place
 - [glebarez/cero](https://github.com/glebarez/cero) – Scrape domain names from SSL certificates of arbitrary hosts
@@ -1932,6 +1932,7 @@
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
+- [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages/FlatImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -2406,6 +2407,7 @@
 
 - [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
 - [HeliumOS-org/iso](https://github.com/HeliumOS-org/iso)
+- [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) – Automatic conversion of the NetBSD pkgsrc CVS module, use with care
 - [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [am11/VoidWSL](https://github.com/am11/VoidWSL) – Install Void Linux as a WSL Instance (for Windows 10 1803 64bit or later)
@@ -4040,6 +4042,7 @@
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
 - [oll3/bita](https://github.com/oll3/bita) – Differential file synchronization over http
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
+- [omjadas/hudsucker](https://github.com/omjadas/hudsucker) – Intercepting HTTP/S proxy
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -4363,7 +4366,7 @@
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
-- [FigSystems/app_bundle_creator](https://github.com/FigSystems/app_bundle_creator) – An AppBundle creation utility.
+- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – An AppBundle creation utility.
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a UI with the quality of the early MacOS versions, and human readable file paths.
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
@@ -4518,6 +4521,7 @@
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Tool for hiding Kali Linux on the network
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) – Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
+- [cheusov/paexec](https://github.com/cheusov/paexec) – paexec - distributes tasks over network or CPUs
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
@@ -4870,7 +4874,6 @@
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
-- [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages/FlatImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
