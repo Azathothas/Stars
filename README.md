@@ -318,6 +318,7 @@
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [lemire/despacer](https://github.com/lemire/despacer) – C library to remove white space from strings as fast as possible
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [liberize/ssc](https://github.com/liberize/ssc) – Convert shell script to binary
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
 - [libyal/libevt](https://github.com/libyal/libevt) – Library and tools to access the Windows Event Log (EVT) format
@@ -440,6 +441,7 @@
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) – Advanced system monitor & process supervisor for Linux
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [txthinking/joker](https://github.com/txthinking/joker) – Joker can turn process into daemon. Zero-Configuration
 - [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – 🥜 A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -1862,6 +1864,7 @@
 - [trzsz/tsshd](https://github.com/trzsz/tsshd) – The tsshd works like mosh-server, while the "tssh --udp" works like mosh. Supports ssh port forwarding, ssh agent forwarding and X11 forwarding.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) – HTTP load testing tool and library. It's over 9000!
 - [turbot/steampipe](https://github.com/turbot/steampipe) – Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [tursodatabase/turso-cli](https://github.com/tursodatabase/turso-cli) – Command line interface to Turso.
 - [tus/tusd](https://github.com/tus/tusd) – Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) – Dead simple CLI Display Manager on TTY
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) – Manage your dotfiles across multiple diverse machines, securely.
@@ -3092,6 +3095,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [anvilsecure/ulexecve](https://github.com/anvilsecure/ulexecve) – ulexecve is a userland execve() implementation which helps you execute arbitrary ELF binaries on Linux from userland without the binaries ever having to touch storage. This is useful for red-teaming and anti-forensics purposes.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
+- [archlinux/archweb](https://github.com/archlinux/archweb) – Arch Linux website code
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
@@ -4239,6 +4243,7 @@
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [tux3/armerge](https://github.com/tux3/armerge) – Tool to merge static libraries and hide their private symbols
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) – 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
