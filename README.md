@@ -656,7 +656,6 @@
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) – Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
-- [pwnwriter/pwnotes](https://github.com/pwnwriter/pwnotes) – 🔖 my random notes 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
@@ -810,7 +809,7 @@
 - [0x5ubt13/enumeraga](https://github.com/0x5ubt13/enumeraga) – Automatic multiprocess Linux CLI tool that aims for a quick enumeration wrapping pentesting tools.
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -2961,7 +2960,7 @@
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) – AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube/视频下载、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙、科学上网
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) – Easily manage Linux Chroot(s) and Containers with Atoms.
