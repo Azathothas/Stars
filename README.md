@@ -2553,7 +2553,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Official (pkgforge-edge) Repo 📦📀 & The Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries (incl. Build Scripts) & Package Manager (rust) :: https://github.com/pkgforge/soar
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – The Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries 📦📀 for Soar: The true, simple & suckless Linux User Repository/Package Manager:: https://github.com/pkgforge/soar [repo=pkgforge-edge]
 - [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -3616,6 +3616,7 @@
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
 - [QaidVoid/to-capnp](https://github.com/QaidVoid/to-capnp) – JSON metadata to Cap'n Proto
+- [Racum/uuinfo](https://github.com/Racum/uuinfo) – A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
@@ -4014,7 +4015,7 @@
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [neosmart/securestore-rs](https://github.com/neosmart/securestore-rs) – A simple, encrypted, git-friendly, file-backed secrets manager for rust
 - [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
-- [next-hat/nanocl](https://github.com/next-hat/nanocl) – Distributed System that simplifies the management of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) – Distributed System that simplifies the orchestration of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -4366,7 +4367,7 @@
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
-- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – An AppBundle creation utility.
+- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a UI with the quality of the early MacOS versions, and human readable file paths.
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
@@ -4744,8 +4745,8 @@
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] Official (pkgforge-edge) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] (incl. Build Scripts) 
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – Official (pkgforge-community) Soar User Repository ⚙️ containing (.SBUILD) 📦📀 Recipes to Build, Install & Integrate Everything
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] 📀 Collection of Pre-Built Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] for Soar: The true, simple & suckless Linux User Repository/Package Manager [repo=pkgforge-edge]
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – The true, simple & suckless Linux User Repository featuring (.SBUILD) 📦📀 Recipes to Build, Install & Integrate everything with Soar [repo=pkgforge-community]
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
