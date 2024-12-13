@@ -221,6 +221,7 @@
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) – Checkpoint/Restore tool
+- [cheusov/nbase](https://github.com/cheusov/nbase) – NetBSD userlevel portable to other UNIX-like systems
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
 - [chocolateimage/fontviewer](https://github.com/chocolateimage/fontviewer) – View and install fonts on a Linux system
@@ -610,6 +611,7 @@
 - [oasislinux/toolchain](https://github.com/oasislinux/toolchain) – a static toolchain targeting x86_64-linux-musl
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a code obfuscator based on LLVM for native code (Android & iOS)
+- [openSUSE/zypper](https://github.com/openSUSE/zypper) – World's most powerful command line package manager
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
@@ -889,7 +891,6 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – The most customisable and low-latency cross platform/shell prompt renderer
 - [Josue87/gotator](https://github.com/Josue87/gotator) – Gotator is a tool to generate DNS wordlists through permutations.
 - [Josue87/roboxtractor](https://github.com/Josue87/roboxtractor) – Extract endpoints marked as disallow in robots files to generate wordlists.
-- [K0IN/docker-to-wsl](https://github.com/K0IN/docker-to-wsl) – Build your own wsl distro in docker, based on this example: https://gist.github.com/K0IN/485b6c9e442d10aa666c28672d621604
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) – Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances.
 - [LeanerCloud/aws-ipv4-cost-viewer](https://github.com/LeanerCloud/aws-ipv4-cost-viewer) – CLI tool that shows the future public IPv4 costs for a variety of AWS resources across all AWS regions from an account.
@@ -2963,7 +2964,7 @@
 - [AggressiveUser/AllForOne](https://github.com/AggressiveUser/AllForOne) – AllForOne  allows bug bounty hunters and security researchers to collect all Nuclei YAML templates from various public repositories,
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) – File Explorer for Android devices
 - [Alikhalkhali/programs-watcher](https://github.com/Alikhalkhali/programs-watcher) – A Python script designed to monitor bug bounty programs for any changes and promptly notify users.
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) – 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) – Easily manage Linux Chroot(s) and Containers with Atoms.
@@ -4182,7 +4183,7 @@
 - [shenek/wait-for-them](https://github.com/shenek/wait-for-them) – Wait until TCP services are running.
 - [shixinhuang99/sxtetris](https://github.com/shixinhuang99/sxtetris) – A terminal Tetris game
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
-- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and query tabular data files, such as CSV, TSV, or parquet.
+- [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
@@ -4390,6 +4391,7 @@
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) – The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
+- [K0IN/docker-to-wsl](https://github.com/K0IN/docker-to-wsl) – Build your own wsl distro in docker, based on this example: https://gist.github.com/K0IN/485b6c9e442d10aa666c28672d621604
 - [KathanP19/JSFScan.sh](https://github.com/KathanP19/JSFScan.sh) – Automation for javascript recon in bug bounty. 
 - [Kicksecure/security-misc](https://github.com/Kicksecure/security-misc) – Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) – Fetches system/theme information in terminal for Linux desktop screenshots.
@@ -4528,6 +4530,8 @@
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) – Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [cheusov/paexec](https://github.com/cheusov/paexec) – paexec - distributes tasks over network or CPUs
+- [cheusov/pkg_summary-utils](https://github.com/cheusov/pkg_summary-utils) – A collection of utilities for manipulating pkgsrc summary files
+- [cheusov/pkgnih](https://github.com/cheusov/pkgnih) – Package manager for PkgSrc
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
