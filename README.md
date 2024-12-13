@@ -1233,6 +1233,7 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) – Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [ekalinin/awsping](https://github.com/ekalinin/awsping) – Console tool to check the latency to each Amazon EC2 region
 - [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) – Remove all the resources from an AWS account
+- [ekristen/distillery](https://github.com/ekristen/distillery) – like homebrew but with less fizz. install binaries as fast and as easy as possible. no package manager, no recipes or metadata to update, just install and go
 - [eliukblau/pixterm](https://github.com/eliukblau/pixterm) – Draw images in your ANSI terminal with true color
 - [elliotwutingfeng/go-fasttld](https://github.com/elliotwutingfeng/go-fasttld) – go-fasttld is a high performance effective top level domains (eTLD) extraction module.
 - [elmasy-com/columbus-scanner](https://github.com/elmasy-com/columbus-scanner) – Log scanner CLI to upload to Columbus server.
@@ -1614,6 +1615,7 @@
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
+- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) – OCI Image Format
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) – OCI Runtime Tools
 - [opensubtitlescli/rest](https://github.com/opensubtitlescli/rest) – Client for accessing the OpenSubtitles REST API.
@@ -1652,7 +1654,7 @@
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
-- [pkgforge/sbuilder-go](https://github.com/pkgforge/sbuilder-go) – GoLang Utilities for Linting and Building SBUILD Packages [Maintainer=@xplshn]
+- [pkgforge/sbuilder-go](https://github.com/pkgforge/sbuilder-go) – Golang utilities for Linting and Building SBUILD Recipes [Maintainer=@xplshn]
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [plutov/playgo](https://github.com/plutov/playgo) – CLI tool to send .go file to the Go Playground
 - [pojntfx/htorrent](https://github.com/pojntfx/htorrent) – HTTP to BitTorrent gateway with seeking support.
@@ -3698,6 +3700,7 @@
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
+- [archlinux/alpm](https://github.com/archlinux/alpm) – Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [asciinema/agg](https://github.com/asciinema/agg) – asciinema gif generator
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) – ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -4019,7 +4022,7 @@
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [neosmart/securestore-rs](https://github.com/neosmart/securestore-rs) – A simple, encrypted, git-friendly, file-backed secrets manager for rust
 - [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
-- [next-hat/nanocl](https://github.com/next-hat/nanocl) – Distributed System that simplifies the orchestration of containers and virtual machines.
+- [next-hat/nanocl](https://github.com/next-hat/nanocl) – Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
@@ -4050,6 +4053,7 @@
 - [omjadas/hudsucker](https://github.com/omjadas/hudsucker) – Intercepting HTTP/S proxy
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
+- [oras-project/rust-oci-client](https://github.com/oras-project/rust-oci-client) – A Rust crate to interact with OCI registries
 - [oreboot/oreboot](https://github.com/oreboot/oreboot) – oreboot is a fork of coreboot, with C removed, written in Rust.
 - [orf/docker-repack](https://github.com/orf/docker-repack) – Repack docker images to optimize for pulling speed.
 - [orf/git-workspace](https://github.com/orf/git-workspace) – Sync personal and work git repositories from multiple providers :rocket:
@@ -4446,6 +4450,7 @@
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
+- [Tina-lel/bpm](https://github.com/Tina-lel/bpm) – A package manager for linux written in bash
 - [Toxikuu/gimme](https://github.com/Toxikuu/gimme) – Simple source-based package manager in python
 - [Toxikuu/rid-meta](https://github.com/Toxikuu/rid-meta) – main rid repository
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
@@ -4753,7 +4758,7 @@
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] 📀 Collection of Pre-Built Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] for Soar: The true, simple & suckless Linux User Repository/Package Manager [repo=pkgforge-edge]
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] 📀 Pre-Built Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] for Soar: The true, simple & suckless Linux User Repository/Package Manager [repo=pkgforge-edge]
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – The true, simple & suckless Linux User Repository featuring (.SBUILD) 📦📀 Recipes to Build, Install & Integrate everything with Soar [repo=pkgforge-community]
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
