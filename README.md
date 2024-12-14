@@ -550,6 +550,7 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
+- [UltimMC/Launcher](https://github.com/UltimMC/Launcher) – Offline Minecraft launcher.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) – Compatibility tool for Steam Play based on Wine and additional components
 - [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
@@ -628,7 +629,7 @@
 - [stealth/crash](https://github.com/stealth/crash) – crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
 - [stealth/fraud-bridge](https://github.com/stealth/fraud-bridge) – ICMP and DNS tunneling via IPv4 and IPv6
 - [stealth/psc](https://github.com/stealth/psc) – E2E encryption for multi-hop tty sessions or portshells + TCP/UDP port forward
-- [suoyuan666/ReleaseButler](https://github.com/suoyuan666/ReleaseButler) – 📣📣 package manager on GitHub 📣📣
+- [suoyuan666/ReleaseButler](https://github.com/suoyuan666/ReleaseButler) – package manager on GitHub
 - [tacesrever/easy-frida](https://github.com/tacesrever/easy-frida) – a simple tool for easyily dev/debug using frida and write module for agent. (mainly used for android)
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) – Telegram Desktop messaging app
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) – Tesseract Open Source OCR Engine (main repository)
@@ -4603,6 +4604,7 @@
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
+- [gobolinux/Recipes](https://github.com/gobolinux/Recipes) – The GoboLinux recipes repository
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.3 For Termux , Version : 2.9.3 , Maintained
