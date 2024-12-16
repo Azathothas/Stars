@@ -1667,6 +1667,7 @@
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) – Go implementation of AppImage tools
+- [project-zot/zot](https://github.com/project-zot/zot) – zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
 - [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap) – Go CLI and Library for quickly mapping organization network ranges using ASN information.
