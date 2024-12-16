@@ -4276,7 +4276,7 @@
 - [w4/gitlab-cargo-shim](https://github.com/w4/gitlab-cargo-shim) – 🦀 Say goodbye to your Git dependencies, host a Cargo registry using the GitLab package repository
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
@@ -4614,6 +4614,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
+- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Arch Linux system setup 🧩
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
 - [heyhusen/archlinux-package-action](https://github.com/heyhusen/archlinux-package-action) – GitHub Action to run Arch Linux's package tools
