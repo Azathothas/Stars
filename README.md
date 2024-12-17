@@ -150,7 +150,7 @@
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
-- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
+- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
 - [CompuRoot/static-sqlite3](https://github.com/CompuRoot/static-sqlite3) – Statically compiled binary shell sqlite3
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
@@ -2133,7 +2133,7 @@
 - [projectdiscovery/nuclei-burp-plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) – Nuclei plugin for BurpSuite
 - [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) – JMX enumeration and attacking tool.
 - [qtc-de/remote-method-guesser](https://github.com/qtc-de/remote-method-guesser) – Java RMI Vulnerability Scanner
-- [rom1v/sndcpy](https://github.com/rom1v/sndcpy) – Android audio forwarding (scrcpy, but for audio)
+- [rom1v/sndcpy](https://github.com/rom1v/sndcpy) – Android audio forwarding PoC (scrcpy, but for audio)
 - [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) – Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 - [subhra74/snowflake](https://github.com/subhra74/snowflake) – Graphical SFTP client and terminal emulator with helpful utilities
 - [sunilpaulmathew/De-Bloater](https://github.com/sunilpaulmathew/De-Bloater) – An application using the power of Magisk to debloat unwanted system apps!
