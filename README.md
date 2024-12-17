@@ -391,6 +391,7 @@
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) – A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
@@ -2213,7 +2214,7 @@
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
-- [holesail/holesail](https://github.com/holesail/holesail) – A P2P based node package to expose your local ports on the Holepunch protocol
+- [holesail/holesail](https://github.com/holesail/holesail) – Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) – GUI Client for vnStat Network Monitor for Linux or GNU/Linux
@@ -4116,7 +4117,6 @@
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) – Find the fastest DNS in your location to improve internet browsing experience.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
-- [radumarias/rencfs](https://github.com/radumarias/rencfs) – An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -4293,6 +4293,7 @@
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
 - [xetdata/xet-core](https://github.com/xetdata/xet-core) – Rust crates for XetHub
+- [xoriors/rencfs](https://github.com/xoriors/rencfs) – An encrypted file system written in Rust that is mounted with FUSE on Linux. It can be used to create encrypted directories
 - [xrelkd/caracal](https://github.com/xrelkd/caracal) – File downloader written in Rust programming language
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) – A clipboard manager written in Rust Programming Language.
 - [yamafaktory/craftql](https://github.com/yamafaktory/craftql) – A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format
