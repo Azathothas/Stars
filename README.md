@@ -318,7 +318,7 @@
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [lemire/despacer](https://github.com/lemire/despacer) – C library to remove white space from strings as fast as possible
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) – The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) – :floppy_disk: The shell-like, command line terminal file manager
 - [liberize/ssc](https://github.com/liberize/ssc) – Convert shell script to binary
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
@@ -3105,6 +3105,7 @@
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
+- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) – Produce redistributable builds of Python
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
 - [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
@@ -3231,7 +3232,6 @@
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
 - [imhunterand/ApachSAL](https://github.com/imhunterand/ApachSAL) – It's a vulnerability scanner tool for test Apache Path Traversal 👾
 - [indigo-dc/udocker](https://github.com/indigo-dc/udocker) – A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone) – Produce redistributable builds of Python
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Open Source Vulnerability Management Platform
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) – Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [intruder-io/guidtool](https://github.com/intruder-io/guidtool) – A tool to inspect and attack version 1 GUIDs
@@ -3684,6 +3684,7 @@
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
 - [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
 - [aaronriekenberg/rust-parallel](https://github.com/aaronriekenberg/rust-parallel) – Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
+- [adamperkowski/nvrs](https://github.com/adamperkowski/nvrs) – 🚦 fast new version checker for software releases 🦀
 - [aerys/gpm](https://github.com/aerys/gpm) – Git-based Package Manager.
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
@@ -3925,6 +3926,7 @@
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
@@ -3981,7 +3983,6 @@
 - [makindotcc/fabricbin](https://github.com/makindotcc/fabricbin) – Patch binary file using IDA signatures and defined replacement bytes in YAML.
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [marcoradocchia/microxdg](https://github.com/marcoradocchia/microxdg) – An XDG Base Directory Specification Rust library that aims to be conservative on memory allocation and overall memory footprint.
-- [martinvonz/jj](https://github.com/martinvonz/jj) – A Git-compatible VCS that is both simple and powerful
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
@@ -5058,7 +5059,7 @@
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
-- [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to explore, search & query all our Packages
+- [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to explore, search & query all our Packages [Maintainer=@ahqsoftwares]
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
