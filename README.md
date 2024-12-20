@@ -296,6 +296,7 @@
 - [irssi/irssi](https://github.com/irssi/irssi) – The client of the future
 - [ish-app/ish](https://github.com/ish-app/ish) – Linux shell for iOS
 - [jamesyoungman/findutils](https://github.com/jamesyoungman/findutils) – GNU findutils - periodically synced from git.savannah.gnu.org
+- [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) – TinySSH is small server (less than 100000 words of code)
 - [jart/blink](https://github.com/jart/blink) – tiniest x86-64-linux emulator
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) – build-once run-anywhere c library
 - [jarun/bcal](https://github.com/jarun/bcal) – :1234: Bits, bytes and address calculator
@@ -2201,6 +2202,7 @@
 - [craigary/nobelium](https://github.com/craigary/nobelium) – A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [daniel-j/send2ereader](https://github.com/daniel-j/send2ereader) – A service for sending ebooks to a Kobo or Kindle ereader through the built-in browser
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) – Simple command to backup a Notion workspace
+- [dataaxiom/ghcr-cleanup-action](https://github.com/dataaxiom/ghcr-cleanup-action) – GitHub Container Registry Cleanup Action
 - [davtur19/DotGit](https://github.com/davtur19/DotGit) – An extension for checking if .git is exposed in visited websites
 - [dessant/buster](https://github.com/dessant/buster) – Captcha solver extension for humans, available for Chrome, Edge and Firefox
 - [devanshbatham/heaptruffle](https://github.com/devanshbatham/heaptruffle) – Mine URLs from Browser's Heap Snapshot for fun and profit 
@@ -3176,6 +3178,7 @@
 - [dwisiswant0/secpat2gf](https://github.com/dwisiswant0/secpat2gf) – convert secret patterns to gf compatible.
 - [dynobo/normcap](https://github.com/dynobo/normcap) – OCR powered screen-capture tool to capture information instead of images
 - [e1abrador/Burp-Encode-IP](https://github.com/e1abrador/Burp-Encode-IP) – Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
+- [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge) – Generate ghcr.io (GitHub Container Registory) container's status badge
 - [ejedev/web2shell](https://github.com/ejedev/web2shell) – Automate converting webshells into reverse shells.
 - [elceef/dnstwist](https://github.com/elceef/dnstwist) – Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [elceef/subzuf](https://github.com/elceef/subzuf) – a smart DNS response-guided subdomain fuzzer
@@ -3755,6 +3758,8 @@
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [cask-pkg/cask.rs](https://github.com/cask-pkg/cask.rs) – A universal, distributed binary file manager. 一个通用的去中心化二进制管理器
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) – Tool and framework for securely reading untrusted USB mass storage devices.
+- [cestef/braise](https://github.com/cestef/braise) – Run your tasks like a chef !
+- [cestef/rwalk](https://github.com/cestef/rwalk) – A blazingly fast web directory scanner written in Rust
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) – CLI reimplementation of Scoop in Rust
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) – Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot
 - [chevdor/tera-cli](https://github.com/chevdor/tera-cli) – A command line utility on top of the tera templating engine. Takes json|yaml|toml as input and can merge ENV in. You may see it as envsubst on steroid.
@@ -4277,6 +4282,7 @@
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
 - [w4/gitlab-cargo-shim](https://github.com/w4/gitlab-cargo-shim) – 🦀 Say goodbye to your Git dependencies, host a Cargo registry using the GitLab package repository
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
+- [walles/riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
