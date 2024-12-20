@@ -1752,6 +1752,7 @@
 - [s0rg/decompose](https://github.com/s0rg/decompose) – Reverse-engineering tool for docker environments
 - [sHesl/amazon-where-services](https://github.com/sHesl/amazon-where-services) – Automated determination of which AWS services run where
 - [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) – Scan for misconfigured S3 buckets across S3-compatible APIs!
+- [saferwall/pe](https://github.com/saferwall/pe) – A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries. Designed for malware analysis tasks and robust against PE malformations.
 - [safing/portmaster](https://github.com/safing/portmaster) – 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [sairash/chitosocket](https://github.com/sairash/chitosocket) – ChitoSocket - The best Socket Server
 - [sampointer/digaws](https://github.com/sampointer/digaws) – Look up region and other information for any AWS IP address
@@ -1801,6 +1802,7 @@
 - [soapiestwaffles/s3-nuke](https://github.com/soapiestwaffles/s3-nuke) – Nuke all the files and their versions from an S3 Bucket 💣🪣
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) – Share your terminal as a web application
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
+- [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) – Sourcegraph CLI
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) – Sower is a cross-platform intelligent transparent proxy solution.
 - [soypat/gopherlings](https://github.com/soypat/gopherlings) – 📘️ Learn Go by fixing tiny incorrect programs
 - [spf13/cobra](https://github.com/spf13/cobra) – A Commander for modern Go CLI interactions
@@ -2582,7 +2584,7 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd "open-source" licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-- [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a UI with the quality of the early MacOS versions, and human readable file paths.
+- [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
@@ -3630,11 +3632,13 @@
 - [QaidVoid/to-capnp](https://github.com/QaidVoid/to-capnp) – JSON metadata to Cap'n Proto
 - [Racum/uuinfo](https://github.com/Racum/uuinfo) – A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
 - [Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide) – 802.11 Attack Tool
+- [RaunakChhatwal/fhsenv](https://github.com/RaunakChhatwal/fhsenv) – Rust dev-tool to install Nix packages into an FHS-compliant virtual shell
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) – ForkFS allows you to sandbox a process's changes to your file system.
+- [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) – Modern, performance focused unix commands
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
 - [Scille/parsec-cloud](https://github.com/Scille/parsec-cloud) – Open source Dropbox-like file sharing with full client encryption !
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) – Elegantly record your screen
@@ -3710,6 +3714,7 @@
 - [archlinux/alpm](https://github.com/archlinux/alpm) – Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [asciinema/agg](https://github.com/asciinema/agg) – asciinema gif generator
+- [assert-rs/snapbox](https://github.com/assert-rs/snapbox) – Snapshot testing for a herd of CLI tests
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) – ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) – An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/rye](https://github.com/astral-sh/rye) – a Hassle-Free Python Experience
@@ -3752,6 +3757,7 @@
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) – JS to WebAssembly toolchain
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
 - [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
+- [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [casey/intermodal](https://github.com/casey/intermodal) – A command-line utility for BitTorrent torrent file creation, verification, and more
@@ -4707,6 +4713,7 @@
 - [mdeguzis/SteamOS-Tools](https://github.com/mdeguzis/SteamOS-Tools) – Tools, scripts, and hosted packages for SteamOS. 
 - [megastep/makeself](https://github.com/megastep/makeself) – A self-extracting archiving tool for Unix systems, in 100% shell script.
 - [meithecatte/bashfuck](https://github.com/meithecatte/bashfuck) – Write any bash with only the punctuation characters
+- [mendhak/docker-http-https-echo](https://github.com/mendhak/docker-http-https-echo) – Docker image that echoes request data as JSON; listens on HTTP/S, useful for debugging.
 - [metis-os/hysp-pkgs](https://github.com/metis-os/hysp-pkgs) – 🌿 Package information to install via hysp package manager
 - [metis-os/metis-wallpapers](https://github.com/metis-os/metis-wallpapers) – ✨  A collection of beautiful wallpapers for @metis-os
 - [microsounds/atelier](https://github.com/microsounds/atelier) – Personal dotfiles, shell scripts—my self-contained graphical shell environment for Debian GNU/Linux, based on xorg, dwm, sxhkd, and urxvt.
