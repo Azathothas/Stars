@@ -307,6 +307,7 @@
 - [jo-lund/jomon](https://github.com/jo-lund/jomon) – A network forensics and sniffer tool
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
+- [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -597,6 +598,7 @@
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
+- [just-buildsystem/justbuild](https://github.com/just-buildsystem/justbuild) – just, a generic build tool
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
@@ -1322,6 +1324,7 @@
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) – Auditing for TLS certificates (Go code)
 - [google/fscrypt](https://github.com/google/fscrypt) – Go tool for managing Linux filesystem encryption
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(700+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
@@ -3261,6 +3264,7 @@
 - [jopohl/urh](https://github.com/jopohl/urh) – Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [just-buildsystem/justbuild-static-binaries](https://github.com/just-buildsystem/justbuild-static-binaries) – Description to build justbuild binaries statically
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) – CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
@@ -4800,6 +4804,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) – Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) – Use Mullvad VPN along with Tailscale and/or Zerotier
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
+- [rafi/awesome-cli-binaries](https://github.com/rafi/awesome-cli-binaries) – Popular modern Linux CLI utilities, with pre-made statically compiled amd64/arm64 binaries and a great ~/.config starting point 🎉
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) – Simplified and community-driven man pages
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
@@ -4836,6 +4841,7 @@
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) – Supply-chain Levels for Software Artifacts
 - [slyfox1186/script-repo](https://github.com/slyfox1186/script-repo) – My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML
 - [smileaf419/spkg](https://github.com/smileaf419/spkg) – Bash based package manager
 - [smileaf419/spkg-repository](https://github.com/smileaf419/spkg-repository) – package build file repository for the spkg package management system.
