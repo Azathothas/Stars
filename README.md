@@ -209,6 +209,7 @@
 - [antirez/kilo](https://github.com/antirez/kilo) – A text editor in less than 1000 LOC with syntax highlight and search.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
+- [aperezdc/signify](https://github.com/aperezdc/signify) – OpenBSD tool to sign and verify signatures on files. Portable version.
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) – Command line ASCII boxes unlimited!
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
@@ -376,6 +377,7 @@
 - [pengutronix/genimage](https://github.com/pengutronix/genimage) – tool to generate multiple filesystem and flash images from a tree
 - [pixelomer/bin2video](https://github.com/pixelomer/bin2video) – Tool for encoding files as videos
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) – package compiler and linker metadata toolkit
+- [pkgcraft/bash](https://github.com/pkgcraft/bash) – Fork enabling integration into a rust library
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) – pkg manifests
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
@@ -934,6 +936,7 @@
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) – Programming framework for writing and deploying cloud applications.
 - [Shell-Company/Noirgate](https://github.com/Shell-Company/Noirgate) – NoirGate provides on-demand ephemeral anonymous shells secured by TOTP
 - [Shell-Company/poltergeist](https://github.com/Shell-Company/poltergeist) – A tool to encode and decode content as whitespace
+- [SignTools/SignTools](https://github.com/SignTools/SignTools) – ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) – Six Degrees of Domain Admin
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
@@ -1144,6 +1147,7 @@
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
 - [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
 - [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
+- [containerd/imgcrypt](https://github.com/containerd/imgcrypt) – OCI Image Encryption Package
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [containers/buildah](https://github.com/containers/buildah) – A tool that facilitates building OCI images.
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
@@ -1914,6 +1918,7 @@
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
+- [wgpsec/cloudsword](https://github.com/wgpsec/cloudsword) – 一款帮助云租户发现和测试云上风险、增强云上防护能力的综合性开源工具
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) – Homebrew, but with Docker images
 - [whoissecure/yaset](https://github.com/whoissecure/yaset) –  Yet Another Subdomain Enumeration Tool, a template based tool to enumerate subdomains passively.
 - [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
@@ -1998,7 +2003,7 @@
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) – HTTPLeaks - All possible ways, a website can leak HTTP requests
-- [developer-macos/LinuxAppStoreRem](https://github.com/developer-macos/LinuxAppStoreRem) – The Remastered version of Linux App Store.   [ Current Status: pre-alpha 0.0.1   ]
+- [developer-macos/LinuxAppStoreRem](https://github.com/developer-macos/LinuxAppStoreRem) – The Remastered version of Linux App Store.   [ Current Status: alpha 0.0.1   ]
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
 - [ebelinski/apilevels](https://github.com/ebelinski/apilevels) – A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
@@ -2464,7 +2469,7 @@
 
 ## Mustache
 
-- [meowrch/meowrch](https://github.com/meowrch/meowrch) – 🐧 A distribution based on Arch linux
+- [meowrch/meowrch](https://github.com/meowrch/meowrch) – 🔮 Beautiful dots for Arch hyprland and bspwm
 
 <div id="nim"></div>
 
@@ -2792,7 +2797,7 @@
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge/docs](https://github.com/pkgforge/docs) – Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
-- [platformcosmo/Tor-IP-Addresses](https://github.com/platformcosmo/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
+- [platformbuilds/Tor-IP-Addresses](https://github.com/platformbuilds/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
@@ -3933,6 +3938,9 @@
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
+- [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
+- [jedisct1/rust-minisign](https://github.com/jedisct1/rust-minisign) – A pure Rust implementation of the Minisign signature tool.
+- [jedisct1/rust-minisign-verify](https://github.com/jedisct1/rust-minisign-verify) – A small Rust crate to verify Minisign signatures.
 - [jellyterra/bwrapman](https://github.com/jellyterra/bwrapman) – Bubblewrap profile launcher.
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
@@ -4061,6 +4069,7 @@
 - [o8vm/octox](https://github.com/o8vm/octox) – Unix-like OS in Rust inspired by xv6-riscv
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) – A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [occlum/occlum](https://github.com/occlum/occlum) – Occlum is a memory-safe, multi-process library OS for Intel SGX
+- [oconnor663/bao](https://github.com/oconnor663/bao) – an implementation of BLAKE3 verified streaming
 - [ofek/pyapp](https://github.com/ofek/pyapp) – Runtime installer for Python applications
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
 - [oll3/bita](https://github.com/oll3/bita) – Differential file synchronization over http
@@ -4087,7 +4096,7 @@
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [pacwrap/pacwrap](https://github.com/pacwrap/pacwrap) – A package manager which facilitates Arch-based bubblewrap containers.
-- [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
+- [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON logs or logfmt logs into a pretty human-readable format.
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
@@ -4995,6 +5004,7 @@
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
 - [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
+- [actions/attest](https://github.com/actions/attest) – Action for generating attestations for workflow artifacts
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) – Action for generating build provenance attestations for workflow artifacts
 - [actions/github-script](https://github.com/actions/github-script) – Write workflows scripting the GitHub API in JavaScript
 - [actions/setup-node](https://github.com/actions/setup-node) – Set up your GitHub Actions workflow with a specific version of node.js
@@ -5184,6 +5194,7 @@
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
+- [jedisct1/zig-minisign](https://github.com/jedisct1/zig-minisign) – Minisign reimplemented in Zig.
 - [kubkon/emerald](https://github.com/kubkon/emerald) – ld drop-in replacement written in Zig
 - [kubkon/zelf](https://github.com/kubkon/zelf) – Zig's ELF parser utility
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
