@@ -603,6 +603,7 @@
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
+- [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [lix-project/lix](https://github.com/lix-project/lix) – [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
@@ -1635,7 +1636,7 @@
 - [orangekame3/stree](https://github.com/orangekame3/stree) – 📁Directory trees of AWS S3 Bucket
 - [oras-project/oras](https://github.com/oras-project/oras) – OCI registry client - managing content like artifacts, images, packages
 - [orcastor/fico](https://github.com/orcastor/fico) – 🔬【FileICOn】从文件提取图标（支持图片[bmp/gif/jpg/jpeg/jp2/jpeg2000/png/tiff]、图标[ico/icns]、Windows可执行文件[exe/dll]、资源文件[mui/mun]、Linux可执行文件[*.desktop{*.AppImage/*.run}]、手机应用安装包[apk/ipa]、Windows文件夹图标[autorun.inf/desktop.ini]、MacOSX程序[*.app]）Extract icon from file or directory.
-- [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go. Runs best on Ory Network and available to self-host
+- [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
@@ -3278,7 +3279,7 @@
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) – pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) – Reverse engineering tool for linux games
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) – Cross-platform, fast, feature-rich, GPU based terminal
-- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – A GTK4 + Libadwaita game launcher
+- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – Libadwaita game launcher
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) – bypass-url-parser
@@ -3707,7 +3708,6 @@
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
-- [ahq-softwares/lead](https://github.com/ahq-softwares/lead) – The Lead Programming Language
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
@@ -3756,6 +3756,7 @@
 - [boinkor-net/flac-tracksplit](https://github.com/boinkor-net/flac-tracksplit) – Tool to losslessly, quickly & accurately split CUE+FLAC files into multiple tracks
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
+- [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) – Signal Messenger client for terminal
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) – An eBPF Manager for Linux and Kubernetes
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) – A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [brave/adblock-rust](https://github.com/brave/adblock-rust) – Brave's Rust-based adblock engine
@@ -3987,6 +3988,7 @@
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
+- [leadlang/lead](https://github.com/leadlang/lead) – The Lead Programming Language
 - [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
 - [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
