@@ -1099,7 +1099,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
-- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – multi-shell multi-command argument completer
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – A multi-shell completion binary.
 - [carvel-dev/imgpkg](https://github.com/carvel-dev/imgpkg) – Store application configuration files in Docker/OCI registries
 - [cashapp/hermit](https://github.com/cashapp/hermit) – 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [cassava/repoctl](https://github.com/cassava/repoctl) – Make it easy to manage your local Arch Linux repository.
@@ -2608,6 +2608,7 @@
 - [LinuxNerdBTW/XSS_CheatSheet](https://github.com/LinuxNerdBTW/XSS_CheatSheet)
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 times a day.
 - [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) – :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
+- [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) – An awesome curated knowledge-base about atomic systems
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) – awesome linux minimalism suggestions
 - [Moe-hacker/Moe-hacker](https://github.com/Moe-hacker/Moe-hacker) – Self-introduction
@@ -4408,6 +4409,7 @@
 - [DannyBen/rush-repo](https://github.com/DannyBen/rush-repo) – My package repository for the Rush package manager
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
+- [Elsie19/clam](https://github.com/Elsie19/clam) – Development tools for writing shell scripts
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
 - [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
@@ -4415,7 +4417,7 @@
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [GhostTroops/TOP](https://github.com/GhostTroops/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
-- [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates by the end of every week day (Monday to Friday at 9:22PM UTC)
+- [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates at the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
 - [HeliumOS-org/bootc](https://github.com/HeliumOS-org/bootc) – Mirror of https://codeberg.org/HeliumOS/bootc
@@ -5091,6 +5093,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [pacstall/website](https://github.com/pacstall/website) – Website for the Pacstall organization
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
 - [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to explore, search & query all our Packages [Maintainer=@ahqsoftwares]
