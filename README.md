@@ -666,6 +666,7 @@
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
+- [leadlang/leadlang.github.io](https://github.com/leadlang/leadlang.github.io) – Website
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) – Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
@@ -1014,6 +1015,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
 - [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
+- [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) – A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) – OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [appleboy/drone-scp](https://github.com/appleboy/drone-scp) – Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -1079,6 +1081,7 @@
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) – Format agnostic SBOM tooling
 - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) – boostsecurityio/poutine
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
+- [boyter/lc](https://github.com/boyter/lc) – licensechecker (lc) a command line application which scans directories and identifies what software license things are under producing reports as either SPDX, CSV, JSON, XLSX or CLI Tabular output. Dual-licensed under MIT or the UNLICENSE.
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools)
@@ -1207,7 +1210,7 @@
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) – Simple ethernet interface traffic monitor and reporting tool
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) – A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
-- [dmachard/go-dnscollector](https://github.com/dmachard/go-dnscollector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
+- [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare Firewall Piercing (TCP over CDN)
@@ -1325,6 +1328,7 @@
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) – Auditing for TLS certificates (Go code)
+- [google/deps.dev](https://github.com/google/deps.dev) – Resources for the deps.dev API
 - [google/fscrypt](https://github.com/google/fscrypt) – Go tool for managing Linux filesystem encryption
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
@@ -1853,7 +1857,7 @@
 - [tenox7/wrp](https://github.com/tenox7/wrp) – Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [termkit/gama](https://github.com/termkit/gama) – Manage your GitHub Actions from Terminal with great UI 🧪
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) –  Telegram Drive
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) – Teldrive
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
@@ -2031,6 +2035,7 @@
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+- [spdx/license-list-data](https://github.com/spdx/license-list-data) – Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) – A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -2886,6 +2891,7 @@
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) – Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
+- [fossology/fossology](https://github.com/fossology/fossology) – FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
 - [hitrov/oci-arm-host-capacity](https://github.com/hitrov/oci-arm-host-capacity) – This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.
 - [interference-security/DVWS](https://github.com/interference-security/DVWS) – OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
@@ -2947,6 +2953,7 @@
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) – 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) – Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) – A PowerShell wrapper around the fuzzy finder fzf
+- [leadlang/pkg](https://github.com/leadlang/pkg)
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) – 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [luxzg/WSL2-fixes](https://github.com/luxzg/WSL2-fixes) – Fix-up scripts for WSL2, mainly networking related
 - [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) – Red Teaming Tactics and Techniques
@@ -3092,6 +3099,7 @@
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) – Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) – :mag: ScanCode detects licenses, copyrights, dependencies by "scanning code" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors!
 - [abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP) – Android Logs Events And Protobuf Parser
 - [actionless/pikaur](https://github.com/actionless/pikaur) – AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [adarshshetty18/fcm_server_key](https://github.com/adarshshetty18/fcm_server_key) – Tool to extract & validate google fcm server keys  from apks
@@ -3957,6 +3965,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
+- [jpeddicord/askalono](https://github.com/jpeddicord/askalono) – A tool & library to detect open source licenses from texts
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) – Tmux Sessionizer: A tool for opening git repositories as tmux sessions
 - [jubako/arx](https://github.com/jubako/arx) –   Store files and directory in an archive. Like tar, but faster and with direct random access.
@@ -4223,7 +4232,7 @@
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
-- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
+- [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
