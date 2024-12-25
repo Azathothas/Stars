@@ -1007,6 +1007,7 @@
 - [anchore/binny](https://github.com/anchore/binny) – Manage a directory of binaries without a package manager
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [andydunstall/piko](https://github.com/andydunstall/piko) – An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+- [anfragment/zen](https://github.com/anfragment/zen) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
 - [anoriqq/qpm](https://github.com/anoriqq/qpm) – 📦 Qanat Package Manager
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) – Image processing algorithms in pure Go
@@ -2193,6 +2194,7 @@
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
+- [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Tamrakar182/cloudflareAppBundleHub](https://github.com/Tamrakar182/cloudflareAppBundleHub)
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
@@ -2441,7 +2443,7 @@
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
-- [pkgforge/soar-store](https://github.com/pkgforge/soar-store) – GUI for Soar: A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [Maintainer=@ahqsoftwares]
+- [pkgforge/store.pkgforge.dev](https://github.com/pkgforge/store.pkgforge.dev) – [WIP] Soarpkgs AppHub/AppStore: User Friendly GUI to Browse, Download, Install & Review All our Packages [Maintainer=@ahqsoftwares]
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) – 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
@@ -4668,7 +4670,6 @@
 - [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) – 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) – Directory-based environments.
 - [hyperupcall/bake](https://github.com/hyperupcall/bake) – A Bash-based Make alternative.
-- [hyugogirubato/mkshrc](https://github.com/hyugogirubato/mkshrc) – Enhance your Android shell experience with mkshrc, a script that provides advanced tools, aliases, and functions for power users and developers.
 - [i5nipe/android-scripts](https://github.com/i5nipe/android-scripts) – Some simple scripts that I use during bug bounty hunting in Android Apps
 - [iamthefrogy/bucketbunny](https://github.com/iamthefrogy/bucketbunny) – AWS S3 open bucket poc automated script.
 - [ice-wzl/Hacknetics](https://github.com/ice-wzl/Hacknetics) – Contained is all my reference material for my OSCP / Red Teaming.  Designed to be a one stop shop for code, guides, command syntax, and high level strategy.  One simple clone and you have access to some of the most popular tools used for pentesting.
@@ -4805,10 +4806,11 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
+- [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 Pre-Compiled Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
-- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – [ON-HOLD] 📀 Pre-Built Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage] for Soar: The true, simple & suckless Linux User Repository/Package Manager [repo=pkgforge-edge]
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – The true, simple & suckless Linux User Repository featuring (.SBUILD) 📦📀 Recipes to Build, Install & Integrate everything with Soar [repo=pkgforge-community]
+- [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage & More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
@@ -5022,7 +5024,6 @@
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) – Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
-- [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
 - [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
@@ -5107,7 +5108,7 @@
 - [pacstall/website](https://github.com/pacstall/website) – Website for the Pacstall organization
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
-- [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to explore, search & query all our Packages [Maintainer=@ahqsoftwares]
+- [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – Web UI to Explore, Search & Query all Our Packages [Maintainer=@ahqsoftwares]
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
