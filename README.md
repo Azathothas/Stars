@@ -4326,6 +4326,7 @@
 - [whitfin/jen](https://github.com/whitfin/jen) – A fast utility to generate fake/test documents based on a template
 - [whitfin/runiq](https://github.com/whitfin/runiq) – An efficient way to filter duplicate lines from input, à la uniq. 
 - [wlh320/portguard](https://github.com/wlh320/portguard) – A port forwarding tool works like ssh tunneling, but Zero Config for client.
+- [woboq/tr](https://github.com/woboq/tr) – Translation tools for rust
 - [woelper/oculante](https://github.com/woelper/oculante) – A fast and simple image viewer / editor for many operating systems
 - [woodruffw/toml2json](https://github.com/woodruffw/toml2json) – A very small CLI for converting TOML to JSON
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) – A static analysis tool for GitHub Actions
