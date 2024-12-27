@@ -483,7 +483,7 @@
 
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) – A modern, lightweight text editor with a minimalist design.
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) – One Remote Access Manager to Rule Them All
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows and Linux, support Xray core and sing-box-core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
 - [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) – PowerToys Run Plugin for searching and opening GitHub repositories
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
@@ -2599,6 +2599,7 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd "open-source" licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
@@ -4422,7 +4423,6 @@
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Elsie19/clam](https://github.com/Elsie19/clam) – Development tools for writing shell scripts
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
-- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
@@ -5219,8 +5219,9 @@
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) – 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [jedisct1/zig-minisign](https://github.com/jedisct1/zig-minisign) – Minisign reimplemented in Zig.
-- [kubkon/emerald](https://github.com/kubkon/emerald) – ld drop-in replacement written in Zig
+- [kubkon/bold](https://github.com/kubkon/bold) – bold: the bold linker
 - [kubkon/zelf](https://github.com/kubkon/zelf) – Zig's ELF parser utility
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
