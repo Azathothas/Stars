@@ -344,7 +344,6 @@
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
 - [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
 - [micropython/micropython](https://github.com/micropython/micropython) – MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -607,6 +606,7 @@
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [lix-project/lix](https://github.com/lix-project/lix) – [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) – A fast high compression read-only file system for Linux, Windows and macOS
 - [microsoft/ctsTraffic](https://github.com/microsoft/ctsTraffic) – ctsTraffic is a highly scalable client/server networking tool giving detailed performance and reliability analytics
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
@@ -2599,7 +2599,6 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd "open-source" licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
-- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
@@ -4423,6 +4422,7 @@
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Elsie19/clam](https://github.com/Elsie19/clam) – Development tools for writing shell scripts
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
+- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
