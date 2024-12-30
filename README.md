@@ -1106,7 +1106,7 @@
 - [carvel-dev/imgpkg](https://github.com/carvel-dev/imgpkg) – Store application configuration files in Docker/OCI registries
 - [cashapp/hermit](https://github.com/cashapp/hermit) – 🐚 Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [cassava/repoctl](https://github.com/cassava/repoctl) – Make it easy to manage your local Arch Linux repository.
-- [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source cloud operating system management platform, online demo: https://door.casvisor.com
+- [casvisor/casvisor](https://github.com/casvisor/casvisor) – An open-source cloud operating system and blockchain management platform, online demo: https://door.casvisor.com
 - [cbeuw/Cloak](https://github.com/cbeuw/Cloak) – A censorship circumvention tool to evade detection by authoritarian state adversaries
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) – 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [cemulus/crt](https://github.com/cemulus/crt) – A CLI tool to check Certificate Transparency logs of a domain name.
@@ -2167,7 +2167,7 @@
 - [xfarrow/locatemydevice](https://github.com/xfarrow/locatemydevice) – Application miming Google's Find My Device through SMS
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
 - [yohanes/zygisk-reflutter](https://github.com/yohanes/zygisk-reflutter) – Zygisk-based reFlutter 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – Advanced player for set-top boxes and tvs running Android OS
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) – Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 <div id="javascript"></div>
@@ -3028,6 +3028,7 @@
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) – :computer: Maintained fork of the original Archey (Linux) system tool
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) – Flutter Reverse Engineering Framework
 - [Impact-I/x8-Burp](https://github.com/Impact-I/x8-Burp) – Hidden parameters discovery suite
+- [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [InitRoot/BurpSQLTruncSanner](https://github.com/InitRoot/BurpSQLTruncSanner) – Messy BurpSuite plugin for SQL Truncation vulnerabilities.
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) – Colored logcat script which only shows log entries for a specific application package.
 - [KissPeter/APIFuzzer](https://github.com/KissPeter/APIFuzzer) – Fuzz test your application using your OpenAPI or Swagger API definition without coding
@@ -4434,7 +4435,6 @@
 - [HeliumOS-org/bootc](https://github.com/HeliumOS-org/bootc) – Mirror of https://codeberg.org/HeliumOS/bootc
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [Homebrew/install](https://github.com/Homebrew/install) – 📥 Homebrew (un)installer
-- [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
 - [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – An OS built with the Ironclad kernel and GNU tools
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
