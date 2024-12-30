@@ -4791,6 +4791,7 @@
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
+- [pacstall/chaotic-PPR](https://github.com/pacstall/chaotic-PPR) – The Chaotic Pacstall Programs Repository
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) – An AUR-inspired package manager for Ubuntu
 - [pacstall/pacstall-programs](https://github.com/pacstall/pacstall-programs) – Pacstall's official program repository
 - [perryflynn/git-utils](https://github.com/perryflynn/git-utils) – A collection of hopefully helpful scripts to work with git repositories.
