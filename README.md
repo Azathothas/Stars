@@ -436,7 +436,6 @@
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X11 add-on application.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
-- [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tio/tio](https://github.com/tio/tio) – A serial device I/O tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
@@ -1261,6 +1260,7 @@
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
+- [ewosborne/concur](https://github.com/ewosborne/concur) – A replacement for the parts of GNU Parallel that I like
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – nginx access logs analytics
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1323,6 +1323,7 @@
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
+- [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or amd64 PCs!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
@@ -2008,7 +2009,6 @@
 - [TheBobPony/bobpony.com](https://github.com/TheBobPony/bobpony.com) – The repo for
 - [adityatelange/bhhb](https://github.com/adityatelange/bhhb) – Burp HTTP history browser (BHHB) - A tool to view HTTP history exported from Burp Suite Community Edition
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) – Automagically reverse-engineer REST APIs via capturing traffic
-- [apps-for-linux/apps-for-linux.github.io](https://github.com/apps-for-linux/apps-for-linux.github.io)
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -2283,6 +2283,7 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
+- [tchx84/Flatseal](https://github.com/tchx84/Flatseal) – Manage Flatpak permissions
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
@@ -4542,6 +4543,7 @@
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
 - [ansemjo/version.sh](https://github.com/ansemjo/version.sh) – output identical version strings from repository clones or downloaded archives
+- [apps-for-linux/apps-for-linux.github.io](https://github.com/apps-for-linux/apps-for-linux.github.io)
 - [archlinux/arch-boxes](https://github.com/archlinux/arch-boxes) – Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors (read-only mirror) 
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) – Docker Base Image for Arch Linux (read-only mirror)
 - [archlinux/devtools](https://github.com/archlinux/devtools) – Tools for Arch Linux package maintainers (read-only mirror)
@@ -4725,6 +4727,7 @@
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets.
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -4901,6 +4904,7 @@
 - [tiiuae/aarch64_bin_builder](https://github.com/tiiuae/aarch64_bin_builder) – Statically linked arm64/aarch64 binaries for everyday needs
 - [tincan-linux/graveyard](https://github.com/tincan-linux/graveyard) – Where packages go to die.
 - [tincan-linux/repo-core](https://github.com/tincan-linux/repo-core) – Core package repository for Tin Can Linux.
+- [tincan-linux/repo-extra](https://github.com/tincan-linux/repo-extra) – Extra package repository for Tin Can Linux.
 - [tj/git-extras](https://github.com/tj/git-extras) – GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) – Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) – Tmux Plugin Manager
@@ -4918,6 +4922,7 @@
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) – Docker images used by ustcmirror :rocket:
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [vegardit/await.sh](https://github.com/vegardit/await.sh) – Self-contained POSIX shell scripts to await the availability of resources and services. Can be used as a workaround for Docker Swarm's missing depends_on support.
@@ -5087,7 +5092,7 @@
 - [karldreher/b2-cloudflare-worker](https://github.com/karldreher/b2-cloudflare-worker) – A cloudflare worker which is used to cache content from a private Backblaze B2 bucket.
 - [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
-- [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service using CloudFlare R2
+- [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service (WebUI & WebDAV) using CloudFlare R2
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
@@ -5186,6 +5191,7 @@
 - [eweOS/web](https://github.com/eweOS/web) – Website for eweOS
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
+- [oasis-proxy/oasis-proxy](https://github.com/oasis-proxy/oasis-proxy) – A substitute of SwitchOmega for Manifest v3
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) – Another Looking-glass Server
 
