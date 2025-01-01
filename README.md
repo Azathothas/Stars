@@ -147,7 +147,7 @@
 - [Alessandro-Salerno/htmc](https://github.com/Alessandro-Salerno/htmc) – Ever wanted to code a website in C? No? Well, now you can!
 - [Alessandro-Salerno/tarman](https://github.com/Alessandro-Salerno/tarman) – The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
-- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2024
+- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) – Knot Resolver - resolve DNS names like it's 2025
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
