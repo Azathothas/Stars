@@ -659,6 +659,7 @@
 
 - [833M0L3/test](https://github.com/833M0L3/test)
 - [Avinash0x1/custom-cv](https://github.com/Avinash0x1/custom-cv) – my-cc
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
@@ -2606,6 +2607,7 @@
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
+- [Homebrew/discussions](https://github.com/Homebrew/discussions) – 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) – A guide to learn bash
 - [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) – This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
@@ -3023,7 +3025,6 @@
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) – Scots Army Knife for electronics
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) – Unified GUI Censorship Resistant Solution Powered by Xray
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) – Reverse proxies cheatsheet
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Hamz-a/frida-android-helper](https://github.com/Hamz-a/frida-android-helper) – Frida Android utilities
 - [Hamz-a/jeb4frida](https://github.com/Hamz-a/jeb4frida) – Generate Frida hooks directly from JEB!
 - [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) – 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
@@ -3331,6 +3332,7 @@
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) – Manage AppImages with ease 📦
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) – Command-line program to download image galleries and collections from several image hosting sites
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [mk-fg/fgtk](https://github.com/mk-fg/fgtk) – A set of a misc tools to work with files and processes
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
 - [moogar0880/PyTrakt](https://github.com/moogar0880/PyTrakt) – A Pythonic interface to the Trakt.tv REST API
@@ -3534,6 +3536,7 @@
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
 - [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec
+- [which-distro/os-release](https://github.com/which-distro/os-release) – A collection of /etc/os-release from various distros.
 
 <div id="ruby"></div>
 
@@ -4253,6 +4256,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) – Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
@@ -4456,6 +4460,7 @@
 - [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) – Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
 - [M0Rf30/PKGBUILD](https://github.com/M0Rf30/PKGBUILD) – robertfoster's PKGBUILD
 - [Macmod/CloudPersist](https://github.com/Macmod/CloudPersist) – A collection of simple scripts to achieve persistence quick in cloud environments without generating too much noise.
+- [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro) – install linux distributions on android 
 - [Magisk-Modules-Alt-Repo/custom-certificate-authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) – A Magisk module which adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store. 
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
 - [Magisk-Modules-Repo/ccbins](https://github.com/Magisk-Modules-Repo/ccbins)
@@ -4820,6 +4825,7 @@
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
+- [porteux/porteux](https://github.com/porteux/porteux) – High-performance, modular, minimalist Linux distro
 - [probonopd/alpine2appimage](https://github.com/probonopd/alpine2appimage)
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
