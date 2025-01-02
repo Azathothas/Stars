@@ -827,6 +827,7 @@
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
+- [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) – OCI transport plugin for apt-get (i.e., apt-get over ghcr.io)
 - [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) – 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
@@ -1259,6 +1260,7 @@
 - [ergochat/ergo](https://github.com/ergochat/ergo) – A modern IRC server (daemon/ircd) written in Go.
 - [ericpauley/ec2-autostart](https://github.com/ericpauley/ec2-autostart) – Automatically starts EC2 instances based on network traffic
 - [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) – Pingtunnel is a tool that send TCP/UDP traffic over ICMP
+- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) – Command line tool to create and query container image manifest list/indexes
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) – Distributed reliable key-value store for the most critical data of a distributed system
 - [etix/mirrorbits](https://github.com/etix/mirrorbits) – Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -1462,7 +1464,6 @@
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) – PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [kitabisa/mubeng](https://github.com/kitabisa/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [knadh/otpgateway](https://github.com/knadh/otpgateway) – Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.)
@@ -1571,6 +1572,7 @@
 - [msoap/shell2http](https://github.com/msoap/shell2http) – Executing shell commands via HTTP server
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) – A minimalist, easy-to-host service for sharing images and other files
 - [mtzanidakis/tsrp](https://github.com/mtzanidakis/tsrp) – HTTPS reverse proxy for Tailscale
+- [mubeng/mubeng](https://github.com/mubeng/mubeng) – An incredibly fast proxy checker & IP rotator with ease.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) – :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 - [mudler/luet](https://github.com/mudler/luet) – :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
 - [mudler/yip](https://github.com/mudler/yip) –  :pushpin: Yaml Instructions Processor - Simply applies a cloud-init style yaml file to the system
@@ -1852,6 +1854,7 @@
 - [tanaikech/goodls](https://github.com/tanaikech/goodls) – This is a CLI tool to download shared files and folders from Google Drive.
 - [tanberrp/mobaxterm-keygen](https://github.com/tanberrp/mobaxterm-keygen) – A cli tool for generate  MobaXterm key.
 - [tarunKoyalwar/talosplus](https://github.com/tarunKoyalwar/talosplus) – Talosplus is a fast and robust template based Intelligent automation framework primarily developed for Bug Bounty Automation
+- [tazjin/nixery](https://github.com/tazjin/nixery) – Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
@@ -1901,6 +1904,7 @@
 - [u-root/gobusybox](https://github.com/u-root/gobusybox) – Tools for compiling many Go commands into one binary to save space. Builds are supported for vendor-based Go and module-based Go
 - [u-root/u-root](https://github.com/u-root/u-root) – A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) – Automatically set GOMAXPROCS to match Linux container CPU quota.
+- [uber/kraken](https://github.com/uber/kraken) – P2P Docker registry capable of distributing TBs of data in seconds
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) – [deprecated] Own your $HOME
 - [udhos/goben](https://github.com/udhos/goben) – goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
 - [ugomeguerditchian/GoBoom](https://github.com/ugomeguerditchian/GoBoom) – It's go boom, a simple webserver DDoS tool using differents proxy for each threads
@@ -1977,6 +1981,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Supercharged IDE for Data Science
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
@@ -2201,7 +2206,6 @@
 - [Tamrakar182/cloudflareAppBundleHub](https://github.com/Tamrakar182/cloudflareAppBundleHub)
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
-- [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
 - [YappyBots/YappyGitHub](https://github.com/YappyBots/YappyGitHub) – A github monitor bot for Discord
@@ -2269,6 +2273,7 @@
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) – Scoop bucket for the Crystal programming language on Windows
 - [netnr/workers](https://github.com/netnr/workers) – Cloudflare Workers
+- [nix-community/nur-search](https://github.com/nix-community/nur-search) – NUR package search [maintainer=@Mic92]
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) – The next generation OONI Probe desktop app
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
@@ -2535,6 +2540,8 @@
 - [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) – A template for NUR repositories: [maintainer=@fgaz] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
+- [nixpak/nixpak](https://github.com/nixpak/nixpak) – Runtime sandboxing for Nix
+- [nixpak/pkgs](https://github.com/nixpak/pkgs) – NixPak Packages [CI: https://hercules-ci.com/github/nixpak/pkgs]
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
@@ -3005,6 +3012,7 @@
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) – The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) – Binary instrumentation framework based on FRIDA
+- [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
@@ -4245,6 +4253,7 @@
 - [sitkevij/hex](https://github.com/sitkevij/hex) – 🔮 Futuristic take on hexdump, made in Rust. 
 - [skim-rs/skim](https://github.com/skim-rs/skim) – Fuzzy Finder in rust!
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
+- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) – GitHub action for pruning old GHCR container image versions.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits and seccomp.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
@@ -4588,6 +4597,7 @@
 - [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) – Risc-V journey thru containers and new projects
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Tool for hiding Kali Linux on the network
 - [cburgmer/jp](https://github.com/cburgmer/jp) – A simpler jq, and with JSONPath
+- [chaotic-aur/packages](https://github.com/chaotic-aur/packages) – Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [cheadrian/termux-chroot-proot-wine-box86_64](https://github.com/cheadrian/termux-chroot-proot-wine-box86_64) – Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
 - [cheusov/paexec](https://github.com/cheusov/paexec) – paexec - distributes tasks over network or CPUs
 - [cheusov/pkg_summary-utils](https://github.com/cheusov/pkg_summary-utils) – A collection of utilities for manipulating pkgsrc summary files
@@ -5040,6 +5050,7 @@
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+- [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
 - [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
