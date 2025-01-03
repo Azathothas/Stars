@@ -1118,7 +1118,7 @@
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
 - [chainreactors/spray](https://github.com/chainreactors/spray) – Next Generation HTTP Dir/File Fuzz Artifact
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – The most powerful bruteforcer / password sprayer Artifact
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) – serve as a reverse proxy to protect your web services from attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) – SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
@@ -2603,7 +2603,7 @@
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A list of interesting open-source security tools, mostly reviewed and commented by me.
-- [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – Can you change the server ?
+- [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – A list of bizarre crackmes
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
@@ -2654,7 +2654,7 @@
 - [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) – Watch the latest awesome security talks around the globe 
 - [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
-- [Toxikuu/Toxikuu](https://github.com/Toxikuu/Toxikuu) – Config files for my GitHub profile.
+- [Toxikuu/Toxikuu](https://github.com/Toxikuu/Toxikuu) – My github profile
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 自用书源（网络小说）
