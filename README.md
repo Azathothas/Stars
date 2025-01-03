@@ -660,7 +660,6 @@
 
 - [833M0L3/test](https://github.com/833M0L3/test)
 - [Avinash0x1/custom-cv](https://github.com/Avinash0x1/custom-cv) – my-cc
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
@@ -2194,6 +2193,7 @@
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
