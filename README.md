@@ -3697,7 +3697,7 @@
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) – Kill orphan processes
 - [Toxikuu/mo](https://github.com/Toxikuu/mo) – mv replacement that overwrites without flinching
 - [Toxikuu/rid](https://github.com/Toxikuu/rid) – minimal source-based package manager for lfs in rust
-- [Toxikuu/tuun](https://github.com/Toxikuu/tuun) – My music player.
+- [Toxikuu/tuun](https://github.com/Toxikuu/tuun) – My music player
 - [Troels51/dtui](https://github.com/Troels51/dtui) – Small TUI for introspecting the state of the system/session dbus
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
@@ -4037,6 +4037,7 @@
 - [marcoradocchia/microxdg](https://github.com/marcoradocchia/microxdg) – An XDG Base Directory Specification Rust library that aims to be conservative on memory allocation and overall memory footprint.
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
+- [mattwparas/steel](https://github.com/mattwparas/steel) – An embedded scheme interpreter in Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) – A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
 - [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
@@ -4397,9 +4398,13 @@
 
 ## Scheme
 
+- [Millak/guix](https://github.com/Millak/guix) – mirror of GNU Guix
 - [SystemCrafters/guix-installer](https://github.com/SystemCrafters/guix-installer) – A GNU Guix installer image with the full Linux kernel!
 - [abcdw/rde](https://github.com/abcdw/rde) – Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
+- [gambit/gambit](https://github.com/gambit/gambit) – Gambit is an efficient implementation of the Scheme programming language.
 - [nicolas-graves/dotfiles](https://github.com/nicolas-graves/dotfiles) – My dotfiles, on the shoulders of guix and rde 
+- [scheme/scsh](https://github.com/scheme/scsh) – A Unix shell embedded in scheme
+- [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) – A portable, compact and extensible Scheme implementation that is fully R4RS compliant. This includes closures, I/O, tail calls, first-class continuations and a Read Eval Print Loop (REPL). The R4RS Scheme REPL fits inside 6.5Kb !
 
 <div id="shell"></div>
 
@@ -4562,7 +4567,6 @@
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
 - [ansemjo/version.sh](https://github.com/ansemjo/version.sh) – output identical version strings from repository clones or downloaded archives
-- [apps-for-linux/apps-for-linux.github.io](https://github.com/apps-for-linux/apps-for-linux.github.io)
 - [archlinux/arch-boxes](https://github.com/archlinux/arch-boxes) – Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors (read-only mirror) 
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) – Docker Base Image for Arch Linux (read-only mirror)
 - [archlinux/devtools](https://github.com/archlinux/devtools) – Tools for Arch Linux package maintainers (read-only mirror)
