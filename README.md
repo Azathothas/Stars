@@ -252,6 +252,7 @@
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+- [eth-cscs/squashfs-mount](https://github.com/eth-cscs/squashfs-mount) – Setuid instead of FUSE for mounting squashfs files.
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – A maintained, feature-rich and performance oriented, neofetch like system information tool.
