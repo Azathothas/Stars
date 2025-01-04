@@ -4575,7 +4575,7 @@
 - [armbian/os](https://github.com/armbian/os) – Armbian operating system rolling releases provides automated nightly builds of maintained targets
 - [arp242/goon](https://github.com/arp242/goon) – Run Go on another machine such as a QEMU VM or cloud instance
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
-- [attacksurge/ax](https://github.com/attacksurge/ax) – Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers!
+- [attacksurge/ax](https://github.com/attacksurge/ax) – The Distributed Scanning Framework for Everybody!  Control Your Infrastructure, Scale Your Scanning—On Your Terms. Distribute arbitrary binaries and scripts using any of our eight supported cloud providers! 
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
 - [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
