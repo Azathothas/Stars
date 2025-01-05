@@ -1398,6 +1398,7 @@
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
+- [in-toto/witness](https://github.com/in-toto/witness) – Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) – Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [infosecn1nja/VeilTransfer](https://github.com/infosecn1nja/VeilTransfer) – VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
@@ -1640,6 +1641,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) – OCI Runtime Tools
 - [opensubtitlescli/rest](https://github.com/opensubtitlescli/rest) – Client for accessing the OpenSubtitles REST API.
+- [openvex/vexctl](https://github.com/openvex/vexctl) – A  tool to create, transform and attest VEX metadata
 - [openziti/zrok](https://github.com/openziti/zrok) – Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
 - [opsre/go-ldap-admin](https://github.com/opsre/go-ldap-admin) – 🌉 基于Go+Vue实现的openLDAP后台管理项目
 - [orangekame3/ghfetch](https://github.com/orangekame3/ghfetch) – :octocat: ghfetch is a CLI tool to fetch GitHub user information and show like neofetch.
@@ -1816,6 +1818,7 @@
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) – go-audit is an alternative to the auditd daemon that ships with many distros
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) – Verify provenance from SLSA compliant builders
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
 - [soapiestwaffles/s3-nuke](https://github.com/soapiestwaffles/s3-nuke) – Nuke all the files and their versions from an S3 Bucket 💣🪣
@@ -3183,7 +3186,7 @@
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [corpnewt/MountEFI](https://github.com/corpnewt/MountEFI) –  An even more robust edition of my previous MountEFI scripts
-- [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
+- [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [cramppet/regulator](https://github.com/cramppet/regulator) – Automated learning of regexes for DNS discovery
 - [cryptax/droidlysis](https://github.com/cryptax/droidlysis) – Property extractor for Android apps
 - [cujanovic/SSRF-Testing](https://github.com/cujanovic/SSRF-Testing) – SSRF (Server Side Request Forgery) testing resources
@@ -3261,6 +3264,7 @@
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – The best source for dashboard icons.
 - [hoppersroppers/nightmare](https://github.com/hoppersroppers/nightmare)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3501,7 +3505,6 @@
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) – 🚀 The best source for dashboard icons.
 - [wasp-os/wasp-os](https://github.com/wasp-os/wasp-os) – A MicroPython based development environment for smart watches (including Pine64 PineTime)
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) – Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
@@ -4072,8 +4075,10 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) – The Mullvad VPN client app for desktop and mobile
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
+- [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) – Unix pipes between devices
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
+- [n0-computer/swarmie](https://github.com/n0-computer/swarmie) – Proof of concept extension of sendme to use global content discovery
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) – A nfo file generator for your anime. Source from Bangumi.
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
@@ -4834,6 +4839,7 @@
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 Pre-Compiled Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
+- [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage & More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
