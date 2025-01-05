@@ -1398,6 +1398,7 @@
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
+- [in-toto/archivista](https://github.com/in-toto/archivista) – Archivista is a graph and storage service for in-toto attestations. Archivista enables the discovery and retrieval of attestations for software artifacts.
 - [in-toto/witness](https://github.com/in-toto/witness) – Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) – Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [infosecn1nja/VeilTransfer](https://github.com/infosecn1nja/VeilTransfer) – VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.
@@ -1485,6 +1486,7 @@
 - [kvesta/vesta](https://github.com/kvesta/vesta) – A static analysis of vulnerabilities, Docker and Kubernetes cluster configuration detect toolkit based on the real penetration of cloud computing
 - [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) – Modern web-based distributed hashcracking solution, built on hashcat
 - [laktak/zfind](https://github.com/laktak/zfind) – search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
+- [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) – A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
 - [lanrat/certgraph](https://github.com/lanrat/certgraph) – An open source intelligence tool to crawl the graph of certificate Alternate Names
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) – Really fast sync tool for S3
@@ -4553,6 +4555,7 @@
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) – An X11 server and client libraries for macOS
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
+- [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) – A thorough guide to defeating DRM on Linux
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
