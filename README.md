@@ -783,6 +783,7 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [pkgforge-dev/docker-archlinux](https://github.com/pkgforge-dev/docker-archlinux) – Forked : https://github.com/fwcd/docker-archlinux (+ DockerHub Builds) [Maintainer=@Azathothas]
+- [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [vaggeliskls/windows-github-custom-runner](https://github.com/vaggeliskls/windows-github-custom-runner) – A robust, cost-effective solution to deploy containerized custom GitHub Runners in a Windows OS environment on a Linux server. This project utilizes Vagrant VM, libvirt, and docker-compose, providing a seamless, plug-and-play approach that significantly enhances the CI/CD pipeline experience. No prior knowledge of VM creation required
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
@@ -5263,7 +5264,7 @@
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) – An alternative to `curl | sh`
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
-- [Vexu/arocc](https://github.com/Vexu/arocc) – A C compiler written in Zig.
+- [Vexu/arocc](https://github.com/Vexu/arocc) – A modern fully featured C compiler.
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
