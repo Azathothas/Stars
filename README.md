@@ -239,6 +239,7 @@
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [curl/trurl](https://github.com/curl/trurl) – a command line tool for URL parsing and manipulation.
+- [daanx/mimalloc-bench](https://github.com/daanx/mimalloc-bench) – Suite for benchmarking malloc implementations.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) – blingful character graphics/TUI library. definitely not curses.
 - [davidly/rvos](https://github.com/davidly/rvos) – Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.
 - [dcantrell/bsdutils](https://github.com/dcantrell/bsdutils) – Alternative to GNU coreutils using software from FreeBSD
@@ -422,6 +423,7 @@
 - [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
+- [slavaGanzin/await](https://github.com/slavaGanzin/await) – 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) – Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
 - [strace/strace](https://github.com/strace/strace) – strace is a diagnostic, debugging and instructional userspace utility for Linux
@@ -2357,7 +2359,7 @@
 - [ButterCam/Mediator](https://github.com/ButterCam/Mediator) – Cross-platform GUI gRPC debugging proxy
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
-- [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 through 14.
+- [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 through 15 QPR1.
 - [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – MMRL is an Android app that helps manage your own modules repository.
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
 - [Droid-ify/client](https://github.com/Droid-ify/client) – F-Droid client with Material UI. 
@@ -2504,6 +2506,7 @@
 - [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) – LLVM-based compiler for the Nim language
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 - [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
+- [glaucuslinux/rad](https://github.com/glaucuslinux/rad) – glaucus package manager
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) – A highly customizable systemfetch written in nim
 - [kreatolinux/src](https://github.com/kreatolinux/src) – Kreato Linux source tree
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
@@ -3801,6 +3804,7 @@
 - [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
+- [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) – pre-compiled binary packages for `cargo install`
 - [casey/intermodal](https://github.com/casey/intermodal) – A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [cask-pkg/cask.rs](https://github.com/cask-pkg/cask.rs) – A universal, distributed binary file manager. 一个通用的去中心化二进制管理器
@@ -4490,7 +4494,7 @@
 - [Magisk-Modules-Repo/nano-ndk](https://github.com/Magisk-Modules-Repo/nano-ndk) – nano-ndk
 - [Magisk-Modules-Repo/ssh](https://github.com/Magisk-Modules-Repo/ssh) – ssh
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) – SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
-- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) – Boot operating systems directly from ISO files
+- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) – Boot operating systems directly from ISO/WIM images
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) – Lightweight justice for your single-board computer!
 - [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) – Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty
 - [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
@@ -4759,6 +4763,8 @@
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets.
+- [linux-strata/ata](https://github.com/linux-strata/ata) – package manager
+- [linux-strata/os](https://github.com/linux-strata/os) – linux distribution
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -4948,6 +4954,7 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
+- [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
