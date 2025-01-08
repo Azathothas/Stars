@@ -4160,6 +4160,7 @@
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) – A full-featured implementation of the Network Time Protocol, including NTS support.
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) – Asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint spoof any browser
 - [phip1611/ttfb](https://github.com/phip1611/ttfb) – Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
