@@ -714,7 +714,7 @@
 
 ## Dart
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -826,6 +826,7 @@
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- [256lights/zb](https://github.com/256lights/zb) – An experiment in hermetic, reproducible build systems
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -1874,6 +1875,7 @@
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) – Teldrive
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
 - [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
@@ -1923,10 +1925,11 @@
 - [uniget-org/cli](https://github.com/uniget-org/cli) – The universal installer and updater for (container) tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
-- [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - ARM/RISC-V bare metal Go
+- [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - bare metal Go
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
+- [vbatts/tar-split](https://github.com/vbatts/tar-split) – checksum-reproducible tar archives (utility/library)
 - [vbauerster/getparty](https://github.com/vbauerster/getparty) – HTTP Download Manager with multi-parts
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) – A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [veops/oneterm](https://github.com/veops/oneterm) – Provide secure access and control over all infrastructure
@@ -2282,6 +2285,7 @@
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) – Scoop bucket for the Crystal programming language on Windows
 - [netnr/workers](https://github.com/netnr/workers) – Cloudflare Workers
+- [nice-registry/all-the-package-repos](https://github.com/nice-registry/all-the-package-repos) – 🌍 Normalized repository URLs for every package in the npm registry. Updated daily.
 - [nix-community/nur-search](https://github.com/nix-community/nur-search) – NUR package search [maintainer=@Mic92]
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) – The next generation OONI Probe desktop app
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
@@ -3388,6 +3392,8 @@
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) – Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) – Magnificent app which corrects your previous console command.
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) – Bittorrent software for cats
+- [obfusk/apksigcopier](https://github.com/obfusk/apksigcopier) – apksigcopier - copy/extract/patch android apk signatures & compare apks
+- [obfusk/rbtlog](https://github.com/obfusk/rbtlog) – Reproducible Builds Transparency Log for Android APKs
 - [obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl) – Extract and Visualize Data from URLs using Unfurl
 - [obskyr/khinsider](https://github.com/obskyr/khinsider) – A script for khinsider mass downloads. Get video game soundtracks quickly and easily! Also a Python interface.
 - [oduwsdl/ipwb](https://github.com/oduwsdl/ipwb) – InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS
@@ -3738,6 +3744,7 @@
 - [aaronriekenberg/rust-parallel](https://github.com/aaronriekenberg/rust-parallel) – Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
 - [adamperkowski/nvrs](https://github.com/adamperkowski/nvrs) – 🚦 fast new version checker for software releases 🦀
 - [aerys/gpm](https://github.com/aerys/gpm) – Git-based Package Manager.
+- [aformatik/codchi](https://github.com/aformatik/codchi) – Codchi is a tool that manages your project's development environment in a reproducible and easy-to-use way. Setting up a development environment should be as easy as a `git clone`!
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
@@ -4032,6 +4039,7 @@
 - [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more!
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
+- [louib/nix2sbom](https://github.com/louib/nix2sbom) – nix2sbom extracts the CycloneDX and SPDX SBOM (Software Bill of Materials) from a Nix derivation
 - [lowitea/gitlobster](https://github.com/lowitea/gitlobster) – 🦞 A tool for full cloning all available repositories from a GitLab instance.
 - [lsk569937453/eagle](https://github.com/lsk569937453/eagle) – A tool to plot the memory and cpu usage.
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
@@ -4066,6 +4074,7 @@
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
 - [miniben-90/x-win](https://github.com/miniben-90/x-win) – This package allows you to retrieve precise information about active and open windows on Windows, MacOS, and Linux. You can obtain the position, size, title, and other memory of windows.
 - [misprit7/computerraria](https://github.com/misprit7/computerraria) – A fully compliant RISC-V computer made inside the game Terraria
+- [mitre/hipcheck](https://github.com/mitre/hipcheck) – Automatically assess and score software repositories for supply chain risk.
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) – MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
@@ -4121,6 +4130,7 @@
 - [oll3/bita](https://github.com/oll3/bita) – Differential file synchronization over http
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [omjadas/hudsucker](https://github.com/omjadas/hudsucker) – Intercepting HTTP/S proxy
+- [omnibor/omnibor-rs](https://github.com/omnibor/omnibor-rs) – Reproducible identifiers & fine-grained build dependency tracking for software artifacts.
 - [one-d-wide/yggdrasil-jumper](https://github.com/one-d-wide/yggdrasil-jumper) – Reduce latency of a connection over yggdrasil network
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) –  QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [oras-project/rust-oci-client](https://github.com/oras-project/rust-oci-client) – A Rust crate to interact with OCI registries
@@ -4162,8 +4172,10 @@
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
+- [prefix-dev/pixi-build-backends](https://github.com/prefix-dev/pixi-build-backends) – WIP backend implementations to build pixi projects from source
 - [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal package builder for Windows, macOS and Linux
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) – Solve and install Python packages quickly with rip (pip in Rust)
+- [prefix-dev/shell](https://github.com/prefix-dev/shell) – The ultimate cross-platform, bash-like shell
 - [printfn/fend](https://github.com/printfn/fend) – Arbitrary-precision unit-aware calculator
 - [project-oak/oak](https://github.com/project-oak/oak) – Meaningful control of data in distributed systems.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
@@ -4952,6 +4964,7 @@
 - [topjohnwu/ondk](https://github.com/topjohnwu/ondk) – Oxidized NDK - NDK repackaged with Rust toolchain
 - [tpowa/Archboot](https://github.com/tpowa/Archboot) –  Archboot is a most advanced, modular Arch Linux boot/install image creation utility to generate bootable media for CD/USB/PXE, designed for installation or rescue operation.
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
+- [trofi/nix-guix-gentoo](https://github.com/trofi/nix-guix-gentoo) – Gentoo overlay for nix and guix functional package managers.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
@@ -5122,7 +5135,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
 - [google/gts](https://github.com/google/gts) – ☂️ TypeScript style guide, formatter, and linter.  
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) – 🛰️ Represent any GraphQL API as an interactive graph
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
