@@ -3649,6 +3649,7 @@
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) – A pretty (simple) alternative to strace
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) – A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
+- [Keats/tera](https://github.com/Keats/tera) – A template engine for Rust based on Jinja2/Django
 - [Kixunil/debcrafter](https://github.com/Kixunil/debcrafter) – Crafts complex debian packages from *very rich* specification files
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
