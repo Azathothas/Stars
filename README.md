@@ -2045,6 +2045,7 @@
 - [initialrise/90DaysofInternship](https://github.com/initialrise/90DaysofInternship) – A repository to track progress, notes, tasks etc. during the time of internship
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
+- [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
@@ -2412,7 +2413,6 @@
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info is a KMP application which provides information about device hardware and software
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions for Tachiyomi/Mihon and variants.
-- [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
