@@ -382,6 +382,7 @@
 - [pkgcraft/bash](https://github.com/pkgcraft/bash) – Fork enabling integration into a rust library
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) – pkg manifests
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
+- [plp13/qman](https://github.com/plp13/qman) – A more modern man page viewer for our terminals
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
