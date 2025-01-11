@@ -563,6 +563,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) – Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) – software version control visualization
+- [adelamodwala/jist](https://github.com/adelamodwala/jist) – Search a JSON path and get the value fast
 - [aimardcr/APKKiller](https://github.com/aimardcr/APKKiller) – Bypass APK Signatures Verify & Integrity Check using Reflection
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1978,6 +1979,7 @@
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages/FlatImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
+- [xplshn/scriptfs](https://github.com/xplshn/scriptfs) – scriptfs - Your filesystem as a scriptable resource. Create your own pseudo-filesystems via defining a single scripts.yaml file
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -4238,6 +4240,7 @@
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) – Rust library for build scripts to compile C/C++ code into a Rust library
+- [rust-lang/glob](https://github.com/rust-lang/glob) – Support for matching file paths against Unix shell style patterns.
 - [rust-lang/libm](https://github.com/rust-lang/libm) – A port of MUSL's libm to Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
