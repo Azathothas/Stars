@@ -742,7 +742,7 @@
 
 ## Diff
 
-- [secureblue/hardened-chromium](https://github.com/secureblue/hardened-chromium) – A hardened chromium for desktop Linux inspired by Vanadium.
+- [secureblue/Trivalent](https://github.com/secureblue/Trivalent) – A hardened chromium for desktop Linux inspired by Vanadium.
 
 <div id="digital-command-language"></div>
 
@@ -1994,7 +1994,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Supercharged IDE for Data Science
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Fastest and Most Efficient IDE to run Jupyter Notebooks.
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
@@ -2608,7 +2608,7 @@
 - [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
-- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – The Largest Collection of Pre-Compiled (+ UPXed) Linux Static Binaries 📦📀 for Soar: The true, simple & suckless Linux User Repository/Package Manager:: https://github.com/pkgforge/soar [repo=pkgforge-edge]
+- [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Moved to:: https://github.com/pkgforge/soarpkgs
 - [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
 - [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
@@ -4455,7 +4455,7 @@
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
-- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/Azathothas/Toolpacks
+- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
@@ -4865,7 +4865,7 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
-- [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 Pre-Compiled Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
+- [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
@@ -5051,7 +5051,7 @@
 
 ## Tcl
 
-- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Moved to https://github.com/Azathothas/Toolpacks
+- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Moved to https://github.com/pkgforge/soarpkgs
 
 <div id="tex"></div>
 
@@ -5100,6 +5100,7 @@
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) – Action for generating build provenance attestations for workflow artifacts
 - [actions/github-script](https://github.com/actions/github-script) – Write workflows scripting the GitHub API in JavaScript
 - [actions/setup-node](https://github.com/actions/setup-node) – Set up your GitHub Actions workflow with a specific version of node.js
+- [actions/stale](https://github.com/actions/stale) – Marks issues and pull requests that have not had recent interaction
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) – The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
