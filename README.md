@@ -285,6 +285,7 @@
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) – Portable Git(hub|lab|tea) CLI tool
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+- [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
 - [hroptatyr/dateutils](https://github.com/hroptatyr/dateutils) – nifty command line date and time utilities; fast date calculations and conversion in the shell
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
@@ -3561,7 +3562,6 @@
 - [containers/container-selinux](https://github.com/containers/container-selinux) – SELinux policy files for Container Runtimes
 - [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
-- [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
