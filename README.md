@@ -604,6 +604,7 @@
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [just-buildsystem/justbuild](https://github.com/just-buildsystem/justbuild) – just, a generic build tool
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
+- [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
@@ -2257,6 +2258,7 @@
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
 - [holesail/holesail](https://github.com/holesail/holesail) – Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
