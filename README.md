@@ -3610,6 +3610,7 @@
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) – NES emulator in rust with egui and TUI
+- [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) – GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and window functions and allow customization like user-defined types and functions
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) – muvm - run programs from your system in a microVM
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
