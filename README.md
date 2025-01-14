@@ -1482,6 +1482,7 @@
 - [knadh/stuffbin](https://github.com/knadh/stuffbin) – Compress and embed static files and assets into Go binaries and access them with a virtual file system in production
 - [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) – 无状态子域名爆破工具
 - [knqyf263/go-deb-version](https://github.com/knqyf263/go-deb-version) – A golang library for parsing deb package versions
+- [knqyf263/pet](https://github.com/knqyf263/pet) – Simple command-line snippet manager
 - [ko-build/ko](https://github.com/ko-build/ko) – Build and deploy Go applications
 - [koki-develop/clive](https://github.com/koki-develop/clive) – ⚡ Automates terminal operations.
 - [kopia/kopia](https://github.com/kopia/kopia) – Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -3760,6 +3761,7 @@
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
+- [ahqstore/client](https://github.com/ahqstore/client) – The AHQ Store Client, reimagined
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
