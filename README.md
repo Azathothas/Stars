@@ -677,6 +677,7 @@
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
+- [spack/packages.spack.io](https://github.com/spack/packages.spack.io) – ⭐️ Simple package browsing portal. ⭐️
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) – A pastebin for Tailscale users
 
 <div id="clojure"></div>
@@ -788,6 +789,7 @@
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [pkgforge-dev/docker-archlinux](https://github.com/pkgforge-dev/docker-archlinux) – Forked : https://github.com/fwcd/docker-archlinux (+ DockerHub Builds) [Maintainer=@Azathothas]
 - [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
+- [spack/spack-distroless](https://github.com/spack/spack-distroless) – A minimal container environment to test Spack builds
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [vaggeliskls/windows-github-custom-runner](https://github.com/vaggeliskls/windows-github-custom-runner) – A robust, cost-effective solution to deploy containerized custom GitHub Runners in a Windows OS environment on a Linux server. This project utilizes Vagrant VM, libvirt, and docker-compose, providing a seamless, plug-and-play approach that significantly enhances the CI/CD pipeline experience. No prior knowledge of VM creation required
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) – :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
@@ -995,6 +997,7 @@
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
 - [ajutamangdev/S3Khoj](https://github.com/ajutamangdev/S3Khoj) –  robust s3 security tool designed to help detect sensitive files at AWS public S3 buckets.
 - [akkuman/blob-uploader](https://github.com/akkuman/blob-uploader)
+- [akkuman/cpe2db](https://github.com/akkuman/cpe2db) – download cpe and import to database
 - [akkuman/webeye](https://github.com/akkuman/webeye)
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
@@ -1873,7 +1876,6 @@
 - [tazjin/nixery](https://github.com/tazjin/nixery) – Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
-- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
@@ -2315,6 +2317,7 @@
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) – Manage Flatpak permissions
+- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
@@ -2476,7 +2479,7 @@
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [pkgforge/store.pkgforge.dev](https://github.com/pkgforge/store.pkgforge.dev) – 🛒 [WIP] Soarpkgs AppHub/AppStore: User Friendly GUI to Browse, Download, Install & Review All our Packages [Maintainer=@ahqsoftwares]
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) – 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 
@@ -2547,6 +2550,7 @@
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ Home-Manager configuration ala Nix flakes
+- [flatironinstitute/nixpack](https://github.com/flatironinstitute/nixpack) – nix+spack = nixpack (spanix?)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
@@ -3486,6 +3490,7 @@
 - [soimort/you-get](https://github.com/soimort/you-get) – :arrow_double_down: Dumb downloader that scrapes the web
 - [soxoj/maigret](https://github.com/soxoj/maigret) – 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [spack/spack](https://github.com/spack/spack) – A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [spack/spack-tutorial](https://github.com/spack/spack-tutorial) – Standalone Spack Tutorial Repository
 - [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) – Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [sqall01/LSMS](https://github.com/sqall01/LSMS) – Linux Security and Monitoring Scripts
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) – Automatic SQL injection and database takeover tool
@@ -3761,7 +3766,7 @@
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
-- [ahqstore/client](https://github.com/ahqstore/client) – The AHQ Store Client, reimagined
+- [ahqstore/client](https://github.com/ahqstore/client) – The AHQ Store Neo Client
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
@@ -4180,6 +4185,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – A fast download manager [maintainer=@QaidVoid]
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust [maintainer=@QaidVoid]
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – pls is a prettier and powerful ls(1) for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
@@ -4414,7 +4420,7 @@
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
 - [zmwangx/metadata](https://github.com/zmwangx/metadata) – Media file metadata for human consumption
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
-- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. (Mirror only, No PR here.)
+- [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [Not official, mirrors only] 
 
 <div id="scss"></div>
 
@@ -4507,6 +4513,7 @@
 - [Kicksecure/security-misc](https://github.com/Kicksecure/security-misc) – Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) – Fetches system/theme information in terminal for Linux desktop screenshots.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) – Easy to use unprivileged Linux container packed into a single portable executable
+- [LLNL/uberenv](https://github.com/LLNL/uberenv) – Automates using spack to build and deploy software
 - [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) – A simple Linux Benchmark Toolkit
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
 - [LloydAsp/NodeBench](https://github.com/LloydAsp/NodeBench) – vps聚合测试脚本，直接输出排版好的markdown格式，方便粘贴
@@ -4786,6 +4793,7 @@
 - [leleliu008/ppkg](https://github.com/leleliu008/ppkg) – A portable package builder/manager for Unix-like system.
 - [leleliu008/ppkg-formula-repository-official-core](https://github.com/leleliu008/ppkg-formula-repository-official-core) – official formula repository for ppkg
 - [leleliu008/python-distribution](https://github.com/leleliu008/python-distribution) – A self-contained and relocatable CPython distribution
+- [leleliu008/ruby-distribution](https://github.com/leleliu008/ruby-distribution) – A self-contained and relocatable Ruby distribution
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
@@ -4870,6 +4878,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
 - [pkgforge-community/Toolpacks-Temp-Builds](https://github.com/pkgforge-community/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
+- [pkgforge-dev/Dolphin-emu-AppImage](https://github.com/pkgforge-dev/Dolphin-emu-AppImage) – Dolphin emu is a Nintendo Game Cube and Wii emulator, it allows the computer gammers enjoy both Consoles in the computer with the capability of 1080p [Maintainer=@lucasmz1|@Samueru-sama]
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
@@ -5186,7 +5195,6 @@
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
 - [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – 🔎 Web UI to Explore, Search & Query all Our Packages [Maintainer=@ahqsoftwares|@Tamrakar182]
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [probot/probot](https://github.com/probot/probot) – 🤖 A framework for building GitHub Apps to automate and improve your workflow
