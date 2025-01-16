@@ -194,7 +194,6 @@
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) – A top utility for IO
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
-- [VHSgunzo/runimage-runtime-static](https://github.com/VHSgunzo/runimage-runtime-static) – Statically compiled runimage-runtime
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) – Less than 100 Kilobytes. Works for Android 5.1 and above
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -277,6 +276,7 @@
 - [hackerschoice/zapper](https://github.com/hackerschoice/zapper) – Zaps arguments and environment from the process list
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
@@ -526,7 +526,7 @@
 - [slskd/slskd](https://github.com/slskd/slskd) – A modern client-server application for the Soulseek file sharing network.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
-- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Removes Ads From Various Places Around Windows 11
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) – GUI Tool To Remove Ads From Various Places Around Windows 11
 - [xforcered/SQLRecon](https://github.com/xforcered/SQLRecon) – A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. 
 
 <div id="c++"></div>
@@ -652,6 +652,7 @@
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) – a featureful union filesystem
 - [tstack/lnav](https://github.com/tstack/lnav) – Log file navigator
 - [upx/upx](https://github.com/upx/upx) – UPX - the Ultimate Packer for eXecutables
+- [variar/klogg](https://github.com/variar/klogg) – Really fast log explorer based on glogg project
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) – A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) – A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
@@ -857,6 +858,7 @@
 - [BishopFox/sj](https://github.com/BishopFox/sj) – A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) – Adversary Emulation Framework
 - [Brum3ns/encode](https://github.com/Brum3ns/encode) – Script to read input from stdin and encode it
+- [CGI-FR/PIMO](https://github.com/CGI-FR/PIMO) – Private Input Masked Output - PIMO is a tool for data masking (anonymization, pseudonymization, ...).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) – act as self-hosted runner
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) – ContainerSSH: Launch containers on demand
@@ -938,6 +940,7 @@
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
+- [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – Composable, reprovisionable, decentralized management of apps & configs on Raspberry Pis and other embedded Linux systems
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
@@ -1352,6 +1355,7 @@
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [google/starlark-go](https://github.com/google/starlark-go) – Starlark in Go: the Starlark configuration language, implemented in Go
 - [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(700+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Release engineering, simplified
@@ -1452,6 +1456,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [josephburnett/jd](https://github.com/josephburnett/jd) – JSON diff and patch
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
 - [jpillora/installer](https://github.com/jpillora/installer) – One-liner for installing binaries from Github releases
 - [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite) – A feature-light sshd(8) for Windows, Mac, and Linux written in Go
@@ -1876,6 +1881,7 @@
 - [tazjin/nixery](https://github.com/tazjin/nixery) – Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
+- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
@@ -2055,6 +2061,7 @@
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
 - [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client
+- [lure-sh/lure-web](https://github.com/lure-sh/lure-web) – A web interface for the Linux User Repository
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
@@ -2071,6 +2078,7 @@
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) – A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [touhidurrr/mirrorTouhidurrr](https://github.com/touhidurrr/mirrorTouhidurrr) – A WebProxy built with Cloudflare Workers
 - [trickest/cve](https://github.com/trickest/cve) – Gather and update all available and newest CVEs with their PoC.
 - [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [x0rb3l/Cyber-Bookmarks](https://github.com/x0rb3l/Cyber-Bookmarks) – A list of bookmarks I have used since I started my journey in cyber security
@@ -2244,6 +2252,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
 - [caido/workflows](https://github.com/caido/workflows) – 🛠️ Workflows created by the community
 - [ccbikai/ip-api](https://github.com/ccbikai/ip-api) – 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
+- [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) –  A docker registry proxy run on cloudflare worker.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [copy/v86](https://github.com/copy/v86) – x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [craigary/nobelium](https://github.com/craigary/nobelium) – A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -2317,7 +2326,6 @@
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) – Manage Flatpak permissions
-- [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
@@ -3262,6 +3270,7 @@
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
+- [freelabz/secator](https://github.com/freelabz/secator) – secator - the pentester's swiss knife
 - [fyoorer/ShadowClone](https://github.com/fyoorer/ShadowClone) – Unleash the power of cloud
 - [fzakaria/shrinkwrap](https://github.com/fzakaria/shrinkwrap) – A tool that embosses the needed dependencies on the top level executable
 - [g0ldencybersec/sus_params](https://github.com/g0ldencybersec/sus_params)
@@ -3608,7 +3617,7 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – An fast asynchronous Rust HTTP/Socks5 Proxy
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – HTTP/HTTPS/SOCKS5 proxy written in Rust
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
@@ -3966,6 +3975,7 @@
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
 - [hgrsd/drivel](https://github.com/hgrsd/drivel) – Infer a JSON schema from example data, produce nonsense synthetic data (drivel) according to the schema
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) – A Rust based DNS client, server, and resolver
+- [hjson/hjson-rust](https://github.com/hjson/hjson-rust) – Hjson for Rust
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) – A tool to dump exposed .git repositories
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
@@ -4185,7 +4195,7 @@
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – A fast download manager [maintainer=@QaidVoid]
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust [maintainer=@QaidVoid]
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – run anything
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – pls is a prettier and powerful ls(1) for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
@@ -4803,6 +4813,7 @@
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) – China Route for VPN
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+- [lure-sh/lure-repo](https://github.com/lure-sh/lure-repo) – The default repository for LURE
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [maciejwalkowiak/sinit](https://github.com/maciejwalkowiak/sinit) – sinit - command line shiny Spring Boot project initialzer 🚀
@@ -5211,7 +5222,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Network egress filtering and runtime security for GitHub-hosted and self-hosted runners
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner secures CI/CD workflows by controlling network access and monitoring activities on GitHub-hosted and self-hosted runners
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
