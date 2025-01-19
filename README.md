@@ -225,6 +225,7 @@
 - [chobits/tapip](https://github.com/chobits/tapip) – user-mode TCP/IP stack based on linux tap device
 - [choff/anbox-modules](https://github.com/choff/anbox-modules) – Anbox kernel modules
 - [cilium/pwru](https://github.com/cilium/pwru) – Packet, where are you? -- eBPF-based Linux kernel networking debugger
+- [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) – An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
@@ -1079,7 +1080,6 @@
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
-- [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [billcoding/sshpass](https://github.com/billcoding/sshpass) – A sshpass implementation for Linux and Mac in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
@@ -1149,7 +1149,6 @@
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) – 🤒   A modern alternative network traffic sniffer.
 - [chmouel/gosmee](https://github.com/chmouel/gosmee) – Command line server and client for webhooks deliveries (and https://smee.io)
 - [cilium/cilium](https://github.com/cilium/cilium) – eBPF-based Networking, Security, and Observability
-- [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) – CLI for executing Cirrus tasks locally and in any CI
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu) – Create, publish and virtualize ephemeral Linux VMs with ease
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) – :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -1201,7 +1200,7 @@
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An engine to run your pipelines in containers
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly minimalism Cron/Airflow alternative, but with much more capabilities. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -1416,6 +1415,7 @@
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
 - [in-toto/archivista](https://github.com/in-toto/archivista) – Archivista is a graph and storage service for in-toto attestations. Archivista enables the discovery and retrieval of attestations for software artifacts.
+- [in-toto/go-witness](https://github.com/in-toto/go-witness) – Go implementation of witness
 - [in-toto/witness](https://github.com/in-toto/witness) – Witness is a pluggable framework for software supply chain risk management.  It automates, normalizes, and verifies software artifact provenance.
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) – Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [infosecn1nja/VeilTransfer](https://github.com/infosecn1nja/VeilTransfer) – VeilTransfer is a data exfiltration utility designed to test and enhance the detection capabilities. This tool simulates real-world data exfiltration techniques used by advanced threat actors, allowing organizations to evaluate and improve their security posture.
@@ -1753,6 +1753,7 @@
 - [radiusmethod/awsd](https://github.com/radiusmethod/awsd) – AWS Profile Switcher in Go
 - [rakyll/statik](https://github.com/rakyll/statik) – Embed files into a Go executable
 - [rancher/elemental-toolkit](https://github.com/rancher/elemental-toolkit) – :snowflake: The toolkit to build, ship and maintain cloud-init driven Linux derivatives based on container images
+- [rancher/wharfie](https://github.com/rancher/wharfie) – Pulls and unpacks a container image to the local filesystem. Usable both as a standalone CLI tool, and as a go module.
 - [random-robbie/wayback-saver](https://github.com/random-robbie/wayback-saver) – Saves pages to Wayback machine
 - [rclone/rclone](https://github.com/rclone/rclone) – "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) – Nuke a whole AWS account and delete all its resources.
@@ -2220,6 +2221,7 @@
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -2478,7 +2480,6 @@
 - [0xcrypto/whack](https://github.com/0xcrypto/whack) – Automagically generated wordlists
 - [HeliumOS-org/iso](https://github.com/HeliumOS-org/iso)
 - [NetBSD/pkgsrc](https://github.com/NetBSD/pkgsrc) – Automatic conversion of the NetBSD pkgsrc CVS module, use with care
-- [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) – wrap autotools configure scripts to build with Cosmopolitan Libc
 - [am11/VoidWSL](https://github.com/am11/VoidWSL) – Install Void Linux as a WSL Instance (for Windows 10 1803 64bit or later)
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
@@ -3407,7 +3408,7 @@
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) – Graphical client for the Soulseek peer-to-peer network
 - [nikitastupin/clairvoyance](https://github.com/nikitastupin/clairvoyance) – Obtain GraphQL API schema even if the introspection is disabled
 - [nix-community/NUR](https://github.com/nix-community/NUR) – Nix User Repository: User contributed nix packages [maintainer=@Pandapip1]
-- [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leaked data search engines and aggregators 
+- [notdls/known-breaches](https://github.com/notdls/known-breaches) – Daily updates from leaked data search engines, aggregators and similar services.
 - [novnc/websockify](https://github.com/novnc/websockify) – Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
 - [nullenc0de/gofuzz](https://github.com/nullenc0de/gofuzz)
 - [nullenc0de/paramhunter](https://github.com/nullenc0de/paramhunter) – Looks for parameters in urls
@@ -3618,7 +3619,8 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – HTTP/HTTPS/SOCKS5 proxy written in Rust
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint spoof any browser
+- [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
@@ -3982,6 +3984,7 @@
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
 - [hw0lff/shikane](https://github.com/hw0lff/shikane) – [mirror] A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
+- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [i5-650/rusty-exif](https://github.com/i5-650/rusty-exif) – A simple sketchy rust program to export exif into json file
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
@@ -4185,7 +4188,6 @@
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) – A full-featured implementation of the Network Time Protocol, including NTS support.
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) – Asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint spoof any browser
 - [phip1611/ttfb](https://github.com/phip1611/ttfb) – Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [phylum-dev/birdcage](https://github.com/phylum-dev/birdcage) – Cross-platform embeddable sandboxing
@@ -4476,7 +4478,6 @@
 - [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🧑🏻‍💻 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
@@ -4555,6 +4556,7 @@
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
+- [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) – RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) – Build script for BareMetal OS and its related utilities
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
@@ -4894,6 +4896,7 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
+- [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/flatimage-base](https://github.com/pkgforge/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
@@ -5139,6 +5142,7 @@
 - [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 - [bebiksior/EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) – EvenBetterExtensions allows you to quicky install and keep updated Caido extensions.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) – Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+- [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
