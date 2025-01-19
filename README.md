@@ -159,7 +159,7 @@
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – 🧙‍♂️ ImageMagick 7
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [Kitware/CMake](https://github.com/Kitware/CMake) – Mirror of CMake upstream repository
@@ -1787,7 +1787,7 @@
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
 - [rsc/unix](https://github.com/rsc/unix) – Old Unix programs running on modern computers.
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
-- [runabol/tork](https://github.com/runabol/tork) – A distributed workflow engine
+- [runabol/tork](https://github.com/runabol/tork) – Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers, eliminating the need for specialized code.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) – Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
 - [s0md3v/wl](https://github.com/s0md3v/wl) – convert case style of words
