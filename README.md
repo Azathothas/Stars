@@ -5167,6 +5167,7 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
 - [flathub-infra/website](https://github.com/flathub-infra/website) – Monorepo with website and API
 - [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
