@@ -5326,7 +5326,7 @@
 - [jedisct1/zig-minisign](https://github.com/jedisct1/zig-minisign) – Minisign reimplemented in Zig.
 - [kubkon/bold](https://github.com/kubkon/bold) – bold: the bold linker
 - [kubkon/zelf](https://github.com/kubkon/zelf) – Zig's ELF parser utility
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – The open-source browser made for headless usage
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) – Lightpanda: the headless browser designed for AI and automation
 - [marler8997/zigup](https://github.com/marler8997/zigup) – Download and manage zig compilers.
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) – Tool to make sandboxing AppImages easy
 - [seatedro/asciigen](https://github.com/seatedro/asciigen) – convert images, video to ascii!
