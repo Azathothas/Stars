@@ -2641,7 +2641,7 @@
 - [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A list of interesting open-source security tools, mostly reviewed and commented by me.
 - [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – A list of bizarre crackmes
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
-- [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
+- [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 15!
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
 - [Devang-Solanki/android-hacking-101](https://github.com/Devang-Solanki/android-hacking-101) – This repo is a helpful starting point for those interested in exploring the world of Android hacking and bug bounties. The resources mentioned have personally assisted me.
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
