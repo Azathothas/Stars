@@ -536,6 +536,7 @@
 
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) – Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -2621,6 +2622,7 @@
 - [Alessandro-Salerno/tarman-user-repository](https://github.com/Alessandro-Salerno/tarman-user-repository) – The TUR: Tarman User Repository - Where tarman recipes are held!
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
+- [AppImageMan/ail](https://github.com/AppImageMan/ail) – Version controlled mirror of AppImage files.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [Azathothas/CertStream-Nepal](https://github.com/Azathothas/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
