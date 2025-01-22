@@ -2002,7 +2002,7 @@
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, llm tab completion, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) – Compile shell scripts to statically linked binaries.
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) – Compile shell scripts to static binaries.
 - [ycd/dstp](https://github.com/ycd/dstp) – 🧪 Run common networking tests against any site.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) – An experiment in scalable routing as an encrypted IPv6 overlay network
 - [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
