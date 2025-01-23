@@ -2451,7 +2451,7 @@
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon  
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
-- [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (Shizuku)!
+- [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -2873,7 +2873,6 @@
 - [reswob10/HomeLabResources](https://github.com/reswob10/HomeLabResources) – List of resources for buiding a home lab
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) – Web Attack Cheat Sheet
 - [riscv-builders/riscv-builders.github.io](https://github.com/riscv-builders/riscv-builders.github.io)
-- [rix4uni/BurpSuite-Config](https://github.com/rix4uni/BurpSuite-Config) – Useful "Match and Replace" & "TLS Pass Through" in Burpsuite Rules
 - [roadwy/RIP](https://github.com/roadwy/RIP)
 - [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
@@ -3472,6 +3471,7 @@
 - [repology/repology-webapp](https://github.com/repology/repology-webapp) – Legacy python Repology web application. Deprecated by rust rewrite.
 - [rfc-st/humble](https://github.com/rfc-st/humble) – A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
 - [rfmoz/tuptime](https://github.com/rfmoz/tuptime) – Report historical and statistical real time of the system, keeping it between restarts. Like uptime command but with more interesting output.
+- [rix4uni/BurpSuite-Config](https://github.com/rix4uni/BurpSuite-Config) – Useful "Match and Replace" & "TLS Pass Through" in Burpsuite Rules
 - [rook1337/dupimageremover](https://github.com/rook1337/dupimageremover)
 - [root-tanishq/userefuzz](https://github.com/root-tanishq/userefuzz) – User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
 - [roughiz/lfito_rce](https://github.com/roughiz/lfito_rce) – LFI to RCE via phpinfo() assistance or via controlled log file
@@ -3893,6 +3893,7 @@
 - [datavzrd/datavzrd](https://github.com/datavzrd/datavzrd) – A tool to create visual HTML reports from collections of CSV/TSV tables
 - [dathere/qsv](https://github.com/dathere/qsv) – Blazing-fast Data-Wrangling toolkit
 - [datrs/hypercore](https://github.com/datrs/hypercore) – Secure, distributed, append-only log
+- [davidlattimore/wild](https://github.com/davidlattimore/wild) – A very fast linker for Linux
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) – Convert CSV files to HTML tables
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) – Track changes in JSON data from the command line
 - [dbohdan/s2png](https://github.com/dbohdan/s2png) – Store any data in PNG images
@@ -4813,7 +4814,7 @@
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [linux-strata/ata](https://github.com/linux-strata/ata) – package manager
 - [linux-strata/os](https://github.com/linux-strata/os) – linux distribution
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
