@@ -640,6 +640,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) – Mount Android phones on Linux with adb. No root required.
 - [stealth/crash](https://github.com/stealth/crash) – crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
 - [stealth/fraud-bridge](https://github.com/stealth/fraud-bridge) – ICMP and DNS tunneling via IPv4 and IPv6
