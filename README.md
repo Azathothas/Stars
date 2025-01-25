@@ -277,7 +277,6 @@
 - [hackerschoice/zapper](https://github.com/hackerschoice/zapper) – Zaps arguments and environment from the process list
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
@@ -1412,7 +1411,7 @@
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibuildthecloud/wtfk8s](https://github.com/ibuildthecloud/wtfk8s) – Watch and print changes in k8s
-- [iineva/ipa-server](https://github.com/iineva/ipa-server) – Upload and install Apple ipa and Android apk in web.
+- [iineva/ipa-server](https://github.com/iineva/ipa-server) – Upload and install iOS ipa and Android apk in web.
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
 - [imup-io/client](https://github.com/imup-io/client) – Measure your d*mn internet
@@ -4749,6 +4748,7 @@
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
 - [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Arch Linux system setup 🧩
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
 - [heyhusen/archlinux-package-action](https://github.com/heyhusen/archlinux-package-action) – GitHub Action to run Arch Linux's package tools
@@ -4769,7 +4769,7 @@
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) – A repository with 3 tools for pwn'ing websites with .git repositories available
 - [ipitio/backage](https://github.com/ipitio/backage) – Endpoint behind badges for GitHub Packages
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
-- [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Automated install of Gucamole with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
+- [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage package manager to install, update, sandbox and manage ALL of them, system-wide or locally, thanks to its ever-growing AUR-inspired database listing 2500+ portable apps and programs for GNU/Linux. The first, real centralized repository to manage your AppImages with the ease of APT and the power of PacMan.
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
