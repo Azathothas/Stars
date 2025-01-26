@@ -2020,7 +2020,7 @@
 - [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset) – 🔩 A set of Notion automation tools using the Notion API
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) – ZITADEL - Identity infrastructure, simplified for you.
 - [zmap/zdns](https://github.com/zmap/zdns) – Fast DNS Lookup Library and CLI Tool
-- [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Go Application Scanner
+- [zmap/zgrab2](https://github.com/zmap/zgrab2) – Fast Application Layer Scanner
 - [zonedb/zonedb](https://github.com/zonedb/zonedb) – Public Zone Database
 - [ztelliot/taierspeed-cli](https://github.com/ztelliot/taierspeed-cli) – TaierSpeed CLI
 - [zyedidia/eget](https://github.com/zyedidia/eget) – Easily install prebuilt binaries from GitHub.
@@ -3623,7 +3623,7 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprints
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
