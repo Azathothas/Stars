@@ -1653,7 +1653,7 @@
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
@@ -1788,7 +1788,7 @@
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
 - [rsc/unix](https://github.com/rsc/unix) – Old Unix programs running on modern computers.
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
-- [runabol/tork](https://github.com/runabol/tork) – Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers, eliminating the need for specialized code.
+- [runabol/tork](https://github.com/runabol/tork) – Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) – Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
 - [s0md3v/wl](https://github.com/s0md3v/wl) – convert case style of words
@@ -2391,7 +2391,6 @@
 - [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) – 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 - [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) – Check updates for Android apps, Magisk modules and more!
 - [DavidBerdik/Let-Me-Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) – Let Me Downgrade - Add support for downgrading apps on Android 12 through 15 QPR1.
-- [DerGoogler/MMRL](https://github.com/DerGoogler/MMRL) – MMRL is an Android app that helps manage your own modules repository.
 - [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) – A library to detect suspicious apps like Magisk
 - [Droid-ify/client](https://github.com/Droid-ify/client) – F-Droid client with Material UI. 
 - [FelipeIgansi/LinuxStore](https://github.com/FelipeIgansi/LinuxStore)
@@ -2402,6 +2401,7 @@
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) – Manga reader for Android
 - [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) – Android app for streaming and downloading Movies, TV-Series and Anime.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) – A search-focused Android launcher
+- [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) – MMRL is an Android app that helps manage your own modules repository.
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – GitHub reimagined with Material You
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) – NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro)
@@ -3147,6 +3147,7 @@
 - [Warxim/deluder](https://github.com/Warxim/deluder) – Deluder is a tool for intercepting traffic of proxy unaware applications. Currently, Deluder supports OpenSSL, GnuTLS, SChannel, WinSock and Linux Sockets out of the box.  ⚡ 
 - [Xewdy444/CF-Clearance-Scraper](https://github.com/Xewdy444/CF-Clearance-Scraper) – A simple program for scraping Cloudflare clearance (cf_clearance) cookies from websites issuing Cloudflare challenges to visitors
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) – Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [a-scie/lift](https://github.com/a-scie/lift) – Provides science, a high level tool to build scies with.
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
@@ -3495,6 +3496,7 @@
 - [shelld3v/JSshell](https://github.com/shelld3v/JSshell) – JSshell - JavaScript reverse/remote shell
 - [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) – A proxy tool based on cloud function.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) – OneForAll是一款功能强大的子域收集工具
+- [simonw/llm](https://github.com/simonw/llm) – Access large language models from the command-line
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) – Tools for running OCR against files stored in S3
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) – A command-line utility for taking automated screenshots of websites
 - [simple-login/app](https://github.com/simple-login/app) – The SimpleLogin back-end and web app
@@ -3849,6 +3851,7 @@
 - [casey/intermodal](https://github.com/casey/intermodal) – A command-line utility for BitTorrent torrent file creation, verification, and more
 - [casey/just](https://github.com/casey/just) – 🤖 Just a command runner
 - [cask-pkg/cask.rs](https://github.com/cask-pkg/cask.rs) – A universal, distributed binary file manager. 一个通用的去中心化二进制管理器
+- [cdown/tzupdate](https://github.com/cdown/tzupdate) – Set the system timezone based on IP geolocation.
 - [cea-sec/usbsas](https://github.com/cea-sec/usbsas) – Tool and framework for securely reading untrusted USB mass storage devices.
 - [cestef/braise](https://github.com/cestef/braise) – Run your tasks like a chef !
 - [cestef/rwalk](https://github.com/cestef/rwalk) – A blazingly fast web directory scanner written in Rust
