@@ -3649,7 +3649,6 @@
 - [CyAxe/lotus](https://github.com/CyAxe/lotus) – :zap: Fast Web Security Scanner written in Rust based on Lua Scripts :waning_gibbous_moon: :crab:
 - [DNSCrypt/encrypted-dns-server](https://github.com/DNSCrypt/encrypted-dns-server) – An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [Defelo/sandkasten](https://github.com/Defelo/sandkasten) – Run untrusted code in an isolated environment
-- [DerGoogler/MMRL-CLI](https://github.com/DerGoogler/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
 - [DeterminateSystems/fh](https://github.com/DeterminateSystems/fh) – The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
@@ -3690,6 +3689,7 @@
 - [LukasKalbertodt/reinda](https://github.com/LukasKalbertodt/reinda) – Easily embed and manage assets for your web application to build standalone-executables. Offers filename hashing, templating and more.
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) – Run commands in the languages you love!
+- [MMRLApp/MMRL-CLI](https://github.com/MMRLApp/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) – Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital footprint, or enhance your reconnaissance capabilities for penetration testing and bug bounty hunting.
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
