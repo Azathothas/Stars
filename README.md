@@ -4934,6 +4934,7 @@
 - [reinterpretcat/lfs](https://github.com/reinterpretcat/lfs) – Docker configuration for building Linux From Scratch system
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
+- [rhino-linux/rhino-pkg](https://github.com/rhino-linux/rhino-pkg) – A wrapper for apt + snap + flatpak + Pacstall
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/originip](https://github.com/rix4uni/originip) – originip finds origin ip from dig, shodan, censys, securitytrails, viewdns, hunter how, fofa, zoomeye.
 - [robxu9/bash-static](https://github.com/robxu9/bash-static) – Because we need exercises in minimalism.
@@ -4984,7 +4985,7 @@
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) – GitHub Action for building and uploading Rust binary to GitHub Releases.
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
-- [tclahr/uac](https://github.com/tclahr/uac) – UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- [tclahr/uac](https://github.com/tclahr/uac) – UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
