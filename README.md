@@ -476,6 +476,7 @@
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
+- [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) – take off every zig
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) – zlib replacement with optimizations for "next generation" systems.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 
@@ -3664,6 +3665,7 @@
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
+- [Elsie19/libpacstall](https://github.com/Elsie19/libpacstall) – Yurt
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [ErrorNoInternet/overmask](https://github.com/ErrorNoInternet/overmask) – Add a writeable overlay on top of read-only files
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
@@ -4394,6 +4396,7 @@
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) – An efficient VPN. 简便高效的异地组网、内网穿透工具
 - [voidash/8085-Emulator](https://github.com/voidash/8085-Emulator) – online 8085 emulator using Rust, WebAssembly and React
 - [voidash/nep-preter](https://github.com/voidash/nep-preter) – Special nepali programming language Interpreter in Rust
+- [volitank/rust-apt](https://github.com/volitank/rust-apt) – Rust crate for interacting with libapt-pkg
 - [volta-cli/volta](https://github.com/volta-cli/volta) – Volta: JS Toolchains as Code. ⚡
 - [volution/z-tokens](https://github.com/volution/z-tokens) – z-tokens -- random tokens generation and related tools
 - [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) –  A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection.
@@ -4743,7 +4746,7 @@
 - [gobolinux/Recipes](https://github.com/gobolinux/Recipes) – The GoboLinux recipes repository
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
-- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.9.3 For Termux , Version : 2.9.3 , Maintained
+- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.0 For Termux , Version : 2.11.0 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [hackerschoice/hackshell](https://github.com/hackerschoice/hackshell) – Make BASH stealthy and hacker friendly with lots of bash functions
