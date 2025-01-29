@@ -2070,7 +2070,6 @@
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) – 🛏 An HTML to Markdown converter written in JavaScript
-- [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) – Awesome list of keywords and artifacts for Threat Hunting sessions
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) – NOVA opeN sOurce Video plAyer: main repository to build them all
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) – Writing an OS in Rust
@@ -3015,6 +3014,7 @@
 - [microsoft/Windows-Sandbox](https://github.com/microsoft/Windows-Sandbox) – Disposable, secure and lightweight Windows Desktop Environment
 - [mikeroyal/Azure-Guide](https://github.com/mikeroyal/Azure-Guide) – Microsoft Azure Guide. Learn all about Microsoft Azure Tools, Services, and Certifications.
 - [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
+- [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) – Awesome list of keywords and artifacts for Threat Hunting sessions
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) – Easily move your WSL distros VHDX file to a new location.
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [tiobe/docker-github-runner-windows](https://github.com/tiobe/docker-github-runner-windows) – This repository will run the self-hosted github actions runners for Windows with Visual Studio 2022 buildtools installed by default.
