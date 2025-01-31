@@ -1239,6 +1239,7 @@
 - [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
 - [dsecuredcom/dynamic-file-searcher](https://github.com/dsecuredcom/dynamic-file-searcher) – Tool to scan servers and hosts using dynamic paths.
 - [dsecuredcom/ffufPostprocessing](https://github.com/dsecuredcom/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
+- [dsecuredcom/vhost-fuzzer](https://github.com/dsecuredcom/vhost-fuzzer) – Tool to fuzz for interesting vhost.
 - [dsecuredcom/yataf](https://github.com/dsecuredcom/yataf) – yataf extracts secrets and paths from files or urls - its best used against javascript files
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) – An HTTP toolkit for security research.
 - [dub-flow/sessionprobe](https://github.com/dub-flow/sessionprobe) – SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
@@ -2912,7 +2913,7 @@
 - [trickest/wordlists](https://github.com/trickest/wordlists) – Real-world infosec wordlists, updated regularly
 - [trickest/zip](https://github.com/trickest/zip) – Monitoring the internet for new .zip domains
 - [ultrafunkamsterdam/undetected-frida](https://github.com/ultrafunkamsterdam/undetected-frida) – Making frida less detectable by applying some patches. This follows the official Frida releases and publishes releases the same day. Do not fork this!
-- [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org
+- [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org/download
 - [user-why-red/san_gcc_toolchain_arm](https://github.com/user-why-red/san_gcc_toolchain_arm) – A upto-date GCC toolchain for aarch64/aarch32 host machine which targets aarch64,aarch32,x86_64 architectures.(A bare-metal toolchain optimized with LTO for optimum perfomance in linux kernel development)
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) – An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) – A curated list of various bug bounty tools
@@ -4213,7 +4214,7 @@
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [pls-rs/pls](https://github.com/pls-rs/pls) – pls is a prettier and powerful ls(1) for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
-- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [prefix-dev/pixi-build-backends](https://github.com/prefix-dev/pixi-build-backends) – WIP backend implementations to build pixi projects from source
 - [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal package builder for Windows, macOS and Linux
