@@ -1785,6 +1785,7 @@
 - [root-gg/plik](https://github.com/root-gg/plik) – Plik is a temporary file upload system (Wetransfer like) in Go.
 - [root4loot/crtsher](https://github.com/root4loot/crtsher) – Obtain domains from certificate transparency logs
 - [root4loot/rescope](https://github.com/root4loot/rescope) – Bugbounty scope tool
+- [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) – [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
 - [rsc/tmp](https://github.com/rsc/tmp) – /tmp
@@ -3095,6 +3096,7 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) – Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) – Swiss-knife for updating nix packages.
+- [Mic92/nixos-aarch64-images](https://github.com/Mic92/nixos-aarch64-images) – Build NixOS images for various ARM single computer boards
 - [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) – Expose your TCP/UDP port behind full-cone NAT to the Internet.
 - [MikeWang000000/n4](https://github.com/MikeWang000000/n4) – 双 NAT4 网络打洞 PoC
 - [Mr-Robert0/Logsensor](https://github.com/Mr-Robert0/Logsensor) – A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning 
@@ -3673,6 +3675,7 @@
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
+- [FigSystems/fpkg](https://github.com/FigSystems/fpkg) – The package manager for dalixOS
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
