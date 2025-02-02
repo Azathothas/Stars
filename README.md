@@ -313,6 +313,7 @@
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
+- [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) – A better and stronger spiritual successor to BZip2.
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
@@ -2669,7 +2670,7 @@
 - [LinuxNerdBTW/XSS_CheatSheet](https://github.com/LinuxNerdBTW/XSS_CheatSheet)
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 times a day.
 - [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) – :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
-- [Malix-Labs/awesome_atomic](https://github.com/Malix-Labs/awesome_atomic) – An awesome curated knowledge-base about atomic systems
+- [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) – An awesome curated knowledge-base about atomic systems
 - [Mehdi0x90/Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking) – Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.
 - [MindPatch/awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) – awesome linux minimalism suggestions
 - [Moe-hacker/Moe-hacker](https://github.com/Moe-hacker/Moe-hacker) – Self-introduction
@@ -3605,6 +3606,7 @@
 - [Acceis/unisec](https://github.com/Acceis/unisec) – Unicode Security Toolkit
 - [Homebrew/brew](https://github.com/Homebrew/brew) – 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) – 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-formula-analytics](https://github.com/Homebrew/homebrew-formula-analytics) – 🔢 Query Homebrew's analytics from the command-line.
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
 - [digininja/CeWL](https://github.com/digininja/CeWL) – CeWL is a Custom Word List Generator
@@ -4130,7 +4132,7 @@
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
 - [msfjarvis/adx](https://github.com/msfjarvis/adx) – CLI to check Google Maven repository for updates to AndroidX artifacts
-- [mstange/samply](https://github.com/mstange/samply) – Command-line sampling profiler for macOS and Linux
+- [mstange/samply](https://github.com/mstange/samply) – Command-line sampling profiler for macOS, Linux, and Windows
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mtkennerly/shawl](https://github.com/mtkennerly/shawl) – Windows service wrapper for arbitrary commands
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
@@ -4816,6 +4818,7 @@
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
+- [leleliu008/appimageutil](https://github.com/leleliu008/appimageutil)
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
 - [leleliu008/non-relocatable-binary-packages](https://github.com/leleliu008/non-relocatable-binary-packages)
 - [leleliu008/perl-distribution](https://github.com/leleliu008/perl-distribution) – A self-contained and relocatable Perl distribution
