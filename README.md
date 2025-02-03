@@ -4014,7 +4014,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
 - [indygreg/linux-packaging-rs](https://github.com/indygreg/linux-packaging-rs) – Rust projects related to Linux packaging
-- [innobead/huber](https://github.com/innobead/huber) – Huber 📦, Package Install Manager for GitHub repos
+- [innobead/huber](https://github.com/innobead/huber) – Huber: A package installer for GitHub repository releases.
 - [insanitybit/cargo-sandbox](https://github.com/insanitybit/cargo-sandbox)
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [io12/unf](https://github.com/io12/unf) – UNixize Filename -- replace annoying anti-unix characters in filenames
@@ -4760,7 +4760,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
-- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Arch Linux system setup 🧩
+- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Arch Linux system setup 🧩 [ Unstable ]
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
