@@ -2069,7 +2069,7 @@
 - [initialrise/90DaysofInternship](https://github.com/initialrise/90DaysofInternship) – A repository to track progress, notes, tasks etc. during the time of internship
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
-- [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client
+- [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client (In Progress)
 - [lure-sh/lure-web](https://github.com/lure-sh/lure-web) – A web interface for the Linux User Repository
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) – Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
@@ -4384,7 +4384,7 @@
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Limbo is a project to build the modern evolution of SQLite.
 - [tux3/armerge](https://github.com/tux3/armerge) – Tool to merge static libraries and hide their private symbols
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) – 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
