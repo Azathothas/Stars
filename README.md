@@ -4790,7 +4790,7 @@
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
-- [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built on top of "Conty" (Arch Linux). 
+- [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built using Runimage.
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
@@ -4821,7 +4821,7 @@
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
-- [leleliu008/appimageutil](https://github.com/leleliu008/appimageutil)
+- [leleliu008/appimageutil](https://github.com/leleliu008/appimageutil) – A command-line utility to generate AppImage
 - [leleliu008/ndk-pkg-formula-repository-official-core](https://github.com/leleliu008/ndk-pkg-formula-repository-official-core) – the formula repository for ndk-pkg
 - [leleliu008/non-relocatable-binary-packages](https://github.com/leleliu008/non-relocatable-binary-packages)
 - [leleliu008/perl-distribution](https://github.com/leleliu008/perl-distribution) – A self-contained and relocatable Perl distribution
