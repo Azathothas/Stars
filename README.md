@@ -4016,7 +4016,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) – Terminal bandwidth utilization tool
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) – A modern Python application packaging and distribution tool
 - [indygreg/linux-packaging-rs](https://github.com/indygreg/linux-packaging-rs) – Rust projects related to Linux packaging
-- [innobead/huber](https://github.com/innobead/huber) – Huber: A package installer for GitHub repository releases.
+- [innobead/huber](https://github.com/innobead/huber) – Huber: simplify GitHub package management
 - [insanitybit/cargo-sandbox](https://github.com/insanitybit/cargo-sandbox)
 - [io12/pwninit](https://github.com/io12/pwninit) – pwninit - automate starting binary exploit challenges
 - [io12/unf](https://github.com/io12/unf) – UNixize Filename -- replace annoying anti-unix characters in filenames
@@ -4950,6 +4950,7 @@
 - [reinterpretcat/lfs](https://github.com/reinterpretcat/lfs) – Docker configuration for building Linux From Scratch system
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
+- [rhino-linux/docker](https://github.com/rhino-linux/docker)
 - [rhino-linux/rhino-pkg](https://github.com/rhino-linux/rhino-pkg) – A wrapper for apt + snap + flatpak + Pacstall
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/originip](https://github.com/rix4uni/originip) – originip finds origin ip from dig, shodan, censys, securitytrails, viewdns, hunter how, fofa, zoomeye.
@@ -5031,6 +5032,7 @@
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
 - [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bluefin](https://github.com/ublue-os/bluefin) – The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
 - [unypkg/unypkg](https://github.com/unypkg/unypkg) – Universal, simple and classical Linux package manager
