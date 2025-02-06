@@ -3377,6 +3377,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. 
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve its internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
