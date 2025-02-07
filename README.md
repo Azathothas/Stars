@@ -4752,6 +4752,7 @@
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [fsquillace/junest](https://github.com/fsquillace/junest) – The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
+- [fullstaq-ruby/server-edition](https://github.com/fullstaq-ruby/server-edition) – A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM
 - [fwcd/archlinuxarm-images](https://github.com/fwcd/archlinuxarm-images) – Unofficial, automated Arch Linux ARM image builds, e.g. for Raspberry Pis
 - [gameimage/runners](https://github.com/gameimage/runners) – Runners used by GameImage
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) – A collection of Dockerized games and apps like Steam, Firefox and Retroarch
@@ -4920,6 +4921,7 @@
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
+- [pkgforge-community/AM-HF-SYNC](https://github.com/pkgforge-community/AM-HF-SYNC) – Build, Cache & Sync AM ==> https://huggingface.co/datasets/pkgforge/AMcache
 - [pkgforge-community/Toolpacks-Temp-Builds](https://github.com/pkgforge-community/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
 - [pkgforge-dev/Dolphin-emu-AppImage](https://github.com/pkgforge-dev/Dolphin-emu-AppImage) – Dolphin emu is a Nintendo Game Cube and Wii emulator, it allows the computer gammers enjoy both Consoles in the computer with the capability of 1080p [Maintainer=@lucasmz1|@Samueru-sama]
@@ -5050,6 +5052,7 @@
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [vegardit/await.sh](https://github.com/vegardit/await.sh) – Self-contained POSIX shell scripts to await the availability of resources and services. Can be used as a workaround for Docker Swarm's missing depends_on support.
+- [vegardit/fast-apt-mirror.sh](https://github.com/vegardit/fast-apt-mirror.sh) – fast-apt-mirror.sh is a self-contained Bash script that helps you to easily and quickly determine and configure a fast APT repository mirror on Debian, Ubuntu and Pop!_OS systems.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
 - [vmactions/dragonflybsd-vm](https://github.com/vmactions/dragonflybsd-vm) – Use DragonFly BSD in github actions
 - [vmactions/freebsd-vm](https://github.com/vmactions/freebsd-vm) – Use FreeBSD in github actions
