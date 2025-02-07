@@ -27,6 +27,7 @@
 - [Earthly](#earthly)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fortran](#fortran)
 - [Glsl](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -822,6 +823,12 @@
 
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) – Search NixOS packages and options
 - [icidasset/diffuse](https://github.com/icidasset/diffuse) – A music player that connects to your cloud/distributed storage.
+
+<div id="fortran"></div>
+
+## Fortran
+
+- [Elsie19/funix-utils](https://github.com/Elsie19/funix-utils) – Unix utils in Fortran
 
 <div id="glsl"></div>
 
@@ -3668,7 +3675,7 @@
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) – A Graphical Interface for Distrobox
-- [EFForg/apkeep](https://github.com/EFForg/apkeep)
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) – A command-line tool for downloading APK files from various sources
 - [EdJoPaTo/ip-changed-telegram-message](https://github.com/EdJoPaTo/ip-changed-telegram-message) – Send a Telegram message when the public IP address changes
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) – Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
