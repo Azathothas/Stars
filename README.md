@@ -2240,6 +2240,7 @@
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google or Yandex
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+- [Homebrew/actions](https://github.com/Homebrew/actions) – 🚀 Homebrew's GitHub Actions
 - [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
@@ -4315,7 +4316,7 @@
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) – intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
-- [serpent-os/tools](https://github.com/serpent-os/tools) – The home of moss (system state manager) and boulder (moss format build tool)
+- [serpent-os/tools](https://github.com/serpent-os/tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) – a graphical tool to visualize binary data
@@ -4425,8 +4426,8 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
-- [wez/wezterm](https://github.com/wez/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wfxr/csview](https://github.com/wfxr/csview) – 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) – a tool for reinterpreting ELF executables and shared libraries
 - [whitfin/jen](https://github.com/whitfin/jen) – A fast utility to generate fake/test documents based on a template
@@ -4795,7 +4796,7 @@
 - [ipitio/backage](https://github.com/ipitio/backage) – Endpoint behind badges for GitHub Packages
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: Install, update and sandbox all AppImages, system-wide or locally. 2500 AppImages and portable apps for GNU/Linux are available in its extensible and ever-growing AUR-inspired database. Manage AppImages like never before, with the ease of APT and the power of PacMan.
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, extensible AppImages and portable apps database, lists for AppImages and other GNU/Linux binaries, drag-and-drop AppImage integration or unlisted AppImage installation, conversion of old AppImage types... and more! Manage AppImages like never before!
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
