@@ -324,7 +324,7 @@
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [lemire/despacer](https://github.com/lemire/despacer) – C library to remove white space from strings as fast as possible
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) – :floppy_disk: The shell-like, command line terminal file manager
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) – 💾 The shell-like, command line terminal file manager
 - [liberize/ssc](https://github.com/liberize/ssc) – Convert shell script to binary
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) – A network filesystem client to connect to SSH servers
 - [libressl/portable](https://github.com/libressl/portable) – LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.
@@ -5263,7 +5263,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner secures CI/CD workflows by controlling network access and monitoring activities on GitHub-hosted and self-hosted runners
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time. Every alert includes full step, job, and workflow context, giving developers actionable insights into potential threats.
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
