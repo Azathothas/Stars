@@ -2668,6 +2668,7 @@
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) – 🗣 Public open-ended discussions. Replacement for our Discourse.
+- [Homebrew/homebrew-formula-analytics](https://github.com/Homebrew/homebrew-formula-analytics) – 💀 Query Homebrew's analytics from the command-line (deprecated)
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) – A guide to learn bash
 - [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) – This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
@@ -3617,7 +3618,6 @@
 - [Acceis/unisec](https://github.com/Acceis/unisec) – Unicode Security Toolkit
 - [Homebrew/brew](https://github.com/Homebrew/brew) – 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) – 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [Homebrew/homebrew-formula-analytics](https://github.com/Homebrew/homebrew-formula-analytics) – 🔢 Query Homebrew's analytics from the command-line.
 - [arkadiyt/bounty-targets](https://github.com/arkadiyt/bounty-targets) – This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo
 - [bcoles/jira_scan](https://github.com/bcoles/jira_scan) – A simple remote scanner for Atlassian Jira
 - [digininja/CeWL](https://github.com/digininja/CeWL) – CeWL is a Custom Word List Generator
@@ -4773,7 +4773,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
-- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Arch Linux system setup 🧩 [ Unstable ]
+- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Linux system setup (Arch & Fedora) 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
@@ -4796,7 +4796,7 @@
 - [ipitio/backage](https://github.com/ipitio/backage) – Endpoint behind badges for GitHub Packages
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
-- [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, extensible AppImages and portable apps database, lists for AppImages and other GNU/Linux binaries, drag-and-drop AppImage integration or unlisted AppImage installation, conversion of old AppImage types... and more! Manage AppImages like never before!
+- [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
