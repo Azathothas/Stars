@@ -780,7 +780,7 @@
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
-- [fwcd/docker-archlinux](https://github.com/fwcd/docker-archlinux) – Unofficial multi-platform Docker images of Arch Linux and its ports (x86_64, aarch64, armv7h, pentium4, riscv64, powerpc64le)
+- [fwcd/docker-archlinux](https://github.com/fwcd/docker-archlinux) – Unofficial multi-platform Docker images of Arch Linux and its ports (x86_64, aarch64, armv7h, riscv64, powerpc64le)
 - [ironpeakservices/iron-scratch](https://github.com/ironpeakservices/iron-scratch) – Secure base image for running Go (or any other static) applications.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
@@ -1009,6 +1009,7 @@
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) – Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
 - [ajinasokan/apkc](https://github.com/ajinasokan/apkc) – apkc is a bare-bones Android app build system that lets you build simple native Android apps without entire Android IDE
+- [ajstrongdev/rpkgo](https://github.com/ajstrongdev/rpkgo)
 - [ajutamangdev/S3Khoj](https://github.com/ajutamangdev/S3Khoj) –  robust s3 security tool designed to help detect sensitive files at AWS public S3 buckets.
 - [akkuman/blob-uploader](https://github.com/akkuman/blob-uploader)
 - [akkuman/cpe2db](https://github.com/akkuman/cpe2db) – download cpe and import to database
@@ -5083,7 +5084,7 @@
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
 - [ziglang/qemu-static](https://github.com/ziglang/qemu-static) – build qemu-static binaries using Alpine Linux docker
 - [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) – Scripts to build ffmpeg with all the deps statically (webm + h264 included)
-- [zongou/android-build](https://github.com/zongou/android-build) – Build Android Application and Android targeted binary on unsupported OS/arch.
+- [zongou/android-build](https://github.com/zongou/android-build) – This NDK can run on Linux / MacOS / Windows / FreeBSD / OpenBSD 7.3 / NetBSD for both the x86_64 and AARCH64 architectures.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) – Additional completion definitions for Zsh.
 
 <div id="starlark"></div>
@@ -5263,7 +5264,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
-- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time. Every alert includes full step, job, and workflow context, giving developers actionable insights into potential threats.
+- [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
