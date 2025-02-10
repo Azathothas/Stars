@@ -4980,6 +4980,7 @@
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
+- [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Sbnb Linux is a revolutionary minimalist Linux distribution designed to boot bare-metal servers and enable remote connections through fast tunnels. It is ideal for environments ranging from home labs to distributed data centers.
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
