@@ -952,7 +952,7 @@
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
-- [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – Composable, reprovisionable, decentralized management of apps & configs on Raspberry Pis and other embedded Linux systems
+- [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – A configurable bill-of-materials (CBOM) system for declaratively composing and upgrading/downgrading your hardware-specific embedded Linux operating systems
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
