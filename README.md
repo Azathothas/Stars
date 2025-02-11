@@ -561,6 +561,7 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) – Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) – Offline Minecraft launcher.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) – Compatibility tool for Steam Play based on Wine and additional components
 - [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
@@ -1211,7 +1212,7 @@
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An engine to run your pipelines in containers
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – Developer-friendly minimalism Cron/Airflow alternative, but with much more capabilities. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -5044,7 +5045,7 @@
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
 - [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) – The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
