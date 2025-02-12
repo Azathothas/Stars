@@ -4761,6 +4761,7 @@
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
+- [ghuSet/bspwm](https://github.com/ghuSet/bspwm) – Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
@@ -5040,7 +5041,6 @@
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
 - [trofi/nix-guix-gentoo](https://github.com/trofi/nix-guix-gentoo) – Gentoo overlay for nix and guix functional package managers.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
-- [tsOhgresU/bspwm](https://github.com/tsOhgresU/bspwm) – Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
