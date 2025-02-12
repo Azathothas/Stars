@@ -742,7 +742,7 @@
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
-- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application that allows users to read manga and stream anime from a variety of sources including BitTorrent available on Android, iOS, macOS, Linux and Windows
+- [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
@@ -2002,7 +2002,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3100 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2825 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -4472,7 +4472,7 @@
 ## SCSS
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – The database of all AppImage packages and portable applications for GNU/Linux... from here you can download, install (and update) them all! Find out more!
+- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – Largest AppImages collection!
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) – A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [rs-loves-bugs/xsshunter](https://github.com/rs-loves-bugs/xsshunter)
 - [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
@@ -4507,7 +4507,6 @@
 - [Aegrah/PANIX](https://github.com/Aegrah/PANIX) – Customizable Linux Persistence Tool for Security Research and Detection Engineering.
 - [Aj-Seven/Android-Sysinfo](https://github.com/Aj-Seven/Android-Sysinfo) – A tool efficiently displays Android system details on Termux.
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
-- [AlvinPix/bspwm](https://github.com/AlvinPix/bspwm) – 🧑🏻‍💻 Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
@@ -5041,6 +5040,7 @@
 - [trickest/inventory](https://github.com/trickest/inventory) – Asset inventory of over 800 public bug bounty programs.
 - [trofi/nix-guix-gentoo](https://github.com/trofi/nix-guix-gentoo) – Gentoo overlay for nix and guix functional package managers.
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
+- [tsOhgresU/bspwm](https://github.com/tsOhgresU/bspwm) – Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
