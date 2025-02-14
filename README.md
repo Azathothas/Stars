@@ -128,7 +128,7 @@
 - [blibdoolpoolp/Cloudflared-RDP-Tutorial-Free](https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free) – This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) & SSH connections using Cloudflare's Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare's tunneling technology to create a safe, encrypted connection path.
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [mmgordon82/BurpSuiteInstaller](https://github.com/mmgordon82/BurpSuiteInstaller) – Install and Crack your Burp Suite Professional Latest (Updated Weekly).
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
@@ -892,6 +892,7 @@
 - [DreyAnd/WhoDupMe](https://github.com/DreyAnd/WhoDupMe)
 - [EatonChips/yalis](https://github.com/EatonChips/yalis) – Yet Another LinkedIn Scraper
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) – ehco is a network ʚrelayɞ tool and a typo :)
+- [Elara6331/distrohop](https://github.com/Elara6331/distrohop) – DistroHop is a tool that helps you compare Linux packages across different distributions 
 - [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) – Blazing fast GraphQL discovery & fingerprinting toolbox.
 - [Eun/logtimer](https://github.com/Eun/logtimer) – Enhance your output with a timer / date
 - [Eun/sshkeys](https://github.com/Eun/sshkeys) – Get all ssh public keys of a ssh server
@@ -1756,7 +1757,6 @@
 - [projectmonke/burp2caido](https://github.com/projectmonke/burp2caido) – A tool to migrate Burpsuite HTTP history to Caido.
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
-- [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
 - [qaware/protocurl](https://github.com/qaware/protocurl) – protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1981,6 +1981,7 @@
 - [wgpsec/cloudsword](https://github.com/wgpsec/cloudsword) – 一款帮助云租户发现和测试云上风险、增强云上防护能力的综合性开源工具
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) – Homebrew, but with Docker images
 - [whoissecure/yaset](https://github.com/whoissecure/yaset) –  Yet Another Subdomain Enumeration Tool, a template based tool to enumerate subdomains passively.
+- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [windvalley/gossh](https://github.com/windvalley/gossh) – 🚀🚀A high-performance and high-concurrency ssh tool written in Go. It is 10 times faster than Ansible. If you need much more performance and better ease of use, you will love it.
@@ -2002,7 +2003,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2825 statically linked binaries in the repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2825 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -2026,6 +2027,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Fastest and Most Efficient IDE to run Jupyter Notebooks.
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
@@ -2584,7 +2586,7 @@
 - [milahu/nixos-tails](https://github.com/milahu/nixos-tails) – tails linux based on nixos linux. tails linux implemented in the nix language
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
-- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL(2) [maintainer=@nzbr] 
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL [maintainer=@nzbr] 
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) – Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) – Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin] 
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) – Weekly updated nix-index database [maintainer=@Mic92]
@@ -2719,7 +2721,6 @@
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) – 🗂 High resolution web browser logos
 - [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
-- [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) – Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
@@ -2845,6 +2846,7 @@
 - [maoxiaoke/setup-a-mac-for-frontend-dev](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev) – How I setup a Mac, with lots of productivity tools, step-by-step guide
 - [maple24/VPS-Warp](https://github.com/maple24/VPS-Warp) – Guide to build a proxy server with VPS and cloudfare warp.
 - [mattnotmax/cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) – A list of cyber-chef recipes and curated links
+- [meanands/heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) – Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) – Keeping track of companies that "care about your data 🥺"
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) – Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [mendel5/iperf3-results](https://github.com/mendel5/iperf3-results) – Interpretation of iperf and iperf3 results, especially regarding data-transfer rates aka speed (Mbit/s, Gbit/s)
@@ -3395,6 +3397,7 @@
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) – The Meson Build System
+- [metaist/cosmofy](https://github.com/metaist/cosmofy) – Cosmopolitan Python Bundler
 - [mgeeky/PackMyPayload](https://github.com/mgeeky/PackMyPayload) – A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX
 - [mhaskar/DNSStager](https://github.com/mhaskar/DNSStager) – Hide your payload in DNS
 - [micahflee/hacks-leaks-and-revelations](https://github.com/micahflee/hacks-leaks-and-revelations) – Code that goes along with the Hacks, Leaks, and Revelations book
@@ -3459,7 +3462,9 @@
 - [p0dalirius/objectwalker](https://github.com/p0dalirius/objectwalker) – A python module to explore the object tree to extract paths to interesting objects in memory.
 - [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) – The Pants Build System
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) – Persepolis is a download manager written in Python.
+- [pex-tool/pex](https://github.com/pex-tool/pex) – A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [pielco11/fav-up](https://github.com/pielco11/fav-up) – IP lookup by favicon using Shodan
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) – Passive hostname, domain and IP lookup tool for non-robots
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) – Utils for streaming large files (S3, HDFS, gzip, bz2...)
@@ -3645,7 +3650,7 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprints
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Asynchronous Rust HTTP Client with Black Magic
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
@@ -3766,6 +3771,7 @@
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) – Tricking shells into interactive mode when local PTY's are not available
 - [TimeToogo/tunshell](https://github.com/TimeToogo/tunshell) – Remote shell into ephemeral environments 🐚 🦀
 - [Timmmm/anakin](https://github.com/Timmmm/anakin) – Kill orphan processes
+- [Toxikuu/2lkit](https://github.com/Toxikuu/2lkit) – A collection of maintainer utilities for 2
 - [Toxikuu/mo](https://github.com/Toxikuu/mo) – mv replacement that overwrites without flinching
 - [Toxikuu/rid](https://github.com/Toxikuu/rid) – minimal source-based package manager for lfs in rust
 - [Toxikuu/tuun](https://github.com/Toxikuu/tuun) – My music player
@@ -4532,6 +4538,7 @@
 - [DannyBen/rush-repo](https://github.com/DannyBen/rush-repo) – My package repository for the Rush package manager
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
+- [Elara6331/riscv-docker](https://github.com/Elara6331/riscv-docker) – Docker containers with support for RISC-V
 - [Elsie19/clam](https://github.com/Elsie19/clam) – Development tools for writing shell scripts
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
 - [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
@@ -4931,6 +4938,7 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/flatimage-base](https://github.com/pkgforge-dev/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
+- [pkgforge-dev/llvm-libs-debloated](https://github.com/pkgforge-dev/llvm-libs-debloated) – Stripped down version of the llvm-libs package of archlinux
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
@@ -5051,7 +5059,7 @@
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
 - [unypkg/unypkg](https://github.com/unypkg/unypkg) – Universal, simple and classical Linux package manager
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
@@ -5205,7 +5213,7 @@
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
 - [flathub-infra/website](https://github.com/flathub-infra/website) – Monorepo with website and API
 - [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) – Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -5276,7 +5284,6 @@
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [wei/pull](https://github.com/wei/pull) – 🤖 Keep your forks up-to-date via automated PRs
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Fastest and Most Efficient IDE to run Jupyter Notebooks.
 
 <div id="v"></div>
 
