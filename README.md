@@ -4083,7 +4083,7 @@
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) – Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [konradsz/igrep](https://github.com/konradsz/igrep) – Interactive Grep
 - [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Moved: https://codeberg.org/koutheir/binary-security-check
-- [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 p2p gossip network for update transparency, based on pgp 🥸
+- [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 Experimental p2p gossip network for OpenPGP signature transparency 🥸
 - [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - reproducible builds
 - [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
 - [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) – TCP connection hijacker, Rust rewrite of shijack
