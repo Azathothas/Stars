@@ -2731,7 +2731,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) – A collection of special paths linked to common sensitive APIs, devops internals, frameworks conf, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
-- [barely-a-dev/spm_repo](https://github.com/barely-a-dev/spm_repo) – The package repo for my project, spm (https://github.com/barely-a-dev/spm)
 - [birajkarki/birajkarki](https://github.com/birajkarki/birajkarki) – My personal repository
 - [bishalcpgn/terminal-shortcuts](https://github.com/bishalcpgn/terminal-shortcuts)
 - [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) – A curated list of blockchain security Capture the Flag (CTF) competitions
@@ -3842,7 +3841,6 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
 - [b1-team/superman](https://github.com/b1-team/superman) – 🤖 Kill The Protected Process 🤖
-- [barely-a-dev/spm](https://github.com/barely-a-dev/spm) – A (really [trash]) package manager. Repository containing packages is barely-a-dev/spm_repo
 - [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) – Compile Rust projects against the Android NDK without hassle
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
