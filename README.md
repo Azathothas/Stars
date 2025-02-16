@@ -286,7 +286,6 @@
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) – Portable Git(hub|lab|tea) CLI tool
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
-- [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
 - [hroptatyr/dateutils](https://github.com/hroptatyr/dateutils) – nifty command line date and time utilities; fast date calculations and conversion in the shell
 - [htop-dev/htop](https://github.com/htop-dev/htop) – htop - an interactive process viewer
@@ -789,6 +788,7 @@
 - [kpcyrd/i-probably-didnt-backdoor-this](https://github.com/kpcyrd/i-probably-didnt-backdoor-this) – A practical experiment on supply-chain security using reproducible builds
 - [linuxserver/docker-steamos](https://github.com/linuxserver/docker-steamos) – Vanilla Arch modified into SteamOS with web based Desktop access, useful for remote play and lower end games
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) – Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+- [linuxserver/proot-apps](https://github.com/linuxserver/proot-apps) – Userspace applications running with proot and built with Docker
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) – An optimized docker image includes Android, Kotlin, Flutter sdk.
 - [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) – Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
@@ -3611,6 +3611,7 @@
 - [containers/container-selinux](https://github.com/containers/container-selinux) – SELinux policy files for Container Runtimes
 - [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
+- [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
@@ -3739,6 +3740,7 @@
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
+- [PyO3/maturin](https://github.com/PyO3/maturin) – Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
 - [QaidVoid/to-capnp](https://github.com/QaidVoid/to-capnp) – JSON metadata to Cap'n Proto
 - [Racum/uuinfo](https://github.com/Racum/uuinfo) – A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
@@ -3904,6 +3906,7 @@
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
 - [containers/bootc](https://github.com/containers/bootc) – Boot and upgrade via container images
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
+- [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
@@ -4005,6 +4008,7 @@
 - [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
+- [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
