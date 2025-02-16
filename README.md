@@ -279,7 +279,7 @@
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
 - [henrypp/errorlookup](https://github.com/henrypp/errorlookup) – Simple tool for retrieving information about Windows errors codes.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
@@ -4220,6 +4220,7 @@
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
+- [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) – A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [pacwrap/pacwrap](https://github.com/pacwrap/pacwrap) – A package manager which facilitates Arch-based bubblewrap containers.
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON logs or logfmt logs into a pretty human-readable format.
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
