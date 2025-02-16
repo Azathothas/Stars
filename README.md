@@ -4942,6 +4942,7 @@
 - [pkgforge-dev/flatimage-base](https://github.com/pkgforge-dev/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
 - [pkgforge-dev/llvm-libs-debloated](https://github.com/pkgforge-dev/llvm-libs-debloated) – Stripped down version of the llvm-libs package of archlinux
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
+- [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects)
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
