@@ -401,6 +401,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) – A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
+- [rhash/RHash](https://github.com/rhash/RHash) – Great utility for computing hash sums
 - [riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain) – GNU toolchain for RISC-V, including GCC
 - [riwux/rcore](https://github.com/riwux/rcore) – Simple & compliant implementation of common UNIX userspace utilities
 - [rmyorston/busybox-w32](https://github.com/rmyorston/busybox-w32) – WIN32 native port of BusyBox.  
@@ -419,6 +420,7 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) – Sandboxie Plus & Classic
 - [saprykin/plibsys](https://github.com/saprykin/plibsys) – Highly portable C system library: threads and synchronization primitives, sockets (TCP, UDP, SCTP), IPv4 and IPv6, IPC, hash functions (MD5, SHA-1, SHA-2, SHA-3, GOST), binary trees (RB, AVL) and more. Native code performance.
 - [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
+- [schweikert/fping](https://github.com/schweikert/fping) – High performance ping tool
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
@@ -969,6 +971,7 @@
 - [Shell-Company/Noirgate](https://github.com/Shell-Company/Noirgate) – NoirGate provides on-demand ephemeral anonymous shells secured by TOTP
 - [Shell-Company/poltergeist](https://github.com/Shell-Company/poltergeist) – A tool to encode and decode content as whitespace
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) – ✒ A free, self-hosted platform to sideload iOS apps without a computer
+- [Skardyy/ttyimg](https://github.com/Skardyy/ttyimg) – cross platform terminal image viewer
 - [SpatiumPortae/portal](https://github.com/SpatiumPortae/portal) – Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) – Six Degrees of Domain Admin
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
@@ -1073,6 +1076,7 @@
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) – Flamingo captures credentials sprayed across the network by various IT and security products.
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
+- [autobrr/mkbrr](https://github.com/autobrr/mkbrr) – mkbrr is a tool to create, modify and inspect torrent files.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) – A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [awslabs/amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) – A utility tool to create a tarball of existing objects in Amazon S3
@@ -1117,6 +1121,7 @@
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) – possibly useful tools for the Internet (including dnscheck.tools and myaddr.tools)
+- [brightzheng100/vind](https://github.com/brightzheng100/vind) – `vind` is a tool to create and manage a cluster of containers that look and work like virtual machines, on Docker.
 - [brosck/mantra](https://github.com/brosck/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) – Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
@@ -1581,6 +1586,7 @@
 - [minio/minio](https://github.com/minio/minio) – MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/selfupdate](https://github.com/minio/selfupdate) – Build self-updating Go programs
 - [minio/warp](https://github.com/minio/warp) – S3 benchmarking tool
+- [mirzaaghazadeh/jsdif](https://github.com/mirzaaghazadeh/jsdif) – A powerful JavaScript monitoring tool for bug bounty hunters. Track changes in JavaScript files across websites, detect new attack surfaces, and stay ahead of security vulnerabilities.
 - [mislav/hub](https://github.com/mislav/hub) – A command-line tool that makes git easier to use with GitHub.
 - [mittwald/mittnite](https://github.com/mittwald/mittnite) – Small init system with templated config files; to be used as container entrypoint
 - [mlcsec/headi](https://github.com/mlcsec/headi) – Customisable  and automated HTTP header injection
@@ -1875,8 +1881,10 @@
 - [sudosammy/knary](https://github.com/sudosammy/knary) – A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
 - [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine (beta)
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
+- [suzuki-shunsuke/ci-info](https://github.com/suzuki-shunsuke/ci-info) – CLI tool to get CI related information
 - [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint) – GitHub Actions linter
 - [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) – CLI to create and hide GitHub comments
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) – pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
 - [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
 - [sw33tLie/uff](https://github.com/sw33tLie/uff) – unleashed ffuf
@@ -1905,6 +1913,7 @@
 - [termkit/gama](https://github.com/termkit/gama) – Manage your GitHub Actions from Terminal with great UI 🧪
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) – Teldrive
+- [thegeeklab/url-parser](https://github.com/thegeeklab/url-parser) – Simple command-line URL parser
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
@@ -2003,7 +2012,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +2825 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3100 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -3656,6 +3665,7 @@
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
+- [AerynOS/os-tools](https://github.com/AerynOS/os-tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) – NES emulator in rust with egui and TUI
@@ -3780,6 +3790,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) – Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [VHSgunzo/Run-wrapper](https://github.com/VHSgunzo/Run-wrapper) – ELF wrapper for RunImage Run.sh script in the extracted form
 - [VHSgunzo/importenv](https://github.com/VHSgunzo/importenv) – Launching an executable file with environment variables from a specific process id
+- [VHSgunzo/memfd-exec](https://github.com/VHSgunzo/memfd-exec) – Execute binaries straight from memory, without touching disk, with a friendly interface!
 - [VHSgunzo/notify-send-rs](https://github.com/VHSgunzo/notify-send-rs) – Rust version of notify-send for display notifications on the linux desktop using notify-rust
 - [VHSgunzo/stresstestcpu](https://github.com/VHSgunzo/stresstestcpu) – Simple CPU stress-test in Rust
 - [VHSgunzo/superglue](https://github.com/VHSgunzo/superglue) – Tool for write a small file to the beginning of a large file in place
@@ -4066,6 +4077,7 @@
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
+- [jordfras/linetime](https://github.com/jordfras/linetime) – Command line tool prefixing lines with a timestamp
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) – A tool & library to detect open source licenses from texts
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) – Tmux Sessionizer: A tool for opening git repositories as tmux sessions
@@ -4105,7 +4117,7 @@
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
-- [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more!
+- [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more! Migrated to Codeberg.
 - [lmammino/jwtinfo](https://github.com/lmammino/jwtinfo) – A command-line tool to get information about JWTs (Json Web Tokens)
 - [lodosgroup/lpm](https://github.com/lodosgroup/lpm) – an experimental package manager for operating systems
 - [louib/nix2sbom](https://github.com/louib/nix2sbom) – nix2sbom extracts the CycloneDX and SPDX SBOM (Software Bill of Materials) from a Nix derivation
@@ -4327,7 +4339,6 @@
 - [scullionw/dirstat-rs](https://github.com/scullionw/dirstat-rs) – (fastest?) disk usage cli, similar to windirstat.
 - [sectordistrict/intentrace](https://github.com/sectordistrict/intentrace) – intentrace is strace with intent, it goes all the way for you instead of half the way. intentrace is currently in beta
 - [segersniels/supdock](https://github.com/segersniels/supdock) – What's Up, Doc(ker)? A convenient way to interact with the docker daemon using prompts.
-- [serpent-os/tools](https://github.com/serpent-os/tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
 - [shadow/shadow](https://github.com/shadow/shadow) – Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.
 - [sharkdp/bat](https://github.com/sharkdp/bat) – A cat(1) clone with wings.
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) – a graphical tool to visualize binary data
@@ -4941,9 +4952,9 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/flatimage-base](https://github.com/pkgforge-dev/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
-- [pkgforge-dev/llvm-libs-debloated](https://github.com/pkgforge-dev/llvm-libs-debloated) – Stripped down version of the llvm-libs package of archlinux
+- [pkgforge-dev/llvm-libs-debloated](https://github.com/pkgforge-dev/llvm-libs-debloated) – Stripped down versions of several archlinux packages [Maintainer=@Samueru-sama] 
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
-- [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects)
+- [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
@@ -5116,7 +5127,7 @@
 
 ## Svelte
 
-- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 system monitoring on steroids
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
