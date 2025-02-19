@@ -205,6 +205,7 @@
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) – [MIRROR] Alpine package manager
+- [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) – Convert Javascript/TypeScript to C
 - [antirez/kilo](https://github.com/antirez/kilo) – A text editor in less than 1000 LOC with syntax highlight and search.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
@@ -633,6 +634,7 @@
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a code obfuscator based on LLVM for native code (Android & iOS)
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) – World's most powerful command line package manager
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
+- [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode 7-Zip
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
@@ -1364,7 +1366,7 @@
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or amd64 PCs!
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
@@ -1430,6 +1432,7 @@
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibuildthecloud/wtfk8s](https://github.com/ibuildthecloud/wtfk8s) – Watch and print changes in k8s
+- [idursun/jjui](https://github.com/idursun/jjui) – Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) – Upload and install iOS ipa and Android apk in web.
 - [iknowjason/edge](https://github.com/iknowjason/edge) – Recon tool for cloud provider attribution.  Supports AWS, Azure, Google, Cloudflare, and Digital Ocean.
 - [immortal/immortal](https://github.com/immortal/immortal) – ⭕  A *nix cross-platform (OS agnostic) supervisor
@@ -1720,6 +1723,7 @@
 - [picosh/send](https://github.com/picosh/send) – ssh wish middleware for sending and receiving files from familiar tools (rsync, scp, sftp)
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
+- [pixelfs/pixelfs](https://github.com/pixelfs/pixelfs) – PixelFS is a cross-device file system, Transfer files based on s3-protocol.
 - [pkgforge/sbuilder-go](https://github.com/pkgforge/sbuilder-go) – Golang utilities for Linting and Building SBUILD Recipes [Maintainer=@xplshn]
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [plutov/playgo](https://github.com/plutov/playgo) – CLI tool to send .go file to the Go Playground
@@ -4062,6 +4066,7 @@
 - [ivre/masscanned](https://github.com/ivre/masscanned) – Let's be scanned. A low-interaction honeypot focused on network scanners and bots. It integrates very well with IVRE to build a self-hosted alternative to GreyNoise.
 - [j-hc/mindetach-magisk](https://github.com/j-hc/mindetach-magisk) – Simpler and better Magisk module to detach apps from Play Store
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) – Zygisk module to detach installed apps from Play Store, hooking binder
+- [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill
 - [jaemk/self_update](https://github.com/jaemk/self_update) – Self updates for rust executables
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
