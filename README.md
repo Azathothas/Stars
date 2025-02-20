@@ -848,7 +848,7 @@
 - [0x5ubt13/enumeraga](https://github.com/0x5ubt13/enumeraga) – Automatic multiprocess Linux CLI tool that aims for a quick enumeration wrapping pentesting tools.
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 - [256lights/zb](https://github.com/256lights/zb) – An experiment in hermetic, reproducible build systems
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
@@ -1883,6 +1883,7 @@
 - [stateful/runme](https://github.com/stateful/runme) – DevOps Notebooks Built with Markdown
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) – A simple HTTP proxy that fogs over naughty URLs    
+- [subtrace/subtrace](https://github.com/subtrace/subtrace) – Wireshark for Docker containers
 - [sudosammy/knary](https://github.com/sudosammy/knary) – A simple HTTP(S) and DNS Canary bot with Slack/Discord/MS Teams/Lark/Telegram & Pushover support
 - [sundowndev/covermyass](https://github.com/sundowndev/covermyass) – Post-exploitation tool to cover your tracks on a compromised machine (beta)
 - [superfly/litefs](https://github.com/superfly/litefs) – FUSE-based file system for replicating SQLite databases across a cluster of machines
