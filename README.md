@@ -635,6 +635,7 @@
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) – World's most powerful command line package manager
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode 7-Zip
+- [pixie-io/pixie](https://github.com/pixie-io/pixie) – Instant Kubernetes-Native Application Observability
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
@@ -3223,6 +3224,7 @@
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [beeware/briefcase](https://github.com/beeware/briefcase) – Tools to support converting a Python project into a standalone native application.
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) – AWS, Azure, Alibaba and Google bucket scanner
+- [bieganski/asstrace](https://github.com/bieganski/asstrace) – A stateful strace-like - Linux syscall tampering-first strace-like tool.
 - [bigb0sss/RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) – Tools & Interesting Things for RedTeam Ops
 - [bkerler/edl](https://github.com/bkerler/edl) – Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)
 - [blacklanternsecurity/TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy) – A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses!
@@ -3297,6 +3299,7 @@
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) – Common Release Data for various projects in a consumable format, automatically updated.
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) – This project aims to maintain Wappalyzer technologies
 - [epinna/tplmap](https://github.com/epinna/tplmap) – Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- [errorfiathck/IDOR-Forge](https://github.com/errorfiathck/IDOR-Forge) – IDOR Forge is an advanced and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.
 - [euske/pyrexecd](https://github.com/euske/pyrexecd) – Standalone SSH server for Windows
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) – A high performance offensive security tool for reconnaissance and vulnerability scanning
@@ -3530,6 +3533,7 @@
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
 - [sensepost/objection](https://github.com/sensepost/objection) – 📱 objection - runtime mobile exploration
+- [seung-lab/cloud-files](https://github.com/seung-lab/cloud-files) – Threaded Python and CLI client library for AWS S3, Google Cloud Storage (GCS), in-memory, and the local filesystem.
 - [shelld3v/JSshell](https://github.com/shelld3v/JSshell) – JSshell - JavaScript reverse/remote shell
 - [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) – A proxy tool based on cloud function.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) – OneForAll是一款功能强大的子域收集工具
