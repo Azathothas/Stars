@@ -2714,7 +2714,6 @@
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
-- [QaidVoid/nix-config](https://github.com/QaidVoid/nix-config)
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh) – Android security guides, roadmap, docs, courses, write-ups, and teryaagh. 
 - [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application.
@@ -3088,6 +3087,7 @@
 - [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
+- [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) – Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
@@ -3336,6 +3336,7 @@
 - [hacefresko/CVE-2021-4045](https://github.com/hacefresko/CVE-2021-4045) – Exploit for command injection vulnerability found in uhttpd binary from TP-Link Tapo c200 IP camera
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) – Natural language browser automation
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
+- [hartwork/binary-gentoo](https://github.com/hartwork/binary-gentoo) – :cow: Collection of simple CLI tools to help build Gentoo packages on a non-Gentoo Linux host
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – The best source for dashboard icons.
@@ -3411,6 +3412,7 @@
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve its internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
 - [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) – Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
+- [mdminhazulhaque/aws-cli-cheatsheet](https://github.com/mdminhazulhaque/aws-cli-cheatsheet) – ☁️ aws CLI + jq = Make life easier
 - [megadose/holehe](https://github.com/megadose/holehe) – holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) – The Meson Build System
 - [metaist/cosmofy](https://github.com/metaist/cosmofy) – Cosmopolitan Python Bundler
@@ -3467,6 +3469,7 @@
 - [offa/android-foss](https://github.com/offa/android-foss) – A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) – Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [okigan/awscurl](https://github.com/okigan/awscurl) – curl-like access to AWS resources with AWS Signature Version 4 request signing.
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) – 🔍A cutting edge context aware GraphQL API fuzzing tool!
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ JavaScript file crawler and secret finder tool developed with Python 
@@ -3478,6 +3481,7 @@
 - [p0dalirius/crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) – Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
 - [p0dalirius/objectwalker](https://github.com/p0dalirius/objectwalker) – A python module to explore the object tree to extract paths to interesting objects in memory.
 - [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
+- [packing-box/docker-packing-box](https://github.com/packing-box/docker-packing-box) – Docker image gathering packers and tools for making datasets of packed executables and training machine learning models for packing detection
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) – The Pants Build System
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) – Persepolis is a download manager written in Python.
@@ -3596,7 +3600,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) – Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
-- [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity)
+- [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity) – Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made, as well as regions, IP addresses and user agents they used.
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) – Fluent theme for qBitTorrent
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File Downloader when Curl/Wget Fails
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) – A curated list of awesome DevOps platforms, tools, practices and resources
@@ -4616,6 +4620,7 @@
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [Phantop/appdwarf](https://github.com/Phantop/appdwarf) – Tool to compress and run programs using dwarfs
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) – Single GPU VFIO Passthrough Guide
+- [QaidVoid/nix-config](https://github.com/QaidVoid/nix-config)
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
@@ -4863,6 +4868,7 @@
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) – A collection of regexes for every possbile use
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) – a few helpers for working with XBPS
+- [leebaird/discover](https://github.com/leebaird/discover) – Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 - [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) – linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 - [leitbogioro/Fuck_Aliyun](https://github.com/leitbogioro/Fuck_Aliyun)
 - [leitbogioro/Tools](https://github.com/leitbogioro/Tools) – Something about tools
