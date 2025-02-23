@@ -1138,6 +1138,7 @@
 - [c3l3si4n/subsift](https://github.com/c3l3si4n/subsift) – experimental wildcard subdomain filtering prototype
 - [c3l3si4n/thankunext](https://github.com/c3l3si4n/thankunext) – Easily gather all routes related to a NextJs application through parsing of _buildManifest.js
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) – Get the contributor stats summary from all repos of any given organization
+- [caarlos0/svu](https://github.com/caarlos0/svu) – semantic version utility
 - [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc) – xdg-open as a service
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
@@ -2458,7 +2459,7 @@
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) – A Basic Call Recorder for rooted Android devices
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) – An Android Storage Access Framework document provider for rclone
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) – Android permission explorer 🧑‍✈️
-- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) – Android Video/Audio Downloader app using yt-dlp
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) – Full Featured Video/Audio Downloader for Android using yt-dlp
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) – Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
@@ -5026,6 +5027,7 @@
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
+- [shaka-project/static-ffmpeg-binaries](https://github.com/shaka-project/static-ffmpeg-binaries) – Static binaries of FFmpeg, for multiple OS & CPU combinations, built from source in a GitHub Actions workflow.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
