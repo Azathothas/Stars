@@ -212,6 +212,7 @@
 - [aperezdc/signify](https://github.com/aperezdc/signify) – OpenBSD tool to sign and verify signatures on files. Portable version.
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) – Command line ASCII boxes unlimited!
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
 - [baulk/baulk](https://github.com/baulk/baulk) – baulk - Minimal Package Manager for Windows
@@ -454,7 +455,7 @@
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) – Advanced system monitor & process supervisor for Linux
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [txthinking/joker](https://github.com/txthinking/joker) – Joker can turn process into daemon. Zero-Configuration
+- [txthinking/joker](https://github.com/txthinking/joker) – joker can turn process into daemon. Zero-Configuration
 - [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – 🥜 A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
@@ -576,7 +577,6 @@
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging NEON, AVX2, AVX-512, and SWAR to accelerate search, sort, edit distances, alignment scores, etc 🦖
 - [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
@@ -680,6 +680,7 @@
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 Dotfiles for my windows rice
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [leadlang/leadlang.github.io](https://github.com/leadlang/leadlang.github.io) – Website
@@ -992,6 +993,7 @@
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
 - [VHSgunzo/ssrv](https://github.com/VHSgunzo/ssrv) – Shell server/client
+- [Vanilla-OS/Vib](https://github.com/Vanilla-OS/Vib) – Vib (Vanilla Image Builder) is a tool that allow generating Containerfile(s) using a Flatpak-like recipe and syntax.
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [WHOISshuvam/gotld](https://github.com/WHOISshuvam/gotld) – Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.
@@ -1210,7 +1212,7 @@
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
 - [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) – a tool to analyze filesystem images for security
 - [csyezheng/ip-scanner](https://github.com/csyezheng/ip-scanner) – This script is used to find the fastest IP for a given site such as Google Translate, Cloudflare, GitHub, etc.
-- [cterence/tailout](https://github.com/cterence/tailout) – Spawn an exit node for your tailnet anywhere
+- [cterence/tailout](https://github.com/cterence/tailout) – Spawn an exit node for your tailscale network anywhere
 - [ctrsploit/ctrsploit](https://github.com/ctrsploit/ctrsploit) – A penetration toolkit for container environment
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cuducos/chunk](https://github.com/cuducos/chunk) – 🧱 Chunk is a download manager for slow and unstable servers
@@ -1223,7 +1225,7 @@
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An engine to run your pipelines in containers
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -3030,7 +3032,6 @@
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 Dotfiles for my windows rice
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) – :zap: The most powerful PowerShell module for fine-tuning Windows
@@ -3311,6 +3312,7 @@
 - [firerpa/lamda](https://github.com/firerpa/lamda) – 🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
+- [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [freelabz/secator](https://github.com/freelabz/secator) – secator - the pentester's swiss knife
@@ -3850,6 +3852,7 @@
 - [andreibachim/shortcut](https://github.com/andreibachim/shortcut) – Make desktop files
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
+- [apache/iggy](https://github.com/apache/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [archlinux/alpm](https://github.com/archlinux/alpm) – Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
@@ -3996,7 +3999,6 @@
 - [ethicalhackingplayground/pathbuster](https://github.com/ethicalhackingplayground/pathbuster) – A path-normalization pentesting tool.
 - [evilsocket/legba](https://github.com/evilsocket/legba) – A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) – A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) – Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [eza-community/eza](https://github.com/eza-community/eza) – A modern alternative to ls
 - [face-hh/webx](https://github.com/face-hh/webx) – An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
@@ -4028,6 +4030,7 @@
 - [gimli-rs/object](https://github.com/gimli-rs/object) – A unified interface for reading and writing object file formats
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [gitext-rs/git-dive](https://github.com/gitext-rs/git-dive) – Dive into a file's history to find root cause
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) – Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
 - [google/command-fds](https://github.com/google/command-fds) – A Rust library for passing arbitrary file descriptors when spawning child processes.
@@ -4053,7 +4056,6 @@
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
-- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) – A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) – A bittorrent client in Rust
 - [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) – A text editor in ≤1024 lines of code, written in Rust
@@ -4489,6 +4491,7 @@
 - [yinheli/kungfu](https://github.com/yinheli/kungfu) – Flexible DNS hijacking and proxy tool.
 - [ynqa/jnv](https://github.com/ynqa/jnv) – Interactive JSON filter using jq
 - [youki-dev/youki](https://github.com/youki-dev/youki) – A container runtime written in Rust
+- [yshavit/mdq](https://github.com/yshavit/mdq) – like jq but for Markdown: find specific elements in a md doc
 - [yshui/job-security](https://github.com/yshui/job-security) – job control from anywhere!
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) – Terminal UI to list, browse and run APIs defined with openapi spec.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
