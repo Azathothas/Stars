@@ -680,7 +680,7 @@
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🍙 Dotfiles for my windows rice
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 Dotfiles for my windows rice
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [leadlang/leadlang.github.io](https://github.com/leadlang/leadlang.github.io) – Website
@@ -2034,7 +2034,7 @@
 - [xyproto/algernon](https://github.com/xyproto/algernon) – Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [xyproto/botsay](https://github.com/xyproto/botsay) – :robot: Output text together with randomly generated ASCII robots in colors inspired by synthwave/rainbows
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) – :herb: Generate .desktop files and download .png icons by specifying a minimum of information
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, llm tab completion, cut/paste portals and a simple gdb front-end.
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) – Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when programming. Has syntax highlighting, jump-to-error, rainbow parentheses, macros, cut/paste portals and a simple gdb front-end.
 - [xyproto/png2svg](https://github.com/xyproto/png2svg) – :twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.2
 - [xyproto/wallutils](https://github.com/xyproto/wallutils) – :city_sunset: Utilities for handling monitors, resolutions, wallpapers and timed wallpapers
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) – Compile shell scripts to static binaries.
