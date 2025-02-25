@@ -703,6 +703,7 @@
 
 ## Cmake
 
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) – building android-sdk tools  for Android
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) – C++ Library Manager for Windows, Linux, and MacOS
 - [nmeum/android-tools](https://github.com/nmeum/android-tools) – Unoffical CMake-based build system for android command line utilities
@@ -1261,6 +1262,7 @@
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [drand/drand](https://github.com/drand/drand) – 🎲 A Distributed Randomness Beacon Daemon - Go implementation
+- [dsecuredcom/archive-finder](https://github.com/dsecuredcom/archive-finder) – Find archives for a given hostlist. 
 - [dsecuredcom/dynamic-file-searcher](https://github.com/dsecuredcom/dynamic-file-searcher) – Tool to scan servers and hosts using dynamic paths.
 - [dsecuredcom/ffufPostprocessing](https://github.com/dsecuredcom/ffufPostprocessing) – Golang tool which helps dropping the irrelevant entries from your ffuf result file.
 - [dsecuredcom/vhost-fuzzer](https://github.com/dsecuredcom/vhost-fuzzer) – Tool to fuzz for interesting vhost.
@@ -1804,6 +1806,8 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
 - [richardlehane/siegfried](https://github.com/richardlehane/siegfried) – signature-based file format identification
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
+- [rix4uni/ipfinder](https://github.com/rix4uni/ipfinder) – IP Finder tool, ipfinder collects ip address from different sources like Shodan, Zoomeye, Viewdns, dig command, etc.
+- [rix4uni/targets-filter](https://github.com/rix4uni/targets-filter) – Converting trickest and chaos bbp targets in json, updates every 12 hour
 - [riza/indextree](https://github.com/riza/indextree) – Generates the tree of the directory listing page.
 - [riza/linx](https://github.com/riza/linx) – Reveals invisible links within JavaScript files
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
@@ -2257,7 +2261,7 @@
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
-- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [AnagataCetana/insomnium](https://github.com/AnagataCetana/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
@@ -2311,6 +2315,7 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
+- [flotwig/zone-walker](https://github.com/flotwig/zone-walker) – A CLI tool that walks through DNS zones using NSEC responses and write found domains to stdout.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) – An installer and wrapper for Chromedriver.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -2656,6 +2661,7 @@
 - [833M0L3/uBlockOriginNepaliFilter](https://github.com/833M0L3/uBlockOriginNepaliFilter)
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) – Tools and Techniques for Blue Team / Incident Response
 - [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) – Tools and Techniques for Red Team / Penetration Testing
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) – A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alessandro-Salerno/tarman-user-repository](https://github.com/Alessandro-Salerno/tarman-user-repository) – The TUR: Tarman User Repository - Where tarman recipes are held!
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -2910,6 +2916,7 @@
 - [reswob10/HomeLabResources](https://github.com/reswob10/HomeLabResources) – List of resources for buiding a home lab
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) – Web Attack Cheat Sheet
 - [riscv-builders/riscv-builders.github.io](https://github.com/riscv-builders/riscv-builders.github.io)
+- [rix4uni/nucleihub-templates](https://github.com/rix4uni/nucleihub-templates) – This repo collects nuclei template from 600+ github repos, updates every 6 hours.
 - [roadwy/RIP](https://github.com/roadwy/RIP)
 - [rootcathacking/cloudcat](https://github.com/rootcathacking/cloudcat) – aws cli pentesting/red team snippets
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) – List of projects that provide terminal user interfaces
@@ -4550,6 +4557,7 @@
 
 ## Shell
 
+- [0xJin/SubCerts](https://github.com/0xJin/SubCerts) – SubCerts is a simple tool that uses certificate transparency logs (via crt.sh) to extract subdomains of a given domain.
 - [1N3/ReverseAPK](https://github.com/1N3/ReverseAPK) – Quickly analyze and reverse engineer Android packages
 - [3noch/nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) – Simple Nix derivations to bundle executables
 - [7RU7H/Archive](https://github.com/7RU7H/Archive) – Hacking Methodology, Cheatsheats, Conceptual-Breakdowns
@@ -4767,7 +4775,6 @@
 - [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) – Linux enumeration tool for pentesting and CTFs with verbosity levels
 - [dimkr/toolchains](https://github.com/dimkr/toolchains) – Toolchains for ultra-portable static binaries
 - [dmotte/desktainer](https://github.com/dmotte/desktainer) – 🖥 Remote desktop in a container
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) – Cross compiling toolchains in Docker images
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) – The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [dockur/windows](https://github.com/dockur/windows) – Windows inside a Docker container.
 - [docsion/rfsh](https://github.com/docsion/rfsh) – RFSH: Run shell scripts in batch, concurrently, fully customized with variable .
@@ -4796,6 +4803,7 @@
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
+- [flotwig/zone-walks](https://github.com/flotwig/zone-walks) – A collection of domain lists obtained from zone-walking TLDs. Updated daily.
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) – a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [fosslinux/live-bootstrap](https://github.com/fosslinux/live-bootstrap) – Use of a Linux initramfs to fully automate the bootstrapping process
 - [fpliu1214/uppm-package-repository-android-29-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64)
@@ -5023,6 +5031,7 @@
 - [rhino-linux/rhino-pkg](https://github.com/rhino-linux/rhino-pkg) – A wrapper for apt + snap + flatpak + Pacstall
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/originip](https://github.com/rix4uni/originip) – originip finds origin ip from dig, shodan, censys, securitytrails, viewdns, hunter how, fofa, zoomeye.
+- [rix4uni/scope](https://github.com/rix4uni/scope) – An automated GitHub Actions-based crawler that fetches and updates public scopes from popular bug bounty platforms (like Hackerone/Bugcrowd/Intigriti/etc) (updates every 10 minutes)
 - [robxu9/bash-static](https://github.com/robxu9/bash-static) – Because we need exercises in minimalism.
 - [rohsec/LEAKEY](https://github.com/rohsec/LEAKEY) – LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services.
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
@@ -5253,6 +5262,7 @@
 - [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size. Demo example for NextJS.
 - [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
+- [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) – Domain Dumper delivers daily updates on the statistics of all registered domains across 900+ zones, with records dating back to January 1, 1990. This API provides daily updates on the number of domains registered on each TLD and updates its files every 24 hours.
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
 - [dvlden/ps-awake](https://github.com/dvlden/ps-awake) – Keep PlanetScale database awake on free tier...
