@@ -2046,7 +2046,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) – Fastest and Most Efficient IDE to run Jupyter Notebooks.
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – 4X Better IDE than Jupyterlab
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
@@ -3674,9 +3674,10 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
+- [0x00snape/selfmorph](https://github.com/0x00snape/selfmorph) – Modifying a program code at run-time in Linux.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Asynchronous Rust HTTP Client with Black Magic
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – An easy and powerful Rust HTTP Client with Black Magic
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
@@ -4574,7 +4575,6 @@
 - [Elara6331/riscv-docker](https://github.com/Elara6331/riscv-docker) – Docker containers with support for RISC-V
 - [Elsie19/clam](https://github.com/Elsie19/clam) – Development tools for writing shell scripts
 - [Fadavvi/Sub-Drill](https://github.com/Fadavvi/Sub-Drill) – A very (very) FAST and simple subdomain finder based on online & free services. Without any configuration requirements. 
-- [FigSystems/IcePak](https://github.com/FigSystems/IcePak) – A universal Linux application packaging format. one file = one app
 - [FrancescoDiSalesGithub/Google-cloud-shell-hacking](https://github.com/FrancescoDiSalesGithub/Google-cloud-shell-hacking) – Hacks for a better google cloud shell experience
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) – Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
