@@ -540,6 +540,7 @@
 ## C++
 
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) – Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) – Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
@@ -2311,6 +2312,7 @@
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) – An installer and wrapper for Chromedriver.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
 - [holesail/holesail](https://github.com/holesail/holesail) – Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
@@ -2871,6 +2873,7 @@
 - [misterch0c/what_is_this_c2](https://github.com/misterch0c/what_is_this_c2) – For all these times you're asking yourself "what is this panel again?"
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) – Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
 - [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) – USB WiFi Adapter Information for Linux
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) – WebDriver for Firefox
 - [mrp-yt/termux_ssh](https://github.com/mrp-yt/termux_ssh) – Short guide on how to connect to Termux SSH from anywhere while using TailScale as connection link. 
 - [muttleyxd/clang-tools-static-binaries](https://github.com/muttleyxd/clang-tools-static-binaries) – static-linked versions of clang tools for Linux, Mac OS X and Windows, available in AUR as clang-format-static-bin
 - [mzfr/notes](https://github.com/mzfr/notes) –  A miscellany of thoughts.
@@ -3526,12 +3529,14 @@
 - [roughiz/lfito_rce](https://github.com/roughiz/lfito_rce) – LFI to RCE via phpinfo() assistance or via controlled log file
 - [rs-loves-bugs/burp-browser-profiles](https://github.com/rs-loves-bugs/burp-browser-profiles) – Make better use of the embedded browser that comes by default with Burp
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) – HTTP parameter discovery suite.
+- [s0md3v/Hash-Buster](https://github.com/s0md3v/Hash-Buster) – Crack hashes in seconds.
 - [s0md3v/Parth](https://github.com/s0md3v/Parth) – Heuristic Vulnerable Parameter Scanner
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) – Incredibly fast crawler designed for OSINT.
 - [s0md3v/SubGPT](https://github.com/s0md3v/SubGPT) – Find subdomains with GPT, for free
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) – Most advanced XSS scanner.
 - [s0md3v/roop](https://github.com/s0md3v/roop) – one-click face swap
 - [s0md3v/uro](https://github.com/s0md3v/uro) – declutters url lists for crawling/pentesting
+- [s0md3v/wappalyzer-next](https://github.com/s0md3v/wappalyzer-next) – wappalyzer alternative based on wappalyzer browser extension
 - [s3tools/s3cmd](https://github.com/s3tools/s3cmd) – Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) – 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
@@ -3540,6 +3545,7 @@
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) – Python APIs for web automation, testing, and bypassing bot-detection.
 - [sensepost/objection](https://github.com/sensepost/objection) – 📱 objection - runtime mobile exploration
 - [seung-lab/cloud-files](https://github.com/seung-lab/cloud-files) – Threaded Python and CLI client library for AWS S3, Google Cloud Storage (GCS), in-memory, and the local filesystem.
 - [shelld3v/JSshell](https://github.com/shelld3v/JSshell) – JSshell - JavaScript reverse/remote shell
@@ -3590,6 +3596,7 @@
 - [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) – A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [tralph3/ZeroTier-GUI](https://github.com/tralph3/ZeroTier-GUI) – A Linux front-end for ZeroTier
+- [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
 - [unkn0wnamd/ByteWizard](https://github.com/unkn0wnamd/ByteWizard)
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
@@ -3674,7 +3681,11 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
+- [0x00snape/pdump](https://github.com/0x00snape/pdump) – A process memory dumper written in rust.
+- [0x00snape/pinject](https://github.com/0x00snape/pinject) – Process injection for Linux. 
 - [0x00snape/selfmorph](https://github.com/0x00snape/selfmorph) – Modifying a program code at run-time in Linux.
+- [0x00snape/sneakfork](https://github.com/0x00snape/sneakfork) – Seeks to hide the presence of its process in Linux.
+- [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) – An easy and powerful Rust HTTP Client with Black Magic
