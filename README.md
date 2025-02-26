@@ -681,7 +681,6 @@
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 Dotfiles for my windows rice
 - [devicons/devicon](https://github.com/devicons/devicon) – Set of icons representing programming languages, designing & development tools
 - [hash3liZer/Subrake](https://github.com/hash3liZer/Subrake) – 🚀 A DNS automated scanner and tool 🖱️ (Zone Transfer, DNS Zone Takeover, Subdomain Takeover).
 - [leadlang/leadlang.github.io](https://github.com/leadlang/leadlang.github.io) – Website
@@ -2192,7 +2191,7 @@
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) – Ad-Free, New Features & Freedom
 - [Warxim/vucsa](https://github.com/Warxim/vucsa) – Vulnerable Client-Server Application (VuCSA) is made for learning how to perform penetration tests of non-http thick clients. It is written in Java (with JavaFX graphical user interface) and contains multiple challenges including SQL injection, RCE, XML vulnerabilities and more.
 - [ac3ss0r/DroidFrida](https://github.com/ac3ss0r/DroidFrida) – Portable frida injector for rooted android devices.
-- [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
+- [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) – Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
@@ -2751,6 +2750,7 @@
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) – This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 Dotfiles for my windows rice
 - [assetnote/blind-ssrf-chains](https://github.com/assetnote/blind-ssrf-chains) – An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
 - [attacksurge/awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
@@ -3749,6 +3749,7 @@
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
+- [Hawzen/hdp](https://github.com/Hawzen/hdp) – What would happen if we didn't use TCP or UDP?
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) – GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) – Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) – A pretty (simple) alternative to strace
