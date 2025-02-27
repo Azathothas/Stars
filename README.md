@@ -264,7 +264,7 @@
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
-- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+- [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
@@ -349,6 +349,7 @@
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
 - [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
 - [micropython/micropython](https://github.com/micropython/micropython) – MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
@@ -619,7 +620,6 @@
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [lix-project/lix](https://github.com/lix-project/lix) – [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) – A fast high compression read-only file system for Linux, Windows and macOS
 - [microsoft/ctsTraffic](https://github.com/microsoft/ctsTraffic) – ctsTraffic is a highly scalable client/server networking tool giving detailed performance and reliability analytics
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
@@ -777,6 +777,7 @@
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) – An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
 - [OlivierLDff/QtLinuxCMakeDocker](https://github.com/OlivierLDff/QtLinuxCMakeDocker) – 🐳 Docker image with latest Qt/CMake/GCC to build AppImage.
 - [PasseiDireto/gh-runner](https://github.com/PasseiDireto/gh-runner) – Self Hosted GitHub Actions Runner
+- [RAJANAGORI/Nightingale](https://github.com/RAJANAGORI/Nightingale) – Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities required for efficient Vulnerability Assessment and Penetration Testing (VAPT), streamlining the setup process for security professionals.
 - [Rikorose/gcc-cmake](https://github.com/Rikorose/gcc-cmake) – Docker container build on top off the official gcc image including cmake
 - [ThewBear/do-actions-runner](https://github.com/ThewBear/do-actions-runner) – Self-hosted actions runner on DigitalOcean App Platform
 - [alexanderwolz/aosp-docker](https://github.com/alexanderwolz/aosp-docker) – Docker Build Container for Android Open Source Project (AOSP) v14+ providing needed environment and toolchain for building Android artifacts
@@ -2027,7 +2028,6 @@
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3100 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system
-- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -2181,6 +2181,7 @@
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) – Powerful android apk editor - aapt/aapt2 independent
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) – Source code of Package Manager, an Application to Manage your Apps.
 - [St3v3nsS/InsecureBanking](https://github.com/St3v3nsS/InsecureBanking) – Insecure Android Application for testing Biometric bypasses  
@@ -2966,6 +2967,7 @@
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – x-cmd: Bootstrap 1000+ command line tools in seconds.
+- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
@@ -3580,6 +3582,7 @@
 - [sting8k/BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) – Burpsuite Extension to bypass 403 restricted directory
 - [stolk/sotrace](https://github.com/stolk/sotrace) – Traces the shared-object dependencies of a binary, and graphs them.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
+- [superfishlu/gmab](https://github.com/superfishlu/gmab) – A CLI tool to spawn, list, and manage temporary cloud boxes.  Why? Need a quick VPS for pentesting, bug bounty, or scanning? Want to run commands from a different IP without using your local machine? No need for manual cloud console interaction—just gmab spawn, and you're in!
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) – GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) – Automatic SSRF fuzzer and exploitation tool
@@ -4188,6 +4191,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
 - [mgree/ffs](https://github.com/mgree/ffs) – the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
+- [michidk/vscli](https://github.com/michidk/vscli) – A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
 - [microsoft/sudo](https://github.com/microsoft/sudo) – It's sudo, for Windows
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
