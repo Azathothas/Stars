@@ -4678,6 +4678,7 @@
 - [Toxikuu/gimme](https://github.com/Toxikuu/gimme) – Simple source-based package manager in python
 - [Toxikuu/rid-meta](https://github.com/Toxikuu/rid-meta) – main rid repository
 - [Trigus42/alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn) – Multiarch docker image with the latest qBittorrent-nox client (WEB UI) and WireGuard/OpenVPN tunnel
+- [Usergh0st/bspwm](https://github.com/Usergh0st/bspwm) – Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [VHSgunzo/ge-proton-lw](https://github.com/VHSgunzo/ge-proton-lw) – Compatibility tool for Steam Play based on Wine and additional components
 - [VHSgunzo/lux-wine](https://github.com/VHSgunzo/lux-wine) – Easy launch of your Windows applications and games with Wine/Proton
 - [VHSgunzo/lwrun](https://github.com/VHSgunzo/lwrun) – Lux Wine runtime container
@@ -4826,7 +4827,6 @@
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
-- [ghuSet/bspwm](https://github.com/ghuSet/bspwm) – Professional bspwm desktop environment for kali linux for hacking, of all kinds, with custom shortcuts, scripts, s4vitar configurations, among other things.
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
