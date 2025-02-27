@@ -2513,7 +2513,7 @@
 ## LUA
 
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) – Official Alpine Linux Docker image. Win at minimalism!
-- [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway
+- [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway and AI Gateway
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) – A code editor made with Godot. Code has never been more lit!
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
 - [ntop/ntopng](https://github.com/ntop/ntopng) – Web-based Traffic and Security Network Traffic Monitoring
@@ -3107,6 +3107,7 @@
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) – Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
+- [DeiC-HPC/cotainr](https://github.com/DeiC-HPC/cotainr) – cotainr - a user space Apptainer/Singularity container builder.
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
 - [Drew-Alleman/autodeauth](https://github.com/Drew-Alleman/autodeauth) – Automated Linux service that collects information on local Wi-Fi networks and performs deauthentication attacks.
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner)
@@ -4146,7 +4147,7 @@
 - [konradsz/igrep](https://github.com/konradsz/igrep) – Interactive Grep
 - [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Moved: https://codeberg.org/koutheir/binary-security-check
 - [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 Experimental p2p gossip network for OpenPGP signature transparency 🥸
-- [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - reproducible builds
+- [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - Reproducible Builds
 - [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
 - [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) – TCP connection hijacker, Rust rewrite of shijack
 - [kpcyrd/sh4d0wup](https://github.com/kpcyrd/sh4d0wup) – Signing-key abuse and update exploitation framework
