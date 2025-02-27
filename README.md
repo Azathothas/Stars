@@ -461,6 +461,7 @@
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
+- [v1cont/yad](https://github.com/v1cont/yad) – Yet Another Dialog
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
 - [vanhauser-thc/thc-ipv6](https://github.com/vanhauser-thc/thc-ipv6) – IPv6 attack toolkit
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
@@ -649,6 +650,7 @@
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [skywind3000/PyStand](https://github.com/skywind3000/PyStand) – :rocket: Python Standalone Deploy Environment !!
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) – Mount Android phones on Linux with adb. No root required.
 - [stealth/crash](https://github.com/stealth/crash) – crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
 - [stealth/fraud-bridge](https://github.com/stealth/fraud-bridge) – ICMP and DNS tunneling via IPv4 and IPv6
@@ -736,6 +738,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KaringX/karing](https://github.com/KaringX/karing) – Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
 - [Mosc/Glider](https://github.com/Mosc/Glider) – Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
@@ -2028,6 +2031,7 @@
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3100 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system
+- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -2967,7 +2971,6 @@
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
 - [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – x-cmd: Bootstrap 1000+ command line tools in seconds.
-- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
@@ -3248,6 +3251,7 @@
 - [bojanisc/quicmap](https://github.com/bojanisc/quicmap) – quicmap is a simple yet quic (!) QUIC protocol scanner
 - [borgbase/vorta](https://github.com/borgbase/vorta) – Desktop Backup Client for Borg Backup
 - [boringthegod/postmaniac](https://github.com/boringthegod/postmaniac) – Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces
+- [boringthegod/ss](https://github.com/boringthegod/ss) – Subdomain Scanner - the most exhaustive tool for sub-domain recognition and mapping to related IPs and ASNs
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) – Run Windows software and games on Linux
 - [brevityinmotion/brevityrecon](https://github.com/brevityinmotion/brevityrecon)
 - [brevityinmotion/goodfaith](https://github.com/brevityinmotion/goodfaith) – Stay within program scope
@@ -3698,6 +3702,7 @@
 - [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) – An easy and powerful Python HTTP Client with Black Magic
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) – An easy and powerful Rust HTTP Client with Black Magic
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
@@ -4004,6 +4009,7 @@
 - [dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz) – A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
 - [efugier/smartcat](https://github.com/efugier/smartcat) – Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [ekzhang/jute](https://github.com/ekzhang/jute) – A native Jupyter notebook frontend with local + remote kernels, reactive cells, and IDE features, implemented in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [emabee/flexi_logger](https://github.com/emabee/flexi_logger) – A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
@@ -4020,6 +4026,7 @@
 - [ethicalhackingplayground/aem-eye](https://github.com/ethicalhackingplayground/aem-eye) – A very simple AEM detector written in rust.🦀
 - [ethicalhackingplayground/hrekt](https://github.com/ethicalhackingplayground/hrekt) – A really fast http prober.
 - [ethicalhackingplayground/pathbuster](https://github.com/ethicalhackingplayground/pathbuster) – A path-normalization pentesting tool.
+- [evcxr/evcxr](https://github.com/evcxr/evcxr)
 - [evilsocket/legba](https://github.com/evilsocket/legba) – A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) – A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
@@ -4413,6 +4420,7 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spirali/twinsong](https://github.com/spirali/twinsong) – Alternative to Jupyter Notebook that separates code and outputs
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -4969,7 +4977,7 @@
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – install nixos everywhere via ssh [maintainer=@numtide]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [nmimusic/unifetch](https://github.com/nmimusic/unifetch) – An unofficial inheritor of Neofetch
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
 - [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
@@ -5294,6 +5302,7 @@
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) – JupyterLab desktop application, based on Electron.
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) – Install Qt on your Github Actions workflows with just one simple action
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
