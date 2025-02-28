@@ -4336,6 +4336,7 @@
 - [rapiz1/catp](https://github.com/rapiz1/catp) – Print the output of a running process
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
+- [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) – Slice and dice logs on the command line
 - [reciperium/recipe-lang](https://github.com/reciperium/recipe-lang) – Write recipes understood by humans and machines
 - [redox-os/extrautils](https://github.com/redox-os/extrautils) – Mirror of https://gitlab.redox-os.org/redox-os/extrautils
@@ -4360,7 +4361,6 @@
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) – An embeddable dynamic programming language for Rust.
-- [ruslashev/elfcat](https://github.com/ruslashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
 - [rust-cli/rexpect](https://github.com/rust-cli/rexpect) – .github/workflows/ci.yml
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
