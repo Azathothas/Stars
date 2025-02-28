@@ -1509,7 +1509,6 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) – The immutable Linux meta-distribution for edge Kubernetes.
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
-- [kaytu-io/kaytu](https://github.com/kaytu-io/kaytu) – Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need, without compromising your apps.
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) – E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [keilerkonzept/dockerfile-json](https://github.com/keilerkonzept/dockerfile-json) – 🐳 parse & print a Dockerfile as JSON, query (e.g. extract base images) using JSONPath.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) – Encodes (and decodes) data as emojis
@@ -4382,6 +4381,7 @@
 - [sagiegurari/run_script](https://github.com/sagiegurari/run_script) – Run shell scripts in rust.
 - [saidsay-so/gateau](https://github.com/saidsay-so/gateau) – :cookie: Use your cookies from browsers in your curl, wget and httpie requests!
 - [sairash/Danfe](https://github.com/sairash/Danfe) – Writing a Programming Language / Compiler in Rust
+- [samwho/spacer](https://github.com/samwho/spacer) – CLI tool to insert spacers when command output stops
 - [saphyr-rs/saphyr](https://github.com/saphyr-rs/saphyr) – A set of crates dedicated to parsing YAML.
 - [say4n/jf](https://github.com/say4n/jf) – flatten them json
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) – A hackable, minimal, fast TUI file explorer
@@ -5329,6 +5329,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [opengovern/opensecurity](https://github.com/opengovern/opensecurity) – Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need, without compromising your apps.
 - [pacstall/website](https://github.com/pacstall/website) – Website for the Pacstall organization
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
