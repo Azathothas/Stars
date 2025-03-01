@@ -253,6 +253,7 @@
 - [dixyes/phpmicro](https://github.com/dixyes/phpmicro) – micro sfx SAPI for php (wip, may force push)
 - [edubart/bwrapbox](https://github.com/edubart/bwrapbox) – Linux sandboxing utility on top of bubblewrap
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
+- [embeddedartistry/libc](https://github.com/embeddedartistry/libc) – libc targeted for embedded systems usage.  Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
 - [esnet/iperf](https://github.com/esnet/iperf) – iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
@@ -3275,6 +3276,7 @@
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
+- [conda/conda](https://github.com/conda/conda) – A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [corpnewt/MountEFI](https://github.com/corpnewt/MountEFI) –  An even more robust edition of my previous MountEFI scripts
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 - [cramppet/regulator](https://github.com/cramppet/regulator) – Automated learning of regexes for DNS discovery
@@ -3373,6 +3375,7 @@
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) – Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 - [intruder-io/guidtool](https://github.com/intruder-io/guidtool) – A tool to inspect and attack version 1 GUIDs
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) – Real-time face swap for PC streaming or video calls
+- [isd-project/isd](https://github.com/isd-project/isd) – isd (interactive systemd) – a better way to work with systemd units
 - [iterative/dvc](https://github.com/iterative/dvc) – 🦉 Data Versioning and ML Experiments
 - [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. The tool is based on Python Requests, PycURL, and HTTP Client.
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
@@ -3425,6 +3428,7 @@
 - [maaaaz/dnsdumps](https://github.com/maaaaz/dnsdumps) – Various DNS dumps (daily new domains, FQDNs, etc.)
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
+- [mamba-org/quetz](https://github.com/mamba-org/quetz) – The Open-Source Server for Conda Packages
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. 
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
@@ -3881,7 +3885,7 @@
 - [andreibachim/shortcut](https://github.com/andreibachim/shortcut) – Make desktop files
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
-- [apache/iggy](https://github.com/apache/iggy) – Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
+- [apache/iggy](https://github.com/apache/iggy) – Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
 - [archlinux/alpm](https://github.com/archlinux/alpm) – Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
@@ -4932,6 +4936,7 @@
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [maciejwalkowiak/sinit](https://github.com/maciejwalkowiak/sinit) – sinit - command line shiny Spring Boot project initialzer 🚀
 - [macmpi/alpine-linux-headless-bootstrap](https://github.com/macmpi/alpine-linux-headless-bootstrap) – Headless Alpine Linux bootstrapping scripts
+- [mamba-org/micromamba-docker](https://github.com/mamba-org/micromamba-docker) – Rapid builds of small Conda-based containers using micromamba.
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) – Default credentials list. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) – 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) – Desktop notifications for long-running commands in zsh.
