@@ -1229,7 +1229,7 @@
 - [d3mondev/crossjoin](https://github.com/d3mondev/crossjoin) – Generate a cross join, also known as a Cartesian product, from the lines of the specified files. This process is useful for creating fuzzing payloads.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
-- [dagger/dagger](https://github.com/dagger/dagger) – An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) – An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) – A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
@@ -3662,6 +3662,7 @@
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) – Registry index for crates.io
 - [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec
 - [which-distro/os-release](https://github.com/which-distro/os-release) – A collection of /etc/os-release from various distros.
 
