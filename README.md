@@ -5329,7 +5329,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
-- [opengovern/opensecurity](https://github.com/opengovern/opensecurity) – Kaytu's AI platform boosts cloud efficiency by analyzing historical usage and delivering intelligent recommendations—such as optimizing instance sizes—that maintain reliability. Pay for what you need, without compromising your apps.
+- [opengovern/opensecurity](https://github.com/opengovern/opensecurity) – opensecurity: open-source security and compliance. See and secure your cloud, containers, code, networks, deployments, devices. Define your rules, get precise checks, fix gaps fast. Streamlined audits. No fluff.
 - [pacstall/website](https://github.com/pacstall/website) – Website for the Pacstall organization
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
