@@ -286,7 +286,7 @@
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
 - [henrypp/errorlookup](https://github.com/henrypp/errorlookup) – Simple tool for retrieving information about Windows errors codes.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-- [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) – Portable Git(hub|lab|tea) CLI tool
+- [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) – Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) – Linux distribution optimized for audio playback
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) – A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) – 📺🗿 Terminal graphics for the 21st century.
@@ -2036,7 +2036,7 @@
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
-- [xplshn/pelf](https://github.com/xplshn/pelf) – Pack an ELF. Turn your binaries into single-file executables [.AppBundle|.blob], similar to AppImages/FlatImages and compatible with AppDirs. LIBC-independent, works on *BSDs.
+- [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 509 lines of Go. (and our runtime in 900~ lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
 - [xplshn/scriptfs](https://github.com/xplshn/scriptfs) – scriptfs - Your filesystem as a scriptable resource. Create your own pseudo-filesystems via defining a single scripts.yaml file
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -2867,6 +2867,7 @@
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
+- [leleliu008/uppm-package-repository-linux-x86_64](https://github.com/leleliu008/uppm-package-repository-linux-x86_64)
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – The list of continuous integration services and tools
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
 - [luigigubello/PayloadsAllThePDFs](https://github.com/luigigubello/PayloadsAllThePDFs) – PDF Files for Pentesting
@@ -3431,7 +3432,7 @@
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [mamba-org/quetz](https://github.com/mamba-org/quetz) – The Open-Source Server for Conda Packages
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [maximko/mullvad-socks-list](https://github.com/maximko/mullvad-socks-list) – List all active mullvad socks servers and resolve its internal addresses
 - [mayakyler/link-shorteners](https://github.com/mayakyler/link-shorteners) – Python and JavaScript packages listing all known link shorteners
@@ -4219,7 +4220,7 @@
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
 - [mre/envy](https://github.com/mre/envy) – 💫 Manage environment variables without cluttering your .zshrc.
-- [msfjarvis/adx](https://github.com/msfjarvis/adx) – CLI to check Google Maven repository for updates to AndroidX artifacts
+- [msfjarvis/adx](https://github.com/msfjarvis/adx) – CLI to check Google Maven repository for versions of AndroidX libraries
 - [mstange/samply](https://github.com/mstange/samply) – Command-line sampling profiler for macOS, Linux, and Windows
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mtkennerly/shawl](https://github.com/mtkennerly/shawl) – Windows service wrapper for arbitrary commands
@@ -4233,6 +4234,7 @@
 - [n0-computer/swarmie](https://github.com/n0-computer/swarmie) – Proof of concept extension of sendme to use global content discovery
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) – A nfo file generator for your anime. Source from Bangumi.
 - [narrowlink/narrowlink](https://github.com/narrowlink/narrowlink) – A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls
+- [ndd7xv/heh](https://github.com/ndd7xv/heh) – A terminal UI to edit bytes by the nibble.
 - [neelkarma/redive](https://github.com/neelkarma/redive) – Trace URL redirections in the terminal.
 - [neosmart/securestore-rs](https://github.com/neosmart/securestore-rs) – A simple, encrypted, git-friendly, file-backed secrets manager for rust
 - [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
