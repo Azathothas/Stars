@@ -551,7 +551,7 @@
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -939,6 +939,7 @@
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) – Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae) – Cross shell and platform alias management
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) – The most customisable and low-latency cross platform/shell prompt renderer
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) – ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [Josue87/gotator](https://github.com/Josue87/gotator) – Gotator is a tool to generate DNS wordlists through permutations.
 - [Josue87/roboxtractor](https://github.com/Josue87/roboxtractor) – Extract endpoints marked as disallow in robots files to generate wordlists.
 - [Kriechi/git-monitor](https://github.com/Kriechi/git-monitor) – Monitor Git repositories for new commits
@@ -988,6 +989,7 @@
 - [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) – Six Degrees of Domain Admin
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
 - [Static-Flow/gofingerprint](https://github.com/Static-Flow/gofingerprint) – GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
+- [Symph0nia/Coda](https://github.com/Symph0nia/Coda) – 入侵痕迹清理/Cleaning up traces of intrusion
 - [Tantalor93/dnspyre](https://github.com/Tantalor93/dnspyre) – CLI tool for a high QPS DNS benchmark
 - [TheForgotten69/go-opensubtitles](https://github.com/TheForgotten69/go-opensubtitles) – Go library for accessing the OpenSubtitles API
 - [TheYahya/enola](https://github.com/TheYahya/enola) – This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
@@ -1639,6 +1641,7 @@
 - [muety/telepush](https://github.com/muety/telepush) – 🤖 A simple bot to translate JSON HTTP requests into Telegram push messages 
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) – Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [mum4k/termdash](https://github.com/mum4k/termdash) – Terminal based dashboard.
+- [musana/CF-Hero](https://github.com/musana/CF-Hero) – CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [musana/fuzzuli](https://github.com/musana/fuzzuli) – fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
 - [mux0x/github-guard](https://github.com/mux0x/github-guard)
 - [mux0x/mongoConnect](https://github.com/mux0x/mongoConnect)
@@ -2745,6 +2748,7 @@
 - [The-Osint-Toolbox/Website-OSINT](https://github.com/The-Osint-Toolbox/Website-OSINT) – You will find a wealth of resources to help with your Website investigations.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) – List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 - [Toxikuu/Toxikuu](https://github.com/Toxikuu/Toxikuu) – My github profile
+- [Upinel/BetterRDP](https://github.com/Upinel/BetterRDP) – This is to enable 60fps and GPU acceleration on RDP connection
 - [V35HR4J/OSCP-Like-Machines](https://github.com/V35HR4J/OSCP-Like-Machines) – https://blog.veshraj.info.np/
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 自用书源（网络小说）
