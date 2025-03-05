@@ -609,6 +609,7 @@
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [hadriansecurity/sanicdns](https://github.com/hadriansecurity/sanicdns) – Gotta go fast
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) – Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
+- [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) – A tool for recompiling Xbox 360 games to native executables.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
@@ -1648,6 +1649,7 @@
 - [mum4k/termdash](https://github.com/mum4k/termdash) – Terminal based dashboard.
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) – CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [musana/fuzzuli](https://github.com/musana/fuzzuli) – fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) – Fast file synchronization and network forwarding for remote development
 - [mux0x/github-guard](https://github.com/mux0x/github-guard)
 - [mux0x/mongoConnect](https://github.com/mux0x/mongoConnect)
 - [mvdan/sh](https://github.com/mvdan/sh) – A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -2087,8 +2089,6 @@
 
 ## HTML
 
-- [Azathothas/NixOS-Packages](https://github.com/Azathothas/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository :: https://nixos-packages.ajam.dev/
-- [Azathothas/Termux-Packages](https://github.com/Azathothas/Termux-Packages) – Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [HeliumOS-org/website](https://github.com/HeliumOS-org/website)
@@ -2130,6 +2130,8 @@
 - [nirajkharel/nirajkharel.github.io](https://github.com/nirajkharel/nirajkharel.github.io) – View My Blogs regarding Offensive Security.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) – NOVA opeN sOurce Video plAyer: main repository to build them all
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) – Writing an OS in Rust
+- [pkgforge-dev/NixOS-Packages](https://github.com/pkgforge-dev/NixOS-Packages) – Markdown List (Table) & JSON of all the officially Available Packages in the NixOS/nixpkgs Repository :: https://nixos-packages.ajam.dev/ [Maintainer=@Azathothas]
+- [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) – Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev [Maintainer=@Azathothas]
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) – Secret Magpie - Secret Detection Tool
 - [raesene/Cloud-Native-Security-Talks](https://github.com/raesene/Cloud-Native-Security-Talks)
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
@@ -2688,18 +2690,9 @@
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [AppImageMan/ail](https://github.com/AppImageMan/ail) – Version controlled mirror of AppImage files.
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
-- [Azathothas/CertStream-Domains](https://github.com/Azathothas/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
-- [Azathothas/CertStream-Nepal](https://github.com/Azathothas/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
-- [Azathothas/CertStream-World](https://github.com/Azathothas/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
-- [Azathothas/Distropacks](https://github.com/Azathothas/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
-- [Azathothas/HomeLab-Actions](https://github.com/Azathothas/HomeLab-Actions) – GH Actions to automate some parts of my HomeLab
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Moved to:: https://github.com/pkgforge/soarpkgs
-- [Azathothas/Toolpacks-BinCache-Importer](https://github.com/Azathothas/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
-- [Azathothas/Trackers](https://github.com/Azathothas/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
-- [Azathothas/Wordlists](https://github.com/Azathothas/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [Azathothas/ip.ajam.dev](https://github.com/Azathothas/ip.ajam.dev) – Simple Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML
-- [Azathothas/ndk-pkg-formula-repository-fork-core](https://github.com/Azathothas/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
 - [B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) – A big list of Android Hackerone disclosed reports and other resources. 
 - [BlackFan/content-type-research](https://github.com/BlackFan/content-type-research) – Content-Type Research
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
@@ -2876,7 +2869,7 @@
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
-- [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 A collection of wordlists for many different usages
+- [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
 - [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
@@ -2920,11 +2913,20 @@
 - [osmedeus/osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) – Community Workflow for the Osmedeus Engine that describes basic reconnaissance methodology for you to build your own
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) – A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby  
 - [packing-box/awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) – A curated list of awesome resources related to executable packing
+- [pacstall/pacmime](https://github.com/pacstall/pacmime)
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System
+- [pkgforge-dev/Distropacks](https://github.com/pkgforge-dev/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
+- [pkgforge-dev/Toolpacks-BinCache-Importer](https://github.com/pkgforge-dev/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
+- [pkgforge-dev/ndk-pkg-formula-repository-fork-core](https://github.com/pkgforge-dev/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
+- [pkgforge-security/CertStream-Nepal](https://github.com/pkgforge-security/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
+- [pkgforge-security/CertStream-World](https://github.com/pkgforge-security/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
+- [pkgforge-security/Domains](https://github.com/pkgforge-security/Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
+- [pkgforge-security/Trackers](https://github.com/pkgforge-security/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
+- [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [pkgforge/docs](https://github.com/pkgforge/docs) – 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
 - [platformbuilds/Tor-IP-Addresses](https://github.com/platformbuilds/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
@@ -3120,7 +3122,6 @@
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) – Binary instrumentation framework based on FRIDA
 - [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
@@ -3145,8 +3146,6 @@
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) – Reverse proxies cheatsheet
 - [Hamz-a/frida-android-helper](https://github.com/Hamz-a/frida-android-helper) – Frida Android utilities
 - [Hamz-a/jeb4frida](https://github.com/Hamz-a/jeb4frida) – Generate Frida hooks directly from JEB!
-- [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) – 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
-- [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) – 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) – :computer: Maintained fork of the original Archey (Linux) system tool
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) – Flutter Reverse Engineering Framework
@@ -3258,6 +3257,9 @@
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
 - [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Name-That-Hash](https://github.com/bee-san/Name-That-Hash) – 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
+- [bee-san/Search-That-Hash](https://github.com/bee-san/Search-That-Hash) – 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) – 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [beeware/briefcase](https://github.com/beeware/briefcase) – Tools to support converting a Python project into a standalone native application.
 - [belane/CloudHunter](https://github.com/belane/CloudHunter) – AWS, Azure, Alibaba and Google bucket scanner
@@ -3835,7 +3837,6 @@
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) – ForkFS allows you to sandbox a process's changes to your file system.
 - [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) – Modern, performance focused unix commands
 - [Schniz/fnm](https://github.com/Schniz/fnm) – 🚀 Fast and simple Node.js version manager, built in Rust
@@ -3910,6 +3911,7 @@
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
 - [andreibachim/shortcut](https://github.com/andreibachim/shortcut) – Make desktop files
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
+- [ankddev/envfetch](https://github.com/ankddev/envfetch) – Lightweight cross-platform CLI tool for working with environment variables.
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [apache/iggy](https://github.com/apache/iggy) – Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
@@ -3932,6 +3934,7 @@
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
 - [b1-team/superman](https://github.com/b1-team/superman) – 🤖 Kill The Protected Process 🤖
 - [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) – Compile Rust projects against the Android NDK without hassle
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) – 🤖 The Modern Port Scanner 🤖
 - [bensadeh/despell](https://github.com/bensadeh/despell) – 🎩 Put icons in `tmux`'s status line
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
 - [bgkillas/kalc](https://github.com/bgkillas/kalc) – a complex numbers, 2d/3d graphing, arbitrary precision, vector/matrix, cli calculator with real-time output and support for units
@@ -4194,6 +4197,7 @@
 - [leadlang/lead](https://github.com/leadlang/lead) – The Lead Programming Language Interpreter and the Open Lead Language Runtime & Compiler
 - [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
 - [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) – An over-engineered rewrite of pipes.sh in Rust
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
@@ -4529,7 +4533,7 @@
 - [w4/gitlab-cargo-shim](https://github.com/w4/gitlab-cargo-shim) – 🦀 Say goodbye to your Git dependencies, host a Cargo registry using the GitLab package repository
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [walles/riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
@@ -4618,7 +4622,6 @@
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
-- [Azathothas/static-toolbox](https://github.com/Azathothas/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
@@ -5048,6 +5051,7 @@
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
+- [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
@@ -5239,7 +5243,7 @@
 
 ## Tcl
 
-- [Azathothas/Static-Binaries](https://github.com/Azathothas/Static-Binaries) – Moved to https://github.com/pkgforge/soarpkgs
+- [pkgforge-dev/Static-Binaries](https://github.com/pkgforge-dev/Static-Binaries) – Moved to https://github.com/pkgforge/soarpkgs
 
 <div id="tex"></div>
 
