@@ -811,7 +811,6 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [pkgforge-dev/docker-archlinux](https://github.com/pkgforge-dev/docker-archlinux) – Forked : https://github.com/fwcd/docker-archlinux (+ DockerHub Builds) [Maintainer=@Azathothas]
-- [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
 - [spack/spack-distroless](https://github.com/spack/spack-distroless) – A minimal container environment to test Spack builds
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [vaggeliskls/windows-github-custom-runner](https://github.com/vaggeliskls/windows-github-custom-runner) – A robust, cost-effective solution to deploy containerized custom GitHub Runners in a Windows OS environment on a Linux server. This project utilizes Vagrant VM, libvirt, and docker-compose, providing a seamless, plug-and-play approach that significantly enhances the CI/CD pipeline experience. No prior knowledge of VM creation required
@@ -857,6 +856,8 @@
 
 ## Go
 
+- [003random/getJS](https://github.com/003random/getJS) – A tool to fastly get all javascript sources/files
+- [0x4f53/subs](https://github.com/0x4f53/subs) – Grab valid subdomains, resolve them, split them and more!
 - [0x5ubt13/enumeraga](https://github.com/0x5ubt13/enumeraga) – Automatic multiprocess Linux CLI tool that aims for a quick enumeration wrapping pentesting tools.
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
@@ -1380,6 +1381,7 @@
 - [go-debos/debos](https://github.com/go-debos/debos) – Debian OS builder
 - [go-git/go-git](https://github.com/go-git/go-git) – A highly extensible Git implementation in pure Go.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) – Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gost/gost](https://github.com/go-gost/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
@@ -1447,8 +1449,12 @@
 - [homeport/yft](https://github.com/homeport/yft) – /j f t/ - YAML file tool
 - [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Alternative to ngrok for localhost asynchronous web development (e.g. webhooks). No account required.
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
+- [hueristiq/xsubfind3r](https://github.com/hueristiq/xsubfind3r) – A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available.
+- [hueristiq/xurl](https://github.com/hueristiq/xurl) – A command-line utility designed to extract specific parts of URLs.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) – A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) – 🔍 Search anyone's digital footprint across 300+ websites
 - [ibuildthecloud/wtfk8s](https://github.com/ibuildthecloud/wtfk8s) – Watch and print changes in k8s
 - [idursun/jjui](https://github.com/idursun/jjui) – Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) – Upload and install iOS ipa and Android apk in web.
@@ -1569,7 +1575,7 @@
 - [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) – 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) – An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) – Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) – Web based real-time log viewer. Stream ANY content to a web UI with autogenerated filters. Parse any format with TypeScript.
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) – Log viewer with web UI, tail -f for logs with a web interface browser.
 - [lollipopkit/server_box_monitor](https://github.com/lollipopkit/server_box_monitor) – ServerBox on server end.
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) – Unofficial cobalt command line client made in go.
 - [lucasew/ts-proxy](https://github.com/lucasew/ts-proxy) – Simple proxy program to allow exposing individual services to a Tailnet, and even to the Internet using Tailscale Funnel.
@@ -1600,6 +1606,7 @@
 - [mholt/archives](https://github.com/mholt/archives) – Cross-platform library to create & extract archives, compress & decompress files, and walk virtual file systems across various formats
 - [michael1026/trashcompactor](https://github.com/michael1026/trashcompactor)
 - [miguelangel-nubla/ipv6ddns](https://github.com/miguelangel-nubla/ipv6ddns) – Discover the IPv6 addresses of specific hosts in your network and update DNS records dynamically
+- [mihneamanolache/cert-cli](https://github.com/mihneamanolache/cert-cli) – An OSINT tool for discovering domains, organizations, and addresses from SSL/TLS certificates using crt.sh. Supports proxy configurations, JSON output, and robust error handling for large-scale certificate analysis.
 - [mikefarah/yq](https://github.com/mikefarah/yq) – yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [mikeroyal/Google-Cloud-Guide](https://github.com/mikeroyal/Google-Cloud-Guide) – Google Cloud Platform (GCP) Guide. Learn all about Google Cloud Tools, Services, and Certifications.
 - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) – WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
@@ -1685,6 +1692,7 @@
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) – An archive-less dockerTools.buildImage implementation 
 - [nlnwa/warchaeology](https://github.com/nlnwa/warchaeology) – Command line tool for digging into WARC files
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) – A TUI playground to experiment with jq
+- [noarche/xref-tld](https://github.com/noarche/xref-tld) – xref-TLD is a cross platform domain cross ref. tool used to discover domains with different TDL and the same name. 
 - [noborus/ov](https://github.com/noborus/ov) – 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [noborus/trdsql](https://github.com/noborus/trdsql) – CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [nodauf/GoMapEnum](https://github.com/nodauf/GoMapEnum) – User enumeration and password bruteforce on Azure, ADFS, OWA, O365, Teams and gather emails on Linkedin
@@ -1821,9 +1829,12 @@
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) – :octocat: Static checker for GitHub Actions workflow files
 - [richardlehane/siegfried](https://github.com/richardlehane/siegfried) – signature-based file format identification
+- [rilldata/rill](https://github.com/rilldata/rill) – Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.
 - [rix4uni/WordList](https://github.com/rix4uni/WordList) – Custom wordlist, updated regularly
 - [rix4uni/ipfinder](https://github.com/rix4uni/ipfinder) – IP Finder tool, ipfinder collects ip address from different sources like Shodan, Zoomeye, Viewdns, dig command, etc.
+- [rix4uni/subdog](https://github.com/rix4uni/subdog) – subdog is a subdomain enumeration tools, this tool collect number of different sources to create a list of root subdomains 
 - [rix4uni/targets-filter](https://github.com/rix4uni/targets-filter) – Converting trickest and chaos bbp targets in json, updates every 12 hour
+- [rix4uni/unew](https://github.com/rix4uni/unew) – A tool combined of 2 commands features in 1 sort and tee for adding new lines to files, skipping duplicates
 - [riza/indextree](https://github.com/riza/indextree) – Generates the tree of the directory listing page.
 - [riza/linx](https://github.com/riza/linx) – Reveals invisible links within JavaScript files
 - [riza/wb](https://github.com/riza/wb) – Quickly fetches files from Wayback Machine.
@@ -1831,7 +1842,10 @@
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) – Full set of AppArmor profiles (~ 1500 profiles)
 - [root-gg/plik](https://github.com/root-gg/plik) – Plik is a temporary file upload system (Wetransfer like) in Go.
 - [root4loot/crtsher](https://github.com/root4loot/crtsher) – Obtain domains from certificate transparency logs
+- [root4loot/goresolve](https://github.com/root4loot/goresolve) – Quickly resolve domains using reliable resolvers
+- [root4loot/recrawl](https://github.com/root4loot/recrawl) – A web crawler written in Go
 - [root4loot/rescope](https://github.com/root4loot/rescope) – Bugbounty scope tool
+- [root4loot/screener](https://github.com/root4loot/screener) – Take screenshots of webpages
 - [rootless-containers/bypass4netns](https://github.com/rootless-containers/bypass4netns) – [Experimental] Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD. As fast as `--net=host`.
 - [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit) – Linux-native "fake root" for implementing rootless containers
 - [rs/curlie](https://github.com/rs/curlie) – The power of curl, the ease of use of httpie.
@@ -1894,6 +1908,7 @@
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) – Verify provenance from SLSA compliant builders
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
+- [sneakycursor/tcp-over-bt](https://github.com/sneakycursor/tcp-over-bt) – SSH into your headless Raspberry Pi from Bluetooth. bluetooth, bluetooth-low-energy, headless, raspberry-pi, raspberry-pi-zero-2-w, ssh, ssh-tunnel, tcp
 - [soapiestwaffles/s3-nuke](https://github.com/soapiestwaffles/s3-nuke) – Nuke all the files and their versions from an S3 Bucket 💣🪣
 - [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty) – Share your terminal as a web application
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) – Cross-platform client for PostgreSQL databases
@@ -1999,6 +2014,8 @@
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - bare metal Go
+- [utkusen/baitroute](https://github.com/utkusen/baitroute) – A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers
+- [utkusen/urlhunter](https://github.com/utkusen/urlhunter) – a recon tool that allows searching on URLs that are exposed via shortener services
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) – 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [variadico/noti](https://github.com/variadico/noti) – Monitor a process and trigger a notification.
@@ -2295,6 +2312,7 @@
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
+- [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) – Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
@@ -2853,6 +2871,7 @@
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) – An anti detection version frida-server for android.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) – A collection of modern/faster/saner alternatives to common unix commands.
+- [ifconfig-me/Directory-Traversal-Payloads](https://github.com/ifconfig-me/Directory-Traversal-Payloads) – List of Directory Traversal/LFI Payloads Scraped from the Internet
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim vulnerable domains.
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
@@ -2904,6 +2923,7 @@
 - [netlas-io/netlas-dorks](https://github.com/netlas-io/netlas-dorks) – A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.
 - [nex-health/setup-twingate-windows](https://github.com/nex-health/setup-twingate-windows) – Setup Twingate headless client on Windows
 - [neysofu/awesome-github-actions-runners](https://github.com/neysofu/awesome-github-actions-runners) – Save $$$ and make GitHub Actions go brrr with 3rd-party runners ⚡🤖
+- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) – Updated list of public BitTorrent trackers
 - [nicholasaleks/graphql-threat-matrix](https://github.com/nicholasaleks/graphql-threat-matrix) – GraphQL threat framework used by security professionals to research security gaps in GraphQL implementations
 - [nirajkharel/NotJustAChecklist](https://github.com/nirajkharel/NotJustAChecklist)
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
@@ -2925,7 +2945,7 @@
 - [pkgforge-security/CertStream-Domains](https://github.com/pkgforge-security/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [pkgforge-security/CertStream-Nepal](https://github.com/pkgforge-security/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
 - [pkgforge-security/CertStream-World](https://github.com/pkgforge-security/CertStream-World) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For the World 🌐
-- [pkgforge-security/Trackers](https://github.com/pkgforge-security/Trackers) – Hourly Updated (Merged & Filtered) List of Anime, Books & Movies Trackers
+- [pkgforge-security/Trackers](https://github.com/pkgforge-security/Trackers) – Hourly Updated (Merged & Filtered) List of Torrent Trackers [Maintainer=@Azathothas]
 - [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [pkgforge/docs](https://github.com/pkgforge/docs) – 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
 - [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
@@ -3641,6 +3661,7 @@
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) – Docker images used by ustcmirror :rocket:
+- [utkusen/shotlooter](https://github.com/utkusen/shotlooter) – a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) – Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
@@ -3736,7 +3757,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) – An easy and powerful Python HTTP Client with Black Magic
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – An easy and powerful Rust HTTP Client with Black Magic
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – Asynchronous Rust HTTP Client with Black Magic
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
@@ -3876,6 +3897,8 @@
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
+- [Whitecat18/Javahexor](https://github.com/Whitecat18/Javahexor) – An automated tool kit that clones sites and builds malicious javascript , deploys public Tunneling and send info through telegram Bot
+- [Whitecat18/Rusty-Red-Team-Tools](https://github.com/Whitecat18/Rusty-Red-Team-Tools)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) – a structural diff that understands syntax 🟥🟩
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) – Rapidly Search and Hunt through Windows Forensic Artefacts
 - [WombatLinux/comet](https://github.com/WombatLinux/comet) – Comet is the new standalone package manager for Wombat Linux, built in Rust
@@ -3946,6 +3969,7 @@
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) – A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [blueOkiris/aip-man](https://github.com/blueOkiris/aip-man) – An App Image Package Manager
+- [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) – TUI Framework With Batteries Included
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
 - [boinkor-net/flac-tracksplit](https://github.com/boinkor-net/flac-tracksplit) – Tool to losslessly, quickly & accurately split CUE+FLAC files into multiple tracks
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
@@ -3999,6 +4023,7 @@
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
+- [cosmic-zip/witchcraft](https://github.com/cosmic-zip/witchcraft) – WITCHCRAFT is a toolkit for cybersecurity. It handles forensic research, OSINT, scanning, backups, data copying, and penetration testing for apps and APIs, serving as a flexible platform for diverse security tasks.
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
@@ -5053,6 +5078,7 @@
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
+- [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage & More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
