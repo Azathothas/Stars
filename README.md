@@ -599,7 +599,7 @@
 - [cvengler/sysget](https://github.com/cvengler/sysget) – One package manager to rule them all
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -1124,6 +1124,8 @@
 - [barelyhuman/goblin](https://github.com/barelyhuman/goblin) – Golang binaries compiled on-demand for your system
 - [barnybug/cli53](https://github.com/barnybug/cli53) – Command line tool for Amazon Route 53
 - [bastiandoetsch/mullvad-best-server](https://github.com/bastiandoetsch/mullvad-best-server) – Determines the Mullvad server with the lowest latency
+- [bebiksior/go-vhosts](https://github.com/bebiksior/go-vhosts)
+- [bebiksior/subwords](https://github.com/bebiksior/subwords) – Extract most frequent words in a list of subdomains
 - [beescuit/githubid](https://github.com/beescuit/githubid) – Quickly find all identities someone has used on their Github commits
 - [beevik/etree](https://github.com/beevik/etree) – parse and generate XML easily in go
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
@@ -1250,6 +1252,7 @@
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) – Go utilities for Debian APT repositories
 - [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) – Distributed Linux user management using etcd
+- [cyinnove/apkX](https://github.com/cyinnove/apkX) – APKx is a high-performance tool written in Go for scanning Android APK files to discover sensitive information like URIs, endpoints, and secrets. It's inspired by APKLeaks but reimplemented in Go with enhanced features and YAML pattern support.
 - [d-Rickyy-b/certstream-server-go](https://github.com/d-Rickyy-b/certstream-server-go) – This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.
 - [d3mondev/crossjoin](https://github.com/d3mondev/crossjoin) – Generate a cross join, also known as a Cartesian product, from the lines of the specified files. This process is useful for creating fuzzing payloads.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
@@ -2413,7 +2416,7 @@
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) – Read e-books in style
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
-- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [krisk/Fuse](https://github.com/krisk/Fuse) – Lightweight fuzzy-search, in JavaScript
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
@@ -3284,6 +3287,7 @@
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) – Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
 - [a-scie/lift](https://github.com/a-scie/lift) – Provides science, a high level tool to build scies with.
+- [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) – A tool for checking the security hardening options of the Linux kernel
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
 - [abathur/resholve](https://github.com/abathur/resholve) – a shell resolver? :) (find and resolve shell script dependencies)
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) – 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework
@@ -3345,6 +3349,7 @@
 - [bugen/pypipe](https://github.com/bugen/pypipe) – Python pipe command line tool
 - [c0dejump/CredzCheckr](https://github.com/c0dejump/CredzCheckr) – Testing default web credentials
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) – Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
+- [c3l3si4n/webtrufflehog](https://github.com/c3l3si4n/webtrufflehog) – Browser extension that leverages TruffleHog and Native Messaging Hosts to scan web traffic in real-time for exposed secrets
 - [cado-security/cloudgrep](https://github.com/cado-security/cloudgrep) – cloudgrep is grep for cloud storage
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) – Fancy reverse and bind shell handler
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) – Official upstream for the cloud-init: cloud instance initialization
@@ -3425,6 +3430,7 @@
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) – Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images)
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) – docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) – 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) – A library for parsing .DS_Store files and extracting file names
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) – A nice way to display CLI Github user / repo / organization info inspired in neofetch
@@ -3514,6 +3520,7 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [mamba-org/quetz](https://github.com/mamba-org/quetz) – The Open-Source Server for Conda Packages
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) – No fortress, purely open ground.  OpenManus is Coming.
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
@@ -3797,6 +3804,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) – A jq clone focussed on correctness, speed, and simplicity
 - [0x00snape/Trassh](https://github.com/0x00snape/Trassh) – SSH session Sniffer.
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
+- [0x00snape/geolocate](https://github.com/0x00snape/geolocate) – A simple side project to geolocate the domain.
 - [0x00snape/pdump](https://github.com/0x00snape/pdump) – A process memory dumper written in rust.
 - [0x00snape/pinject](https://github.com/0x00snape/pinject) – Process injection for Linux. 
 - [0x00snape/selfmorph](https://github.com/0x00snape/selfmorph) – Modifying a program code at run-time in Linux.
@@ -4025,6 +4033,7 @@
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
 - [boinkor-net/flac-tracksplit](https://github.com/boinkor-net/flac-tracksplit) – Tool to losslessly, quickly & accurately split CUE+FLAC files into multiple tracks
 - [bootandy/dust](https://github.com/bootandy/dust) – A more intuitive version of du in rust
+- [bootc-dev/bootc](https://github.com/bootc-dev/bootc) – Boot and upgrade via container images
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) – An operating system designed for hosting containers
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) – Signal Messenger client for terminal
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) – An eBPF Manager for Linux and Kubernetes
@@ -4071,7 +4080,6 @@
 - [cole14/rust-elf](https://github.com/cole14/rust-elf) – Library for parsing ELF files for Rust
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
-- [containers/bootc](https://github.com/containers/bootc) – Boot and upgrade via container images
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
@@ -4128,7 +4136,7 @@
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
 - [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(observer_ward)Web应用和服务指纹识别工具
 - [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
-- [envio-cli/envio](https://github.com/envio-cli/envio) – Envio is a modern and secure command-line tool that simplifies the management of environment variables
+- [envio-cli/envio](https://github.com/envio-cli/envio) – envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) – Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
@@ -4238,7 +4246,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
-- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – 🦀 | RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust
+- [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jordfras/linetime](https://github.com/jordfras/linetime) – Command line tool prefixing lines with a timestamp
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) – A tool & library to detect open source licenses from texts
@@ -4351,6 +4359,7 @@
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) – Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
+- [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) – A Command-line tool similar to Neofetch for obtaining information about your country
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
@@ -5107,6 +5116,7 @@
 - [nmimusic/unifetch](https://github.com/nmimusic/unifetch) – An unofficial inheritor of Neofetch
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
 - [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
+- [nullenc0de/pci-segtest](https://github.com/nullenc0de/pci-segtest) – A network segmentation and egress control testing tool for PCI DSS v4.0 compliance. Automatically discovers network segments, validates isolation between environments, and identifies potential data exfiltration channels. Designed for security teams to perform thorough and efficient compliance validation of cardholder data environments.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) – Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [oasislinux/root-x86_64](https://github.com/oasislinux/root-x86_64)
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) – A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
