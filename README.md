@@ -3459,7 +3459,7 @@
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) – The official Python client for the Huggingface Hub.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) – A command-line tool to download photos from iCloud
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) – Bubblewrap based sandboxing for desktop applications
-- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️
+- [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
 - [imhunterand/ApachSAL](https://github.com/imhunterand/ApachSAL) – It's a vulnerability scanner tool for test Apache Path Traversal 👾
 - [indigo-dc/udocker](https://github.com/indigo-dc/udocker) – A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Open Source Vulnerability Management Platform
