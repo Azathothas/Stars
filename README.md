@@ -315,6 +315,7 @@
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
+- [keenerd/gz-sort](https://github.com/keenerd/gz-sort) – A utility for sorting really big files.  http://kmkeen.com/gz-sort/
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -2675,7 +2676,6 @@
 ## Nix
 
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) – Experimental nix expression to package all MacOS casks from homebrew automatically
-- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) – Nix - Static, Permissionless, Installation-free, Pre-configured
 - [Jo-Blade/nix-appimage](https://github.com/Jo-Blade/nix-appimage) – Convert a nixos derivation into a self-contained binary
 - [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) – Run macOS, Windows and more via a single Nix command, or simple nixosModules
@@ -3897,6 +3897,7 @@
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers
 - [NH-RED-TEAM/RustHound](https://github.com/NH-RED-TEAM/RustHound) – Active Directory data ingestor for BloodHound Legacy written in Rust. 🦀
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
+- [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
@@ -5575,6 +5576,7 @@
 
 ## Zig
 
+- [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) – An alternative to `curl | sh`
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A modern fully featured C compiler.
