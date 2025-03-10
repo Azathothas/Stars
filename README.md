@@ -62,6 +62,7 @@
 - [Qml](#qml)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
+- [Rpm Spec](#rpm-spec)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -373,6 +374,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) – Linux namespaces and seccomp-bpf sandbox
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nicbarker/clay](https://github.com/nicbarker/clay) – High performance UI layout library in C.
+- [nihui/ruapu](https://github.com/nihui/ruapu) – Detect CPU features with single-file
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
 - [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) – The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
@@ -1529,6 +1531,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) – A cross-platform TUI database management tool written in Go.
 - [josephburnett/jd](https://github.com/josephburnett/jd) – JSON diff and patch
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
 - [jpillora/installer](https://github.com/jpillora/installer) – One-liner for installing binaries from Github releases
@@ -3421,6 +3424,7 @@
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
+- [flotwig/TLDR-2](https://github.com/flotwig/TLDR-2) – TLDR 2 (TLD Records 2) is a continually updated DNS archive of zone transfer attempts against all existing TLD nameservers as well as the root servers. 
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [freelabz/secator](https://github.com/freelabz/secator) – secator - the pentester's swiss knife
@@ -3540,6 +3544,7 @@
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) – The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) – aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) – A set of a misc tools to work with files and processes
+- [monoidic/TLDR2](https://github.com/monoidic/TLDR2)
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
 - [moogar0880/PyTrakt](https://github.com/moogar0880/PyTrakt) – A Pythonic interface to the Trakt.tv REST API
@@ -3774,6 +3779,12 @@
 - [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) – Registry index for crates.io
 - [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec
 - [which-distro/os-release](https://github.com/which-distro/os-release) – A collection of /etc/os-release from various distros.
+
+<div id="rpm-spec"></div>
+
+## Rpm Spec
+
+- [microsoft/azurelinux](https://github.com/microsoft/azurelinux) – Linux OS for Azure 1P services and edge appliances
 
 <div id="ruby"></div>
 
@@ -4362,6 +4373,7 @@
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) – A Command-line tool similar to Neofetch for obtaining information about your country
+- [nik-rev/patchy](https://github.com/nik-rev/patchy) – A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
@@ -4553,7 +4565,7 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [spirali/twinsong](https://github.com/spirali/twinsong) – Alternative to Jupyter Notebook that separates code and outputs
+- [spirali/twinsong](https://github.com/spirali/twinsong) – A Reimagined Alternative to Jupyter Notebooks
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
