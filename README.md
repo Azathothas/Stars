@@ -1395,6 +1395,7 @@
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) – A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) – GO Simple Tunnel - a simple tunnel written in golang
 - [giodamelio/tailscale-custom-domain-dns](https://github.com/giodamelio/tailscale-custom-domain-dns) – A small DNS serve that serves records for all the machines in your Tailscale tailnet
+- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) – Git extension for versioning large files
 - [github/git-sizer](https://github.com/github/git-sizer) – Compute various size metrics for a Git repository, flagging those that might cause problems
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) – Find secrets with Gitleaks 🔑
 - [gittuf/gittuf](https://github.com/gittuf/gittuf) – A security layer for Git repositories
@@ -2424,6 +2425,7 @@
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [krisk/Fuse](https://github.com/krisk/Fuse) – Lightweight fuzzy-search, in JavaScript
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
@@ -3370,6 +3372,7 @@
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
+- [coffinxp/loxs](https://github.com/coffinxp/loxs) – best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
 - [conda/conda](https://github.com/conda/conda) – A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [corpnewt/MountEFI](https://github.com/corpnewt/MountEFI) –  An even more robust edition of my previous MountEFI scripts
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
@@ -3825,7 +3828,7 @@
 - [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) – A blazing-fast Python HTTP client with TLS fingerprint
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) – A blazing-fast Python HTTP Client with TLS fingerprint
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) – A blazing-fast Rust HTTP Client with TLS fingerprint
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
@@ -4097,7 +4100,7 @@
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
-- [cosmic-zip/witchcraft](https://github.com/cosmic-zip/witchcraft) – WITCHCRAFT is a toolkit for cybersecurity. It handles forensic research, OSINT, scanning, backups, data copying, and penetration testing for apps and APIs, serving as a flexible platform for diverse security tasks.
+- [cosmic-zip/witchcraft](https://github.com/cosmic-zip/witchcraft) – WITCHCRAFT is a cyberdeck toolkit built for runners who dive deep into the mesh. It’s your all-in-one rig for data-ghosting, ICE-breaking, and corp-system infiltration. Whether you’re running forensic traces, scraping OSINT feeds, or slicing through firewalls, WITCHCRAFT’s got your back.
 - [crabdancing/nixpak-flatpak-wrapper](https://github.com/crabdancing/nixpak-flatpak-wrapper) – Hacks helping with semi-almost-usable declarative NixOS sandboxing
 - [crabnebula-dev/cargo-packager](https://github.com/crabnebula-dev/cargo-packager) – Rust executable packager, bundler and updater.
 - [crate-ci/typos](https://github.com/crate-ci/typos) – Source code spell checker
@@ -4216,6 +4219,8 @@
 - [holly-hacker/s3-dumper](https://github.com/holly-hacker/s3-dumper) – A tool to dump exposed S3 buckets by URL
 - [holmgr/cargo-sweep](https://github.com/holmgr/cargo-sweep) – A cargo subcommand for cleaning up unused build files generated by Cargo
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
+- [huggingface/hf-hub](https://github.com/huggingface/hf-hub) – Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
+- [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer)
 - [huggingface/xet-core](https://github.com/huggingface/xet-core) – xet client tech, used in huggingface_hub
 - [hw0lff/shikane](https://github.com/hw0lff/shikane) – [mirror] A deterministic dynamic output configuration tool that automatically detects and configures connected outputs based on a set of profiles.
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
@@ -4847,6 +4852,7 @@
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
+- [VHSgunzo/rust-alpine-mimalloc](https://github.com/VHSgunzo/rust-alpine-mimalloc)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked ELF binaries everywhere
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically linked squashfs-tools compiled with musl libc
 - [VR-25/acc](https://github.com/VR-25/acc) – Advanced Charging Controller
@@ -5341,7 +5347,6 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 
 <div id="swift"></div>
 
@@ -5408,7 +5413,7 @@
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) – The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) – ✨⚡️ A feature-rich GraphQL Client for all platforms.
-- [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++/C projects.
+- [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++ and C projects.
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [bebiksior/EvenBetter](https://github.com/bebiksior/EvenBetter) – EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 - [bebiksior/EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) – EvenBetterExtensions allows you to quicky install and keep updated Caido extensions.
