@@ -235,8 +235,8 @@
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [collectd/collectd](https://github.com/collectd/collectd) – The system statistics collection daemon. Please send Pull Requests here!
+- [composefs/composefs](https://github.com/composefs/composefs) – The reliability of disk images, the flexibility of files
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-- [containers/composefs](https://github.com/containers/composefs) – The reliability of disk images, the flexibility of files
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [cooperative-computing-lab/cctools](https://github.com/cooperative-computing-lab/cctools) – The Cooperative Computing Tools (cctools) enable large scale distributed computations to harness hundreds to thousands of machines from clusters, clouds, and grids.
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) – upstream mirror
@@ -988,6 +988,7 @@
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) – mTLS-Encrypted Back-Connect SOCKS5 Proxy
+- [RevoltSecurities/Crlfix](https://github.com/RevoltSecurities/Crlfix) – CrlfiX
 - [RikunjSindhwad/Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) – Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters! 
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) – Whole Program LLVM: wllvm ported to go
@@ -1268,7 +1269,7 @@
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) – It's like curl -v, with colours. 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) – The Open Source Dev Environment Manager.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a secure, scalable runtime for AI-generated code execution.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [deepfence/YaraHunter](https://github.com/deepfence/YaraHunter) – 🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
@@ -2434,7 +2435,7 @@
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) – Browser In The Browser (BITB) Templates
 - [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
@@ -2695,7 +2696,6 @@
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ Home-Manager configuration ala Nix flakes
 - [flatironinstitute/nixpack](https://github.com/flatironinstitute/nixpack) – nix+spack = nixpack (spanix?)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
-- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [milahu/nixos-tails](https://github.com/milahu/nixos-tails) – tails linux based on nixos linux. tails linux implemented in the nix language
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
@@ -2937,6 +2937,7 @@
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
+- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
@@ -5506,6 +5507,7 @@
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [tsirysndr/envhub](https://github.com/tsirysndr/envhub) – Manage your dotfiles, secrets and packages with ease. Define your $HOME as Code and re-use it everywhere (local machine, CI, server ...)  💻 🚀 ✨
 - [upleveled/notion-backup](https://github.com/upleveled/notion-backup) – Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
