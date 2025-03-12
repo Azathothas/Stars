@@ -51,6 +51,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Nsis](#nsis)
+- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -361,6 +362,7 @@
 - [microsoft/DirectX-Headers](https://github.com/microsoft/DirectX-Headers) – Official DirectX headers available under an open source license
 - [microsoft/ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) – A Linux version of the ProcDump Sysinternals tool
 - [microsoft/SysinternalsEBPF](https://github.com/microsoft/SysinternalsEBPF) – The Linux port of the Sysinternals Sysmon tool.
+- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) – eBPF implementation that runs on top of Windows
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) – mimalloc is a compact general purpose allocator with excellent performance.
 - [microsoft/ntttcp](https://github.com/microsoft/ntttcp)
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
@@ -690,6 +692,7 @@
 
 - [833M0L3/test](https://github.com/833M0L3/test)
 - [Avinash0x1/custom-cv](https://github.com/Avinash0x1/custom-cv) – my-cc
+- [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) – 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 - [Toxikuu/nightdrive](https://github.com/Toxikuu/nightdrive) – LFS Dotfiles
 - [Toxikuu/whitepink](https://github.com/Toxikuu/whitepink) – LFS Dotfiles
 - [andyk/ht](https://github.com/andyk/ht) – headless terminal - wrap any binary with a terminal interface for easy programmatic access.
@@ -755,18 +758,23 @@
 - [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no external listening ports open
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) – A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) – An Open source app to download and read books from shadow library (Anna’s Archive)
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
+- [frostnova721/animestream](https://github.com/frostnova721/animestream) – An app to stream and download anime
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [honmaple/maple-file](https://github.com/honmaple/maple-file) – Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
 - [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) – Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows
 - [localsend/localsend](https://github.com/localsend/localsend) – An open-source cross-platform alternative to AirDrop
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) – A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
+- [venera-app/venera](https://github.com/venera-app/venera) – A comic app
 
 <div id="diff"></div>
 
@@ -1042,6 +1050,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) – Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [activecm/rita-legacy](https://github.com/activecm/rita-legacy) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [adhocore/gronx](https://github.com/adhocore/gronx) – Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
+- [admpub/nging](https://github.com/admpub/nging) – Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [aerokube/init](https://github.com/aerokube/init) – Correct init process for Docker containers
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) – Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
@@ -1294,6 +1303,7 @@
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
+- [donknap/dpanel](https://github.com/donknap/dpanel) – 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare Firewall Piercing (TCP over CDN)
 - [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly) – Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) – Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -1500,6 +1510,7 @@
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
 - [ipv6rslimited/hamon](https://github.com/ipv6rslimited/hamon) – Hamon is a tool that uses the djb2 (ca. 1991) hash to map IP addresses to readable words and vice versa. It supports both IPv4 and IPv6 addresses.  The name is derived from HAsh MOdulo Name (ハモン not 刃文).
 - [ipv6rslimited/shrimp](https://github.com/ipv6rslimited/shrimp) – shrimp is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.
+- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) – An effort to comprehensively document eBPF
 - [istio/istio](https://github.com/istio/istio) – Connect, secure, control, and observe services.
 - [itchyny/bed](https://github.com/itchyny/bed) – Binary editor written in Go
 - [itchyny/gojq](https://github.com/itchyny/gojq) – Pure Go implementation of jq
@@ -1924,6 +1935,7 @@
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) – A multi-purpose OSINT toolkit with a neat web-interface.
 - [segmentio/chamber](https://github.com/segmentio/chamber) – CLI for managing secrets
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) – 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
+- [sensepost/goLAPS](https://github.com/sensepost/goLAPS) – Retrieve LAPS passwords from a domain. The tools is inspired in pyLAPS.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) – 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [seveas/herd](https://github.com/seveas/herd) – Massively parallel ssh client
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) – 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -2063,6 +2075,7 @@
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - bare metal Go
+- [usual2970/certimate](https://github.com/usual2970/certimate) – 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
 - [utkusen/baitroute](https://github.com/utkusen/baitroute) – A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers
 - [utkusen/urlhunter](https://github.com/utkusen/urlhunter) – a recon tool that allows searching on URLs that are exposed via shortener services
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) – A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
@@ -2092,6 +2105,7 @@
 - [whoissecure/yaset](https://github.com/whoissecure/yaset) –  Yet Another Subdomain Enumeration Tool, a template based tool to enumerate subdomains passively.
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) – Wireguard client that exposes itself as a socks5 proxy
 - [whywaita/myshoes](https://github.com/whywaita/myshoes) – Auto-scaling VirtualMachine runner 🏃  for GitHub Actions
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) – Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [willnorris/imageproxy](https://github.com/willnorris/imageproxy) – A caching, resizing image proxy written in Go
 - [windvalley/gossh](https://github.com/windvalley/gossh) – 🚀🚀A high-performance and high-concurrency ssh tool written in Go. It is 10 times faster than Ansible. If you need much more performance and better ease of use, you will love it.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) – Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -2349,6 +2363,7 @@
 - [0xDexter0us/30X](https://github.com/0xDexter0us/30X) – This script provides various ways to create HTTP redirects from 301 to 308, useful for stuff like SSRF
 - [0xbigshaq/firepwn-tool](https://github.com/0xbigshaq/firepwn-tool) – Firepwn is a tool made for testing the Security Rules of a firebase application. 
 - [0xdea/frida-scripts](https://github.com/0xdea/frida-scripts) – A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
+- [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) – Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [AnagataCetana/insomnium](https://github.com/AnagataCetana/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -2360,6 +2375,7 @@
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Homebrew/actions](https://github.com/Homebrew/actions) – 🚀 Homebrew's GitHub Actions
 - [Kong/insomnia](https://github.com/Kong/insomnia) – The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) – 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
@@ -2369,12 +2385,14 @@
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) – Abracadabra 魔曰，下一代文本脱敏和加密工具
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
 - [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
 - [YappyBots/YappyGitHub](https://github.com/YappyBots/YappyGitHub) – A github monitor bot for Discord
+- [Yeo-x/ShareDL](https://github.com/Yeo-x/ShareDL) – 基于 Cloudflare Workers 的代理下载和文件分享服务，支持直接代理下载、短链接分享和 AList, Github 文件预览。
 - [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) – Convert Complex JSON Schemas into Markdown Documentation
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) – Bypass ad counter if possible.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) – A full-featured download manager.
@@ -2427,6 +2445,7 @@
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
+- [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
 - [liriliri/licia](https://github.com/liriliri/licia) – Useful utility collection with zero dependencies
@@ -2587,6 +2606,7 @@
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [samolego/Canta](https://github.com/samolego/Canta) – Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) – Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [shub39/Rush](https://github.com/shub39/Rush) – :star: Android app to search, save and share lyrics like spotify! 
 - [simple-login/Simple-Login-Android](https://github.com/simple-login/Simple-Login-Android) – Android client for SimpleLogin
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) – SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) – Tailscale Android Client
@@ -2730,6 +2750,12 @@
 
 - [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x) – Backport of .NET 2.0 - 3.5 to Windows 9x
 
+<div id="nushell"></div>
+
+## Nushell
+
+- [nushell/nightly](https://github.com/nushell/nightly) – The nightly release packages of Nushell, Only keep the latest a few releases
+
 <div id="objective-c"></div>
 
 ## Objective-C
@@ -2864,6 +2890,7 @@
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) – A list of free, public, forward proxy servers. UPDATED DAILY!
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) – Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting) – Overview of free hosting offers, incl. compute hosting, app hosting, databases, serverless etc.
+- [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) – 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 - [craiu/mobiletrackers](https://github.com/craiu/mobiletrackers) – A repository of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) – 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) – API Security Project aims to present unique attack & defense methods in API Security field
@@ -3668,7 +3695,9 @@
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) – Python APIs for web automation, testing, and bypassing bot-detection.
+- [sensepost/dresscode](https://github.com/sensepost/dresscode) – Scan websites CSP policies and visualise their vunlnerabilities from a dashboard
 - [sensepost/objection](https://github.com/sensepost/objection) – 📱 objection - runtime mobile exploration
+- [sensepost/susinternals](https://github.com/sensepost/susinternals) – psexecsvc - a python implementation of PSExec's native service implementation
 - [seung-lab/cloud-files](https://github.com/seung-lab/cloud-files) – Threaded Python and CLI client library for AWS S3, Google Cloud Storage (GCS), in-memory, and the local filesystem.
 - [shelld3v/JSshell](https://github.com/shelld3v/JSshell) – JSshell - JavaScript reverse/remote shell
 - [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) – A proxy tool based on cloud function.
@@ -3981,7 +4010,7 @@
 - [XOR-op/BoltConn](https://github.com/XOR-op/BoltConn) – Privacy-oriented proxy & network manager, supporting WireGuard, L7 firewall, App-based policies and scripted MitM.
 - [Xetibo/ReSet](https://github.com/Xetibo/ReSet) – Universal Linux Settings Application
 - [Xewdy444/Proxy-Scraper-Checker](https://github.com/Xewdy444/Proxy-Scraper-Checker) – A command-line tool for scraping and checking HTTP and SOCKS5 proxies from the checkerproxy.net proxies archive
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) – ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) – Command line csv viewer
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) – 👩‍💻 A CLI Tool for Command Line Insights
 - [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) – 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
@@ -5379,6 +5408,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
 - [ChiChou/vscode-frida](https://github.com/ChiChou/vscode-frida) – Unofficial frida extension for VSCode
+- [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) – Minimalistic web app designed for sending private and secure notes.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) – Automatically refresh your Nix Flakes.
 - [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
@@ -5400,6 +5430,7 @@
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+- [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) – 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
 - [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
@@ -5412,6 +5443,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) – A local-first personal finance app
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) – Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) – The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [akazwz/smail](https://github.com/akazwz/smail) – Temporary email  临时邮箱 Cloudflare email
 - [altair-graphql/altair](https://github.com/altair-graphql/altair) – ✨⚡️ A feature-rich GraphQL Client for all platforms.
 - [aminya/setup-cpp](https://github.com/aminya/setup-cpp) – Install all the tools required for building and testing C++ and C projects.
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) – Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
@@ -5472,6 +5504,7 @@
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
 - [mahbubmaruf178/one-index](https://github.com/mahbubmaruf178/one-index) – One-Index ... indexer for cloud store 
+- [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) – Tinymind - Write and sync your blog & thoughts with GitHub
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) – Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) – IDE style command line auto complete
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) – Concurrent prettier runner
@@ -5561,6 +5594,7 @@
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) – Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) – A simple GUI for SCRCPY and other ADB functions
 - [JingBh/ServerStatus-theme](https://github.com/JingBh/ServerStatus-theme) – A custom theme for ServerStatus-Rust
+- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) – Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) – ⚡️ Icon Explorer with Instant searching, powered by Iconify
