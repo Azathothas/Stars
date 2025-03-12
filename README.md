@@ -222,6 +222,7 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
@@ -905,6 +906,7 @@
 - [BuffaloWill/whoiswatcher](https://github.com/BuffaloWill/whoiswatcher) – Do bulk whois lookups and get alerted on domains of interest.
 - [CGI-FR/PIMO](https://github.com/CGI-FR/PIMO) – Private Input Masked Output - PIMO is a tool for data masking (anonymization, pseudonymization, ...).
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) – act as self-hosted runner
+- [CircleCI-Public/circleci-cli](https://github.com/CircleCI-Public/circleci-cli) – Use CircleCI from the command line
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) – The fastest, resumable file download client
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) – ContainerSSH: Launch containers on demand
 - [Contextualist/acp](https://github.com/Contextualist/acp) – Make terminal personal file transfers as simple as `cp`
@@ -1225,6 +1227,7 @@
 - [cli/cli](https://github.com/cli/cli) – GitHub’s official command line tool
 - [cloud-barista/cb-spider](https://github.com/cloud-barista/cb-spider) – CB-Spider offers a unified view and interface for multi-cloud management.
 - [cloudbase/garm](https://github.com/cloudbase/garm) – GitHub Actions Runner Manager
+- [cloudbase/garm-provider-aws](https://github.com/cloudbase/garm-provider-aws) – Garm external provider for EC2
 - [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) – Cloudflare's RPKI Toolbox
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) – CFSSL: Cloudflare's PKI and TLS toolkit
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) – Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -1236,6 +1239,7 @@
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
+- [coder/coder](https://github.com/coder/coder) – Provision remote development environments via Terraform
 - [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via WireGuard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
@@ -1278,7 +1282,7 @@
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) – It's like curl -v, with colours. 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a secure, scalable runtime for AI-generated code execution.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [deepfence/YaraHunter](https://github.com/deepfence/YaraHunter) – 🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
@@ -1750,7 +1754,7 @@
 - [nyancrimew/goop](https://github.com/nyancrimew/goop) – Yet another tool to dump a git repository from a website, focused on as-complete-as-possible dumps and handling weird edge-cases.
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
@@ -2005,6 +2009,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [synthesio/selfextract](https://github.com/synthesio/selfextract) – Self-extracting archives creation tool
 - [syumai/workers](https://github.com/syumai/workers) – Go package to run an HTTP server on Cloudflare Workers.
+- [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) – A highly experimental exploration of integrating Tailscale and Caddy.
 - [tailscale/golink](https://github.com/tailscale/golink) – A private shortlink service for tailnets
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) – The easiest, most secure way to use WireGuard and 2FA.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) – Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
@@ -2037,6 +2042,7 @@
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) – Pull out bits of URLs provided on stdin
 - [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite) – gcloud-lite is a distribution of the google cloud platform (GCP) CLI that strips unnecessary dependencies to reduce the size by > 75%, with significant cost & time savings.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) – lakeFS - Data version control for your data lake | Git for data
 - [trickest/dsieve](https://github.com/trickest/dsieve) – Filter and enrich a list of subdomains by level
 - [trickest/enumerepo](https://github.com/trickest/enumerepo) – List all public repositories for (valid) GitHub usernames
 - [trickest/find-gh-poc](https://github.com/trickest/find-gh-poc) – Find CVE PoCs on GitHub
@@ -2191,6 +2197,7 @@
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+- [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) – Documentation for Cirrus CI 📚
 - [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) – HTTPLeaks - All possible ways, a website can leak HTTP requests
 - [developer-macos/LinuxAppStoreRem](https://github.com/developer-macos/LinuxAppStoreRem) – The Remastered version of Linux App Store.   [ Current Status: alpha 0.0.1   ]
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
@@ -2326,7 +2333,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
-- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or Json. The Data Loading Workhorse behind https://ip.thc.org
+- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or JSON. The Data Loading Workhorse behind https://ip.thc.org
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
@@ -2428,6 +2435,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) – An installer and wrapper for Chromedriver.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) – A speed test analysis software that shows your internet speed for up to 30 days
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
 - [holesail/holesail](https://github.com/holesail/holesail) – Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
@@ -2591,6 +2599,7 @@
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info is a KMP application which provides information about device hardware and software
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions for Tachiyomi/Mihon and variants.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
+- [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) – 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) – Yet another barcode scanner for Android
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) – Free and open source manga reader for Android
@@ -2613,6 +2622,7 @@
 - [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) – Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
+- [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) –  The missing link between Android and a sorted file system. 
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
 
@@ -3852,7 +3862,6 @@
 - [0x00snape/geolocate](https://github.com/0x00snape/geolocate) – A simple side project to geolocate the domain.
 - [0x00snape/pdump](https://github.com/0x00snape/pdump) – A process memory dumper written in rust.
 - [0x00snape/pinject](https://github.com/0x00snape/pinject) – Process injection for Linux. 
-- [0x00snape/selfmorph](https://github.com/0x00snape/selfmorph) – Modifying a program code at run-time in Linux.
 - [0x00snape/sneakfork](https://github.com/0x00snape/sneakfork) – Seeks to hide the presence of its process in Linux.
 - [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -4056,6 +4065,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
 - [aws/aperf](https://github.com/aws/aperf) – A CLI tool to gather performance data and visualize using HTML graphs. Data from multiple collection runs can be viewed side-by-side, allowing for easy comparison of the same workload across different system configurations.
+- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) – AWS SDK for the Rust Programming Language
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
@@ -4119,6 +4129,7 @@
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) – Make it safe to serve untrusted SVG files
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static linux rust binaries
+- [cmlccie/awsipranges](https://github.com/cmlccie/awsipranges) – Quickly query the AWS IP Ranges
 - [cn-kali-team/notion-blog](https://github.com/cn-kali-team/notion-blog) – One click build your website with Notion for free using wrangler
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) – The Conventional Commits toolbox
 - [code-inflation/cfspeedtest](https://github.com/code-inflation/cfspeedtest) – Unofficial CLI for speed.cloudflare.com
@@ -4503,6 +4514,7 @@
 - [queer/atsi](https://github.com/queer/atsi) – instant rootless Alpine shells
 - [queer/boxxy](https://github.com/queer/boxxy) – boxxy puts bad Linux applications in a box with only their files.
 - [queer/peckish](https://github.com/queer/peckish) – peckish (case-sensitive) is a CLI tool/Rust library for (re)packaging Linux software artifacts.
+- [quodlibetor/s3glob](https://github.com/quodlibetor/s3glob) – A fast aws s3 ls and download cli that supports glob patterns
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) – Find the fastest DNS in your location to improve internet browsing experience.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
@@ -4990,6 +5002,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) – A purely bash web server, no socat, netcat, etc... 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
+- [eddiewebb/circleci-queue](https://github.com/eddiewebb/circleci-queue) – CircleCI orb to block/queue jobs to enforce max concurrency limits
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) – 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
@@ -5433,6 +5446,7 @@
 - [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) – 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
+- [XPoet/picx](https://github.com/XPoet/picx) – 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 - [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) – Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) – Get answers for CLI commands from ChatGPT right from your terminal
 - [actions/attest](https://github.com/actions/attest) – Action for generating attestations for workflow artifacts
@@ -5491,6 +5505,7 @@
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
+- [jianjianai/FList](https://github.com/jianjianai/FList) – 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) – JupyterLab desktop application, based on Electron.
@@ -5520,6 +5535,7 @@
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) – Radare2 and Frida better together.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) – Streaming music player that finds free music for you
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) – Infinitely transfer between every device over pure HTTP with pipes or browsers
+- [openRin/Rin](https://github.com/openRin/Rin) – ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [opengovern/opensecurity](https://github.com/opengovern/opensecurity) – opensecurity: open-source security and compliance. See and secure your cloud, containers, code, networks, deployments, devices. Define your rules, get precise checks, fix gaps fast. Streamlined audits. No fluff.
 - [pacstall/website](https://github.com/pacstall/website) – Website for the Pacstall organization
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) – The No-Hassle CMS for Static Sites Generators
@@ -5539,6 +5555,7 @@
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) – ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [snyk/cli](https://github.com/snyk/cli) – Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
+- [someu/aigotools](https://github.com/someu/aigotools) – AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It allows users to quickly deploy their own directory site online.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.
@@ -5601,6 +5618,7 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) – ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [eweOS/web](https://github.com/eweOS/web) – Website for eweOS
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
+- [imsyy/home](https://github.com/imsyy/home) – 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
 - [oasis-proxy/oasis-proxy](https://github.com/oasis-proxy/oasis-proxy) – A substitute of SwitchOmega for Manifest v3
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
