@@ -1913,6 +1913,7 @@
 - [rsc/unix](https://github.com/rsc/unix) – Old Unix programs running on modern computers.
 - [runZeroInc/sshamble](https://github.com/runZeroInc/sshamble) – SSHamble: Unexpected Exposures in SSH
 - [runabol/tork](https://github.com/runabol/tork) – Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
+- [runmedev/runme](https://github.com/runmedev/runme) – DevOps Notebooks Built with Markdown
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) – Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) – a drop-in replacement for Nmap powered by shodan.io
 - [s0md3v/wl](https://github.com/s0md3v/wl) – convert case style of words
@@ -1984,7 +1985,6 @@
 - [square/certstrap](https://github.com/square/certstrap) – Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
-- [stateful/runme](https://github.com/stateful/runme) – DevOps Notebooks Built with Markdown
 - [sterrasec/apk-medit](https://github.com/sterrasec/apk-medit) – memory search and patch tool on debuggable apk without root & ndk
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
 - [stripe/smokescreen](https://github.com/stripe/smokescreen) – A simple HTTP proxy that fogs over naughty URLs    
@@ -2358,7 +2358,7 @@
 - [uyuni-project/uyuni](https://github.com/uyuni-project/uyuni) – Source code for Uyuni
 - [whwlsfb/JDumpSpider](https://github.com/whwlsfb/JDumpSpider) – HeapDump敏感信息提取工具
 - [xfarrow/locatemydevice](https://github.com/xfarrow/locatemydevice) – Application miming Google's Find My Device through SMS
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) – Access your entire server infrastructure from your local desktop
 - [yohanes/zygisk-reflutter](https://github.com/yohanes/zygisk-reflutter) – Zygisk-based reFlutter 
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) – Advanced player for set-top boxes and tvs running Android OS
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) – Allows you to emulate an Android native library, and an experimental  iOS emulation
