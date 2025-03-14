@@ -226,6 +226,7 @@
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
+- [chaos/diod](https://github.com/chaos/diod) – Distributed I/O Daemon - a 9P file server
 - [checkpoint-restore/criu](https://github.com/checkpoint-restore/criu) – Checkpoint/Restore tool
 - [cheusov/nbase](https://github.com/cheusov/nbase) – NetBSD userlevel portable to other UNIX-like systems
 - [chimera-linux/chimerautils](https://github.com/chimera-linux/chimerautils) – Chimera's core userland, based on FreeBSD
@@ -284,6 +285,8 @@
 - [hackerschoice/ttyinject](https://github.com/hackerschoice/ttyinject) – Get root via TTY / TIOCSTI stuffing
 - [hackerschoice/zapper](https://github.com/hackerschoice/zapper) – Zaps arguments and environment from the process list
 - [haiwen/seafile](https://github.com/haiwen/seafile) – High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [happyfish100/FastCFS](https://github.com/happyfish100/FastCFS) – A high performance distributed file system which can be used as the back-end storage of databases, K8s and VM etc.
+- [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs) – FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) – World's fastest and most advanced password recovery utility
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
@@ -300,6 +303,7 @@
 - [ibara/oed](https://github.com/ibara/oed) – Portable OpenBSD ed(1) editor.
 - [ibara/oksh](https://github.com/ibara/oksh) – Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
+- [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) – Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [iovisor/bcc](https://github.com/iovisor/bcc) – BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [iproute2/iproute2](https://github.com/iproute2/iproute2) – Iproute2 Source Code Mirror - This is a publish-only repository. Please follow README.devel procedure for any changes.
@@ -369,6 +373,7 @@
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [mlcsec/proctools](https://github.com/mlcsec/proctools) – Small toolkit for extracting information and dumping sensitive strings from Windows processes
+- [moosefs/moosefs](https://github.com/moosefs/moosefs) – MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
 - [mrdotx/cinfo](https://github.com/mrdotx/cinfo) – a fast and minimal system information tool for linux-based operating systems
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
 - [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
@@ -388,6 +393,7 @@
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
+- [otatebe/chfs](https://github.com/otatebe/chfs) – CHFS parallel and distributed file system for node-local persistent memory
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [pengutronix/genimage](https://github.com/pengutronix/genimage) – tool to generate multiple filesystem and flash images from a tree
@@ -460,6 +466,7 @@
 - [tio/tio](https://github.com/tio/tio) – A serial device I/O tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
+- [tomcucinotta/distwalk](https://github.com/tomcucinotta/distwalk) – Distributed processing emulation tool
 - [torvalds/linux](https://github.com/torvalds/linux) – Linux kernel source tree
 - [traviscross/mtr](https://github.com/traviscross/mtr) – Official repository for mtr, a network diagnostic tool
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
@@ -594,8 +601,10 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
 - [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
+- [breuner/elbencho](https://github.com/breuner/elbencho) – A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) – Cap'n Proto serialization/RPC system - core tools and C++ library
+- [ceph/ceph](https://github.com/ceph/ceph) – Ceph is a distributed object, block, and file storage platform 
 - [chocolateimage/fontviewer](https://github.com/chocolateimage/fontviewer) – View and install fonts on a Linux system
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃、IP地址跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃及IP地址跳跃工具。A tool of UDP's Port Hopping & IP Address Hopping
@@ -884,6 +893,7 @@
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [89luca89/podman-launcher](https://github.com/89luca89/podman-launcher) – Simple golang wrapper to bundle a podman installation in a single binary
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) – OCI transport plugin for apt-get (i.e., apt-get over ghcr.io)
+- [Akilan1999/p2p-rendering-computation](https://github.com/Akilan1999/p2p-rendering-computation) – p2p network to enable running distributed computation and rendering. 
 - [Alevsk/rmm](https://github.com/Alevsk/rmm) – Recon MindMap (RMM)
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) – 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) – Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
@@ -999,6 +1009,7 @@
 - [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender) – Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.
 - [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) – mTLS-Encrypted Back-Connect SOCKS5 Proxy
 - [RevoltSecurities/Crlfix](https://github.com/RevoltSecurities/Crlfix) – CrlfiX
+- [RichardKnop/machinery](https://github.com/RichardKnop/machinery) – Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [RikunjSindhwad/Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) – Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters! 
 - [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) – Whole Program LLVM: wllvm ported to go
@@ -1029,6 +1040,7 @@
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
 - [VHSgunzo/ssrv](https://github.com/VHSgunzo/ssrv) – Shell server/client
+- [VKCOM/nocc](https://github.com/VKCOM/nocc) – A distributed C++ compiler: like distcc, but faster
 - [Vanilla-OS/Vib](https://github.com/Vanilla-OS/Vib) – Vib (Vanilla Image Builder) is a tool that allow generating Containerfile(s) using a Flatpak-like recipe and syntax.
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -1053,6 +1065,7 @@
 - [activecm/rita-legacy](https://github.com/activecm/rita-legacy) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [adhocore/gronx](https://github.com/adhocore/gronx) – Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 - [admpub/nging](https://github.com/admpub/nging) – Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
+- [adobe/aquarium-fish](https://github.com/adobe/aquarium-fish) – Your best secure distributed heterogeneous dynamic compute resource manager for CI
 - [aerokube/init](https://github.com/aerokube/init) – Correct init process for Docker containers
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) – Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [aidansteele/freedata](https://github.com/aidansteele/freedata) – A silly project for free (maybe) egress from EC2 instances using Tailscale and Session Manager
@@ -1120,6 +1133,7 @@
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) – Flamingo captures credentials sprayed across the network by various IT and security products.
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
+- [autobrr/distribrr](https://github.com/autobrr/distribrr) – An orchestrator for distributed download of torrents
 - [autobrr/mkbrr](https://github.com/autobrr/mkbrr) – mkbrr is a tool to create, modify and inspect torrent files.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) – A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
@@ -1242,6 +1256,7 @@
 - [coder/coder](https://github.com/coder/coder) – Provision remote development environments via Terraform
 - [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via WireGuard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
+- [colonyos/colonies](https://github.com/colonyos/colonies) – Colonies is a distributed framework to implement a meta-operating system.
 - [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
 - [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
@@ -1264,6 +1279,7 @@
 - [cterence/tailout](https://github.com/cterence/tailout) – Spawn an exit node for your tailscale network anywhere
 - [ctrsploit/ctrsploit](https://github.com/ctrsploit/ctrsploit) – A penetration toolkit for container environment
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [cubefs/cubefs](https://github.com/cubefs/cubefs) – cloud-native distributed storage
 - [cuducos/chunk](https://github.com/cuducos/chunk) – 🧱 Chunk is a download manager for slow and unstable servers
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) – Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
@@ -1479,6 +1495,7 @@
 - [handlename/ssmwrap](https://github.com/handlename/ssmwrap) – Execute command with environment variables or/and files loaded from AWS SSM.
 - [harakeishi/whris](https://github.com/harakeishi/whris) – "whris" is Displays management information for IPs associated with the domain.
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
+- [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [hectorm/cetusguard](https://github.com/hectorm/cetusguard) – CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 - [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) – Interactive viewer for JSON logs.
@@ -1681,6 +1698,7 @@
 - [moul/sshportal](https://github.com/moul/sshportal) – :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) – :dog: Command-line DNS Client for Humans. Written in Golang
 - [mr-pmillz/gofireprox](https://github.com/mr-pmillz/gofireprox) – FireProx written in Go
+- [mrheinen/lophiid](https://github.com/mrheinen/lophiid) – A distributed honeypot for monitoring large scale web attacks
 - [mrrootsec/AssetViz](https://github.com/mrrootsec/AssetViz) –  AssetViz simplifies the visualization of subdomains from input files, presenting them as a coherent mind map. Ideal for penetration testers and bug bounty hunters conducting reconnaissance, AssetViz provides intuitive insights into domain structures for informed decision-making. 
 - [mrusme/cexec](https://github.com/mrusme/cexec) – Execute any command, cache its output and get cached output on subsequent execution
 - [mrusme/cloudcash](https://github.com/mrusme/cloudcash) – Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
@@ -1846,6 +1864,7 @@
 - [projectmonke/burp2caido](https://github.com/projectmonke/burp2caido) – A tool to migrate Burpsuite HTTP history to Caido.
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
+- [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
 - [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
 - [qaware/protocurl](https://github.com/qaware/protocurl) – protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -2040,6 +2059,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) – A collection of hacks and one-off scripts
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) – Fetch many paths for many hosts - without killing the hosts
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) – Pull out bits of URLs provided on stdin
+- [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) – Cross-platform emulator collection distributed with Docker images.
 - [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite) – gcloud-lite is a distribution of the google cloud platform (GCP) CLI that strips unnecessary dependencies to reduce the size by > 75%, with significant cost & time savings.
 - [traefik/traefik](https://github.com/traefik/traefik) – The Cloud Native Application Proxy
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) – lakeFS - Data version control for your data lake | Git for data
@@ -2412,7 +2432,6 @@
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
-- [caido-community/workflows](https://github.com/caido-community/workflows) – 🛠️ Workflows created by the community
 - [ccbikai/ip-api](https://github.com/ccbikai/ip-api) – 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) –  A docker registry proxy run on cloudflare worker.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) – ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
@@ -2445,6 +2464,7 @@
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
+- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) – A simple, distributed task scheduler and runner with a web based UI.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) – Read e-books in style
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
@@ -2610,6 +2630,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) – Automate webpages at scale, scrape web data completely and accurately with high performance, distributed AI-RPA.
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon  
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -2751,6 +2772,7 @@
 - [schizofox/schizofox](https://github.com/schizofox/schizofox) – Hardened Firefox flake for the delusional and the schizophrenics.
 - [tadfisher/android-nixpkgs](https://github.com/tadfisher/android-nixpkgs) – Nix-packaged Android SDK
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) – A (more or less) one page introduction to Nix, the language.
+- [tfc/nixos-auto-installer](https://github.com/tfc/nixos-auto-installer) – Build recipe for an unattended, offline capable USB-bootable NixOS installer to bootstrap random computers
 - [tweag/jupyenv](https://github.com/tweag/jupyenv) – Declarative and reproducible Jupyter environments - powered by Nix
 - [vpsfreecz/vpsfree-cz-configuration](https://github.com/vpsfreecz/vpsfree-cz-configuration) – vpsFree.cz cluster configuration
 
@@ -3227,11 +3249,13 @@
 - [Anof-cyber/ParaForge](https://github.com/Anof-cyber/ParaForge) – A BurpSuite extension to create a custom word-list of endpoint and parameters for enumeration and fuzzing
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) – 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) – Easily manage Linux Chroot(s) and Containers with Atoms.
+- [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry) – ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 - [B34MR/scanman](https://github.com/B34MR/scanman) – ScanMan is the amalgamation of Masscan, Metasploit Framework (MSF) and Nmap Scripting Engine (NSE).
 - [Backblaze/B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) – The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) – Binary instrumentation framework based on FRIDA
 - [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
+- [Citi/scaler](https://github.com/Citi/scaler) – Efficient, lightweight and reliable distributed computation engine
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
@@ -3360,6 +3384,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) – Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [anvilsecure/ulexecve](https://github.com/anvilsecure/ulexecve) – ulexecve is a userland execve() implementation which helps you execute arbitrary ELF binaries on Linux from userland without the binaries ever having to touch storage. This is useful for red-teaming and anti-forensics purposes.
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) – Hunt for security weaknesses in Kubernetes clusters
+- [arch4edu/cactus](https://github.com/arch4edu/cactus) – Distributed packaging system for Arch Linux with Github Actions
 - [archlinux/archweb](https://github.com/archlinux/archweb) – Arch Linux website code
 - [arthaud/git-dumper](https://github.com/arthaud/git-dumper) – A tool to dump a git repository from a website
 - [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) – 🔪Swiss-army knife for Android testing and development 🔪 ⛺
@@ -3404,6 +3429,7 @@
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) – Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
+- [celery/celery](https://github.com/celery/celery) – Distributed Task Queue (development branch)
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
@@ -3502,6 +3528,7 @@
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) – An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) – The official Python client for the Huggingface Hub.
+- [hypershell/hypershell](https://github.com/hypershell/hypershell) – Cross-platform, high-throughput computing utility for processing shell commands over a distributed, asynchronous queue.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) – A command-line tool to download photos from iCloud
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) – Bubblewrap based sandboxing for desktop applications
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
@@ -3662,11 +3689,13 @@
 - [pypa/pipx](https://github.com/pypa/pipx) – Install and Run Python Applications in Isolated Environments
 - [qtc-de/webshell-cli](https://github.com/qtc-de/webshell-cli) – A simple command line interface for webshells
 - [quarkslab/AERoot](https://github.com/quarkslab/AERoot) – AERoot is a command line tool that allows you to give root privileges on-the-fly to any process running on the Android emulator with Google Play flavors AVDs.
+- [quay/quay](https://github.com/quay/quay) – Build, Store, and Distribute your Applications and Containers
 - [r0oth3x49/ghauri](https://github.com/r0oth3x49/ghauri) – An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 - [radude/rentry](https://github.com/radude/rentry) – Markdown pastebin from command line
 - [rahiel/telegram-send](https://github.com/rahiel/telegram-send) – Send messages and files over Telegram from the command-line.
 - [ranger/ranger](https://github.com/ranger/ranger) – A VIM-inspired filemanager for the console
 - [rarecoil/unwebpack-sourcemap](https://github.com/rarecoil/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps.
+- [ray-project/ray](https://github.com/ray-project/ray) – Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) – OFRAK: unpack, modify, and repack binaries.
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) – Top disclosed reports from HackerOne
 - [redhuntlabs/KubeStalk](https://github.com/redhuntlabs/KubeStalk) – KubeStalk discovers Kubernetes and related infrastructure based attack surface from a black-box perspective.
@@ -3746,6 +3775,7 @@
 - [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin) – An XSS exploitation command-line interface and payload generator.
 - [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) – A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation.
 - [takito1812/web-hacking-playground](https://github.com/takito1812/web-hacking-playground) – Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
+- [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) – Distributed task queue with full async support
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
 - [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [teaxyz/chai](https://github.com/teaxyz/chai) – tea’s package dataset
@@ -4913,6 +4943,7 @@
 - [ading2210/shimboot](https://github.com/ading2210/shimboot) – Boot a desktop Linux distribution from a Chrome OS RMA shim.
 - [ading2210/shimboot-binaries](https://github.com/ading2210/shimboot-binaries) – Scripts for building statically compiled binaries for use in the Shimboot bootloader.
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
+- [adolfintel/TDF](https://github.com/adolfintel/TDF) – Linux Gaming without Steam. Install, configure, run and distribute games inside sandboxed Wine environments
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - [aguslr/docker-qemu-appimage](https://github.com/aguslr/docker-qemu-appimage) – Configure and compile QEMU into an AppImage
@@ -5389,6 +5420,7 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
+- [orbitscanner/orbit](https://github.com/orbitscanner/orbit) – Orbit Scanning Software
 
 <div id="swift"></div>
 
@@ -5467,6 +5499,7 @@
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+- [caido-community/workflows](https://github.com/caido-community/workflows) – 🛠️ Workflows created by the community
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) – The official website's repository for the Snap store
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
@@ -5484,6 +5517,7 @@
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
 - [dvlden/ps-awake](https://github.com/dvlden/ps-awake) – Keep PlanetScale database awake on free tier...
+- [dvtate/XSSFaaS](https://github.com/dvtate/XSSFaaS) – Distributed, serverless cloud powered by browser tabs
 - [electron/asar](https://github.com/electron/asar) – Simple extensive tar-like archive format with indexing
 - [emmercm/igir](https://github.com/emmercm/igir) – 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
