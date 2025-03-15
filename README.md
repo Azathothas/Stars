@@ -688,6 +688,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) – Log file navigator
 - [upx/upx](https://github.com/upx/upx) – UPX - the Ultimate Packer for eXecutables
 - [variar/klogg](https://github.com/variar/klogg) – Really fast log explorer based on glogg project
+- [varnish/tinykvm](https://github.com/varnish/tinykvm) – VMM for native-performance sandboxing
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) – A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) – A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
@@ -4092,6 +4093,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atanunq/viuer](https://github.com/atanunq/viuer) – Rust library for displaying images in the terminal.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
+- [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) – Distributed systems runtime daemon written in Rust.
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
 - [aws/aperf](https://github.com/aws/aperf) – A CLI tool to gather performance data and visualize using HTML graphs. Data from multiple collection runs can be viewed side-by-side, allowing for easy comparison of the same workload across different system configurations.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) – AWS SDK for the Rust Programming Language
