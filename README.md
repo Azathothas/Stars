@@ -525,6 +525,7 @@
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) – Remove large amounts of unwanted applications quickly.
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) – PowerShell for every system!
+- [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) – A curated list of (not only) German piracy sites.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) – the subtitle editor :)
 - [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
@@ -1232,6 +1233,7 @@
 - [charmbracelet/git-lfs-transfer](https://github.com/charmbracelet/git-lfs-transfer) – Server-side implementation of the Git LFS pure-SSH protocol
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) – Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) – A tool for glamorous shell scripts 🎀
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) – An SSH key pair generator 🗝️
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) – Backup and restore Ed25519 SSH keys with seed words 🫠
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) – Send emails from your terminal 📬
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) – Human-readable ANSI sequences 🪩
@@ -3509,6 +3511,7 @@
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [flotwig/TLDR-2](https://github.com/flotwig/TLDR-2) – TLDR 2 (TLD Records 2) is a continually updated DNS archive of zone transfer attempts against all existing TLD nameservers as well as the root servers. 
+- [flygon2018/MobaXterm-keygen](https://github.com/flygon2018/MobaXterm-keygen) – A keygen for MobaXterm
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [freelabz/secator](https://github.com/freelabz/secator) – secator - the pentester's swiss knife
