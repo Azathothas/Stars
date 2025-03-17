@@ -130,11 +130,11 @@
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) – An open source tool to activate and reset trial of Internet Download Manager
 - [blibdoolpoolp/Cloudflared-RDP-Tutorial-Free](https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free) – This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) & SSH connections using Cloudflare's Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare's tunneling technology to create a safe, encrypted connection path.
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
+- [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [mmgordon82/BurpSuiteInstaller](https://github.com/mmgordon82/BurpSuiteInstaller) – Install and Crack your Burp Suite Professional Latest (Updated Weekly).
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
-- [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 
 <div id="bitbake"></div>
 
@@ -513,6 +513,8 @@
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) – One Remote Access Manager to Rule Them All
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) – A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [8LWXpg/PowerToysRun-GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) – PowerToys Run Plugin for searching and opening GitHub repositories
+- [8LWXpg/PowerToysRun-ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) – PowerToys Run Plugin for killing processes
+- [8LWXpg/PowerToysRun-SSH](https://github.com/8LWXpg/PowerToysRun-SSH) – PowerToys Run plugin for connecting to ssh clients
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
 - [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
@@ -573,7 +575,7 @@
 - [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET etc
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
-- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
+- [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) – Re-Connectable secure remote shell
 - [NVISOsecurity/blogposts](https://github.com/NVISOsecurity/blogposts) – A repo to house files for our blogposts on blog.nviso.eu
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
@@ -599,6 +601,7 @@
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) – Amnezia VPN Client (Desktop+Mobile)
 - [aria2/aria2](https://github.com/aria2/aria2) – aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [aristocratos/btop](https://github.com/aristocratos/btop) – A monitor of resources
+- [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) – Principle of WinRAR key generation.
 - [bolucat/Archive](https://github.com/bolucat/Archive) – Archive Network Tools
 - [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) – High-level tracing language for Linux
 - [breuner/elbencho](https://github.com/breuner/elbencho) – A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
@@ -606,6 +609,7 @@
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) – Cap'n Proto serialization/RPC system - core tools and C++ library
 - [ceph/ceph](https://github.com/ceph/ceph) – Ceph is a distributed object, block, and file storage platform 
 - [chocolateimage/fontviewer](https://github.com/chocolateimage/fontviewer) – View and install fonts on a Linux system
+- [chrisant996/clink](https://github.com/chrisant996/clink) – Bash's powerful command line editing in cmd.exe
 - [cnbatch/kcptube](https://github.com/cnbatch/kcptube) – 同时支持传送TCP与UDP的KCP通道，附带端口跳跃、IP地址跳跃的功能，以及FEC，自带中继服务器支持
 - [cnbatch/udphop](https://github.com/cnbatch/udphop) – 专用于UDP的端口跳跃及IP地址跳跃工具。A tool of UDP's Port Hopping & IP Address Hopping
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) – 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
@@ -638,6 +642,7 @@
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
+- [lanthora/candy](https://github.com/lanthora/candy) – A reliable, low-latency, and anti-censorship virtual private network
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -758,6 +763,7 @@
 
 ## Dart
 
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) – Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
@@ -938,6 +944,7 @@
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) – Monitor linux processes without root permissions
 - [DreyAnd/WhoDupMe](https://github.com/DreyAnd/WhoDupMe)
 - [EatonChips/yalis](https://github.com/EatonChips/yalis) – Yet Another LinkedIn Scraper
+- [Ed1s0nZ/PrivHunterAI](https://github.com/Ed1s0nZ/PrivHunterAI) – 一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具。其核心检测功能依托相关 AI 引擎的开放 API 构建，支持 HTTPS 协议的数据传输与交互。
 - [Ehco1996/ehco](https://github.com/Ehco1996/ehco) – ehco is a network ʚrelayɞ tool and a typo :)
 - [Elara6331/distrohop](https://github.com/Elara6331/distrohop) – DistroHop is a tool that helps you compare Linux packages across different distributions 
 - [Escape-Technologies/goctopus](https://github.com/Escape-Technologies/goctopus) – Blazing fast GraphQL discovery & fingerprinting toolbox.
@@ -987,6 +994,7 @@
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
 - [Macmod/godap](https://github.com/Macmod/godap) – A complete terminal user interface (TUI) for LDAP.
+- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
 - [MantisSTS/GoCloud](https://github.com/MantisSTS/GoCloud) – Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare
 - [ManuelBerrueta/urlyzer](https://github.com/ManuelBerrueta/urlyzer) – urlyzer is a URL parsing analysis tool.
 - [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) – Effortlessly generate chmod commands
@@ -1396,6 +1404,7 @@
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) – firectl is a command-line tool to run Firecracker microVMs
 - [firefart/stunner](https://github.com/firefart/stunner) – Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
+- [fmnx/cftun](https://github.com/fmnx/cftun) – Third-party Cloudflare Tunnel client (formerly Argo Tunnel)
 - [folbricht/desync](https://github.com/folbricht/desync) – Alternative casync implementation
 - [forestnode-io/oneshot](https://github.com/forestnode-io/oneshot) – A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [fortio/dnsping](https://github.com/fortio/dnsping) – DNS Ping: to check packet loss and latency issues with DNS servers
@@ -1593,6 +1602,7 @@
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) – PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
+- [kingparks/jetbra-activate](https://github.com/kingparks/jetbra-activate) – idea激活，2025最新IDEA激活方式，超级稳定
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [knadh/otpgateway](https://github.com/knadh/otpgateway) – Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.)
@@ -1886,6 +1896,7 @@
 - [redhuntlabs/HTTPLoot](https://github.com/redhuntlabs/HTTPLoot) – An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites.
 - [referefref/honeydet](https://github.com/referefref/honeydet) – Signature based honeypot detector tool written in Golang
 - [regclient/regclient](https://github.com/regclient/regclient) – Docker and OCI Registry Client in Go and tooling using those libraries.
+- [registrobr/rdap-client](https://github.com/registrobr/rdap-client) – RDAP command line
 - [regmicmahesh/duckchatstallmaninspired](https://github.com/regmicmahesh/duckchatstallmaninspired)
 - [regmicmahesh/infrastructure-backend-pulumi](https://github.com/regmicmahesh/infrastructure-backend-pulumi) – IaC Reference Implementation with Layer Architecture in Pulumi (aws-go)
 - [relastle/pmy](https://github.com/relastle/pmy) – :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
@@ -2408,6 +2419,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
 - [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) – Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
+- [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) – 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，提供API
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
@@ -2525,9 +2537,11 @@
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
 - [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
+- [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) – 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
+- [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
 
@@ -2608,6 +2622,7 @@
 - [chenxiaolong/RSAF](https://github.com/chenxiaolong/RSAF) – An Android Storage Access Framework document provider for rclone
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) – Android permission explorer 🧑‍✈️
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) – Full Featured Video/Audio Downloader for Android using yt-dlp
+- [doyensec/inql](https://github.com/doyensec/inql) – InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) – Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
@@ -2816,6 +2831,8 @@
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [AppImageMan/ail](https://github.com/AppImageMan/ail) – Version controlled mirror of AppImage files.
+- [Archmage83/Android_apk](https://github.com/Archmage83/Android_apk) – 手机安卓手机端电影软件，希望大家一起维护
+- [Archmage83/tvapk](https://github.com/Archmage83/tvapk) – 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 - [Aryanstha/Aryanstha](https://github.com/Aryanstha/Aryanstha)
 - [Azathothas/Stars](https://github.com/Azathothas/Stars) – Automated Cataloguing of Starred Repos because Github Search Sucks
 - [Azathothas/Toolpacks](https://github.com/Azathothas/Toolpacks) – Moved to:: https://github.com/pkgforge/soarpkgs
@@ -3059,7 +3076,7 @@
 - [pkgforge-security/Trackers](https://github.com/pkgforge-security/Trackers) – Hourly Updated (Merged & Filtered) List of Torrent Trackers [Maintainer=@Azathothas]
 - [pkgforge-security/Wordlists](https://github.com/pkgforge-security/Wordlists) – [Custom || Automated] Curation & Collection of BugBounty Wordlists
 - [pkgforge/docs](https://github.com/pkgforge/docs) – 📗 Centralized Docs for Everything PkgForge :: https://docs.pkgforge.dev
-- [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager
+- [pkgforge/soar-docs](https://github.com/pkgforge/soar-docs) – Documentation for soar package manager [Maintainer=@QaidVoid]
 - [platformbuilds/Tor-IP-Addresses](https://github.com/platformbuilds/Tor-IP-Addresses) – Hourly checked and updated list of IP Addresses of Tor and Tor Exit Nodes
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
@@ -3430,6 +3447,7 @@
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [celery/celery](https://github.com/celery/celery) – Distributed Task Queue (development branch)
+- [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) – auto sign cursor
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
@@ -3464,7 +3482,6 @@
 - [dolevf/graphql-cop](https://github.com/dolevf/graphql-cop) – Security Auditor Utility for GraphQL APIs
 - [dolevf/graphw00f](https://github.com/dolevf/graphw00f) – graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
 - [doyensec/GQLSpection](https://github.com/doyensec/GQLSpection) – GQLSpection - parses GraphQL introspection schema and generates possible queries
-- [doyensec/inql](https://github.com/doyensec/inql) – InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) – WebSocket REPL for pentesters
 - [dwisiswant0/secpat2gf](https://github.com/dwisiswant0/secpat2gf) – convert secret patterns to gf compatible.
 - [dynobo/normcap](https://github.com/dynobo/normcap) – OCR powered screen-capture tool to capture information instead of images
@@ -3825,6 +3842,7 @@
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
+- [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
 
 <div id="qml"></div>
 
@@ -3901,6 +3919,7 @@
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
+- [8LWXpg/ptr](https://github.com/8LWXpg/ptr) – PowerToys Run plugin manager
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
 - [AerynOS/os-tools](https://github.com/AerynOS/os-tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
@@ -3932,6 +3951,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) – A Graphical Interface for Distrobox
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) – A command-line tool for downloading APK files from various sources
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) – A simple, decentralized mesh VPN with WireGuard support.
 - [EdJoPaTo/ip-changed-telegram-message](https://github.com/EdJoPaTo/ip-changed-telegram-message) – Send a Telegram message when the public IP address changes
 - [EdJoPaTo/mqttui](https://github.com/EdJoPaTo/mqttui) – Subscribe to a MQTT Topic or publish something quickly from the terminal
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
@@ -3983,6 +4003,8 @@
 - [NOBLES5E/cproxy](https://github.com/NOBLES5E/cproxy) – Easy per application transparent proxy built on cgroup.
 - [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon)
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) – :stars: Manage your shell commands.
+- [OkuBrowser/oku](https://github.com/OkuBrowser/oku) – Browse & express yourself
+- [OkuBrowser/oku-fs](https://github.com/OkuBrowser/oku-fs) – A distributed file system for use with the Oku browser.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) – Hurl, run and test HTTP requests with plain text.
 - [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) – HTTP client/libcurl TUI front end in Rust, with request + key storage
 - [PaddiM8/kalker](https://github.com/PaddiM8/kalker) – Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals
@@ -4227,6 +4249,7 @@
 - [envio-cli/envio](https://github.com/envio-cli/envio) – envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) – Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available 
+- [erg-lang/erg](https://github.com/erg-lang/erg) – A statically typed language compatible with Python
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) – Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [erikh/ztui](https://github.com/erikh/ztui) – A terminal UI for ZeroTier
 - [espanso/espanso](https://github.com/espanso/espanso) – Cross-platform Text Expander written in Rust
@@ -4265,6 +4288,7 @@
 - [gbrls/kurl](https://github.com/gbrls/kurl) – HTTP Requests for security researchers
 - [gbrls/tls-leak](https://github.com/gbrls/tls-leak) – Domain discovery via TLS connections
 - [getgrit/gritql](https://github.com/getgrit/gritql) – GritQL is a query language for searching, linting, and modifying code.
+- [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder) – Generate impressive-looking terminal output to look busy when stakeholders walk by
 - [giacomopiccinini/rush](https://github.com/giacomopiccinini/rush) – Swiss-army knife for media inspection and manipulation
 - [gimli-rs/object](https://github.com/gimli-rs/object) – A unified interface for reading and writing object file formats
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) – HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
@@ -4297,6 +4321,7 @@
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) – Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [i5-650/rusty-exif](https://github.com/i5-650/rusty-exif) – A simple sketchy rust program to export exif into json file
 - [iamsauravsharma/cargo-trim](https://github.com/iamsauravsharma/cargo-trim) – Binary application to clean up .cargo/registry & .cargo/git cache
+- [icann/icann-rdap](https://github.com/icann/icann-rdap) – ICANN implementation of the Registry Data Access Protocol (RDAP)
 - [iced-rs/iced](https://github.com/iced-rs/iced) – A cross-platform GUI library for Rust, inspired by Elm
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) – A user-friendly, lightweight TUI for disk imaging
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) – A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
@@ -4438,6 +4463,8 @@
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) – Unix pipes between devices
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) – peer-2-peer that just works
+- [n0-computer/iroh-doctor](https://github.com/n0-computer/iroh-doctor) – Your tool for testing iroh connectivity
+- [n0-computer/net-tools](https://github.com/n0-computer/net-tools) – Cross platform, networking utilties in Rust
 - [n0-computer/sendme](https://github.com/n0-computer/sendme) – A tool to send files and directories, based on iroh
 - [n0-computer/swarmie](https://github.com/n0-computer/swarmie) – Proof of concept extension of sendme to use global content discovery
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) – A nfo file generator for your anime. Source from Bangumi.
@@ -4754,6 +4781,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [zer0yu/anew](https://github.com/zer0yu/anew) – A tool for adding new lines to files, skipping duplicates and written in Rust!
+- [zerotier/zeronsd](https://github.com/zerotier/zeronsd) – A DNS server for ZeroTier users
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) – Multi-tenant Nix Binary Cache
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) – A simple, stateless NixOS deployment tool
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
@@ -4770,7 +4798,6 @@
 - [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – Largest AppImages collection!
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) – A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [rs-loves-bugs/xsshunter](https://github.com/rs-loves-bugs/xsshunter)
-- [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
 
 <div id="scala"></div>
 
@@ -4825,6 +4852,7 @@
 - [DanielGibson/DanielGibson.github.io](https://github.com/DanielGibson/DanielGibson.github.io) – My blog, I guess
 - [DannyBen/rush](https://github.com/DannyBen/rush) – Personal Package Manager - run your GitHub hosted scripts, locally.
 - [DannyBen/rush-repo](https://github.com/DannyBen/rush-repo) – My package repository for the Rush package manager
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) – 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) – Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) – Guide by Example
 - [Elara6331/riscv-docker](https://github.com/Elara6331/riscv-docker) – Docker containers with support for RISC-V
@@ -5394,6 +5422,7 @@
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) – 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 - [z-shell/zi](https://github.com/z-shell/zi) – ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) – Feature-rich syntax highlighting for ZSH
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
