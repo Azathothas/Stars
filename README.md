@@ -1309,7 +1309,7 @@
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) – It's like curl -v, with colours. 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [deepfence/YaraHunter](https://github.com/deepfence/YaraHunter) – 🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
