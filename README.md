@@ -719,6 +719,7 @@
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) – Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
+- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
 - [spack/packages.spack.io](https://github.com/spack/packages.spack.io) – ⭐️ Simple package browsing portal. ⭐️
@@ -5233,7 +5234,6 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) – Script to root AVDs running with QEMU Emulator from Android Studio
 - [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm) – RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
-- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [nikitastupin/orgs-data](https://github.com/nikitastupin/orgs-data) – Mapping from bug bounty and vulnerability disclosure programs to respective GitHub organizations
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
