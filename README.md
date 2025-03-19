@@ -291,7 +291,7 @@
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) – World's fastest and most advanced password recovery utility
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
-- [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full cone NAT
+- [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full-cone NAT
 - [henrypp/errorlookup](https://github.com/henrypp/errorlookup) – Simple tool for retrieving information about Windows errors codes.
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) – Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) – Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
@@ -634,6 +634,7 @@
 - [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) – Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) – A tool for recompiling Xbox 360 games to native executables.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) – Clipboard manager with advanced features
+- [huggingface/dedupe_estimator](https://github.com/huggingface/dedupe_estimator) – Chunk Dedupe Estimation
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
@@ -1013,6 +1014,7 @@
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – A configurable bill-of-materials (CBOM) system for declaratively composing and upgrading/downgrading your hardware-specific embedded Linux operating systems
+- [PremoWeb/chadburn](https://github.com/PremoWeb/chadburn) – Chadburn is a scheduler alternative to cron, built on Go and designed for Docker environments.
 - [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion) – Linux post exploitation tool for info gathering and exfiltration 🐧📡💀
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
@@ -2539,6 +2541,7 @@
 - [wdahlenburg/Hounds](https://github.com/wdahlenburg/Hounds) – Chromium based web crawler that identifies in-scope urls
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
+- [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) – A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
 - [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) – 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
@@ -2762,7 +2765,7 @@
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
-- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ Home-Manager configuration ala Nix flakes
 - [flatironinstitute/nixpack](https://github.com/flatironinstitute/nixpack) – nix+spack = nixpack (spanix?)
@@ -3913,7 +3916,7 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x00snape/geolocate](https://github.com/0x00snape/geolocate) – A simple side project to geolocate the domain.
 - [0x00snape/pdump](https://github.com/0x00snape/pdump) – A process memory dumper written in rust.
-- [0x00snape/pinject](https://github.com/0x00snape/pinject) – Process injection for Linux. 
+- [0x00snape/pinject](https://github.com/0x00snape/pinject) – Seamless process injection for Linux. 
 - [0x00snape/sneakfork](https://github.com/0x00snape/sneakfork) – Seeks to hide the presence of its process in Linux.
 - [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
