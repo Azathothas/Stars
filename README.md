@@ -1160,7 +1160,7 @@
 - [aziis98/mup](https://github.com/aziis98/mup) – A micro file uploader written in Go to easily share files over LAN
 - [baby9/wgcf-socks-docker](https://github.com/baby9/wgcf-socks-docker) – Cloudflare WARP (WireGaurd protocol) run in containerized environment.
 - [badsectorlabs/ludus](https://github.com/badsectorlabs/ludus) – [GITLAB MIRROR] Ludus is a system to build easy to use cyber environments for testing and development.
-- [bakito/toolbox](https://github.com/bakito/toolbox) – 🧰 a small toolbox helping to fetch tools
+- [bakito/toolbox](https://github.com/bakito/toolbox) – 🧰 A little toolbox to help fetching tools
 - [balibuild/bali](https://github.com/balibuild/bali) – Bali -  Minimalist Golang build and packaging tool
 - [barelyhuman/goblin](https://github.com/barelyhuman/goblin) – Golang binaries compiled on-demand for your system
 - [barnybug/cli53](https://github.com/barnybug/cli53) – Command line tool for Amazon Route 53
@@ -1994,6 +1994,7 @@
 - [sigstore/cosign](https://github.com/sigstore/cosign) – Code signing and transparency for containers and binaries
 - [sigstore/rekor](https://github.com/sigstore/rekor) – Software Supply Chain Transparency Log
 - [simonfxr/nix-download](https://github.com/simonfxr/nix-download) – A fully self contained tool to fetch nix store paths from binary caches
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) – Git blame for file trees
 - [six-ddc/plow](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [six2dez/ipcdn](https://github.com/six2dez/ipcdn) – Check which CDN providers an IP list belongs to
 - [sj14/dbbench](https://github.com/sj14/dbbench) – 🏋️ dbbench is a simple database benchmarking tool which supports several databases and own scripts
@@ -2471,7 +2472,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) – An installer and wrapper for Chromedriver.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [gnmyt/myspeed](https://github.com/gnmyt/myspeed) – A speed test analysis software that shows your internet speed for up to 30 days
+- [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) – A speed test analysis software that shows your internet speed for up to 30 days
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) – Microsoft Software Download Listing
 - [holesail/holesail](https://github.com/holesail/holesail) – Holesail is the world's first truly peer-to-peer proxy for TCP and UDP ports. No port forwarding, servers or configuration required.
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
