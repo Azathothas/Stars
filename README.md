@@ -1210,6 +1210,7 @@
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [c3l3si4n/crtdumper](https://github.com/c3l3si4n/crtdumper) – crtdumper is a Go application designed to interact directly with Certificate Transparency (CT) logs servers  and extract domain names from certificates. Perfect for security researchers and developers interested in massively extracting domain names from CT logs.
 - [c3l3si4n/godeclutter](https://github.com/c3l3si4n/godeclutter) – Declutters URLs in a fast and flexible way, for improving input for web hacking automations such as crawlers and vulnerability scans. 
+- [c3l3si4n/pugdns](https://github.com/c3l3si4n/pugdns) – An experimental high-performance DNS query bruteforce tool built with AF_XDP for extremely fast and accurate bulk DNS lookups.
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) – A better way of querying certificate transparency logs
 - [c3l3si4n/revwhois](https://github.com/c3l3si4n/revwhois) – CLI tool for discovering related base domains using WhoisXMLAPI's reverse Whois endpoints
 - [c3l3si4n/subsift](https://github.com/c3l3si4n/subsift) – experimental wildcard subdomain filtering prototype
@@ -1474,7 +1475,7 @@
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [google/starlark-go](https://github.com/google/starlark-go) – Starlark in Go: the Starlark configuration language, implemented in Go
-- [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(700+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+- [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(800+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Release engineering, simplified
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
@@ -2434,6 +2435,7 @@
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
 - [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) – Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) – 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，提供API
+- [RuoShui-0014/js-env](https://github.com/RuoShui-0014/js-env) – 基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法。
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
@@ -3228,7 +3230,7 @@
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
-- [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – A PowerShell tool that takes strong inspiration from CrackMapExec / NetExec
+- [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – Dominate Active Directory with PowerShell. Inspired by CrackMapExec / NetExec.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
@@ -3859,6 +3861,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser)
+- [zappa/Zappa](https://github.com/zappa/Zappa) – Serverless Python 
 - [zer1t0/awsenum](https://github.com/zer1t0/awsenum) – Enumerate AWS permissions and resources.
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
@@ -3917,6 +3920,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The OS for your personal finances
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) – Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
+- [tamatebako/tebako](https://github.com/tamatebako/tebako) – Tebako: an executable packager (for Ruby programs)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
@@ -3936,7 +3940,7 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) – A blazing-fast Python HTTP Client with TLS fingerprint
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – A blazing-fast Rust HTTP Client with TLS fingerprint
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) – An ergonomic Rust HTTP Client with TLS fingerprint
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
@@ -4696,7 +4700,6 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [spirali/twinsong](https://github.com/spirali/twinsong) – A Reimagined Alternative to Jupyter Notebooks
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -5380,6 +5383,7 @@
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) – Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) – GitHub Action for building and uploading Rust binary to GitHub Releases.
+- [tamatebako/tebako-ci-containers](https://github.com/tamatebako/tebako-ci-containers) – Docker containers with preinstalled Tebako packaging environment
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
 - [tclahr/uac](https://github.com/tclahr/uac) – UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
@@ -5531,6 +5535,7 @@
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) – Vesktop is a custom Discord App aiming to give you better performance and improve linux support
+- [ViggoZ/hackernews-cn](https://github.com/ViggoZ/hackernews-cn) – HackerNews 中文版，自动翻译 HackerNews 热门内容，让您轻松获取科技圈最新动态。包含热门文章、最新资讯、问答讨论、项目展示等多种内容。
 - [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) – 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
 - [WatchItDev/watchit-app](https://github.com/WatchItDev/watchit-app) – Open movies everywhere
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) – A Toolbox for Home Local Networks
@@ -5560,6 +5565,7 @@
 - [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) – The official website's repository for the Snap store
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) – A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
@@ -5647,6 +5653,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) – 📦 :octocat: GitHub Action for creating GitHub Releases
 - [someu/aigotools](https://github.com/someu/aigotools) – AigoTools can help users quickly create and manage website directory, with built-in site auto-crawling features, and also provides internationalization, SEO, image storage, and other functions. It allows users to quickly deploy their own directory site online.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) – Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spirali/twinsong](https://github.com/spirali/twinsong) – A Reimagined Alternative to Jupyter Notebooks
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) – A simple and lightweight SQL client desktop with cross database and platform support.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
