@@ -330,6 +330,7 @@
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) – A better and stronger spiritual successor to BZip2.
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) – Jessibuca是一款开源的纯H5直播流播放器
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [leahneukirchen/outils](https://github.com/leahneukirchen/outils) – port of some non-standard OpenBSD tools to Linux
 - [leleliu008/C-examples](https://github.com/leleliu008/C-examples) – C语言学习项目
@@ -700,6 +701,7 @@
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) – A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) – A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) – A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) – Webcamoid is a full featured and multiplatform webcam suite.
 - [wevsty/RDPBlocker](https://github.com/wevsty/RDPBlocker) – Block unauthorized users from login in via RDP service.
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
@@ -796,6 +798,7 @@
 - [niuhuan/pikapika](https://github.com/niuhuan/pikapika) – A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 - [venera-app/venera](https://github.com/venera-app/venera) – A comic app
+- [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) – Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
 <div id="diff"></div>
 
@@ -999,7 +1002,6 @@
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
 - [Macmod/goblob](https://github.com/Macmod/goblob) – A fast enumeration tool for publicly exposed Azure Storage blobs.
 - [Macmod/godap](https://github.com/Macmod/godap) – A complete terminal user interface (TUI) for LDAP.
-- [Malwarize/webpalm](https://github.com/Malwarize/webpalm) – 🕸️  Crawl in the web network
 - [MantisSTS/GoCloud](https://github.com/MantisSTS/GoCloud) – Checks whether a domain is hosted on a cloud service such as AWS, Azure or CloudFlare
 - [ManuelBerrueta/urlyzer](https://github.com/ManuelBerrueta/urlyzer) – urlyzer is a URL parsing analysis tool.
 - [Mayowa-Ojo/chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) – Effortlessly generate chmod commands
@@ -1065,6 +1067,7 @@
 - [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) – Application for runner lifecycle management
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) – Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [X-Cotang/gowitness-plus](https://github.com/X-Cotang/gowitness-plus) – 🔍 gowitness+ Add some new features
+- [XORbit01/webpalm](https://github.com/XORbit01/webpalm) – 🕸️  Crawl in the web network
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
 - [YouChenJun/CheckCdn](https://github.com/YouChenJun/CheckCdn) – 精确检查IP是否为CDN节点的工具
@@ -5418,6 +5421,7 @@
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
+- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) – Virtual DSM in a Docker container.
 - [vegardit/await.sh](https://github.com/vegardit/await.sh) – Self-contained POSIX shell scripts to await the availability of resources and services. Can be used as a workaround for Docker Swarm's missing depends_on support.
 - [vegardit/fast-apt-mirror.sh](https://github.com/vegardit/fast-apt-mirror.sh) – fast-apt-mirror.sh is a self-contained Bash script that helps you to easily and quickly determine and configure a fast APT repository mirror on Debian, Ubuntu and Pop!_OS systems.
 - [victor141516/httpcanary-magisk](https://github.com/victor141516/httpcanary-magisk)
@@ -5706,6 +5710,7 @@
 - [eweOS/web](https://github.com/eweOS/web) – Website for eweOS
 - [iiop123/dingding](https://github.com/iiop123/dingding) – 丁丁快传-基于cloudflare workers的文件传输工具
 - [imsyy/home](https://github.com/imsyy/home) – 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) – The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 - [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) – Web Interface for Cloudflare R2
 - [oasis-proxy/oasis-proxy](https://github.com/oasis-proxy/oasis-proxy) – A substitute of SwitchOmega for Manifest v3
 - [supaflare/supaflare](https://github.com/supaflare/supaflare) – URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
