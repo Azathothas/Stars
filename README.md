@@ -3233,7 +3233,7 @@
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – Dominate Active Directory with PowerShell. Inspired by CrackMapExec / NetExec.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
-- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
+- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-11 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10/11+ UWP/Metro/Modern/Windows Store apps and provisioned apps.
 - [catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent) – 🧲 Soothing pastel theme for qBittorrent 
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
 - [dahvidschloss/PILOT](https://github.com/dahvidschloss/PILOT) – Ping-based Information Lookup and Outbound Transfer
@@ -5348,7 +5348,7 @@
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
-- [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Sbnb Linux is a revolutionary minimalist Linux distribution designed to boot bare-metal servers and enable remote connections through fast tunnels. It is ideal for environments ranging from home labs to distributed data centers.
+- [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
