@@ -201,6 +201,7 @@
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) – Less than 100 Kilobytes. Works for Android 5.1 and above
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) – GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) – OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 - [Zzorz/NixImage](https://github.com/Zzorz/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
@@ -324,6 +325,7 @@
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
 - [keenerd/gz-sort](https://github.com/keenerd/gz-sort) – A utility for sorting really big files.  http://kmkeen.com/gz-sort/
+- [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -349,6 +351,7 @@
 - [linux-audit/audit-userspace](https://github.com/linux-audit/audit-userspace) – Linux audit userspace repository
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) – zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
+- [liudf0716/xfrpc](https://github.com/liudf0716/xfrpc) – The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices such as OpenWRT routers and IoT devices, which often have limited ROM and RAM space.
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) – The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
@@ -393,6 +396,7 @@
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [otatebe/chfs](https://github.com/otatebe/chfs) – CHFS parallel and distributed file system for node-local persistent memory
@@ -503,6 +507,7 @@
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) – Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [zerotier/DesktopUI](https://github.com/zerotier/DesktopUI) – ZeroTier Desktop Tray Application and UI
 - [zfl9/ipt2socks](https://github.com/zfl9/ipt2socks) – 将 iptables/nftables 传入的透明代理流量转为 socks5 流量的实用工具
+- [zhaojh329/libuhttpd](https://github.com/zhaojh329/libuhttpd) – A very flexible, lightweight and high performance HTTP server library based on libev and http-parser for Embedded Linux.
 - [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) – take off every zig
 - [zlib-ng/zlib-ng](https://github.com/zlib-ng/zlib-ng) – zlib replacement with optimizations for "next generation" systems.
 - [zmap/zmap](https://github.com/zmap/zmap) – ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
@@ -647,6 +652,7 @@
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
 - [lanthora/candy](https://github.com/lanthora/candy) – A reliable, low-latency, and anti-censorship virtual private network
+- [lavv17/lftp](https://github.com/lavv17/lftp) – sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) – LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -2481,6 +2487,9 @@
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [eraseyourknees/msdl](https://github.com/eraseyourknees/msdl) – Microsoft Software Download Listing
 - [flotwig/zone-walker](https://github.com/flotwig/zone-walker) – A CLI tool that walks through DNS zones using NSEC responses and write found domains to stdout.
+- [gSpotx2f/luci-app-cpu-status](https://github.com/gSpotx2f/luci-app-cpu-status) – CPU utilization info for the LuCI status page (OpenWrt webUI)
+- [gSpotx2f/luci-app-log](https://github.com/gSpotx2f/luci-app-log) – Advanced syslog and kernel log (tail, search, etc) for LuCI (OpenWrt webUI)
+- [gSpotx2f/luci-app-temp-status](https://github.com/gSpotx2f/luci-app-temp-status) – Temperature sensors data for the LuCI status page (OpenWrt webUI)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) – The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [giggio/node-chromedriver](https://github.com/giggio/node-chromedriver) – An installer and wrapper for Chromedriver.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) – Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -2526,6 +2535,7 @@
 - [nix-community/nur-search](https://github.com/nix-community/nur-search) – NUR package search [maintainer=@Mic92]
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) – The next generation OONI Probe desktop app
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) – SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
+- [openwrt/luci](https://github.com/openwrt/luci) – LuCI - OpenWrt Configuration Interface
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
 - [pkgforge-dev/WWW](https://github.com/pkgforge-dev/WWW) – The official website for pkgforge. (store frontend) [Maintainers=@xplshn|@Tamrakar182]
@@ -2710,7 +2720,10 @@
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
+- [mmatuska/mfslinux](https://github.com/mmatuska/mfslinux) – Minimalist in-memory diskless Linux distribution based on OpenWrt
+- [moetayuko/openwrt-cloudflared](https://github.com/moetayuko/openwrt-cloudflared) – Cloudflared for OpenWRT compiled against Go with Cloudflare experimental patches.
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
+- [muink/openwrt-rgmac](https://github.com/muink/openwrt-rgmac) – a simple random MAC address generator for OpenWRT
 - [pkgforge/store.pkgforge.dev](https://github.com/pkgforge/store.pkgforge.dev) – 🛒 [WIP] Soarpkgs AppHub/AppStore: User Friendly GUI to Browse, Download, Install & Review All our Packages [Maintainer=@ahqsoftwares]
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
@@ -2779,6 +2792,7 @@
 - [SamLukeYes/archix](https://github.com/SamLukeYes/archix) – Utilities for Arch Linux development, in a flake
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
+- [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) – Build OpenWRT images in Nix derivations
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
@@ -3700,6 +3714,7 @@
 - [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) – 🔍A cutting edge context aware GraphQL API fuzzing tool!
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
+- [openwrt/asu](https://github.com/openwrt/asu) – An image on demand server for OpenWrt based distributions
 - [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ JavaScript file crawler and secret finder tool developed with Python 
 - [ortegaalfredo/aiTrans](https://github.com/ortegaalfredo/aiTrans) – Multi-language transpiler (source-to-source compiler) using AI
 - [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) – BLint is a Binary Linter to check the security properties, and capabilities in your executables. Since v2, blint is also an SBOM generator for binaries.
@@ -4870,6 +4885,7 @@
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
+- [CH3NGYZ/tailscale-openwrt](https://github.com/CH3NGYZ/tailscale-openwrt) – tailscale on openwrt 一键部署脚本
 - [CHIZI-0618/box4magisk](https://github.com/CHIZI-0618/box4magisk) – Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) – Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) – Archlinux Kernel based on different schedulers and some other performance improvements.
@@ -4997,6 +5013,7 @@
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) – A thorough guide to defeating DRM on Linux
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
+- [Zxilly/UA2F](https://github.com/Zxilly/UA2F) – Change User-Agent to F-string on OpenWRT router to prevent being detected.
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) – Simple script to change color-schemes and fonts for Termux.
@@ -5005,6 +5022,7 @@
 - [ading2210/shimboot-binaries](https://github.com/ading2210/shimboot-binaries) – Scripts for building statically compiled binaries for use in the Shimboot bootloader.
 - [adityathebe/dotfiles](https://github.com/adityathebe/dotfiles) – Dotfiles Backup
 - [adolfintel/TDF](https://github.com/adolfintel/TDF) – Linux Gaming without Steam. Install, configure, run and distribute games inside sandboxed Wine environments
+- [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) – Brings Tailscale to low powered OpenWRT devices
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) – 🖥 📊 🕹 🛠 A curated list of command line apps
 - [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) – A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
 - [aguslr/docker-qemu-appimage](https://github.com/aguslr/docker-qemu-appimage) – Configure and compile QEMU into an AppImage
@@ -5049,6 +5067,7 @@
 - [borestad/blocklist-abuseipdb](https://github.com/borestad/blocklist-abuseipdb) – Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~100% confidence)
 - [borestad/ci-utils](https://github.com/borestad/ci-utils) – Common utils & binaries used in CI-pipelines / scripts etc.
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
+- [breeze303/openwrt-ci](https://github.com/breeze303/openwrt-ci) – 自动化编译IPQ系列固件
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
 - [candrewlee14/webman-pkgs](https://github.com/candrewlee14/webman-pkgs) – Repo to store package installation config files for https://github.com/candrewlee14/webman
 - [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) – Risc-V journey thru containers and new projects
@@ -5114,6 +5133,7 @@
 - [fpliu1214/uppm-package-repository-android-29-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-29-aarch64)
 - [fpliu1214/uppm-package-repository-android-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-aarch64)
 - [franckferman/fix_wsl2_networking](https://github.com/franckferman/fix_wsl2_networking) – Solve connection problems related to WSL2. 
+- [friendly-bits/geoip-shell](https://github.com/friendly-bits/geoip-shell) – User-friendly and versatile geoblocker for Linux
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
@@ -5162,6 +5182,7 @@
 - [ipitio/backage](https://github.com/ipitio/backage) – Endpoint behind badges for GitHub Packages
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) – One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
+- [itiligent/Easy-OpenWRT-Builder](https://github.com/itiligent/Easy-OpenWRT-Builder) – A script for creating custom OpenWRT images repeatably on Linux, featuring optional x86 virtual machine conversion & firmware parition resize
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!
 - [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
@@ -5175,6 +5196,7 @@
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) – Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
 - [jakoberpf/zerotier-scripts](https://github.com/jakoberpf/zerotier-scripts)
 - [jean0t/archon](https://github.com/jean0t/archon) – A minimalist low level package manager for your linux, compatible with all linux distros due to the use of POSIX.
+- [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) – install latest or LTS linux kernel and enable BBR or BBR plus
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
@@ -5184,7 +5206,9 @@
 - [jwueller/fdspy.sh](https://github.com/jwueller/fdspy.sh) – Capture stdout, stderr, and other file descriptors of running processes on-the-fly, without redirects, screen, or tmux.
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
+- [kenzok8/compile-package](https://github.com/kenzok8/compile-package) – small-package仓库，每日更新插件编译
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
+- [kiddin9/packages-compile](https://github.com/kiddin9/packages-compile)
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) – Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
@@ -5192,6 +5216,7 @@
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) – Hardening Ubuntu. Systemd edition.
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) – Official repository for Kreato Linux.
 - [ksharinarayanan/SSRFire](https://github.com/ksharinarayanan/SSRFire) – An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
+- [kuoruan/openwrt-frp](https://github.com/kuoruan/openwrt-frp) – Frpc & Frps for OpenWrt
 - [l4yton/RegHex](https://github.com/l4yton/RegHex) – A collection of regexes for every possbile use
 - [laluka/pty4all](https://github.com/laluka/pty4all) – By using its cutting edge technology (lolnope), you can now have a persistent multi reverse pty handler!
 - [leahneukirchen/xtools](https://github.com/leahneukirchen/xtools) – a few helpers for working with XBPS
@@ -5218,6 +5243,7 @@
 - [lord-alfred/ipranges](https://github.com/lord-alfred/ipranges) – 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [lure-sh/lure-repo](https://github.com/lure-sh/lure-repo) – The default repository for LURE
 - [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) – 部署哪吒面板到fly.io
+- [lynxthecat/cake-autorate](https://github.com/lynxthecat/cake-autorate) – Eliminate the excess latency and jitter terrorizing your 4G, 5G, LTE, Starlink or other variable rate connection!
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) – GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced Google searches (Google Dorking).
 - [maciejwalkowiak/sinit](https://github.com/maciejwalkowiak/sinit) – sinit - command line shiny Spring Boot project initialzer 🚀
 - [macmpi/alpine-linux-headless-bootstrap](https://github.com/macmpi/alpine-linux-headless-bootstrap) – Headless Alpine Linux bootstrapping scripts
@@ -5254,6 +5280,7 @@
 - [mszcool/devmachinesetup](https://github.com/mszcool/devmachinesetup) – Used for setting up blank Windows (and in the future Linux) development machines by using package managers such as Chocolatey and PowerShell (or Bash). The goal is to automate the setup process as much as possible.
 - [mtdcy/cmdlets](https://github.com/mtdcy/cmdlets) – build static libraries or binaries from source
 - [muicoder/docker-images](https://github.com/muicoder/docker-images) – docker build for images
+- [muink/rgmac](https://github.com/muink/rgmac) – a simple random MAC address generator
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) – :earth_africa: `/usr/bin/qemu-*-static`
 - [mux0x/cold.sh](https://github.com/mux0x/cold.sh) – your bestfried for finding URLs of a target
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) – A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
@@ -5354,6 +5381,7 @@
 - [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
 - [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers
+- [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns) – 一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
@@ -5418,6 +5446,7 @@
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
+- [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) – A plugin for OpenWRT routers to send various information notifications to a mobile phone via WeChat or Telegram.
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
 - [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
