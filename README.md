@@ -160,6 +160,7 @@
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
 - [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) – Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) – Simple yet fancy CPU architecture fetching tool
+- [Elektrobit/elos](https://github.com/Elektrobit/elos) – elos -- event logging and management with normalized output-format for Linux
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
@@ -182,9 +183,12 @@
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
+- [RekGRpth/pg_curl](https://github.com/RekGRpth/pg_curl) – PostgreSQL tool for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS.
+- [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) – PostgreSQL and Greenplum job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
+- [Scribery/tlog](https://github.com/Scribery/tlog) – Terminal I/O logger
 - [SkyperTHC/dnsstream](https://github.com/SkyperTHC/dnsstream) – Network Capture DNS answers
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) – Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
@@ -219,7 +223,9 @@
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) – Up to 10x faster strings for C, C++, Python, Rust, Swift & Go, leveraging NEON, AVX2, AVX-512, SVE, & SWAR to accelerate search, hashing, sort, edit distances, and memory ops 🦖
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
+- [axoflow/axosyslog](https://github.com/axoflow/axosyslog) – AxoSyslog - the scalable security data processor
 - [baulk/baulk](https://github.com/baulk/baulk) – baulk - Minimal Package Manager for Windows
+- [begriffs/gitftp](https://github.com/begriffs/gitftp) – Browse git over anonymous FTP
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -330,6 +336,7 @@
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) – A better and stronger spiritual successor to BZip2.
+- [ksstech/syslog](https://github.com/ksstech/syslog) – Highly functional syslog module specifically for embedded systems
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) – Jessibuca是一款开源的纯H5直播流播放器
@@ -364,6 +371,7 @@
 - [maroofi/libctld](https://github.com/maroofi/libctld) – Top Level Domain parser based on Public Suffix List (PSL)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
+- [masneyb/gftp](https://github.com/masneyb/gftp) – gFTP is a free multithreaded file transfer client for *NIX based machines. 56 language translations available.
 - [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
@@ -439,6 +447,7 @@
 - [rphang/evilBPF](https://github.com/rphang/evilBPF) – Weaponizing the Linux Kernel (Hide Files/PID, SSH backdoors, SSL Sniffer, ...) by poking around eBPF/XDP
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) – union filesystem using fuse
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) – Self contained, fully static llvm tools & libs
+- [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) – a Rocket-fast SYStem for LOG processing
 - [sahib/rmlint](https://github.com/sahib/rmlint) – Extremely fast tool to remove duplicates and other lint from your filesystem
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
 - [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
@@ -463,6 +472,7 @@
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [sysprog21/semu](https://github.com/sysprog21/semu) – A minimalist RISC-V system emulator capable of running Linux kernel
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) – Performance monitoring tools for Linux
+- [systemd/systemd-netlogd](https://github.com/systemd/systemd-netlogd) – Forwards messages from the journal to other hosts over the network using syslog format RFC 5424 and RFC 3164 
 - [tantosec/oneshell](https://github.com/tantosec/oneshell) – Reverse shell listener and payload generator designed to work on most Linux targets
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) – 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) – a realtime plotting utility for terminal/console with data input from stdin
@@ -476,6 +486,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) – Linux kernel source tree
 - [traviscross/mtr](https://github.com/traviscross/mtr) – Official repository for mtr, a network diagnostic tool
 - [troglobit/finit](https://github.com/troglobit/finit) – Fast init for Linux. Cookies included
+- [troglobit/sysklogd](https://github.com/troglobit/sysklogd) – BSD syslog daemon with syslog()/syslogp(), i.e., structured logging API replacement for Linux, RFC3164 + RFC5424
 - [troglobit/watchdogd](https://github.com/troglobit/watchdogd) – Advanced system monitor & process supervisor for Linux
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) – Share your terminal over the web
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) – libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -498,6 +509,7 @@
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [wolfSSL/wolfCLU](https://github.com/wolfSSL/wolfCLU) – The wolfSSL Command Line Utility wolfCLU
+- [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) – wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
 - [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
@@ -570,6 +582,7 @@
 ## C++
 
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) – rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) – Transparent file encryption in git
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) – Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) – Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
@@ -665,6 +678,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) – Featureful ncurses based MPD client inspired by ncmpc
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) – An RSS/Atom feed reader for text terminals
 - [nixcloud/ip2unix](https://github.com/nixcloud/ip2unix) – Turn IP sockets into Unix domain sockets
@@ -729,7 +743,6 @@
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) – A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) – Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [msys2/msys2.github.io](https://github.com/msys2/msys2.github.io) – The MSYS2 homepage
-- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) – Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [scientiac/scientiac.github.io](https://github.com/scientiac/scientiac.github.io) – syntropy::scientiac.space
 - [spack/packages.spack.io](https://github.com/spack/packages.spack.io) – ⭐️ Simple package browsing portal. ⭐️
@@ -1298,6 +1311,7 @@
 - [coreos/ignition](https://github.com/coreos/ignition) – First boot installer and configuration tool
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 - [crazy-max/diun](https://github.com/crazy-max/diun) – Receive notifications when an image is updated on a Docker registry
+- [crazy-max/ftpgrab](https://github.com/crazy-max/ftpgrab) – Grab your files periodically from a remote FTP or SFTP server easily
 - [criteo/command-launcher](https://github.com/criteo/command-launcher) – A command launcher 🚀 made with ❤️
 - [criyle/go-sandbox](https://github.com/criyle/go-sandbox) – Sandbox implemented in GO with container / ptrace / seccomp
 - [crtsh/ct_monitor](https://github.com/crtsh/ct_monitor) – Certificate Transparency log monitor
@@ -1335,6 +1349,7 @@
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
+- [devld/go-drive](https://github.com/devld/go-drive) – A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
 - [devploit/nomore403](https://github.com/devploit/nomore403) – Tool to bypass 403/40X response codes.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
@@ -1499,6 +1514,7 @@
 - [gruntwork-io/cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) – A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
 - [gruntwork-io/fetch](https://github.com/gruntwork-io/fetch) – Download files, folders, and release assets from a specific git commit, branch, or tag of public and private GitHub repos.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) – git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command. 
+- [guitmz/ezuri](https://github.com/guitmz/ezuri) – A Simple Linux ELF Runtime Crypter
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) – 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [gvcgo/gobuilder](https://github.com/gvcgo/gobuilder) – An enhancement for official <go build>.
@@ -2072,6 +2088,7 @@
 - [tb0hdan/freya](https://github.com/tb0hdan/freya) – DomainsProject.org DNS worker
 - [tb0hdan/idun](https://github.com/tb0hdan/idun) – DomainsProject.org HTTP worker
 - [tdewolff/minify](https://github.com/tdewolff/minify) – Go minifiers for web formats
+- [team-ide/teamide](https://github.com/team-ide/teamide) – Team IDE 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch、Mongodb、小工具等管理工具
 - [tebeka/expmod](https://github.com/tebeka/expmod) – Prints GitHub project description for every direct dependency on GitHub in go.mod
 - [teler-sh/teler](https://github.com/teler-sh/teler) – Real-time HTTP Intrusion Detection
 - [temporalio/temporal](https://github.com/temporalio/temporal) – Temporal service
@@ -2215,6 +2232,7 @@
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) – 4X Better IDE than Jupyterlab
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
+- [zerotier/zerotier-systemd-manager](https://github.com/zerotier/zerotier-systemd-manager) – Manages systemd per-interface DNS resolution for zeronsd
 - [zhanghanyun/backtrace](https://github.com/zhanghanyun/backtrace) – 三网回程路由测试
 - [zhsj/wghttp](https://github.com/zhsj/wghttp) – Turn WireGuard to HTTP & SOCKS5 proxies
 - [zhuochun/notion-toolset](https://github.com/zhuochun/notion-toolset) – 🔩 A set of Notion automation tools using the Notion API
@@ -2550,6 +2568,7 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) – PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [sepehrdaddev/zap-scripts](https://github.com/sepehrdaddev/zap-scripts) – Zed Attack Proxy Scripts for finding CVEs and Secrets.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- [shelljs/shelljs](https://github.com/shelljs/shelljs) – :shell: Portable Unix shell commands for Node.js
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) – Manage Flatpak permissions
@@ -3190,6 +3209,7 @@
 ## PHP
 
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) – 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
+- [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) – The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [Serhatcck/vulnsocket](https://github.com/Serhatcck/vulnsocket) – Vulnerable Web Socket-Web Site
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) – PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. 
 - [box-project/box](https://github.com/box-project/box) – 📦🚀 Fast, zero config application bundler with PHARs.
@@ -4006,7 +4026,7 @@
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) – TUI for Telegram written in Rust 🦀
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust) – Horust is a supervisor / init system written in rust and designed to run inside containers.
-- [FigSystems/fpkg](https://github.com/FigSystems/fpkg) – The package manager for dalixOS
+- [FigSystems/dpt](https://github.com/FigSystems/dpt) – The package manager for dalixOS
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
@@ -4076,7 +4096,7 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Open source Linux distro optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Open source, Linuc-based server OS optimized for self-hosting
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
@@ -4415,6 +4435,7 @@
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) – A tool & library to detect open source licenses from texts
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) – Tmux Sessionizer: A tool for opening git repositories as tmux sessions
+- [jtmoon79/super-speedy-syslog-searcher](https://github.com/jtmoon79/super-speedy-syslog-searcher) – Speedily search and merge log messages by datetime
 - [jubako/arx](https://github.com/jubako/arx) –   Store files and directory in an archive. Like tar, but faster and with direct random access.
 - [jullanggit/bubblewrapped](https://github.com/jullanggit/bubblewrapped) – My personal bubblewrap-wrapper
 - [justxuewei/ubuild](https://github.com/justxuewei/ubuild) – The ubuild, standing for universal build, runs commands in a portable environment.
@@ -4777,6 +4798,7 @@
 - [uutils/diffutils](https://github.com/uutils/diffutils) – Drop-in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) – Rust implementation of findutils
 - [uutils/platform-info](https://github.com/uutils/platform-info) – A cross-platform way to get information about your machine
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) – A high-performance observability data pipeline.
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [viperML/nh](https://github.com/viperML/nh) – Yet another nix cli helper
@@ -4882,6 +4904,7 @@
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) – A community Bash framework.
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
@@ -5016,6 +5039,7 @@
 - [Zxilly/UA2F](https://github.com/Zxilly/UA2F) – Change User-Agent to F-string on OpenWRT router to prevent being detected.
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) – Simple script to change color-schemes and fonts for Termux.
 - [ading2210/lklfuse-static](https://github.com/ading2210/lklfuse-static) – Scripts for building lklfuse as a single static binary. Mount any Linux filesystem without root.
 - [ading2210/shimboot](https://github.com/ading2210/shimboot) – Boot a desktop Linux distribution from a Chrome OS RMA shim.
@@ -5078,6 +5102,7 @@
 - [cheusov/paexec](https://github.com/cheusov/paexec) – paexec - distributes tasks over network or CPUs
 - [cheusov/pkg_summary-utils](https://github.com/cheusov/pkg_summary-utils) – A collection of utilities for manipulating pkgsrc summary files
 - [cheusov/pkgnih](https://github.com/cheusov/pkgnih) – Package manager for PkgSrc
+- [clion007/adss](https://github.com/clion007/adss) – 全自动 DNS 智能脚本（ADSS），重新启用，项目更名为ADSS，进行重大调整升级后镜像至gitcode和gitee，方便国内网络环境使用。
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) – A conda-forge distribution.
 - [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
@@ -5117,6 +5142,7 @@
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
 - [eddiewebb/circleci-queue](https://github.com/eddiewebb/circleci-queue) – CircleCI orb to block/queue jobs to enforce max concurrency limits
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
+- [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) – transparently encrypt files within a git repository
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) – 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
 - [erikw/restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) – Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.
@@ -5146,6 +5172,7 @@
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
+- [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) – Uses Git to upload only changed files to FTP servers.
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
@@ -5155,6 +5182,7 @@
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.0 For Termux , Version : 2.11.0 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+- [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter) – Pack/Encrypt/Obfuscate ELF + SHELL scripts
 - [hackerschoice/hackshell](https://github.com/hackerschoice/hackshell) – Make BASH stealthy and hacker friendly with lots of bash functions
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
@@ -5291,6 +5319,7 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) – An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) – Script to root AVDs running with QEMU Emulator from Android Studio
 - [newsnowlabs/runcvm](https://github.com/newsnowlabs/runcvm) – RunCVM (Run Container VM) is an experimental open-source Docker container runtime, for launching standard container workloads - as well as Systemd, Docker, even OpenWrt - in VMs using 'docker run`
+- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [nikitastupin/orgs-data](https://github.com/nikitastupin/orgs-data) – Mapping from bug bounty and vulnerability disclosure programs to respective GitHub organizations
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
@@ -5306,6 +5335,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
+- [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) – Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [pacstall/chaotic-PPR](https://github.com/pacstall/chaotic-PPR) – The Chaotic Pacstall Programs Repository
