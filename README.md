@@ -2544,7 +2544,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) – Browser In The Browser (BITB) Templates
-- [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and Adguard
+- [mrrfv/cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) – Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 - [msrkp/PPScan](https://github.com/msrkp/PPScan) – Client Side Prototype Pollution Scanner
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) – A DNS rebinding attack framework.
 - [neatorobito/scoop-crystal](https://github.com/neatorobito/scoop-crystal) – Scoop bucket for the Crystal programming language on Windows
@@ -3582,6 +3582,7 @@
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) – git-cola: The highly caffeinated Git GUI
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) – Scalable fuzzing infrastructure.
 - [google/gcp_scanner](https://github.com/google/gcp_scanner) – A comprehensive scanner for Google Cloud
+- [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [greshake/Alice](https://github.com/greshake/Alice) – Giving ChatGPT access to a real terminal
 - [gruns/furl](https://github.com/gruns/furl) – 🌐 URL parsing and manipulation made easy.
@@ -4365,7 +4366,6 @@
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) – Google Drive CLI Client
 - [golangboy/fast-cloudflare](https://github.com/golangboy/fast-cloudflare) – Scan all IP nodes of CloudFlare to find the fastest IP node.
 - [google/command-fds](https://github.com/google/command-fds) – A Rust library for passing arbitrary file descriptors when spawning child processes.
-- [google/magika](https://github.com/google/magika) – Detect file content types with deep learning
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) – This repository contains the scanner component for Greenbone Community Edition.
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
