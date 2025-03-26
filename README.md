@@ -224,6 +224,7 @@
 - [axboe/fio](https://github.com/axboe/fio) – Flexible I/O Tester
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) – Lightweight CLI download accelerator
 - [axoflow/axosyslog](https://github.com/axoflow/axosyslog) – AxoSyslog - the scalable security data processor
+- [baidu/dperf](https://github.com/baidu/dperf) – dperf is a 100Gbps network load tester.
 - [baulk/baulk](https://github.com/baulk/baulk) – baulk - Minimal Package Manager for Windows
 - [begriffs/gitftp](https://github.com/begriffs/gitftp) – Browse git over anonymous FTP
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
@@ -5545,7 +5546,7 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
-- [orbitscanner/orbit](https://github.com/orbitscanner/orbit) – Orbit Scanning Software
+- [orbitscanner/Bitor](https://github.com/orbitscanner/Bitor) – Bitor Scanning Software
 
 <div id="swift"></div>
 
