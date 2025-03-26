@@ -1114,7 +1114,7 @@
 - [akkuman/webeye](https://github.com/akkuman/webeye)
 - [akosela/go-cs](https://github.com/akosela/go-cs) – Concurrent ssh client
 - [alajmo/mani](https://github.com/alajmo/mani) – :robot: CLI tool to help you manage repositories
-- [alajmo/sake](https://github.com/alajmo/sake) – :robot: sake is a task runner for local and remote hosts
+- [alajmo/sake](https://github.com/alajmo/sake) – :robot: task runner for local and remote hosts
 - [alecthomas/bit](https://github.com/alecthomas/bit) – Bit - A simple yet powerful build tool
 - [aleksasiriski/ffmpegof](https://github.com/aleksasiriski/ffmpegof) – Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.k.a. FFmpeg over Fabrics
 - [alexeev-prog/carbon_pkg](https://github.com/alexeev-prog/carbon_pkg) – Blazing fast and modern package manager written in Golang
