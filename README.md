@@ -331,7 +331,6 @@
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
 - [keenerd/gz-sort](https://github.com/keenerd/gz-sort) – A utility for sorting really big files.  http://kmkeen.com/gz-sort/
-- [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -5235,6 +5234,7 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [kenzok8/compile-package](https://github.com/kenzok8/compile-package) – small-package仓库，每日更新插件编译
+- [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
 - [kiddin9/packages-compile](https://github.com/kiddin9/packages-compile)
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) – Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
