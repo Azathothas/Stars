@@ -211,6 +211,7 @@
 - [Zzorz/NixImage](https://github.com/Zzorz/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
+- [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) – [MIRROR] Alpine package manager
@@ -299,6 +300,8 @@
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) – System Information and Benchmark for Linux Systems
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) – World's fastest and most advanced password recovery utility
 - [hasherezade/hollows_hunter](https://github.com/hasherezade/hollows_hunter) – Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
+- [heiher/hev-fsh](https://github.com/heiher/hev-fsh) – Fsh helps you access local shell and TCP services behind a NAT or firewall. (Linux/BSD/macOS)
+- [heiher/hev-socks5-tproxy](https://github.com/heiher/hev-socks5-tproxy) – A socks5 transparent proxy (IPv4/IPv6/TCP/UDP)
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) – Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
 - [heiher/natmap](https://github.com/heiher/natmap) – TCP/UDP port mapping for full-cone NAT
 - [henrypp/errorlookup](https://github.com/henrypp/errorlookup) – Simple tool for retrieving information about Windows errors codes.
@@ -420,6 +423,8 @@
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
 - [plp13/qman](https://github.com/plp13/qman) – A more modern man page viewer for our terminals
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
+- [pouriyajamshidi/flat](https://github.com/pouriyajamshidi/flat) – Measure UDP  and TCP connection latency for IPv4 and IPv6 using eBPF and Go
+- [ppp-project/ppp](https://github.com/ppp-project/ppp) – Paul's PPP Package: PPP daemon and associated utilities | Official GitHub repo: https://github.com/ppp-project/ppp
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
@@ -506,6 +511,7 @@
 - [void-linux/xbps](https://github.com/void-linux/xbps) – The X Binary Package System (XBPS)
 - [voltagex-forks/proxydroid](https://github.com/voltagex-forks/proxydroid) – Global Proxy for Android
 - [vvb2060/curl-android](https://github.com/vvb2060/curl-android) – curl tool and libcurl static library prefab for android
+- [vyos/ipaddrcheck](https://github.com/vyos/ipaddrcheck) – An IPv4 and IPv6 validation utility for use in scripts
 - [whdd/whdd](https://github.com/whdd/whdd) – HDD diagnostic and data recovery tool for Linux
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) – SSHFS For Windows
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) – A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
@@ -871,6 +877,7 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
 - [pkgforge-dev/docker-archlinux](https://github.com/pkgforge-dev/docker-archlinux) – Forked : https://github.com/fwcd/docker-archlinux (+ DockerHub Builds) [Maintainer=@Azathothas]
+- [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
 - [spack/spack-distroless](https://github.com/spack/spack-distroless) – A minimal container environment to test Spack builds
 - [termux/termux-docker](https://github.com/termux/termux-docker) – Termux environment packaged as Docker image.
 - [vaggeliskls/windows-github-custom-runner](https://github.com/vaggeliskls/windows-github-custom-runner) – A robust, cost-effective solution to deploy containerized custom GitHub Runners in a Windows OS environment on a Linux server. This project utilizes Vagrant VM, libvirt, and docker-compose, providing a seamless, plug-and-play approach that significantly enhances the CI/CD pipeline experience. No prior knowledge of VM creation required
@@ -1814,6 +1821,7 @@
 - [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) – Userspace TCP/IP Sockets For WireGuard.
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [noperator/chromedb](https://github.com/noperator/chromedb) – Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the browser.
+- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) – Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments. 
 - [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
 - [nwtgck/handy-sshd](https://github.com/nwtgck/handy-sshd) – Portable SSH Server
@@ -2175,6 +2183,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) – An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
+- [warewulf/warewulf](https://github.com/warewulf/warewulf) – Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
@@ -2194,6 +2203,8 @@
 - [wudijun/Catcher](https://github.com/wudijun/Catcher) – Catcher(捕手) 重点系统指纹漏洞验证工具，适用于外网打点，资产梳理漏洞检查。
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
+- [x-way/ip_diff](https://github.com/x-way/ip_diff) – Compare two lists of IP prefixes
+- [x-way/ip_match](https://github.com/x-way/ip_match) – Match IP addresses against a list of prefixes
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
 - [xNaCly/x-git-sync](https://github.com/xNaCly/x-git-sync) – Backup your repository at configured intervals using git
 - [xddxdd/bird-lg-go](https://github.com/xddxdd/bird-lg-go) – BIRD looking glass in Go, for better maintainability, easier deployment & smaller memory footprint
@@ -2302,6 +2313,7 @@
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+- [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) – luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) – Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
@@ -2911,6 +2923,7 @@
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
 - [HolyBugx/HolyTips](https://github.com/HolyBugx/HolyTips) – A Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
+- [HomeCloudHub/hsmaker](https://github.com/HomeCloudHub/hsmaker) – homelab NAT1 + headscale(server) + tailscale(client) + derper + cloudflare origin and ddns + natter + ipv6 + p2p . without public ipv4
 - [Homebrew/discussions](https://github.com/Homebrew/discussions) – 🗣 Public open-ended discussions. Replacement for our Discourse.
 - [Homebrew/homebrew-formula-analytics](https://github.com/Homebrew/homebrew-formula-analytics) – 💀 Query Homebrew's analytics from the command-line (deprecated)
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
@@ -3060,6 +3073,7 @@
 - [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim vulnerable domains.
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
+- [ipverse/asn-ip](https://github.com/ipverse/asn-ip) – Download IP address lists grouped by network provider (ASN)
 - [ipverse/rir-ip](https://github.com/ipverse/rir-ip) – Download IP address lists grouped by country
 - [isyuricunha/top-github-users](https://github.com/isyuricunha/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) – Awesome list of status page open source software, services and public status pages of major internet companies
@@ -3176,6 +3190,7 @@
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) – Free, libre, effective, and data-driven wordlists for all!
 - [thehlopster/hfuzz](https://github.com/thehlopster/hfuzz) – Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) – Awesome secure by default libraries to help you eliminate bug classes!
+- [tmplink/IPDB](https://github.com/tmplink/IPDB) – National IP database, providing data based on CIDR and NETMASK format, supporting IPv4 and IPv6.
 - [trickest/cloud](https://github.com/trickest/cloud) – Monitoring the Cloud Landscape
 - [trickest/github-logs](https://github.com/trickest/github-logs) – Extracting OSINT Insights from 15TB of GitHub Event Logs
 - [trickest/insiders](https://github.com/trickest/insiders) – Archive of Potential Insider Threats
@@ -3226,6 +3241,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
+- [rekryt/iplist](https://github.com/rekryt/iplist) – IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 - [wadelau/Base62x](https://github.com/wadelau/Base62x) – Base62x is an alternative approach to Base 64 without symbols in output. 无符号的Base64编码解码方案.
 - [yanncam/ShuckNT](https://github.com/yanncam/ShuckNT) – ShuckNT is the script of Shuck.sh online service for on-premise use. It is design to dowgrade, convert, dissect and shuck authentication token based on Data Encryption Standard (DES).
 
@@ -3497,6 +3513,7 @@
 - [cado-security/cloudgrep](https://github.com/cado-security/cloudgrep) – cloudgrep is grep for cloud storage
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) – Fancy reverse and bind shell handler
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) – Official upstream for the cloud-init: cloud instance initialization
+- [carlospolop/CloudPEASS](https://github.com/carlospolop/CloudPEASS)
 - [carlospolop/Gorks](https://github.com/carlospolop/Gorks)
 - [carlospolop/Leakos](https://github.com/carlospolop/Leakos)
 - [carlospolop/Pastos](https://github.com/carlospolop/Pastos)
@@ -4307,6 +4324,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) – Friendly and fast tool for sending HTTP requests
 - [dwisiswant0/ppfuzz](https://github.com/dwisiswant0/ppfuzz) – A fast tool to scan client-side prototype pollution vulnerability written in Rust. 🦀
 - [edera-dev/am-i-isolated](https://github.com/edera-dev/am-i-isolated) – Validate the isolation posture of your container environment.
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) – Programmatic sandboxing tool
 - [efugier/smartcat](https://github.com/efugier/smartcat) – Putting a brain behind `cat`🐈‍⬛ Integrating language models in the Unix commands ecosystem through text streams.
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/jute](https://github.com/ekzhang/jute) – A native Jupyter notebook frontend with local + remote kernels, reactive cells, and IDE features, implemented in Rust
@@ -4554,6 +4572,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/nh](https://github.com/nix-community/nh) – Yet another nix cli helper
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
@@ -4759,6 +4778,7 @@
 - [suve/copydeps](https://github.com/suve/copydeps) – Find and copy all the .so / .dll files required by an executable
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
+- [svenstaro/vmexec](https://github.com/svenstaro/vmexec) – 🔧 Run a single command in a speedy virtual machine with zero-setup
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) – The fastest way to identify anything!
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) – cat for markdown
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4804,7 +4824,6 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) – A high-performance observability data pipeline.
 - [veeso/termscp](https://github.com/veeso/termscp) – 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [vi/websocat](https://github.com/vi/websocat) – Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [viperML/nh](https://github.com/viperML/nh) – Yet another nix cli helper
 - [vn971/rua](https://github.com/vn971/rua) – Build tool for Arch Linux providing control, review and jailed build options
 - [vnt-dev/vnt](https://github.com/vnt-dev/vnt) – An efficient VPN. 简便高效的异地组网、内网穿透工具
 - [voidash/8085-Emulator](https://github.com/voidash/8085-Emulator) – online 8085 emulator using Rust, WebAssembly and React
@@ -5006,6 +5025,7 @@
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) – A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) – A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
 - [TUVIMEN/torge](https://github.com/TUVIMEN/torge) – A shell script for searching for links on torrent sites
+- [Temporalitas/ipv6-proxy-server](https://github.com/Temporalitas/ipv6-proxy-server) – IPv6 backconnect proxy server /64 and /48 subnet for any debian-based distro
 - [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) – Linux privilege escalation auditing tool
 - [Tina-lel/bpm](https://github.com/Tina-lel/bpm) – A package manager for linux written in bash
 - [Toxikuu/gimme](https://github.com/Toxikuu/gimme) – Simple source-based package manager in python
@@ -5118,6 +5138,7 @@
 - [darklotuskdb/auto-launch-frida-server](https://github.com/darklotuskdb/auto-launch-frida-server) – The process involves downloading the latest version and automatically configuring it within the Termux Android application. Subsequently, upon launching the Termux application, Frida Server is initiated automatically to facilitate penetration testing.
 - [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) – A simple tool to generate fake web browsing and mitigate tracking
 - [davidhampgonsalves/music-server](https://github.com/davidhampgonsalves/music-server) – Music streaming server on a Android Galaxy S7 
+- [ddries/d2c.sh](https://github.com/ddries/d2c.sh) – Dynamic IPv4/6 records for Cloudflare
 - [deamen/transmission-builder](https://github.com/deamen/transmission-builder) – Build statically linked transmission binaries
 - [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) – Official builds of debuerreotype-generated Debian tarballs for use in Docker
 - [deepwn/warpod](https://github.com/deepwn/warpod) – A containerized WARP client with gost proxy. (ubuntu:22.04 + warp-svc + gost) for use Zero Trust and private network inside container project and k8s.
@@ -5163,6 +5184,8 @@
 - [fpliu1214/uppm-package-repository-android-aarch64](https://github.com/fpliu1214/uppm-package-repository-android-aarch64)
 - [franckferman/fix_wsl2_networking](https://github.com/franckferman/fix_wsl2_networking) – Solve connection problems related to WSL2. 
 - [friendly-bits/geoip-shell](https://github.com/friendly-bits/geoip-shell) – User-friendly and versatile geoblocker for Linux
+- [friendly-bits/posix-lists-and-strings](https://github.com/friendly-bits/posix-lists-and-strings) – POSIX-compliant shell functions for processing of lists and strings
+- [friendly-bits/shell-ip-tools](https://github.com/friendly-bits/shell-ip-tools) – POSIX-compliant shell script library for ip addresses processing, detecting LAN subnets and subnets aggregation
 - [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
@@ -5339,6 +5362,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) – 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) – 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [olegos2/termux-box](https://github.com/olegos2/termux-box)
+- [oneclickvirt/6in4](https://github.com/oneclickvirt/6in4) – Self-build IPv6-in-IPv4 Tunnel Server --- 自建IPv6-in-IPv4隧道服务器 
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) – Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [orbit-online/records.sh](https://github.com/orbit-online/records.sh) – A small logging library for bash.   Supports `cli`, `json`, `logfmt`, and custom formats. Integrates with journald and Github actions.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) – Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
@@ -5365,7 +5389,6 @@
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
-- [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage & More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
