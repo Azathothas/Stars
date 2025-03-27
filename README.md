@@ -163,6 +163,7 @@
 - [Elektrobit/elos](https://github.com/Elektrobit/elos) – elos -- event logging and management with normalized output-format for Linux
 - [GJDuck/e9patch](https://github.com/GJDuck/e9patch) – A powerful static binary rewriting tool
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
+- [Gottox/sqsh-tools](https://github.com/Gottox/sqsh-tools) – 🗜️ fast r/o squashfs implementation written in C.
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
@@ -443,6 +444,7 @@
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) – tiny, portable SOCKS5 server with very moderate resource usage
 - [rofl0r/musl](https://github.com/rofl0r/musl) – musl libc working copy
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) – proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [rofl0r/svn-lite](https://github.com/rofl0r/svn-lite) – A minimalist svn client to checkout/update Subversion repositories.
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [rphang/evilBPF](https://github.com/rphang/evilBPF) – Weaponizing the Linux Kernel (Hide Files/PID, SSH backdoors, SSL Sniffer, ...) by poking around eBPF/XDP
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) – union filesystem using fuse
