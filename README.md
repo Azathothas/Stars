@@ -5071,7 +5071,7 @@
 - [attacksurge/ax](https://github.com/attacksurge/ax) – The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers! 
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
-- [ax/apk.sh](https://github.com/ax/apk.sh) – apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [ax/apk.sh](https://github.com/ax/apk.sh) – Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer framework optimized for Gitpod and power users
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
 - [basant0x01/b3-Hackerone](https://github.com/basant0x01/b3-Hackerone) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
