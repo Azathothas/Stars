@@ -648,7 +648,7 @@
 - [cvengler/sysget](https://github.com/cvengler/sysget) – One package manager to rule them all
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -1431,6 +1431,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) – Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [evilsocket/shellz](https://github.com/evilsocket/shellz) – shellz is a small utility to manage your ssh, telnet, kubernetes, winrm, web or any custom shell in a single place.
 - [ewosborne/concur](https://github.com/ewosborne/concur) – A replacement for the parts of GNU Parallel that I like
+- [faanross/IPv6_rotationalC2](https://github.com/faanross/IPv6_rotationalC2) – A proof-of-concept tool that demonstrates how IPv6 aliasing and rotational staggering can be used for network stealth
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – nginx access logs analytics
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1564,8 +1565,8 @@
 - [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Alternative to ngrok for localhost asynchronous web development (e.g. webhooks). No account required.
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [hueristiq/xsubfind3r](https://github.com/hueristiq/xsubfind3r) – A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available.
-- [hueristiq/xurl](https://github.com/hueristiq/xurl) – A command-line utility designed to extract specific parts of URLs.
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) – A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
+- [hueristiq/xurls](https://github.com/hueristiq/xurls) – A command-line utility designed to extract specific parts of URLs.
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) – 🔍 Search anyone's digital footprint across 300+ websites
@@ -2084,6 +2085,7 @@
 - [sweetbbak/tget](https://github.com/sweetbbak/tget) – wget but for torrents
 - [sweetbbak/toru](https://github.com/sweetbbak/toru) – Bittorrent streaming CLI tool. Stream anime torrents, real-time with no waiting for downloads. 
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) – Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
+- [synacktiv/IPSpinner](https://github.com/synacktiv/IPSpinner) – IPSpinner works as a local proxy that redirects requests through external services.
 - [synacktiv/octoscan](https://github.com/synacktiv/octoscan) – Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
 - [synthesio/selfextract](https://github.com/synthesio/selfextract) – Self-extracting archives creation tool
@@ -2481,7 +2483,7 @@
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
-- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) – Abracadabra 魔曰，下一代文本脱敏和加密工具
+- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) – Abracadabra 魔曰，下一代文本加密工具
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
@@ -3374,6 +3376,7 @@
 - [Hamz-a/jeb4frida](https://github.com/Hamz-a/jeb4frida) – Generate Frida hooks directly from JEB!
 - [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list) – University Domains and Names Data List & API
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) – :computer: Maintained fork of the original Archey (Linux) system tool
+- [IPv6-Security/6Sense](https://github.com/IPv6-Security/6Sense) – IPv6 Internet Wide Scanning
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) – Flutter Reverse Engineering Framework
 - [Impact-I/x8-Burp](https://github.com/Impact-I/x8-Burp) – Hidden parameters discovery suite
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
@@ -4776,6 +4779,7 @@
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) – Rust programs written entirely in Rust
 - [surban/aggligator](https://github.com/surban/aggligator) – Aggregates multiple links (TCP, Bluetooth, USB, WebSocket or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [suve/copydeps](https://github.com/suve/copydeps) – Find and copy all the .so / .dll files required by an executable
+- [svenstaro/dummyhttp](https://github.com/svenstaro/dummyhttp) – Super simple HTTP server that replies a fixed body with a fixed response code
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
 - [svenstaro/vmexec](https://github.com/svenstaro/vmexec) – 🔧 Run a single command in a speedy virtual machine with zero-setup
@@ -5503,7 +5507,7 @@
 - [trustedsec/hardcidr](https://github.com/trustedsec/hardcidr) – hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) – Proxmox VE Helper-Scripts
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) – Create On Demand Disposable OpenVPN Endpoints on AWS.
-- [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) – A plugin for OpenWRT routers to send various information notifications to a mobile phone via WeChat or Telegram.
+- [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) – OpenWrt Notification Plugin – Send Alerts to WeChat or Telegram
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
 - [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
