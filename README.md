@@ -3310,6 +3310,7 @@
 - [mikeroyal/Windows-Terminal-Guide](https://github.com/mikeroyal/Windows-Terminal-Guide) – Windows Terminal Guide
 - [mthcht/ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) – Awesome list of keywords and artifacts for Threat Hunting sessions
 - [pxlrbt/move-wsl](https://github.com/pxlrbt/move-wsl) – Easily move your WSL distros VHDX file to a new location.
+- [runs-on/runner-images-for-aws](https://github.com/runs-on/runner-images-for-aws) – GitHub Actions Runner images for AWS
 - [simeononsecurity/Windows-Optimize-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Debloat) – Optimize and debloat Windows 10 and Windows 11 deployments according to best practices for maximum performance and privacy. The ultimate script for enhancing your Windows experience.
 - [tiobe/docker-github-runner-windows](https://github.com/tiobe/docker-github-runner-windows) – This repository will run the self-hosted github actions runners for Windows with Visual Studio 2022 buildtools installed by default.
 - [zoicware/DefenderProTools](https://github.com/zoicware/DefenderProTools) – Take Control Over Windows Defender
@@ -5545,6 +5546,7 @@
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
+- [xykt/NetQuality](https://github.com/xykt/NetQuality) – A script for network quality detection
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) – 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
