@@ -61,6 +61,7 @@
 - [Purescript](#purescript)
 - [Python](#python)
 - [Qml](#qml)
+- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Rpm Spec](#rpm-spec)
@@ -725,6 +726,7 @@
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) – a featureful union filesystem
 - [tstack/lnav](https://github.com/tstack/lnav) – Log file navigator
 - [upx/upx](https://github.com/upx/upx) – UPX - the Ultimate Packer for eXecutables
+- [vaeth/eix](https://github.com/vaeth/eix) – eix can access Gentoo portage ebuild information and description very quickly (using a local cache). It can also be used to access information on installed packages, local settings, and local and external overlays, and informs about changes in the tree
 - [variar/klogg](https://github.com/variar/klogg) – Really fast log explorer based on glogg project
 - [varnish/tinykvm](https://github.com/varnish/tinykvm) – VMM for native-performance sandboxing
 - [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) – A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
@@ -735,6 +737,7 @@
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 <div id="css"></div>
 
@@ -1566,7 +1569,7 @@
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [hueristiq/xsubfind3r](https://github.com/hueristiq/xsubfind3r) – A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available.
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) – A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
-- [hueristiq/xurls](https://github.com/hueristiq/xurls) – A command-line utility designed to extract specific parts of URLs.
+- [hueristiq/xurls](https://github.com/hueristiq/xurls) – A command-line utility for working with URLs.
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) – 🔍 Search anyone's digital footprint across 300+ websites
@@ -2110,6 +2113,7 @@
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) – Teldrive
 - [thegeeklab/url-parser](https://github.com/thegeeklab/url-parser) – Simple command-line URL parser
+- [thevxn/dish](https://github.com/thevxn/dish) – A lightweight monitoring service that efficiently checks socket connections and can be configured remotely.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
@@ -3936,6 +3940,12 @@
 
 - [pkgforge-dev/Pixelpulse2-AppImage](https://github.com/pkgforge-dev/Pixelpulse2-AppImage) – Pixelpulse2 is a user interface for analog systems exploration. [Maintainer=@sounddrill31]
 
+<div id="reason"></div>
+
+## Reason
+
+- [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
+
 <div id="rich-text-format"></div>
 
 ## Rich Text Format
@@ -4759,7 +4769,7 @@
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) – a smol tcp/ip stack
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) – GitHub action for pruning old GHCR container image versions.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) – A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
-- [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits and seccomp.
+- [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits, landlock and seccomp.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
