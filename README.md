@@ -360,6 +360,7 @@
 - [libyal/libqcow](https://github.com/libyal/libqcow) – Library and tools to access the QEMU Copy-On-Write (QCOW) image format
 - [libyal/libvmdk](https://github.com/libyal/libvmdk) – Library and tools to access the VMware Virtual Disk (VMDK) format
 - [lifenjoiner/wget-for-windows](https://github.com/lifenjoiner/wget-for-windows) – Windows native mod of GNU wget | GNU wget 的 Windows 原生适配
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) – Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [linux-audit/audit-userspace](https://github.com/linux-audit/audit-userspace) – Linux audit userspace repository
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) – zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
