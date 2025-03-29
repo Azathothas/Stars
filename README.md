@@ -3419,6 +3419,7 @@
 - [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) –  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [RemmyNine/Confusional](https://github.com/RemmyNine/Confusional) – Python tool to generate crafted JWTs, exploiting the algorithm confusion vulnerability in JWT signature validation.  Useful for security testing.
 - [RevoltSecurities/Dnsbruter](https://github.com/RevoltSecurities/Dnsbruter) – Dnsbruter is a powerful tool designed to perform active subdomain enumeration and discovery. It uses DNS resolution to efficiently bruteforce and identify potential subdomains for a given target domain. With its multithreading capability, users can control the concurrency level to speed up the process.
 - [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) – SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -4633,7 +4634,7 @@
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) – A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [pacwrap/pacwrap](https://github.com/pacwrap/pacwrap) – A package manager which facilitates Arch-based bubblewrap containers.
-- [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that translates JSON logs or logfmt logs into a pretty human-readable format.
+- [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
