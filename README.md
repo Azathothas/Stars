@@ -338,6 +338,7 @@
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
 - [keenerd/gz-sort](https://github.com/keenerd/gz-sort) – A utility for sorting really big files.  http://kmkeen.com/gz-sort/
+- [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -1158,7 +1159,7 @@
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) – Terminal countdown timer
 - [antonmedv/fx](https://github.com/antonmedv/fx) – Terminal JSON viewer & processor
 - [antonmedv/walk](https://github.com/antonmedv/walk) – Terminal file manager
-- [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network
+- [anywherelan/awl](https://github.com/anywherelan/awl) – Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) – A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) – OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [apernet/hysteria](https://github.com/apernet/hysteria) – Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -1840,6 +1841,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
+- [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 三网回程路由线路测试模块，基于 https://github.com/zhanghanyun/backtrace 的重构和优化，与原版存在很大不同
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
@@ -2564,7 +2566,7 @@
 - [macbre/phantomas](https://github.com/macbre/phantomas) – Headless Chromium-based web performance metrics collector and monitoring tool
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
-- [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by segfault
+- [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by https://thc.org/segfault
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) – Browser In The Browser (BITB) Templates
@@ -3161,6 +3163,7 @@
 - [poettering/diskomator](https://github.com/poettering/diskomator) – 🦠 NVMe-TCP at your fingertips 🦠
 - [pop3ret/AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) – My cheatsheet notes to pentest AWS infrastructure
 - [proabiral/Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers) – List of Hourly Updated Fresh DNS resolvers
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – A collection of MCP servers.
 - [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) – Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs) – Run your own privacy-first ad blocking service at home, or in the cloud for free with Google Cloud Services.
 - [ramit-mitra/blocklist-ipsets](https://github.com/ramit-mitra/blocklist-ipsets) – An IP list of bad actors targeting public infra like website, ssh endpoints, etc. 
@@ -4049,6 +4052,7 @@
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) – Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) – Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) – ☁️ OxiCloud server, efficient and secure way to save all your data
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) – A Graphical Interface for Distrobox
@@ -5280,7 +5284,6 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) – 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [kdabir/has](https://github.com/kdabir/has) – ✅ checks presence of various command line tools and their versions on the path 
 - [kenzok8/compile-package](https://github.com/kenzok8/compile-package) – small-package仓库，每日更新插件编译
-- [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
 - [kiddin9/packages-compile](https://github.com/kiddin9/packages-compile)
 - [kigster/bashmatic](https://github.com/kigster/bashmatic) – Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
@@ -5402,7 +5405,7 @@
 - [pkgforge-dev/PPSSPP-AppImage](https://github.com/pkgforge-dev/PPSSPP-AppImage) – Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]
 - [pkgforge-dev/android-tools-AppImage](https://github.com/pkgforge-dev/android-tools-AppImage) – Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]
 - [pkgforge-dev/flatimage-base](https://github.com/pkgforge-dev/flatimage-base) – Multi ARCH & Multi ROOTFS base images for FlatImage [Maintainer=@Azathothas]
-- [pkgforge-dev/ghostty-appimage](https://github.com/pkgforge-dev/ghostty-appimage) – 👻 ⚙️ AppImage for Ghostty Terminal Emulator
+- [pkgforge-dev/ghostty-appimage](https://github.com/pkgforge-dev/ghostty-appimage) – 👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]
 - [pkgforge-dev/llvm-libs-debloated](https://github.com/pkgforge-dev/llvm-libs-debloated) – Stripped down versions of several archlinux packages [Maintainer=@Samueru-sama] 
 - [pkgforge-dev/mpv-AppImage](https://github.com/pkgforge-dev/mpv-AppImage) – Unofficial AppImage of mpv [Maintainer=@Samueru-sama]
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
