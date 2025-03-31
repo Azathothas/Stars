@@ -2253,7 +2253,6 @@
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
 - [zan8in/afrog](https://github.com/zan8in/afrog) – A Security Tool for Bug Bounty, Pentest and Red Teaming.
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) – 4X Better IDE than Jupyterlab
 - [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker) – CLI tool for tracking dependents repositories and sorting result by Stars ⭐
 - [zerodaywolf/jsmap](https://github.com/zerodaywolf/jsmap) – Fetch Javascript sourcemaps, bounty hunter style
 - [zerotier/zerotier-systemd-manager](https://github.com/zerotier/zerotier-systemd-manager) – Manages systemd per-interface DNS resolution for zeronsd
@@ -3916,7 +3915,6 @@
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
 - [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity) – Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made, as well as regions, IP addresses and user agents they used.
-- [winblues/blue95](https://github.com/winblues/blue95) – A desktop for your childhood home's computer room
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) – A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) – Fluent theme for qBitTorrent
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File Downloader when Curl/Wget Fails
@@ -4406,6 +4404,7 @@
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) – This repository contains the scanner component for Greenbone Community Edition.
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
+- [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -5338,7 +5337,7 @@
 - [mingww64/HttpCanary-SSL-Magisk](https://github.com/mingww64/HttpCanary-SSL-Magisk) – HttpCanary with SSL support
 - [minnyres/aria2-windows-arm64](https://github.com/minnyres/aria2-windows-arm64) –  Build aria2 for Windows on ARM64 
 - [minos-org/minos-static](https://github.com/minos-org/minos-static) – static binaries for linux
-- [mintsuki/jinx](https://github.com/mintsuki/jinx) – Meta-build-system for bootstrapping operating system distributions.
+- [mintsuki/jinx](https://github.com/mintsuki/jinx) – Moved to codeberg: https://codeberg.org/mintsuki/jinx
 - [mitchweaver/bonsai](https://github.com/mitchweaver/bonsai) – :seedling: a tiny distro-independent package manager
 - [modded-ubuntu/modded-ubuntu](https://github.com/modded-ubuntu/modded-ubuntu) – Run Ubuntu GUI on your termux with much features.
 - [modernish/modernish](https://github.com/modernish/modernish) – Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
@@ -5546,6 +5545,7 @@
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wick3dr0se/archstrap](https://github.com/wick3dr0se/archstrap) – A stupid simple script to bootstrap Arch Linux from other Linux distributions
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) – apt-get for .debs published via GitHub or direct download 📦
+- [winblues/blue95](https://github.com/winblues/blue95) – A desktop for your childhood home's computer room
 - [winesapOS/winesapOS](https://github.com/winesapOS/winesapOS) – winesapOS - Game with Linux anywhere, no installation required!
 - [wireghoul/htshells](https://github.com/wireghoul/htshells) – Self contained htaccess shells and attacks
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) – Main package repository for production Wolfi images
@@ -5778,6 +5778,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) – Full Toolkit for Next-Level Domain Analysis
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – 4X Better IDE than Jupyterlab
 
 <div id="v"></div>
 
