@@ -61,7 +61,6 @@
 - [Purescript](#purescript)
 - [Python](#python)
 - [Qml](#qml)
-- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Rpm Spec](#rpm-spec)
@@ -185,6 +184,7 @@
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
+- [RazYang/NixImage](https://github.com/RazYang/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [RekGRpth/pg_curl](https://github.com/RekGRpth/pg_curl) – PostgreSQL tool for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS.
 - [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) – PostgreSQL and Greenplum job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -209,7 +209,6 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) – OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
-- [Zzorz/NixImage](https://github.com/Zzorz/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
@@ -437,7 +436,7 @@
 - [purplesyringa/docker-boot](https://github.com/purplesyringa/docker-boot) – Like `execve`, but for userspace
 - [pwnwriter/brainfuck](https://github.com/pwnwriter/brainfuck) – //: A simple brainfuck compiler for x86_64-linux in c.
 - [pwnwriter/ewm](https://github.com/pwnwriter/ewm) – 🌷 An elegant window manager, that just floats perfectly. 
-- [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
+- [pymumu/smartdns](https://github.com/pymumu/smartdns) – A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
 - [qemu/qemu](https://github.com/qemu/qemu) – Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
@@ -3917,6 +3916,7 @@
 - [wdahlenburg/werkzeug-debug-console-bypass](https://github.com/wdahlenburg/werkzeug-debug-console-bypass) – Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.
 - [webrtc-for-the-curious/webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious) – WebRTC for the Curious: Go beyond the APIs
 - [welldone-cloud/aws-summarize-account-activity](https://github.com/welldone-cloud/aws-summarize-account-activity) – Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made, as well as regions, IP addresses and user agents they used.
+- [winblues/blue95](https://github.com/winblues/blue95) – A desktop for your childhood home's computer room
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) – A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [witalihirsch/qBitTorrent-fluent-theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme) – Fluent theme for qBitTorrent
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) – Google Drive Public File Downloader when Curl/Wget Fails
@@ -3946,12 +3946,6 @@
 ## Qml
 
 - [pkgforge-dev/Pixelpulse2-AppImage](https://github.com/pkgforge-dev/Pixelpulse2-AppImage) – Pixelpulse2 is a user interface for analog systems exploration. [Maintainer=@sounddrill31]
-
-<div id="reason"></div>
-
-## Reason
-
-- [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
 
 <div id="rich-text-format"></div>
 
@@ -5411,6 +5405,7 @@
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
+- [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
