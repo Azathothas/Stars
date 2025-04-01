@@ -1840,7 +1840,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
-- [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 三网回程路由线路测试模块，基于 https://github.com/zhanghanyun/backtrace 的重构和优化，与原版存在很大不同
+- [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 三网回程路由线路测试模块
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
@@ -2554,7 +2554,7 @@
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+- [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
 - [liriliri/licia](https://github.com/liriliri/licia) – Useful utility collection with zero dependencies
