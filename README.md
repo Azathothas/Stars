@@ -179,6 +179,7 @@
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+- [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) – Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
@@ -1466,6 +1467,7 @@
 - [frantjc/forge](https://github.com/frantjc/forge) – Run reusable steps from proprietary CI systems.
 - [frioux/leatherman](https://github.com/frioux/leatherman) – Handy multitool that happens to be mostly Go
 - [fujiwara/awslim](https://github.com/fujiwara/awslim) – A simplified alternative to the AWS CLI for limited use cases.
+- [fujiwara/cfft](https://github.com/fujiwara/cfft) – cfft is a testing tool for CloudFront Functions.
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) – An interactive web UI for gRPC, along the lines of postman
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1792,6 +1794,7 @@
 - [mvdan/xurls](https://github.com/mvdan/xurls) – Extract urls from text
 - [mxpv/podsync](https://github.com/mxpv/podsync) – Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 - [mytechnotalent/turbo-attack](https://github.com/mytechnotalent/turbo-attack) – A turbo traffic generator pentesting tool to generate random traffic with random MAC and IP addresses in addition to random sequence numbers to a particular IP and port.
+- [myzie/burrow](https://github.com/myzie/burrow) – Burrow is a globally distributed HTTP proxy via AWS Lambda
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
@@ -1859,6 +1862,7 @@
 - [orcastor/unpack](https://github.com/orcastor/unpack) – 【WIP】📦 一款脱壳工具，能够识别并尝试脱除常见的PE壳，如UPX、ASPack等，帮助用户进行软件逆向工程和恶意软件分析。This is an unpacking tool that can identify and attempt to remove common PE shells like UPX and ASPack, aiding in software reverse engineering and malware analysis.
 - [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
+- [owasp-amass/resolve](https://github.com/owasp-amass/resolve) – DNS resolver pools written in Go
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) – Instant Terminal Sharing
 - [oz/tz](https://github.com/oz/tz) – 🌐 A time zone helper
@@ -2027,6 +2031,7 @@
 - [seekr-osint/seekr](https://github.com/seekr-osint/seekr) – A multi-purpose OSINT toolkit with a neat web-interface.
 - [segmentio/chamber](https://github.com/segmentio/chamber) – CLI for managing secrets
 - [selinuxG/Golin](https://github.com/selinuxG/Golin) – 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具、键盘记录器
+- [semihalev/sdns](https://github.com/semihalev/sdns) – A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 - [sensepost/goLAPS](https://github.com/sensepost/goLAPS) – Retrieve LAPS passwords from a domain. The tools is inspired in pyLAPS.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) – 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [seveas/herd](https://github.com/seveas/herd) – Massively parallel ssh client
@@ -2555,7 +2560,7 @@
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+- [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
 - [liriliri/licia](https://github.com/liriliri/licia) – Useful utility collection with zero dependencies
@@ -3383,6 +3388,7 @@
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) – A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) – Scots Army Knife for electronics
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) – Unified GUI Censorship Resistant Solution Powered by Xray
+- [Ground-Zerro/DomainMapper](https://github.com/Ground-Zerro/DomainMapper) – A tool for scanning and resolving DNS names into IP addresses
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) – Reverse proxies cheatsheet
 - [Hamz-a/frida-android-helper](https://github.com/Hamz-a/frida-android-helper) – Frida Android utilities
 - [Hamz-a/jeb4frida](https://github.com/Hamz-a/jeb4frida) – Generate Frida hooks directly from JEB!
@@ -4220,6 +4226,7 @@
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) – Distributed systems runtime daemon written in Rust.
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
 - [aws/aperf](https://github.com/aws/aperf) – A CLI tool to gather performance data and visualize using HTML graphs. Data from multiple collection runs can be viewed side-by-side, allowing for easy comparison of the same workload across different system configurations.
+- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) – A Rust runtime for AWS Lambda
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) – AWS SDK for the Rust Programming Language
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) – A command line interface for Amazon EBS snapshots
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) – A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
@@ -4499,6 +4506,7 @@
 - [kpcyrd/sh4d0wup](https://github.com/kpcyrd/sh4d0wup) – Signing-key abuse and update exploitation framework
 - [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) – Semi-automatic OSINT framework and package manager
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
+- [krtab/agnos](https://github.com/krtab/agnos) – Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
@@ -5225,6 +5233,7 @@
 - [gobolinux/Recipes](https://github.com/gobolinux/Recipes) – The GoboLinux recipes repository
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
+- [guimspace/fopus](https://github.com/guimspace/fopus) – A one-liner command to archive, compress, encrypt, split and sign files.
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.0 For Termux , Version : 2.11.0 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
@@ -5372,6 +5381,7 @@
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [nmimusic/unifetch](https://github.com/nmimusic/unifetch) – An unofficial inheritor of Neofetch
+- [noahbliss/mortar](https://github.com/noahbliss/mortar) – Framework to join Linux's physical security bricks. 
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
 - [nomadicmehul/CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) – Welcome to CloudCaptain, your one-stop-shop for all things cloud-related!
 - [nullenc0de/pci-segtest](https://github.com/nullenc0de/pci-segtest) – A network segmentation and egress control testing tool for PCI DSS v4.0 compliance. Automatically discovers network segments, validates isolation between environments, and identifies potential data exfiltration channels. Designed for security teams to perform thorough and efficient compliance validation of cardholder data environments.
@@ -5436,6 +5446,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) – Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [redraw/gh-install](https://github.com/redraw/gh-install) – install GitHub release binaries from the CLI interactively
 - [referefref/canarytokendetector](https://github.com/referefref/canarytokendetector) – Detect and remove the presence of canary tokens
+- [rehanvdm/tailscale-lambda-extension](https://github.com/rehanvdm/tailscale-lambda-extension) – A CDK construct that creates an AWS Lambda Layer containing Tailscale binaries, enabling Lambda functions to connect to your Tailscale network.
 - [reinterpretcat/lfs](https://github.com/reinterpretcat/lfs) – Docker configuration for building Linux From Scratch system
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
@@ -5455,6 +5466,7 @@
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) – a radical and experimental distribution based on musl libc and busybox
+- [sahsanu/lectl](https://github.com/sahsanu/lectl) – Script to check issued certificates by Let's Encrypt on CTL (Certificate Transparency Log) using https://crt.sh
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
@@ -5478,7 +5490,7 @@
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
 - [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
@@ -5758,6 +5770,7 @@
 - [probot/probot](https://github.com/probot/probot) – 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) – :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [rehanvdm/tailscale-lambda-proxy](https://github.com/rehanvdm/tailscale-lambda-proxy) – A CDK construct that creates an AWS Lambda Function acting as a transparent proxy to your Tailscale network.
 - [rejetto/hfs](https://github.com/rejetto/hfs) – HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system.
 - [richartkeil/notion-guardian](https://github.com/richartkeil/notion-guardian) – 🛡✍️ Keeps your Notion workspace safe and version controlled at all times.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) – record and replay the web
