@@ -812,6 +812,7 @@
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
 - [Mosc/Glider](https://github.com/Mosc/Glider) – Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) – 💊 Application to use ReVanced on Android 
+- [RyanYuuki/AnymeX](https://github.com/RyanYuuki/AnymeX) – An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)
 - [atsign-foundation/noports](https://github.com/atsign-foundation/noports) – Connect to any device with no external listening ports open
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
@@ -3184,6 +3185,7 @@
 - [shantanu-sarkar/CustomROM](https://github.com/shantanu-sarkar/CustomROM) – Basic guide to build custom android ROM for smartphones
 - [shreshta-labs/newly-registered-domains](https://github.com/shreshta-labs/newly-registered-domains) – This repository contains lists of newly registered domain names updated daily.
 - [shutingrz/busybox-static-binaries-fat](https://github.com/shutingrz/busybox-static-binaries-fat)
+- [sirpdboy/openwrt](https://github.com/sirpdboy/openwrt) – openwrt
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) – Awesome list dedicated to Windows Subsystem for Linux
 - [six2dez/pentest-book](https://github.com/six2dez/pentest-book)
 - [six2dez/resolvers_reconftw](https://github.com/six2dez/resolvers_reconftw) – Resolvers updated daily for reconftw
@@ -5464,6 +5466,7 @@
 - [shaka-project/static-ffmpeg-binaries](https://github.com/shaka-project/static-ffmpeg-binaries) – Static binaries of FFmpeg, for multiple OS & CPU combinations, built from source in a GitHub Actions workflow.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
+- [sirpdboy/luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard) – 网络设置向导 一键设置IPV4/IPV6 旁路由 拨号 DHCP服务 静态IP  增加 自定义防火墙设置 增加 SYN-flood 防洪水攻击设置 增加 IP动态伪装设置 增加 DHCP服务开启和DNS服务通告等实用功能 真正实现傻瓜化一键调试上网。
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) – reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS) – Any Linux distribution, anywhere.
@@ -5670,6 +5673,7 @@
 - [bebiksior/EvenBetterExtensions](https://github.com/bebiksior/EvenBetterExtensions) – EvenBetterExtensions allows you to quicky install and keep updated Caido extensions.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) – Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [berty/berty](https://github.com/berty/berty) – Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [bknd-io/bknd](https://github.com/bknd-io/bknd) – Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [brioche-dev/brioche-packages](https://github.com/brioche-dev/brioche-packages) – Brioche packages, which get auto-published to the Brioche Registry
 - [browserless/browserless](https://github.com/browserless/browserless) – Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [caido-community/workflows](https://github.com/caido-community/workflows) – 🛠️ Workflows created by the community
