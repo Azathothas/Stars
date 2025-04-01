@@ -2613,6 +2613,7 @@
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – A calmer internet, without any gimmicks.
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
@@ -4979,7 +4980,7 @@
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [Homebrew/install](https://github.com/Homebrew/install) – 📥 Homebrew (un)installer
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
-- [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – An OS built with the Ironclad kernel and GNU tools
+- [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – Mirror of codeberg's repository
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) – The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
 - [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) – Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host
@@ -5062,6 +5063,7 @@
 - [VHSgunzo/runimage-repo](https://github.com/VHSgunzo/runimage-repo) – Repository for RunImage container with precompiled packages
 - [VHSgunzo/runimage-rootfs](https://github.com/VHSgunzo/runimage-rootfs) – Rootfs configuration for RunImage container
 - [VHSgunzo/runimage-static](https://github.com/VHSgunzo/runimage-static) – Statically compiled binaries for runimage
+- [VHSgunzo/runimage-uruntime](https://github.com/VHSgunzo/runimage-uruntime) – uruntime for RunImage container
 - [VHSgunzo/rust-alpine-mimalloc](https://github.com/VHSgunzo/rust-alpine-mimalloc)
 - [VHSgunzo/sharun](https://github.com/VHSgunzo/sharun) – Run dynamically linked ELF binaries everywhere
 - [VHSgunzo/squashfs-tools-static](https://github.com/VHSgunzo/squashfs-tools-static) – Statically linked squashfs-tools compiled with musl libc
