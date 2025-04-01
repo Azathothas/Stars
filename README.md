@@ -1226,6 +1226,7 @@
 - [bjesus/pipet](https://github.com/bjesus/pipet) – Swiss-army tool for scraping and extracting data from online assets, made for hackers 
 - [blacknon/lssh](https://github.com/blacknon/lssh) – lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
+- [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) – A TUI bluetooth manager for Linux.
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) – net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. 
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [bokysan/socketace](https://github.com/bokysan/socketace) – Your ultimate connection proxy. Proxy connections over websockets / UDP / DNS. Wrap connections in SSL/TLS. Auto-connect over best possible channel. 
@@ -1354,7 +1355,6 @@
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
 - [dark-warlord14/CVENotifier](https://github.com/dark-warlord14/CVENotifier) – Customized CVE FEED Notifier
-- [darkhz/bluetuith](https://github.com/darkhz/bluetuith) – A TUI bluetooth manager for Linux.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) – It's like curl -v, with colours. 
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) – Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) – Your shell history: synced, queryable, and in context
