@@ -125,6 +125,7 @@
 
 ## Batchfile
 
+- [DesktopECHO/Pi-Hole-for-WSL1](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) – Ad-blocking DNS server for Windows • Unbound pre-configured • Deployment ready in minutes • Does not require hypervisor/docker
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) – A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) – Easily configure Microsoft Edge, the way you want it!
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) – An open source tool to activate and reset trial of Internet Download Manager
@@ -180,11 +181,13 @@
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) – Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
+- [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) – Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
 - [QQxiaoming/QFSViewer](https://github.com/QQxiaoming/QFSViewer) – QFSViewer is a small tool for developers to view the contents of various file system raw image files, which does not rely on the operating system mounting, does not require permission requests, and is completed entirely within the software application. Based on this feature, the tool can easily run on windows/linux/macos.
+- [RaynerSec/Hyper-V-Switch](https://github.com/RaynerSec/Hyper-V-Switch) – This Program Enables And Disables Hyper-V Hypervisor So You Can Use Other Virtualisation Tools Such As (VMware, VirtualBox) Simultaneously.
 - [RazYang/NixImage](https://github.com/RazYang/NixImage) – Run nix packages anywhere, inspired by appimage.
 - [RekGRpth/pg_curl](https://github.com/RekGRpth/pg_curl) – PostgreSQL tool for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS.
 - [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) – PostgreSQL and Greenplum job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously
@@ -391,6 +394,7 @@
 - [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) – eBPF implementation that runs on top of Windows
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) – mimalloc is a compact general purpose allocator with excellent performance.
 - [microsoft/ntttcp](https://github.com/microsoft/ntttcp)
+- [mintty/wsltty](https://github.com/mintty/wsltty) – Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [mirror/busybox](https://github.com/mirror/busybox) – BusyBox mirror
 - [mkj/dropbear](https://github.com/mkj/dropbear) – Dropbear SSH
 - [mlcsec/proctools](https://github.com/mlcsec/proctools) – Small toolkit for extracting information and dumping sensitive strings from Windows processes
@@ -442,6 +446,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) – A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+- [rc-chuah/Hyper-V-Switch](https://github.com/rc-chuah/Hyper-V-Switch) – This Program Enables And Disables Hyper-V Hypervisor So You Can Use Other Virtualisation Tools Such As (VMware, VirtualBox) Simultaneously.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
 - [rhash/RHash](https://github.com/rhash/RHash) – Great utility for computing hash sums
@@ -583,6 +588,7 @@
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) – PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [reconness/reconness](https://github.com/reconness/reconness) – ReconNess is a platform to allow continuous recon (CR) where you can set up a pipeline of #recon tools (Agents) and trigger it base on schedule or events.
 - [redcode-labs/easyWSL](https://github.com/redcode-labs/easyWSL) – Create WSL distros based on Docker Images.
+- [sirredbeard/wslinternals](https://github.com/sirredbeard/wslinternals) – A collection of some nifty WSL-related utilities
 - [slskd/slskd](https://github.com/slskd/slskd) – A modern client-server application for the Soulseek file sharing network.
 - [snltty/p2p-tunnel](https://github.com/snltty/p2p-tunnel) – .NET7 Socket NAT transfer，UDP,TCP punch hole，tcp forward，udp forward，http1.1 proxy，socks5 proxy，networking
 - [warp-plus-cloudflare/gui](https://github.com/warp-plus-cloudflare/gui) – Windows GUI app for getting unlimited GB on Warp+ https://1.1.1.1
@@ -597,6 +603,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) – Transparent file encryption in git
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) – Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) – Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
+- [AlmaLinux/wsl-images](https://github.com/AlmaLinux/wsl-images) – Visual Studio solution and kickstart file to generate WSL images and the associated appx.
 - [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
@@ -622,11 +629,13 @@
 - [System64fumo/sysshell](https://github.com/System64fumo/sysshell) – Generic shell for wayland
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) – Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [UltimMC/Launcher](https://github.com/UltimMC/Launcher) – Offline Minecraft launcher.
+- [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) – This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy.
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) – Compatibility tool for Steam Play based on Wine and additional components
 - [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) – Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 - [Vizonex/wincut](https://github.com/Vizonex/wincut) – An Alternative Duplicut tool for Windows
 - [WebAssembly/wabt](https://github.com/WebAssembly/wabt) – The WebAssembly Binary Toolkit
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) – 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WhitewaterFoundry/Fedora-Remix-for-WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) – Fedora Remix for Windows Subsystem for Linux.
 - [ac3ss0r/obfusheader.h](https://github.com/ac3ss0r/obfusheader.h) – Obfusheader.h is a portable header file for C++14 compile-time obfuscation.
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) – software version control visualization
 - [adelamodwala/jist](https://github.com/adelamodwala/jist) – Search a JSON path and get the value fast
@@ -660,6 +669,7 @@
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) – Stream virtual desktops and games running in Docker
+- [gershnik/wsdd-native](https://github.com/gershnik/wsdd-native) – Make your Linux/macOS/BSD/illumos machine visible in Network view of Windows Explorer
 - [godotengine/godot](https://github.com/godotengine/godot) – Godot Engine – Multi-platform 2D and 3D game engine
 - [google/nsjail](https://github.com/google/nsjail) – A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [google/re2](https://github.com/google/re2) – RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
@@ -818,6 +828,7 @@
 - [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) – A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) – A GUI to quickly manage your WSL2 instances
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) – A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) – Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) – An Open source app to download and read books from shadow library (Anna’s Archive)
 - [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) – An app to stream and download anime
@@ -1001,6 +1012,7 @@
 - [FalconOpsLLC/udpz](https://github.com/FalconOpsLLC/udpz) – Speedy probe-based UDP service scanner
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/sunlight](https://github.com/FiloSottile/sunlight) – A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
+- [Finatext/lapper](https://github.com/Finatext/lapper) – Lapper is a wrapper programs for Container running on Lambda. (Beta)
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) – Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [Forest33/warthog](https://github.com/Forest33/warthog) – Cross platform gRPC GUI client
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) – :computer: :lock: :key: Secure Boot key manager
@@ -1233,6 +1245,7 @@
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [bokysan/socketace](https://github.com/bokysan/socketace) – Your ultimate connection proxy. Proxy connections over websockets / UDP / DNS. Wrap connections in SSL/TLS. Auto-connect over best possible channel. 
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) – Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
+- [bombsimon/wsl](https://github.com/bombsimon/wsl) – ␊ Whitespace Linter - Forces you to use empty lines!
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) – Format agnostic SBOM tooling
 - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) – boostsecurityio/poutine
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
@@ -1383,6 +1396,7 @@
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
 - [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) – Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
+- [dokku/lambda-builder](https://github.com/dokku/lambda-builder) – A tool for building lambda function images or zips via Docker
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
 - [donknap/dpanel](https://github.com/donknap/dpanel) – 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [doxx/darkflare](https://github.com/doxx/darkflare) – DarkFlare Firewall Piercing (TCP over CDN)
@@ -1506,6 +1520,7 @@
 - [go-gost/gost-plus](https://github.com/go-gost/gost-plus) – A cross-platform GUI client for gost.plus.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) – A CLI tool for building Go applications.
 - [go-task/task](https://github.com/go-task/task) – A task runner / simpler Make alternative written in Go
+- [go-to-k/lamver](https://github.com/go-to-k/lamver) – The CLI tool to search AWS Lambda runtime and versions across regions.
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
@@ -1650,6 +1665,7 @@
 - [kahing/goofys](https://github.com/kahing/goofys) – a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) – The immutable Linux meta-distribution for edge Kubernetes.
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
+- [karl-cardenas-coding/go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) – 🚧 go-lambda-cleanup - A solution for removing previous versions of AWS Lambdas
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) – E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [keilerkonzept/dockerfile-json](https://github.com/keilerkonzept/dockerfile-json) – 🐳 parse & print a Dockerfile as JSON, query (e.g. extract base images) using JSONPath.
@@ -2303,7 +2319,6 @@
 - [developer-macos/LinuxAppStoreRem](https://github.com/developer-macos/LinuxAppStoreRem) – The Remastered version of Linux App Store.   [ Current Status: alpha 0.0.1   ]
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) – 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [ebelinski/apilevels](https://github.com/ebelinski/apilevels) – A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
 - [evolvingweb/sitediff](https://github.com/evolvingweb/sitediff) – SiteDiff makes it easy to see differences between two versions of a website.
 - [fossology/fossology](https://github.com/fossology/fossology) – FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
@@ -2475,7 +2490,7 @@
 - [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) – Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms.
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
-- [AnagataCetana/insomnium](https://github.com/AnagataCetana/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
@@ -2530,6 +2545,7 @@
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) – Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) – 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -2560,7 +2576,7 @@
 - [laxyapahuja/bunken](https://github.com/laxyapahuja/bunken) – A chrome extension to download ebooks directly from Goodreads.
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) – Virtual Machine for the Web
 - [leungwensen/svg-icon](https://github.com/leungwensen/svg-icon) – An ultimate SVG icons collection DONE RIGHT, with over 10,000 SVG icons out of the box.
-- [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) – 基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+- [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) – 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
 - [liriliri/chii](https://github.com/liriliri/chii) – Remote debugging tool
 - [liriliri/eruda](https://github.com/liriliri/eruda) – Console for mobile browsers
 - [liriliri/licia](https://github.com/liriliri/licia) – Useful utility collection with zero dependencies
@@ -2779,6 +2795,7 @@
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
 
 <div id="markdown"></div>
 
@@ -2926,7 +2943,7 @@
 - [BlackFan/content-type-research](https://github.com/BlackFan/content-type-research) – Content-Type Research
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) – Potentially dangerous files
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
-- [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A list of interesting open-source security tools, mostly reviewed and commented by me.
+- [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A curated list of intriguing open-source security tools, with my reviews and insights.
 - [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – A list of bizarre crackmes
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 15!
@@ -3001,6 +3018,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) – A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) – A topic-centric list of HQ open datasets.
+- [aws/aws-lambda-base-images](https://github.com/aws/aws-lambda-base-images)
 - [ayoubfathi/leaky-paths](https://github.com/ayoubfathi/leaky-paths) – A collection of special paths linked to common sensitive APIs, devops internals, frameworks conf, known misconfigurations, juicy APIs ..etc. It could be used as a part of web content discovery, to scan passively for high-quality endpoints and quick-wins.
 - [birajkarki/birajkarki](https://github.com/birajkarki/birajkarki) – My personal repository
 - [bishalcpgn/terminal-shortcuts](https://github.com/bishalcpgn/terminal-shortcuts)
@@ -3103,6 +3121,7 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
 - [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
+- [kkbo8005/mitan](https://github.com/kkbo8005/mitan) – 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、端口扫描、批量信息权重查询、密码字典等功能
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
@@ -3306,6 +3325,7 @@
 - [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – Dominate Active Directory with PowerShell. Inspired by CrackMapExec / NetExec.
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
+- [andyrids/alpine-wsl-dev](https://github.com/andyrids/alpine-wsl-dev) – Alpine Linux on WSL2 dev environment setup
 - [arcadesdude/BRU](https://github.com/arcadesdude/BRU) – Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-11 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10/11+ UWP/Metro/Modern/Windows Store apps and provisioned apps.
 - [catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent) – 🧲 Soothing pastel theme for qBittorrent 
 - [d4t4s3c/OffensiveReverseShellCheatSheet](https://github.com/d4t4s3c/OffensiveReverseShellCheatSheet) – Collection of reverse shells for red team operations.
@@ -3505,6 +3525,7 @@
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) – Produce redistributable builds of Python
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
+- [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) – CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -4543,6 +4564,7 @@
 - [mattwparas/steel](https://github.com/mattwparas/steel) – An embedded scheme interpreter in Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
 - [maxcurzi/tplay](https://github.com/maxcurzi/tplay) – A terminal ASCII media player. View images, gifs, videos, webcam, YouTube, etc.. directly in the terminal as ASCII art.
+- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) – Lambda Cold Starts analysis, updated daily
 - [maxomatic458/quic-send](https://github.com/maxomatic458/quic-send) – A quic based peer-to-peer file transfer tool
 - [mcandre/unmake](https://github.com/mcandre/unmake) – a makefile linter
 - [mdsteele/rust-ar](https://github.com/mdsteele/rust-ar) – Rust library for encoding/decoding Unix archive (.a) files
@@ -4931,6 +4953,7 @@
 - [SystemCrafters/guix-installer](https://github.com/SystemCrafters/guix-installer) – A GNU Guix installer image with the full Linux kernel!
 - [abcdw/rde](https://github.com/abcdw/rde) – Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/
 - [gambit/gambit](https://github.com/gambit/gambit) – Gambit is an efficient implementation of the Scheme programming language.
+- [giuliano108/guix-packages](https://github.com/giuliano108/guix-packages) – Guix on WSL2, packages and notes
 - [nicolas-graves/dotfiles](https://github.com/nicolas-graves/dotfiles) – My dotfiles, on the shoulders of guix and rde 
 - [scheme/scsh](https://github.com/scheme/scsh) – A Unix shell embedded in scheme
 - [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) – A portable, compact and extensible Scheme implementation that is fully R4RS compliant. This includes closures, I/O, tail calls, first-class continuations and a Read Eval Print Loop (REPL). The R4RS Scheme REPL fits inside 6.5Kb !
@@ -5004,6 +5027,7 @@
 - [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
 - [LloydAsp/NodeBench](https://github.com/LloydAsp/NodeBench) – vps聚合测试脚本，直接输出排版好的markdown格式，方便粘贴
 - [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) – Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
+- [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) – Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build & Release are automated by Github Action.
 - [M0Rf30/PKGBUILD](https://github.com/M0Rf30/PKGBUILD) – robertfoster's PKGBUILD
 - [Macmod/CloudPersist](https://github.com/Macmod/CloudPersist) – A collection of simple scripts to achieve persistence quick in cloud environments without generating too much noise.
 - [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro) – install linux distributions on android 
@@ -5153,6 +5177,7 @@
 - [cheusov/paexec](https://github.com/cheusov/paexec) – paexec - distributes tasks over network or CPUs
 - [cheusov/pkg_summary-utils](https://github.com/cheusov/pkg_summary-utils) – A collection of utilities for manipulating pkgsrc summary files
 - [cheusov/pkgnih](https://github.com/cheusov/pkgnih) – Package manager for PkgSrc
+- [clearlinux/dockerfiles](https://github.com/clearlinux/dockerfiles) – Clear Linux-based Docker containers
 - [clion007/adss](https://github.com/clion007/adss) – 全自动 DNS 智能脚本（ADSS），重新启用，项目更名为ADSS，进行重大调整升级后镜像至gitcode和gitee，方便国内网络环境使用。
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) – 🚀 Geodesic is a DevOps Linux Toolbox in Docker
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) – A conda-forge distribution.
@@ -5202,6 +5227,7 @@
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
 - [ethack/tht](https://github.com/ethack/tht) – Threat Hunting Toolkit is a Swiss Army knife for threat hunting, log processing, and security-focused data science
 - [fcolista/apkfile](https://github.com/fcolista/apkfile) – Search files inside various version of Alpine Linux packages 
+- [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) – Bootstrap your Ubuntu in a single command!
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
@@ -5224,6 +5250,7 @@
 - [gameimage/runners](https://github.com/gameimage/runners) – Runners used by GameImage
 - [games-on-whales/gow](https://github.com/games-on-whales/gow) – A collection of Dockerized games and apps like Steam, Firefox and Retroarch
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
+- [gbraad-tailscale/tailscale-tailwings](https://github.com/gbraad-tailscale/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) – Uses Git to upload only changed files to FTP servers.
@@ -5477,6 +5504,14 @@
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
 - [shaka-project/static-ffmpeg-binaries](https://github.com/shaka-project/static-ffmpeg-binaries) – Static binaries of FFmpeg, for multiple OS & CPU combinations, built from source in a GitHub Actions workflow.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) – Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+- [sileshn/AlpineWSL2](https://github.com/sileshn/AlpineWSL2) – Alpine Linux Edge for WSL2 using wsldl
+- [sileshn/ArchWSL2](https://github.com/sileshn/ArchWSL2) – Archlinux for WSL2 using wsldl
+- [sileshn/DebianSidWSL2](https://github.com/sileshn/DebianSidWSL2) – Debian Sid for WSL2 using wsldl
+- [sileshn/ElementaryWSL2](https://github.com/sileshn/ElementaryWSL2) – ElementaryOS on wsl2 using wsldl
+- [sileshn/EndeavourOSWSL2](https://github.com/sileshn/EndeavourOSWSL2) – EndeavourOS for WSL2 using wsldl
+- [sileshn/LinuxmintWSL2](https://github.com/sileshn/LinuxmintWSL2) – Linux mint on wsl2 using wsldl
+- [sileshn/ManjaroWSL2](https://github.com/sileshn/ManjaroWSL2) – Manjaro for WSL2 using wsldl
+- [sileshn/RhinoLinuxWSL2](https://github.com/sileshn/RhinoLinuxWSL2) – Rhino Linux for WSL2 using wsldl
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) – Pretty, minimal and fast ZSH prompt
 - [sirpdboy/luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard) – 网络设置向导 一键设置IPV4/IPV6 旁路由 拨号 DHCP服务 静态IP  增加 自定义防火墙设置 增加 SYN-flood 防洪水攻击设置 增加 IP动态伪装设置 增加 DHCP服务开启和DNS服务通告等实用功能 真正实现傻瓜化一键调试上网。
 - [six2dez/OneListForAll](https://github.com/six2dez/OneListForAll) – Rockyou for web fuzzing
@@ -5491,9 +5526,9 @@
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
-- [spotsnel/tailscale-tailwings](https://github.com/spotsnel/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
+- [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [srvrco/getssl](https://github.com/srvrco/getssl) – obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers. 
 - [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
