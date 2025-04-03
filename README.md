@@ -183,6 +183,7 @@
 - [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) – Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) – Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
+- [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) – Tree for Unix/LInux
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
 - [PangBaiWork/Dowork](https://github.com/PangBaiWork/Dowork) – Run GNU/Linux on Android  (all in one)
 - [Projeto-Pindorama/heirloom-ng](https://github.com/Projeto-Pindorama/heirloom-ng) – A collection of  standard Unix utilities that is intended to provide maximum compatibility with traditional Unix while incorporating additional features necessary today.
@@ -2374,6 +2375,7 @@
 
 ## Hcl
 
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) – Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [Cyclenerd/google-cloud-server-on-demand](https://github.com/Cyclenerd/google-cloud-server-on-demand) – ▶️ Server on Demand Appliance (Google Compute Engine) - Cloud Build with Terraform and Ansible Showcase
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) – SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [Sprocket-Security/gigaproxy](https://github.com/Sprocket-Security/gigaproxy) – One proxy to rule them all
@@ -5262,6 +5264,7 @@
 - [garywill/linux-router](https://github.com/garywill/linux-router) – Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ 
 - [gbraad-tailscale/tailscale-tailwings](https://github.com/gbraad-tailscale/tailscale-tailwings) – Run a Personal VPN with global exit nodes and proxy via Tailscale IPN
 - [getnf/getnf](https://github.com/getnf/getnf) – A better way to install Nerd Fonts
+- [gh0st-work/clear-linux-wsl](https://github.com/gh0st-work/clear-linux-wsl) – Clear Linux Windows WSL Installation
 - [gh2o/bash_tls](https://github.com/gh2o/bash_tls) – A minimal TLS 1.2 client implementation in a pure Bash script
 - [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) – Uses Git to upload only changed files to FTP servers.
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
