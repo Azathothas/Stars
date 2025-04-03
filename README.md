@@ -572,6 +572,7 @@
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) – The real PowerToys for Windows 11
 - [dantmnf/WSLAttachSwitch](https://github.com/dantmnf/WSLAttachSwitch) – Attach the WSL2 virtual machine to a Hyper-V virtual switch.
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) – Graphical GREP tool for Windows
+- [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) – Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [dotnettools/SharpGrabber](https://github.com/dotnettools/SharpGrabber) – Download from YouTube, Vimeo, HLS (M3U8 files) and more with .NET and JavaScript - Library and desktop app for downloading high quality media
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) – Tunnel TCP connections through a file
 - [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) – Use multiple computers using one set of monitors, mouse and keyboard
@@ -1047,6 +1048,7 @@
 - [LeanerCloud/ec2-instances-info](https://github.com/LeanerCloud/ec2-instances-info) – Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) – OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) – Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) – A TUI for reading logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods for quick viewing and filtering with fuzzy find, regex support and coloring the output, written in Go with the gocui.
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) – 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [M0Rf30/yap](https://github.com/M0Rf30/yap) – Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
@@ -1110,6 +1112,7 @@
 - [Vanilla-OS/Vib](https://github.com/Vanilla-OS/Vib) – Vib (Vanilla Image Builder) is a tool that allow generating Containerfile(s) using a Flatpak-like recipe and syntax.
 - [Vanilla-OS/apx](https://github.com/Vanilla-OS/apx) – Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) – 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) – VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [WHOISshuvam/gotld](https://github.com/WHOISshuvam/gotld) – Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.
 - [WangYihang/Platypus](https://github.com/WangYihang/Platypus) – :hammer: A modern multiple reverse shell sessions manager written in go
 - [WangYihang/Proxy-Verifier](https://github.com/WangYihang/Proxy-Verifier) – A set of tools designed to efficiently and effectively locate publicly available proxy server resources.
@@ -1527,6 +1530,7 @@
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) – Auditing for TLS certificates (Go code)
+- [google/codesearch](https://github.com/google/codesearch) – Fast, indexed regexp search over large file trees
 - [google/deps.dev](https://github.com/google/deps.dev) – Resources for the deps.dev API
 - [google/fscrypt](https://github.com/google/fscrypt) – Go tool for managing Linux filesystem encryption
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
@@ -2152,6 +2156,7 @@
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) – A collection of hacks and one-off scripts
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) – Fetch many paths for many hosts - without killing the hosts
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) – Pull out bits of URLs provided on stdin
+- [tongson/taarr](https://github.com/tongson/taarr) – Shell script manager for remote/local/container invocations in a <3MiB statically-linked executable.
 - [tonistiigi/binfmt](https://github.com/tonistiigi/binfmt) – Cross-platform emulator collection distributed with Docker images.
 - [tonymet/gcloud-lite](https://github.com/tonymet/gcloud-lite) – gcloud-lite is a distribution of the google cloud platform (GCP) CLI that strips unnecessary dependencies to reduce the size by > 75%, with significant cost & time savings.
 - [tractordev/wanix](https://github.com/tractordev/wanix) – A virtual environment kit for the local-first web, inspired by Plan 9
@@ -2766,6 +2771,7 @@
 - [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) – Official Alpine Linux Docker image. Win at minimalism!
 - [apache/apisix](https://github.com/apache/apisix) – The Cloud-Native API Gateway and AI Gateway
 - [face-hh/griddycode](https://github.com/face-hh/griddycode) – A code editor made with Godot. Code has never been more lit!
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) – Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [metis-os/Releases](https://github.com/metis-os/Releases) – 🐧 Releases: Latest iso of metis linux
 - [ntop/ntopng](https://github.com/ntop/ntopng) – Web-based Traffic and Security Network Traffic Monitoring
 - [pwnwriter/pwnvim](https://github.com/pwnwriter/pwnvim) – 👾 Neo(vim), the less is more.
@@ -4886,6 +4892,7 @@
 - [w4/pisshoff](https://github.com/w4/pisshoff) – 🧸 fully isolated honeypot ssh server using thrussh
 - [walles/riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) – Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) – 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) – Executes commands in response to file modifications
 - [westandskif/rate-mirrors](https://github.com/westandskif/rate-mirrors) – Everyday-use client-side map-aware mirror ranking tool (Arch Linux; Manjaro; custom ones)
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
@@ -4976,8 +4983,10 @@
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
+- [AzureZeng/wsl-arch-rootfs](https://github.com/AzureZeng/wsl-arch-rootfs) – Automatic build minimal Arch Linux WSL2 rootfs, using pacstrap
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) – A community Bash framework.
 - [Bikoil/ApkCLI](https://github.com/Bikoil/ApkCLI) – A  CLI Package manager for Android APK
+- [BlackArch/blackarch](https://github.com/BlackArch/blackarch) – An ArchLinux based distribution for penetration testers and security researchers.
 - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) – Notflix is a shell script to search and stream torrent.
 - [BuildAPKs/buildAPKs](https://github.com/BuildAPKs/buildAPKs) – Really quickly build APKs on handheld device (smartphone and tablet) in Amazon, Android, Chromebook, PRoot and Windows📲  See https://buildapks.github.io/docsBuildAPKs/setup to start building APKs.
 - [CH3NGYZ/tailscale-openwrt](https://github.com/CH3NGYZ/tailscale-openwrt) – tailscale on openwrt 一键部署脚本
@@ -5129,6 +5138,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
+- [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) – Make customized Alpine Linux rootfs (base image) for containers
 - [amrsa1/Android-Emulator-image](https://github.com/amrsa1/Android-Emulator-image) – The use of this Docker image simplifies the process of running an Android emulator within a Docker container
 - [anasfanani/Magisk-Tailscaled](https://github.com/anasfanani/Magisk-Tailscaled) – Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
@@ -5464,6 +5474,7 @@
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
 - [rafi/awesome-cli-binaries](https://github.com/rafi/awesome-cli-binaries) – Popular modern Linux CLI utilities, with pre-made statically compiled amd64/arm64 binaries and a great ~/.config starting point 🎉
 - [raoshaab/Pen-Andro](https://github.com/raoshaab/Pen-Andro) – Script to Automate installtion of Apps ,frida server and moving Burpsuite certificate to root folder
+- [rayae/easy-arch-wsl](https://github.com/rayae/easy-arch-wsl) – 更适合中国宝宝体质的运行在 WSL 上的 Arch Linux (Arch for WSL) 
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) – Simplified and community-driven man pages
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) – ⚡ preexec and precmd functions for Bash just like Zsh. 
 - [rdavid/shellbase](https://github.com/rdavid/shellbase) – The framework is specifically designed for Unix shell scripts.
@@ -5544,6 +5555,7 @@
 - [tamatebako/tebako-ci-containers](https://github.com/tamatebako/tebako-ci-containers) – Docker containers with preinstalled Tebako packaging environment
 - [tamimhasan404/Open-Source-Nuclei-Templates-Downloader](https://github.com/tamimhasan404/Open-Source-Nuclei-Templates-Downloader) – Script that download 37+ open source nuclei templates
 - [tclahr/uac](https://github.com/tclahr/uac) – UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.
+- [tcler/kiss-vm-ns](https://github.com/tcler/kiss-vm-ns) – CLI tools to create KVM Guests, Containers and NetNS(ip netns,vrf) on Linux
 - [techahold/rustdeskinstall](https://github.com/techahold/rustdeskinstall) – Easy install Script for Rustdesk
 - [teddysun/across](https://github.com/teddysun/across) – Across the Great Wall we can reach every corner in the world
 - [termux-pacman/glibc-packages](https://github.com/termux-pacman/glibc-packages) – Glibc packages for termux
