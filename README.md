@@ -236,6 +236,7 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [boku7/Loki](https://github.com/boku7/Loki) – 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
@@ -2221,6 +2222,7 @@
 - [wader/fq](https://github.com/wader/fq) – jq for binary formats - tool, language and decoders for working with binary and text formats
 - [wagoodman/dive](https://github.com/wagoodman/dive) – A tool for exploring each layer in a docker image
 - [wailsapp/wails](https://github.com/wailsapp/wails) – Create beautiful applications using Go
+- [wait4x/wait4x](https://github.com/wait4x/wait4x) – Wait4X allows you to wait for a port or a service to enter the requested state.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) – An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
 - [warewulf/warewulf](https://github.com/warewulf/warewulf) – Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
@@ -2628,6 +2630,7 @@
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
 - [trufflesecurity/Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension)
+- [tylerdotrar/pwndrip](https://github.com/tylerdotrar/pwndrip) – Self-deployable file hosting service for Red Teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
 - [u0pattern/Anti-EmuDetector](https://github.com/u0pattern/Anti-EmuDetector) – Anti-EmuDetector is a frida script that bypass the emulator detection techniques in android
 - [usebruno/bruno](https://github.com/usebruno/bruno) – Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) – Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -3967,7 +3970,7 @@
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
-- [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope, subdomains and endpoints
+- [zzzteph/Dutch_Gov_Scope](https://github.com/zzzteph/Dutch_Gov_Scope) – Dutch Government Bugbounty scope, subdomains and endpoints
 
 <div id="qml"></div>
 
@@ -4810,7 +4813,7 @@
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi (and optionally Bluetooth). No network infrastructure required, just two devices with WiFi chips in close range.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
