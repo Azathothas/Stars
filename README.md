@@ -129,12 +129,10 @@
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) – A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands
 - [TheBobPony/MSEdgeTweaker](https://github.com/TheBobPony/MSEdgeTweaker) – Easily configure Microsoft Edge, the way you want it!
 - [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) – An open source tool to activate and reset trial of Internet Download Manager
-- [blibdoolpoolp/Cloudflared-RDP-Tutorial-Free](https://github.com/blibdoolpoolp/Cloudflared-RDP-Tutorial-Free) – This tutorial offers a comprehensive guide on setting up secure Remote Desktop (RDP) & SSH connections using Cloudflare's Cloudflared service. This tutorial aims to provide users with a method to access their desktops remotely without compromising security, leveraging Cloudflare's tunneling technology to create a safe, encrypted connection path.
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [mmgordon82/BurpSuiteInstaller](https://github.com/mmgordon82/BurpSuiteInstaller) – Install and Crack your Burp Suite Professional Latest (Updated Weekly).
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 
 <div id="bitbake"></div>
@@ -147,6 +145,7 @@
 
 ## C
 
+- [3proxy/3proxy](https://github.com/3proxy/3proxy) – 3proxy - tiny free proxy server
 - [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [Alessandro-Salerno/htmc](https://github.com/Alessandro-Salerno/htmc) – Ever wanted to code a website in C? No? Well, now you can!
@@ -728,6 +727,7 @@
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [skywind3000/PyStand](https://github.com/skywind3000/PyStand) – :rocket: Python Standalone Deploy Environment !!
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) – Mount Android phones on Linux with adb. No root required.
+- [squid-cache/squid](https://github.com/squid-cache/squid) – Squid Web Proxy Cache
 - [stealth/crash](https://github.com/stealth/crash) – crypted admin shell: SSH-like strong crypto remote admin shell for Linux, BSD, Android, Solaris and OSX
 - [stealth/fraud-bridge](https://github.com/stealth/fraud-bridge) – ICMP and DNS tunneling via IPv4 and IPv6
 - [stealth/psc](https://github.com/stealth/psc) – E2E encryption for multi-hop tty sessions or portshells + TCP/UDP port forward
@@ -1727,6 +1727,7 @@
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) – Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [lollipopkit/server_box_monitor](https://github.com/lollipopkit/server_box_monitor) – ServerBox on server end.
 - [lostdusty/cobalt-cli](https://github.com/lostdusty/cobalt-cli) – Unofficial cobalt command line client made in go.
+- [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) – 微信视频号下载器
 - [lucasew/ts-proxy](https://github.com/lucasew/ts-proxy) – Simple proxy program to allow exposing individual services to a Tailnet, and even to the Internet using Tailscale Funnel.
 - [lunarr-app/lunarr-go](https://github.com/lunarr-app/lunarr-go) – [WIP] Self-hosted media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server.
 - [lure-sh/lure](https://github.com/lure-sh/lure) – The community repository missing from your Linux distro
@@ -2570,7 +2571,6 @@
 - [hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap) – JavaScript payload and supporting software to be used as XSS payload or post exploitation implant to monitor users as they use the targeted application. Also includes a C2 for executing custom JavaScript payloads in clients, and a "mimic" feature that automatically generates custom payloads. 
 - [httptoolkit/frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) – Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) – GUI Client for vnStat Network Monitor for Linux or GNU/Linux
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) – Bypass Paywalls web browser extension for Chrome and Firefox.
 - [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) – Hand-crafted Frida examples
 - [ine-labs/GCPGoat](https://github.com/ine-labs/GCPGoat) – GCPGoat : A Damn Vulnerable GCP Infrastructure
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
@@ -2697,7 +2697,6 @@
 - [Jays2Kings/tachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) – Free and open source manga reader for Android
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) – 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) – Manga reader for Android
-- [LagradOst/CloudStream-3](https://github.com/LagradOst/CloudStream-3) – Android app for streaming and downloading Movies, TV-Series and Anime.
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) – A search-focused Android launcher
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) – MMRL is an Android app that helps manage your own modules repository.
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) – GitHub reimagined with Material You
@@ -2744,7 +2743,6 @@
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) – Free and open source manga reader for Android
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) – Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
 - [mukeshsolanki/Android-Tamper-Detector](https://github.com/mukeshsolanki/Android-Tamper-Detector) – A simple library that can help you detect if you app is modded or tampered with
-- [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) – An Android app to watch anime on your phone without ads.
 - [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) – Unofficial MangaDex Reader for Android 7+
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
@@ -2970,7 +2968,6 @@
 - [HuaZoffice/Magisk_change-your-phone-model](https://github.com/HuaZoffice/Magisk_change-your-phone-model) – Change your phone model    Magisk改机型模块
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) – A guide to learn bash
 - [Ignitetechnologies/BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) – This cheatsheet is built for the Bug Bounty Hunters and penetration testers in order to help them hunt the vulnerabilities from P4 to P1 solely and completely with "BurpSuite".
-- [Iir00d/low_hanging_fruit_list](https://github.com/Iir00d/low_hanging_fruit_list)
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) – Course Piracy Index 🏴‍☠️
 - [Jiab77/scc](https://github.com/Jiab77/scc) – Use Segfault voluntary users resources to build a massive computing cluster.
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) – A repository that includes all the important wordlists used while bug hunting.
@@ -3103,8 +3100,6 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
-- [hegdepavankumar/VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) – Welcome to the VMware ESXi License Keys! Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7
-- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -3244,7 +3239,6 @@
 - [trickest/safe-harbour](https://github.com/trickest/safe-harbour) – security.txt collection of most popular world-wide domains
 - [trickest/scripts](https://github.com/trickest/scripts) – Handy scripts and one-liners to make life easier
 - [trickest/wordlists](https://github.com/trickest/wordlists) – Real-world infosec wordlists, updated regularly
-- [trickest/zip](https://github.com/trickest/zip) – Monitoring the internet for new .zip domains
 - [ultrafunkamsterdam/undetected-frida](https://github.com/ultrafunkamsterdam/undetected-frida) – Making frida less detectable by applying some patches. This follows the official Frida releases and publishes releases the same day. Do not fork this!
 - [upx/upx-test-build-with-zig](https://github.com/upx/upx-test-build-with-zig) – Test building UPX with Zig https://ziglang.org/download
 - [user-why-red/san_gcc_toolchain_arm](https://github.com/user-why-red/san_gcc_toolchain_arm) – A upto-date GCC toolchain for aarch64/aarch32 host machine which targets aarch64,aarch32,x86_64 architectures.(A bare-metal toolchain optimized with LTO for optimum perfomance in linux kernel development)
@@ -3254,9 +3248,7 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) – A curated list of awesome V frameworks, libraries, software and resources.
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
-- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) – Burp Suite loader version --> ∞
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – x-cmd: Bootstrap 1000+ command line tools in seconds.
-- [yazhuo-wyze/github-action-free-proxy](https://github.com/yazhuo-wyze/github-action-free-proxy) – 利用GitHub Actions 实现的临时proxy。
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) – List of Awesome Red Teaming Resources
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) – Public peers in the Yggdrasil network
@@ -3678,7 +3670,6 @@
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) – A command-line tool to download photos from iCloud
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) – Bubblewrap based sandboxing for desktop applications
 - [ihebski/DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) – One place for all the default credentials to assist the Blue/Red teamers identifying devices with default password 🛡️
-- [imhunterand/ApachSAL](https://github.com/imhunterand/ApachSAL) – It's a vulnerability scanner tool for test Apache Path Traversal 👾
 - [indigo-dc/udocker](https://github.com/indigo-dc/udocker) – A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
 - [infobyte/faraday](https://github.com/infobyte/faraday) – Open Source Vulnerability Management Platform
 - [initstring/cloud_enum](https://github.com/initstring/cloud_enum) – Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
@@ -3945,6 +3936,7 @@
 - [vavkamil/js-snitch](https://github.com/vavkamil/js-snitch) – Scans remote JavaScript files with Trufflehog + Semgrep to detect leaked secrets
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) – Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
+- [vmware/photon](https://github.com/vmware/photon) – Minimal Linux container host
 - [volitank/nala](https://github.com/volitank/nala) – Nala is a front-end for libapt-pkg.
 - [volkandindar/agartha](https://github.com/volkandindar/agartha) – A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation.
 - [w9w/JSA](https://github.com/w9w/JSA) – Javascript security analysis (JSA) is a program for javascript analysis during web application security assessment.
@@ -3975,7 +3967,7 @@
 - [zjx20/socks-cli](https://github.com/zjx20/socks-cli) – A solution to make CLI commands use socks5 proxy.
 - [zricethezav/h1domains](https://github.com/zricethezav/h1domains) – HackerOne "in scope" domains
 - [zydou/cli-tools](https://github.com/zydou/cli-tools) – A collection of Command Line Interface (CLI) tools.
-- [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope analysis, subdomains and url lists
+- [zzzteph/DutchGovScope](https://github.com/zzzteph/DutchGovScope) – Dutch Government Bugbounty scope, subdomains and endpoints
 
 <div id="qml"></div>
 
@@ -4444,6 +4436,7 @@
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
 - [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
+- [hail-hydrant/zxc](https://github.com/hail-hydrant/zxc) –  Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
@@ -4679,6 +4672,7 @@
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
 - [pathtofile/ctlwatcher](https://github.com/pathtofile/ctlwatcher) – Monitor Certificate Transparency logs for domains matching regexes.
 - [patrick-kidger/exvoker](https://github.com/patrick-kidger/exvoker) – A CLI tool. Extract regexes from stdout (e.g. URLs) and invoke commands on them (e.g. open the webpage).
+- [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) – Ninja-compatible incremental build system for Nix
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) – A full-featured implementation of the Network Time Protocol, including NTS support.
 - [phip1611/ttfb](https://github.com/phip1611/ttfb) – Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) – rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -4816,7 +4810,7 @@
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
 - [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi (and optionally Bluetooth). No network infrastructure required, just two devices with WiFi chips in close range.
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
@@ -5252,8 +5246,6 @@
 - [friendly-bits/geoip-shell](https://github.com/friendly-bits/geoip-shell) – User-friendly and versatile geoblocker for Linux
 - [friendly-bits/posix-lists-and-strings](https://github.com/friendly-bits/posix-lists-and-strings) – POSIX-compliant shell functions for processing of lists and strings
 - [friendly-bits/shell-ip-tools](https://github.com/friendly-bits/shell-ip-tools) – POSIX-compliant shell script library for ip addresses processing, detecting LAN subnets and subnets aggregation
-- [fscarmen/warp](https://github.com/fscarmen/warp) – WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-- [fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock) – WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
 - [fscarmen2/Argo-Xray-JS-PaaS](https://github.com/fscarmen2/Argo-Xray-JS-PaaS) – 在 JS 容器平台部署 Xray + Argo 隧道，4种协议 Vless / Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
 - [fscarmen2/X-for-Glitch](https://github.com/fscarmen2/X-for-Glitch)
 - [fsquillace/junest](https://github.com/fsquillace/junest) – The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
