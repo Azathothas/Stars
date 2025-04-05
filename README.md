@@ -1018,6 +1018,7 @@
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) – Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [FalconForceTeam/FalconHound](https://github.com/FalconForceTeam/FalconHound) – FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool. 
 - [FalconOpsLLC/udpz](https://github.com/FalconOpsLLC/udpz) – Speedy probe-based UDP service scanner
+- [FiloSottile/age](https://github.com/FiloSottile/age) – A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) – A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/sunlight](https://github.com/FiloSottile/sunlight) – A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.
 - [Finatext/lapper](https://github.com/Finatext/lapper) – Lapper is a wrapper programs for Container running on Lambda. (Beta)
@@ -1543,6 +1544,7 @@
 - [google/fscrypt](https://github.com/google/fscrypt) – Go tool for managing Linux filesystem encryption
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
 - [google/gops](https://github.com/google/gops) – A tool to list and diagnose Go processes currently running on your system
+- [google/keep-sorted](https://github.com/google/keep-sorted) – keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [google/starlark-go](https://github.com/google/starlark-go) – Starlark in Go: the Starlark configuration language, implemented in Go
 - [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(800+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
@@ -1620,6 +1622,7 @@
 - [inguardians/peirates](https://github.com/inguardians/peirates) – Peirates - Kubernetes Penetration Testing tool
 - [int128/ghcp](https://github.com/int128/ghcp) – Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API
 - [ipinfo/cli](https://github.com/ipinfo/cli) – Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+- [ipld/go-car](https://github.com/ipld/go-car) – A content addressible archive utility
 - [ipv6rslimited/delorean](https://github.com/ipv6rslimited/delorean) – A reverse IPv4 to IPv6 TLS SNI and HTTP proxy written in GoLang
 - [ipv6rslimited/hamon](https://github.com/ipv6rslimited/hamon) – Hamon is a tool that uses the djb2 (ca. 1991) hash to map IP addresses to readable words and vice versa. It supports both IPv4 and IPv6 addresses.  The name is derived from HAsh MOdulo Name (ハモン not 刃文).
 - [ipv6rslimited/shrimp](https://github.com/ipv6rslimited/shrimp) – shrimp is a simple forward proxy written in GoLang, that does not decrypt traffic, making it secure and easy to configure. It features a locked-down mode which limits it to a single network interface and IPv6 stack.
@@ -1877,8 +1880,10 @@
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
+- [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec) – OCI Distribution Specification
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) – OCI Image Format
 - [opencontainers/runc](https://github.com/opencontainers/runc) – CLI tool for spawning and running containers according to the OCI specification
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) – OCI Runtime Specification
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) – OCI Runtime Tools
 - [opensubtitlescli/rest](https://github.com/opensubtitlescli/rest) – Client for accessing the OpenSubtitles REST API.
 - [openvex/vexctl](https://github.com/openvex/vexctl) – A  tool to create, transform and attest VEX metadata
@@ -2265,12 +2270,12 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3596 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3625 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
-- [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 509 lines of Go. (and our runtime in 900~ lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
+- [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 780~ lines of Go. (and our runtime in 900~ lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
 - [xplshn/scriptfs](https://github.com/xplshn/scriptfs) – scriptfs - Your filesystem as a scriptable resource. Create your own pseudo-filesystems via defining a single scripts.yaml file
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -3000,6 +3005,7 @@
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
+- [QaidVoid/appimageupdate](https://github.com/QaidVoid/appimageupdate) – Update AppImages using metadata embedded directly within the AppImage itself
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh) – Android security guides, roadmap, docs, courses, write-ups, and teryaagh. 
 - [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application.
@@ -3517,7 +3523,7 @@
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) – File upload vulnerability scanner and exploitation tool.
 - [amalmurali47/onaws](https://github.com/amalmurali47/onaws) – Fetch the details of assets hosted on AWS.
 - [amalmurali47/swagroutes](https://github.com/amalmurali47/swagroutes) – swagroutes is a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format.
-- [amalshaji/portr](https://github.com/amalshaji/portr) – Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
+- [amalshaji/portr](https://github.com/amalshaji/portr) – Expose local http, tcp or websocket connections to the public internet
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) – Terminal-based CPU stress and monitoring utility
 - [ambionics/wrapwrap](https://github.com/ambionics/wrapwrap) – Generates a `php://filter` chain that adds a prefix and a suffix to the contents of a file.
 - [amodm/ip-lookup](https://github.com/amodm/ip-lookup) – Free IP details lookup service, based on Cloudflare Workers
@@ -3669,6 +3675,7 @@
 - [hansmach1ne/LFImap](https://github.com/hansmach1ne/LFImap) – Local File Inclusion discovery and exploitation tool
 - [hartwork/binary-gentoo](https://github.com/hartwork/binary-gentoo) – :cow: Collection of simple CLI tools to help build Gentoo packages on a non-Gentoo Linux host
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) – 🪓 Run Background Tasks at Scale
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – The best source for dashboard icons.
 - [hoppersroppers/nightmare](https://github.com/hoppersroppers/nightmare)
@@ -3930,6 +3937,7 @@
 - [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [teaxyz/chai](https://github.com/teaxyz/chai) – tea’s package dataset
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
+- [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) – Run unpatched binaries on Nix/NixOS
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) – :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Perf monitoring CLI tool for Apple Silicon
@@ -4385,6 +4393,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/jute](https://github.com/ekzhang/jute) – A native Jupyter notebook frontend with local + remote kernels, reactive cells, and IDE features, implemented in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
+- [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) – elfshaker stores binary objects efficiently
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [emabee/flexi_logger](https://github.com/emabee/flexi_logger) – A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
@@ -4629,6 +4638,7 @@
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) – A Command-line tool similar to Neofetch for obtaining information about your country
 - [nik-rev/patchy](https://github.com/nik-rev/patchy) – A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
+- [nikstur/userborn](https://github.com/nikstur/userborn) – Declaratively bear (manage) Linux users and groups
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
@@ -4867,6 +4877,7 @@
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools: encoders/decoders, CTF and reverse engineering helpers.
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Limbo is a project to build the modern evolution of SQLite.
 - [tux3/armerge](https://github.com/tux3/armerge) – Tool to merge static libraries and hide their private symbols
@@ -5542,7 +5553,7 @@
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用无环境依赖的=>https://github.com/oneclickvirt/ecs
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
