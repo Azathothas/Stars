@@ -474,6 +474,7 @@
 - [schweikert/fping](https://github.com/schweikert/fping) – High performance ping tool
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
+- [sisong/HPatchLite](https://github.com/sisong/HPatchLite) – Lite version of HDiffPatch, tiny code & ram requires when patch on embedded systems,MCU,NB-IoT,...
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
 - [skarnet/nsss](https://github.com/skarnet/nsss) – A small, statically linkable NSS-like implementation of getpwnam() et al. user database access
 - [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
@@ -489,6 +490,7 @@
 - [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) – syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 - [sysprog21/semu](https://github.com/sysprog21/semu) – A minimalist RISC-V system emulator capable of running Linux kernel
 - [sysstat/sysstat](https://github.com/sysstat/sysstat) – Performance monitoring tools for Linux
+- [systemd/casync](https://github.com/systemd/casync) – Content-Addressable Data Synchronization Tool
 - [systemd/systemd-netlogd](https://github.com/systemd/systemd-netlogd) – Forwards messages from the journal to other hosts over the network using syslog format RFC 5424 and RFC 3164 
 - [tantosec/oneshell](https://github.com/tantosec/oneshell) – Reverse shell listener and payload generator designed to work on most Linux targets
 - [telekom-security/tpotce](https://github.com/telekom-security/tpotce) – 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
@@ -726,6 +728,9 @@
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [sisong/ApkDiffPatch](https://github.com/sisong/ApkDiffPatch) – a C++ library and command-line tools for Zip(Jar,Apk) file Diff & Patch; create minimal delta/differential; support Jar sign(apk v1 sign) & apk v2,v3,v4 sign .
+- [sisong/HDiffPatch](https://github.com/sisong/HDiffPatch) – a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.
+- [sisong/hsynz](https://github.com/sisong/hsynz) – hsynz is a library for delta update using sync algorithm, like zsync. rsync over http(s); implement the sync algorithm on client side, and server side only need http(s) cdn. support compressor zstd & libdeflate & zlib, support large file & directory(folder), support muti-thread.
 - [skywind3000/PyStand](https://github.com/skywind3000/PyStand) – :rocket: Python Standalone Deploy Environment !!
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) – Mount Android phones on Linux with adb. No root required.
 - [squid-cache/squid](https://github.com/squid-cache/squid) – Squid Web Proxy Cache
@@ -1479,6 +1484,7 @@
 - [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
 - [fmnx/cftun](https://github.com/fmnx/cftun) – Third-party Cloudflare Tunnel client (formerly Argo Tunnel)
 - [folbricht/desync](https://github.com/folbricht/desync) – Alternative casync implementation
+- [folbricht/routedns](https://github.com/folbricht/routedns) – DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS
 - [forestnode-io/oneshot](https://github.com/forestnode-io/oneshot) – A first-come first-served single-fire HTTP server. Easily transfer files to and from your terminal and any browser.
 - [fortio/dnsping](https://github.com/fortio/dnsping) – DNS Ping: to check packet loss and latency issues with DNS servers
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) – ✉️ Composable all-in-one mail server.
@@ -2280,6 +2286,7 @@
 - [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) – NodePass is a secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
@@ -3910,6 +3917,7 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) – Automatic SSRF fuzzer and exploitation tool
 - [sysdig/wafer](https://github.com/sysdig/wafer)
+- [systemd/mkosi](https://github.com/systemd/mkosi) – 💽 Build Bespoke OS Images
 - [systemd/pystemd](https://github.com/systemd/pystemd) – A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) – A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads).
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain) – Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
