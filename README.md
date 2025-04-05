@@ -1873,7 +1873,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
-- [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 三网回程路由线路测试模块
+- [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 回程路由线路测试模块
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) – OONI Probe Engine and CLI
 - [open-feature/flagd](https://github.com/open-feature/flagd) – A feature flag daemon with a Unix philosophy
 - [openclarity/apiclarity](https://github.com/openclarity/apiclarity) – An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks. 
@@ -3997,7 +3997,7 @@
 ## Roff
 
 - [containers/container-selinux](https://github.com/containers/container-selinux) – SELinux policy files for Container Runtimes
-- [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc, moved away from GitHub. Finished, but well-maintained.
+- [gavinhoward/bc](https://github.com/gavinhoward/bc) – An implementation of the POSIX bc calculator with GNU extensions and dc. Finished, but well-maintained.
 - [graysky2/kodi-standalone-service](https://github.com/graysky2/kodi-standalone-service) – Use systemd to allow for standalone operation of kodi.
 - [hovercats/oakiss](https://github.com/hovercats/oakiss) – oasis, but with kiss aswell
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
