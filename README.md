@@ -236,6 +236,7 @@
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [bmc/daemonize](https://github.com/bmc/daemonize) – Command line utility to run a program as a Unix daemon
 - [boku7/Loki](https://github.com/boku7/Loki) – 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
@@ -473,6 +474,7 @@
 - [sbabic/swupdate](https://github.com/sbabic/swupdate) – Software Update for Embedded Systems
 - [schweikert/fping](https://github.com/schweikert/fping) – High performance ping tool
 - [sfan5/fi6s](https://github.com/sfan5/fi6s) – IPv6 network scanner designed to be fast
+- [sh1r4s3/runns](https://github.com/sh1r4s3/runns) – This is a daemon and helper scripts to run program in network namespace.
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [sisong/HPatchLite](https://github.com/sisong/HPatchLite) – Lite version of HDiffPatch, tiny code & ram requires when patch on embedded systems,MCU,NB-IoT,...
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
