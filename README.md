@@ -216,6 +216,7 @@
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
+- [acassen/keepalived](https://github.com/acassen/keepalived) – Keepalived
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) – [MIRROR] Alpine package manager
@@ -223,6 +224,8 @@
 - [antirez/kilo](https://github.com/antirez/kilo) – A text editor in less than 1000 LOC with syntax highlight and search.
 - [apache/guacamole-server](https://github.com/apache/guacamole-server) – Mirror of Apache Guacamole Server
 - [apache/nuttx](https://github.com/apache/nuttx) – Apache NuttX is a mature, real-time embedded operating system (RTOS)
+- [aperezdc/dmon](https://github.com/aperezdc/dmon) – Small process daemonization and monitorization tool.
+- [aperezdc/safecat](https://github.com/aperezdc/safecat) – Copies standard input safely to a specified directory using qmail's Maildir algorithm
 - [aperezdc/signify](https://github.com/aperezdc/signify) – OpenBSD tool to sign and verify signatures on files. Portable version.
 - [arsv/minibase](https://github.com/arsv/minibase) – small static userspace tools for Linux
 - [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) – Command line ASCII boxes unlimited!
@@ -346,6 +349,7 @@
 - [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
+- [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) – BSD-licensed implementation of rsync
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) – A better and stronger spiritual successor to BZip2.
 - [ksstech/syslog](https://github.com/ksstech/syslog) – Highly functional syslog module specifically for embedded systems
@@ -419,6 +423,7 @@
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [oracle/adaptivemm](https://github.com/oracle/adaptivemm) – adaptivemm - A userspace daemon for proactive free memory management
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [otatebe/chfs](https://github.com/otatebe/chfs) – CHFS parallel and distributed file system for node-local persistent memory
@@ -464,8 +469,10 @@
 - [rootless-containers/slirp4netns](https://github.com/rootless-containers/slirp4netns) – User-mode networking for unprivileged network namespaces
 - [rphang/evilBPF](https://github.com/rphang/evilBPF) – Weaponizing the Linux Kernel (Hide Files/PID, SSH backdoors, SSL Sniffer, ...) by poking around eBPF/XDP
 - [rpodgorny/unionfs-fuse](https://github.com/rpodgorny/unionfs-fuse) – union filesystem using fuse
+- [rpodgorny/uptimed](https://github.com/rpodgorny/uptimed) – uptime tracking daemon
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) – Self contained, fully static llvm tools & libs
 - [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) – a Rocket-fast SYStem for LOG processing
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) – A key remapping daemon for linux.
 - [sahib/rmlint](https://github.com/sahib/rmlint) – Extremely fast tool to remove duplicates and other lint from your filesystem
 - [sahlberg/libnfs](https://github.com/sahlberg/libnfs) – NFS client library
 - [samyk/pwnat](https://github.com/samyk/pwnat) – The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing.
@@ -718,6 +725,7 @@
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode 7-Zip
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) – Instant Kubernetes-Native Application Observability
+- [pkgforge-dev/AppImageUpdate](https://github.com/pkgforge-dev/AppImageUpdate) – Fork with rate-limit-bypass & misc QOL changes [Maintainers=@QaidVoid|@Samueru-sama]
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
@@ -840,7 +848,6 @@
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) – A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) – Installer for ADB, Fastboot, and other Android tools on Linux, macOS, Chrome OS, and Windows
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) – An Open source app to download and read books from shadow library (Anna’s Archive)
-- [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) – An app to stream and download anime
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
@@ -1137,6 +1144,7 @@
 - [YouChenJun/CheckCdn](https://github.com/YouChenJun/CheckCdn) – 精确检查IP是否为CDN节点的工具
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [Z3NTL3/ProxyBeast](https://github.com/Z3NTL3/ProxyBeast) – ProxyBeast is a powerful, complete and free proxy checker with zero dependency and advanced capabilities.
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) – Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) – A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [abdfnx/resto](https://github.com/abdfnx/resto) – 🔗 Send pretty HTTP & API requests with TUI.
@@ -1178,7 +1186,6 @@
 - [anchore/binny](https://github.com/anchore/binny) – Manage a directory of binaries without a package manager
 - [anchore/grype](https://github.com/anchore/grype) – A vulnerability scanner for container images and filesystems
 - [andydunstall/piko](https://github.com/andydunstall/piko) – An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
-- [anfragment/zen](https://github.com/anfragment/zen) – Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) – 🔥 Feature-rich interactive Jira command line.
 - [anoriqq/qpm](https://github.com/anoriqq/qpm) – 📦 Qanat Package Manager
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) – Image processing algorithms in pure Go
@@ -1538,6 +1545,7 @@
 - [go-to-k/lamver](https://github.com/go-to-k/lamver) – The CLI tool to search AWS Lambda runtime and versions across regions.
 - [goharbor/harbor](https://github.com/goharbor/harbor) – An open source trusted cloud native registry project that stores, signs, and scans content.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) – rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
@@ -1684,6 +1692,7 @@
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) – The immutable Linux meta-distribution for edge Kubernetes.
 - [karelorigin/limiter](https://github.com/karelorigin/limiter) – A small command-line utility to artificially limit the input rate to STDIN.
 - [karl-cardenas-coding/go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) – 🚧 go-lambda-cleanup - A solution for removing previous versions of AWS Lambdas
+- [karolba/wgcfcat](https://github.com/karolba/wgcfcat) – Like netcat, but over Cloudflare WARP
 - [kavishgr/getghrel](https://github.com/kavishgr/getghrel) – getghrel(get github release) is a user-friendly command-line tool that fetches and installs the latest release assets from Github for MacOS and Linux (amd64 and arm64 architectures). It automatically detects your operating system and architecture, downloads the release, extracts it(if needed), and keep only the binary.
 - [keidarcy/e1s](https://github.com/keidarcy/e1s) – E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [keilerkonzept/dockerfile-json](https://github.com/keilerkonzept/dockerfile-json) – 🐳 parse & print a Dockerfile as JSON, query (e.g. extract base images) using JSONPath.
@@ -2344,6 +2353,7 @@
 - [devsdenepal/linux-revision](https://github.com/devsdenepal/linux-revision) – A repo to record my memory and activity on linux learning path to handle inconsistency
 - [dolevf/Black-Hat-GraphQL](https://github.com/dolevf/Black-Hat-GraphQL) – The Black Hat GraphQL Book Repository
 - [ebelinski/apilevels](https://github.com/ebelinski/apilevels) – A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.
+- [eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk) – ZeroTier for magisk ✅ App controller ✅
 - [evolvingweb/sitediff](https://github.com/evolvingweb/sitediff) – SiteDiff makes it easy to see differences between two versions of a website.
 - [fossology/fossology](https://github.com/fossology/fossology) – FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 - [google/security-crawl-maze](https://github.com/google/security-crawl-maze) – Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.
@@ -3922,7 +3932,7 @@
 - [sting8k/BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) – Burpsuite Extension to bypass 403 restricted directory
 - [stolk/sotrace](https://github.com/stolk/sotrace) – Traces the shared-object dependencies of a binary, and graphs them.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) – Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [superfishlu/gmab](https://github.com/superfishlu/gmab) – A CLI tool to spawn, list, and manage temporary cloud boxes.  Why? Need a quick VPS for pentesting, bug bounty, or scanning? Want to run commands from a different IP without using your local machine? No need for manual cloud console interaction—just gmab spawn, and you're in!
+- [superfishlu/gmab](https://github.com/superfishlu/gmab) – A CLI tool to spawn, list, and manage temporary cloud boxes.  Why? Need a quick VPS for pentesting, bug bounty, or scanning? Want to run commands from a different IP without using your local machine? No need for manual cloud console interaction - just gmab spawn, and you're in!
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) – GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap) – Automatic SSRF fuzzer and exploitation tool
@@ -4071,6 +4081,7 @@
 - [8LWXpg/ptr](https://github.com/8LWXpg/ptr) – PowerToys Run plugin manager
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
+- [Achiefs/fim](https://github.com/Achiefs/fim) – FIM is an Open Source Host-based file integrity monitoring tool that performs file system analysis, file integrity checking, real time alerting and provides Audit daemon data.
 - [AerynOS/os-tools](https://github.com/AerynOS/os-tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
 - [AlMrvn/arxivlens](https://github.com/AlMrvn/arxivlens) – a Terminal User Interface for navigating arXiv
@@ -4534,6 +4545,7 @@
 - [jwt-rs/jwt-ui](https://github.com/jwt-rs/jwt-ui) – A command line UI for decoding/encoding JSON Web Tokens
 - [k3ii/qdir](https://github.com/k3ii/qdir) – Qdir- Quick Directory Generator
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
+- [kalaksi/lightkeeper](https://github.com/kalaksi/lightkeeper) – LightkeeperRM (Remote Management) is a lightweight and modular drop-in replacement for maintaining servers over SSH.
 - [kardeiz/sanitize-filename](https://github.com/kardeiz/sanitize-filename)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
