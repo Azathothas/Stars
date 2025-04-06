@@ -1005,6 +1005,7 @@
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) – An unofficial GUI wrapper around the Tailscale CLI client.
 - [DevSecOpsDocs/nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) – Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee. 
 - [Devang-Solanki/recon.cloud](https://github.com/Devang-Solanki/recon.cloud) – recon.cloud is website that scans AWS, Azure and GCP public cloud footprint this GO tool only utilize its API for getting result to terminal.
+- [Diniboy1123/usque](https://github.com/Diniboy1123/usque) – Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol. 
 - [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy) – Monitor linux processes without root permissions
 - [DreyAnd/WhoDupMe](https://github.com/DreyAnd/WhoDupMe)
 - [EatonChips/yalis](https://github.com/EatonChips/yalis) – Yet Another LinkedIn Scraper
