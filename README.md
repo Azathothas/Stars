@@ -725,7 +725,7 @@
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
 - [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode 7-Zip
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) – Instant Kubernetes-Native Application Observability
-- [pkgforge-dev/AppImageUpdate](https://github.com/pkgforge-dev/AppImageUpdate) – Fork with rate-limit-bypass & misc QOL changes [Maintainers=@QaidVoid|@Samueru-sama]
+- [pkgforge-dev/AppImageUpdate-Enhanced-Edition](https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition) – Fork with rate-limit-bypass & misc QOL changes [Maintainers=@QaidVoid|@Samueru-sama]
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
