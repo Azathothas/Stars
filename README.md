@@ -2986,6 +2986,7 @@
 - [EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) – A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) – A compendium of absurd "open-source" licenses.
 - [Escape-Technologies/awesome-graphql-security](https://github.com/Escape-Technologies/awesome-graphql-security) – A curated list of awesome GraphQL Security frameworks, libraries, software and resources
+- [ExeinfoASL/ASL](https://github.com/ExeinfoASL/ASL) – Free Windows Detector Software
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) – BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 - [FigSystems/dalixOS](https://github.com/FigSystems/dalixOS) – An OS based on Linux which aims to have a quality UI, and human readable file paths.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) – A text repo to feature-track WireGuard mesh software
