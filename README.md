@@ -256,6 +256,7 @@
 - [cilium/pwru](https://github.com/cilium/pwru) – Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [cilium/tetragon](https://github.com/cilium/tetragon) – eBPF-based Security Observability and Runtime Enforcement
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) – An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- [clarkwang/sexpect](https://github.com/clarkwang/sexpect) – Expect for Shells
 - [clibs/clib](https://github.com/clibs/clib) – Package manager for the C programming language.
 - [cloudius-systems/osv](https://github.com/cloudius-systems/osv) – OSv, a new operating system for the cloud.
 - [collectd/collectd](https://github.com/collectd/collectd) – The system statistics collection daemon. Please send Pull Requests here!
@@ -676,6 +677,7 @@
 - [cramppet/dank](https://github.com/cramppet/dank) – a deterministic finite automata ranker
 - [crossbowerbt/dillo-plus](https://github.com/crossbowerbt/dillo-plus) – A lightweight web browser based on Dillo but with many improvements, such as: support for http, https, gemini, gopher, epub, reader mode and more...
 - [cvengler/sysget](https://github.com/cvengler/sysget) – One package manager to rule them all
+- [daijro/camoufox](https://github.com/daijro/camoufox) – 🦊 Anti-detect browser
 - [dannagle/PacketSender](https://github.com/dannagle/PacketSender) – Network utility for sending / receiving TCP, UDP, SSL, HTTP
 - [davmac314/dinit](https://github.com/davmac314/dinit) – Service monitoring / "init" system
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
@@ -1144,6 +1146,7 @@
 - [WangYihang/Subdomain-Crawler](https://github.com/WangYihang/Subdomain-Crawler) – A program for collecting subdomains of a list of given second-level domains (SLD)
 - [WarpBuilds/warpbuild-agent](https://github.com/WarpBuilds/warpbuild-agent) – Application for runner lifecycle management
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) – Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+- [WoodProgrammer/firecracker-rootfs-builder](https://github.com/WoodProgrammer/firecracker-rootfs-builder) – RootFS builder with OCI images
 - [X-Cotang/gowitness-plus](https://github.com/X-Cotang/gowitness-plus) – 🔍 gowitness+ Add some new features
 - [XORbit01/webpalm](https://github.com/XORbit01/webpalm) – 🕸️  Crawl in the web network
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
@@ -1302,6 +1305,8 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
+- [canonical/microceph](https://github.com/canonical/microceph) – MicroCeph is snap-deployed Ceph with built-in clustering
+- [canonical/microcloud](https://github.com/canonical/microcloud) – Automated private cloud based on LXD, Ceph and OVN
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) – A multi-shell completion binary.
 - [carvel-dev/imgpkg](https://github.com/carvel-dev/imgpkg) – Store application configuration files in Docker/OCI registries
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) – An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
@@ -1620,6 +1625,7 @@
 - [homeport/termshot](https://github.com/homeport/termshot) – Creates screenshots based on terminal command output
 - [homeport/yft](https://github.com/homeport/yft) – /j f t/ - YAML file tool
 - [hookdeck/hookdeck-cli](https://github.com/hookdeck/hookdeck-cli) – Alternative to ngrok for localhost asynchronous web development (e.g. webhooks). No account required.
+- [hostinger/fireactions](https://github.com/hostinger/fireactions) – BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [hueristiq/xsubfind3r](https://github.com/hueristiq/xsubfind3r) – A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available.
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) – A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
@@ -2678,6 +2684,7 @@
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) – 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
+- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – A calmer internet, without any gimmicks.
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
@@ -4167,6 +4174,7 @@
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) – Run commands in the languages you love!
 - [MMRLApp/MMRL-CLI](https://github.com/MMRLApp/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
+- [Matheus-git/systemd-manager-tui](https://github.com/Matheus-git/systemd-manager-tui)
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) – Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital footprint, or enhance your reconnaissance capabilities for penetration testing and bug bounty hunting.
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
