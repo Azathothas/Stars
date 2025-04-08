@@ -2687,7 +2687,7 @@
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
@@ -2838,6 +2838,7 @@
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) – Statically cross-compile sshd and sftp-server
 - [bootlin/buildroot-toolchains](https://github.com/bootlin/buildroot-toolchains) – The fork of Buildroot used for building toolchains.
 - [davidBar-On/android-iperf3](https://github.com/davidBar-On/android-iperf3) – Pre-compiled iperf3 binaries for Android + Dockerfile with SDK and NDK for manual build
+- [drecklypkg/dreckly](https://github.com/drecklypkg/dreckly) – pkgsrc fork focused on quality and portability to all UNIX-like platforms
 - [kxxt/android](https://github.com/kxxt/android) – My android utilities, scripts and Lineage OS patches
 - [mmatuska/mfslinux](https://github.com/mmatuska/mfslinux) – Minimalist in-memory diskless Linux distribution based on OpenWrt
 - [moetayuko/openwrt-cloudflared](https://github.com/moetayuko/openwrt-cloudflared) – Cloudflared for OpenWRT compiled against Go with Cloudflare experimental patches.
@@ -4175,7 +4176,6 @@
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) – Run commands in the languages you love!
 - [MMRLApp/MMRL-CLI](https://github.com/MMRLApp/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
-- [Matheus-git/systemd-manager-tui](https://github.com/Matheus-git/systemd-manager-tui)
 - [Merklemap/merklemap-cli](https://github.com/Merklemap/merklemap-cli) – Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Use this tool to conduct thorough security assessments, validate your organization's digital footprint, or enhance your reconnaissance capabilities for penetration testing and bug bounty hunting.
 - [Mic92/cntr](https://github.com/Mic92/cntr) – A container debugging tool based on FUSE
 - [Mic92/envfs](https://github.com/Mic92/envfs) – Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
@@ -4219,7 +4219,7 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Open source, Linuc-based server OS optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Linux server OS optimized for self-hosting
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
@@ -4622,6 +4622,7 @@
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [marcoradocchia/microxdg](https://github.com/marcoradocchia/microxdg) – An XDG Base Directory Specification Rust library that aims to be conservative on memory allocation and overall memory footprint.
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [mattwparas/steel](https://github.com/mattwparas/steel) – An embedded scheme interpreter in Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
