@@ -132,6 +132,7 @@
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 
@@ -155,6 +156,7 @@
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
+- [ColinIanKing/forkstat](https://github.com/ColinIanKing/forkstat) – Forkstat is a program that logs process fork(), exec() and exit() activity. It is useful for monitoring system behaviour and to track down rogue processes that are spawning off processes and potentially abusing the system. 
 - [CompuRoot/static-sqlite3](https://github.com/CompuRoot/static-sqlite3) – Statically compiled binary shell sqlite3
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
@@ -290,6 +292,7 @@
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
+- [florolf/casync-nano](https://github.com/florolf/casync-nano) – tiny casync replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 - [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -620,6 +623,7 @@
 - [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
+- [CrowCpp/Crow](https://github.com/CrowCpp/Crow) – A Fast and Easy to use microframework for the web.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
@@ -767,6 +771,7 @@
 - [wevsty/RDPBlocker](https://github.com/wevsty/RDPBlocker) – Block unauthorized users from login in via RDP service.
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) – A C++ header-only HTTP/HTTPS server and client library
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
@@ -1083,12 +1088,14 @@
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
 - [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
+- [OkamiW/proxy-ns](https://github.com/OkamiW/proxy-ns) – Run programs in a network namespace where all traffic go through proxy
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) – OliveTin gives safe and simple access to predefined shell commands from a web interface. 
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
 - [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – A configurable bill-of-materials (CBOM) system for declaratively composing and upgrading/downgrading your hardware-specific embedded Linux operating systems
 - [PremoWeb/chadburn](https://github.com/PremoWeb/chadburn) – Chadburn is a scheduler alternative to cron, built on Go and designed for Docker environments.
+- [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
 - [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion) – Linux post exploitation tool for info gathering and exfiltration 🐧📡💀
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
@@ -1248,6 +1255,7 @@
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
+- [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) – Warp+Psiphon, an anti censorship utility for iran
 - [bfenetworks/bfe](https://github.com/bfenetworks/bfe) – A modern layer 7 load balancer from baidu
 - [billcoding/sshpass](https://github.com/billcoding/sshpass) – A sshpass implementation for Linux and Mac in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) – Send push notifications to your phone or desktop using PUT/POST
@@ -2282,7 +2290,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3625 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3636 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -2460,6 +2468,7 @@
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) – Unofficial warp client for android
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) – the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc. 
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) – ConnectBot is the first SSH client for Android.
 - [cryptax/misc-code](https://github.com/cryptax/misc-code) – Miscellaneous code
@@ -2754,6 +2763,7 @@
 - [d4rken-org/permission-pilot](https://github.com/d4rken-org/permission-pilot) – Android permission explorer 🧑‍✈️
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) – Full Featured Video/Audio Downloader for Android using yt-dlp
 - [doyensec/inql](https://github.com/doyensec/inql) – InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
+- [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) – A proxy client derived from SagerNet and powered by a custom fork of v2ray-core.
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) – Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) – Reasonable Tox client for Android
 - [gotev/android-upload-service](https://github.com/gotev/android-upload-service) – Easily upload files (Multipart/Binary/FTP out of the box) in the background with progress notification. Support for persistent upload requests, customizations and custom plugins.
@@ -2789,6 +2799,7 @@
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) –  The missing link between Android and a sorted file system. 
+- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
 
@@ -3130,6 +3141,8 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
+- [hegdepavankumar/VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) – Welcome to the VMware ESXi License Keys! Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -3468,6 +3481,7 @@
 - [Ne00n/Multi-Ping](https://github.com/Ne00n/Multi-Ping)
 - [NetSPI/NetblockTool](https://github.com/NetSPI/NetblockTool) – Find netblocks owned by a company
 - [NickstaDB/patch-apk](https://github.com/NickstaDB/patch-apk) – Wrapper to inject an Objection/Frida gadget into an APK, with support for app bundles/split APKs.
+- [Nitrux/nx-apphub](https://github.com/Nitrux/nx-apphub) – NX AppHub CLI is a command-line tool for managing and building applications.
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) – Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. 
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) – The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [OfriOuzan/HardeningMeter](https://github.com/OfriOuzan/HardeningMeter) – HardeningMeter is an open-source Python tool carefully designed to comprehensively assess the security hardening of binaries and systems.
@@ -3838,6 +3852,7 @@
 - [p0dalirius/crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents) – Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
 - [p0dalirius/objectwalker](https://github.com/p0dalirius/objectwalker) – A python module to explore the object tree to extract paths to interesting objects in memory.
 - [p0dalirius/webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists) – This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
+- [packing-box/bintropy](https://github.com/packing-box/bintropy) – Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes
 - [packing-box/docker-packing-box](https://github.com/packing-box/docker-packing-box) – Docker image gathering packers and tools for making datasets of packed executables and training machine learning models for packing detection
 - [pahaz/sshtunnel](https://github.com/pahaz/sshtunnel) – SSH tunnels to remote server.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) – The Pants Build System
@@ -4724,6 +4739,7 @@
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust [maintainer=@QaidVoid]
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
+- [ple1n/nsproxy](https://github.com/ple1n/nsproxy) – Kernel-namespaces-based alternative to proxychains.
 - [pls-rs/pls](https://github.com/pls-rs/pls) – pls is a prettier and powerful ls(1) for the pros.
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
@@ -4753,6 +4769,7 @@
 - [quodlibetor/s3glob](https://github.com/quodlibetor/s3glob) – A fast aws s3 ls and download cli that supports glob patterns
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) – Find the fastest DNS in your location to improve internet browsing experience.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
+- [r9os/r9](https://github.com/r9os/r9) – The R9 operating system
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
@@ -5275,6 +5292,7 @@
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
+- [floatious/qemu-plan9](https://github.com/floatious/qemu-plan9)
 - [flotwig/zone-walks](https://github.com/flotwig/zone-walks) – A collection of domain lists obtained from zone-walking TLDs. Updated daily.
 - [foozzi/discoshell](https://github.com/foozzi/discoshell) – a simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 - [fosslinux/live-bootstrap](https://github.com/fosslinux/live-bootstrap) – Use of a Linux initramfs to fully automate the bootstrapping process
@@ -5388,7 +5406,6 @@
 - [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [linux-strata/ata](https://github.com/linux-strata/ata) – package manager
 - [linux-strata/os](https://github.com/linux-strata/os) – linux distribution
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
