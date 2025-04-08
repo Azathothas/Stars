@@ -1859,7 +1859,7 @@
 - [nao1215/mimixbox](https://github.com/nao1215/mimixbox) – MimixBox - mimic BusyBox on Linux
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
-- [nathants/libaws](https://github.com/nathants/libaws) – aws should be easy
+- [nathants/libaws](https://github.com/nathants/libaws) – just ship on aws
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
 - [neilotoole/sq](https://github.com/neilotoole/sq) – sq data wrangler
 - [nektos/act](https://github.com/nektos/act) – Run your GitHub Actions locally 🚀
