@@ -245,6 +245,7 @@
 - [boku7/Loki](https://github.com/boku7/Loki) – 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
 - [chaos/diod](https://github.com/chaos/diod) – Distributed I/O Daemon - a 9P file server
@@ -278,6 +279,7 @@
 - [diazona/pwait](https://github.com/diazona/pwait) – Small utility to wait for a process to finish
 - [dimkr/loksh](https://github.com/dimkr/loksh) – A Linux port of OpenBSD's ksh
 - [dixyes/phpmicro](https://github.com/dixyes/phpmicro) – micro sfx SAPI for php (wip, may force push)
+- [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under linux:
 - [edubart/bwrapbox](https://github.com/edubart/bwrapbox) – Linux sandboxing utility on top of bubblewrap
 - [edubart/minilua](https://github.com/edubart/minilua) – Single-file port of Lua, a powerful scripting language.
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
@@ -438,7 +440,7 @@
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) – package compiler and linker metadata toolkit
 - [pkgcraft/bash](https://github.com/pkgcraft/bash) – Fork enabling integration into a rust library
 - [pkgforge-dev/appimagetool-uruntime](https://github.com/pkgforge-dev/appimagetool-uruntime) – Fork that uses the uruntime AppImage runtime by default
-- [pkgforge-dev/super-strip](https://github.com/pkgforge-dev/super-strip) – Small utility that removes as much as possible from an ELF file without affecting the file's Memory Image
+- [pkgforge-dev/super-strip](https://github.com/pkgforge-dev/super-strip) – Small utility that removes as much as possible from an ELF file [Maintainer=@Azathothas]
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) – pkg manifests
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
 - [plp13/qman](https://github.com/plp13/qman) – A more modern man page viewer for our terminals
@@ -721,6 +723,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
+- [momo5502/emulator](https://github.com/momo5502/emulator) – 🪅 Windows User Space Emulator 
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
@@ -2547,6 +2550,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) – A from-scratch experimental AOT JS engine, written in JS
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
@@ -4348,6 +4352,8 @@
 - [build-trust/ockam](https://github.com/build-trust/ockam) – Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) – Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) – JS to WebAssembly toolchain
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) –  CLI and Rust libraries for low-level manipulation of WebAssembly modules 
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) – A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
 - [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
@@ -4458,6 +4464,7 @@
 - [evcxr/evcxr](https://github.com/evcxr/evcxr)
 - [evilsocket/legba](https://github.com/evilsocket/legba) – A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷
 - [exein-io/pulsar](https://github.com/exein-io/pulsar) – A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
+- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) – A tiny, interpreted WebAssembly Runtime written in Rust
 - [eycorsican/leaf](https://github.com/eycorsican/leaf) – A versatile and efficient proxy framework with nice features suitable for various use cases.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) – The Fully Customizable Desktop Environment for Windows 10/11.
 - [eza-community/eza](https://github.com/eza-community/eza) – A modern alternative to ls
