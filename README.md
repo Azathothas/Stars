@@ -1070,6 +1070,7 @@
 - [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) – Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).
 - [HarshVaragiya/sslsearch](https://github.com/HarshVaragiya/sslsearch) – Hunt SSL Certificates for interesting keywords on major cloud service providers / internet
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) – The Havoc Framework
+- [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) – A project to remove the complexity of setting up GPU passthrough for qemu
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – A suite for hunting suspicious targets, expose domains and phishing discovery
 - [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) – 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理、分组管理
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1337,7 +1338,7 @@
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
-- [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化引擎
+- [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化扫描引擎 | A highly controllable and scalable automated scanning engine for red teams
 - [chainreactors/proxyclient](https://github.com/chainreactors/proxyclient) – golang styles proxy client, support http/https, socks4/5, ssh
 - [chainreactors/spray](https://github.com/chainreactors/spray) – 最好用最智能最可控的目录爆破工具 | The most powerful, user-friendly, intelligent, and precise HTTP buster.
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – 最强大的密码爆破/喷洒工具 | The most powerful bruteforcer / sprayer Artifact
@@ -1878,6 +1879,7 @@
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
 - [nao1215/mimixbox](https://github.com/nao1215/mimixbox) – MimixBox - mimic BusyBox on Linux
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
+- [nao1215/sqluv](https://github.com/nao1215/sqluv) – simple terminal UI for RDBMS & CSV/TSV/LTSV at local/https/s3 
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [nathants/libaws](https://github.com/nathants/libaws) – just ship on aws
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
@@ -2048,6 +2050,7 @@
 - [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) – Nix derivations as Dockerfiles (`docker build -f default.nix .`)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) – diff for Docker and OCI container images
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) – Dockerfile formatter. a modern dockfmt.
 - [retr0h/gilt](https://github.com/retr0h/gilt) – A GIT layering tool.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) – 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [rfjakob/gocryptfs](https://github.com/rfjakob/gocryptfs) – Encrypted overlay filesystem written in Go
@@ -3180,8 +3183,6 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
-- [hegdepavankumar/VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) – Welcome to the VMware ESXi License Keys! Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7
-- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -3443,6 +3444,7 @@
 
 ## Python
 
+- [000pp/Pinkerton](https://github.com/000pp/Pinkerton) – 🕵️ JavaScript file crawler and secret finder tool developed with Python 
 - [0ex/fake-sudo](https://github.com/0ex/fake-sudo) – A drop-in sudo replacement that uses user namespaces to pretend we are root.
 - [0xacb/recollapse](https://github.com/0xacb/recollapse) – REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
 - [0xacb/viewgen](https://github.com/0xacb/viewgen) – Viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys
@@ -3884,7 +3886,6 @@
 - [omidxrz/Watch-Tower](https://github.com/omidxrz/Watch-Tower) – Simple Python Script for Tracking Bug Bounty Programs.
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) – Extract files from any kind of container formats
 - [openwrt/asu](https://github.com/openwrt/asu) – An image on demand server for OpenWrt based distributions
-- [oppsec/Pinkerton](https://github.com/oppsec/Pinkerton) – 🕵️ JavaScript file crawler and secret finder tool developed with Python 
 - [ortegaalfredo/aiTrans](https://github.com/ortegaalfredo/aiTrans) – Multi-language transpiler (source-to-source compiler) using AI
 - [owasp-dep-scan/blint](https://github.com/owasp-dep-scan/blint) – BLint is a Binary Linter to check the security properties, and capabilities in your executables. Since v2, blint is also an SBOM generator for binaries.
 - [p-fruck/python-contabo](https://github.com/p-fruck/python-contabo) – Fully featured Python wrapper for the Contabo API
@@ -5572,6 +5573,7 @@
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
+- [qemus/qemu](https://github.com/qemus/qemu) – QEMU in a Docker container.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) – Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [r3nor/mullvad-tailscale](https://github.com/r3nor/mullvad-tailscale) – Use Mullvad VPN along with Tailscale and/or Zerotier
 - [rafalb8/ZeroTierOne-Static](https://github.com/rafalb8/ZeroTierOne-Static) – Static Zerotier-One binaries
@@ -5689,7 +5691,7 @@
 - [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) – OpenWrt Notification Plugin – Send Alerts to WeChat or Telegram
 - [tunedal/freebsd-qemu-container](https://github.com/tunedal/freebsd-qemu-container) – OCI container image that runs FreeBSD in QEMU
 - [tweag/rust-alpine-mimalloc](https://github.com/tweag/rust-alpine-mimalloc)
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) – Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin) – The next generation Linux workstation, designed for reliability, performance, and sustainability.
 - [udhos/update-golang](https://github.com/udhos/update-golang) – update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
 - [unypkg/base](https://github.com/unypkg/base) – unypkg Base System
