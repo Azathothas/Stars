@@ -438,10 +438,12 @@
 - [pkgconf/pkgconf](https://github.com/pkgconf/pkgconf) – package compiler and linker metadata toolkit
 - [pkgcraft/bash](https://github.com/pkgcraft/bash) – Fork enabling integration into a rust library
 - [pkgforge-dev/appimagetool-uruntime](https://github.com/pkgforge-dev/appimagetool-uruntime) – Fork that uses the uruntime AppImage runtime by default
+- [pkgforge-dev/super-strip](https://github.com/pkgforge-dev/super-strip) – Small utility that removes as much as possible from an ELF file without affecting the file's Memory Image
 - [pkgxdev/pantry](https://github.com/pkgxdev/pantry) – pkg manifests
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) – tools to create and extract Squashfs filesystems
 - [plp13/qman](https://github.com/plp13/qman) – A more modern man page viewer for our terminals
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) – pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) – Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [pouriyajamshidi/flat](https://github.com/pouriyajamshidi/flat) – Measure UDP  and TCP connection latency for IPv4 and IPv6 using eBPF and Go
 - [ppp-project/ppp](https://github.com/ppp-project/ppp) – Paul's PPP Package: PPP daemon and associated utilities | Official GitHub repo: https://github.com/ppp-project/ppp
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
@@ -526,6 +528,7 @@
 - [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – 🥜 A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
+- [uswriting/zeroperl](https://github.com/uswriting/zeroperl) –  Perl5 in a sandboxed, self-contained WebAssembly module.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
 - [v1cont/yad](https://github.com/v1cont/yad) – Yet Another Dialog
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
@@ -1855,6 +1858,7 @@
 - [mytechnotalent/turbo-attack](https://github.com/mytechnotalent/turbo-attack) – A turbo traffic generator pentesting tool to generate random traffic with random MAC and IP addresses in addition to random sequence numbers to a particular IP and port.
 - [myzie/burrow](https://github.com/myzie/burrow) – Burrow is a globally distributed HTTP proxy via AWS Lambda
 - [nadoo/glider](https://github.com/nadoo/glider) – glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [nanovms/ops](https://github.com/nanovms/ops) – ops - build and run nanos unikernels
 - [nao1215/gup](https://github.com/nao1215/gup) – gup - Update binaries installed by "go install" with goroutines.
 - [nao1215/jose](https://github.com/nao1215/jose) – jose - CLI tool for JOSE (JSON Object Signing and Encryption)
 - [nao1215/mimixbox](https://github.com/nao1215/mimixbox) – MimixBox - mimic BusyBox on Linux
@@ -3581,6 +3585,7 @@
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) – CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
+- [basnijholt/dotbins](https://github.com/basnijholt/dotbins) – Keep updated binaries in your dotfiles 🧰
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) – ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [bee-san/Name-That-Hash](https://github.com/bee-san/Name-That-Hash) – 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 - [bee-san/Search-That-Hash](https://github.com/bee-san/Search-That-Hash) – 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
@@ -4379,6 +4384,7 @@
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
+- [containers/crun-vm](https://github.com/containers/crun-vm) – Run VM disk images using Podman / Docker / Kubernetes.
 - [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
 - [cosmic-utils/app-hub](https://github.com/cosmic-utils/app-hub) – AppHub is a Linux desktop application that simplifies the installation and management of .appImage packages
 - [cosmic-zip/witchcraft](https://github.com/cosmic-zip/witchcraft) – WITCHCRAFT is a cyberdeck toolkit built for runners who dive deep into the mesh. It’s your all-in-one rig for data-ghosting, ICE-breaking, and corp-system infiltration. Whether you’re running forensic traces, scraping OSINT feeds, or slicing through firewalls, WITCHCRAFT’s got your back.
