@@ -157,7 +157,9 @@
 - [CZ-NIC/shotgun](https://github.com/CZ-NIC/shotgun) – DNS Shotgun: high-performance realistic DNS benchmarking tool. This is a mirrored repository.
 - [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) – Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) – A NetSurf fork with various improvements
+- [ColinIanKing/cpustat](https://github.com/ColinIanKing/cpustat) – cpustat periodically dumps out the current CPU utilisation statistics of running processes. cpustat has been optimised to have a minimal CPU overhead and typically uses about 35% of the CPU compared to top. cpustat also includes some simple statistical analysis options that can help characterise the way CPUs are being loaded. 
 - [ColinIanKing/forkstat](https://github.com/ColinIanKing/forkstat) – Forkstat is a program that logs process fork(), exec() and exit() activity. It is useful for monitoring system behaviour and to track down rogue processes that are spawning off processes and potentially abusing the system. 
+- [ColinIanKing/smemstat](https://github.com/ColinIanKing/smemstat) – Smemstat reports the physical memory usage taking into consideration shared memory. The tool can either report a current snapshot of memory usage or periodically dump out any changes in memory. 
 - [CompuRoot/static-sqlite3](https://github.com/CompuRoot/static-sqlite3) – Statically compiled binary shell sqlite3
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) – DNS Performance Testing Tools
 - [DimaKoz/meat-grinder](https://github.com/DimaKoz/meat-grinder) – A native root checker for Android devices and sample app
@@ -222,6 +224,7 @@
 - [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
 - [acassen/keepalived](https://github.com/acassen/keepalived) – Keepalived
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
+- [alegrey91/harpoon](https://github.com/alegrey91/harpoon) – 🔍 Seccomp profiling and function-level tracing tool.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) – GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [alpinelinux/apk-tools](https://github.com/alpinelinux/apk-tools) – [MIRROR] Alpine package manager
 - [andrei-markeev/ts2c](https://github.com/andrei-markeev/ts2c) – Convert Javascript/TypeScript to C
@@ -570,6 +573,7 @@
 - [wolfSSL/wolfCLU](https://github.com/wolfSSL/wolfCLU) – The wolfSSL Command Line Utility wolfCLU
 - [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) – wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
+- [wtarreau/mhz](https://github.com/wtarreau/mhz) – CPU frequency measurement utility
 - [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
