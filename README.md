@@ -285,6 +285,7 @@
 - [dimkr/loksh](https://github.com/dimkr/loksh) – A Linux port of OpenBSD's ksh
 - [dixyes/phpmicro](https://github.com/dixyes/phpmicro) – micro sfx SAPI for php (wip, may force push)
 - [dosemu2/dosemu2](https://github.com/dosemu2/dosemu2) – Run DOS programs under linux:
+- [ebiggers/libdeflate](https://github.com/ebiggers/libdeflate) – Heavily optimized library for DEFLATE/zlib/gzip compression and decompression
 - [edubart/bwrapbox](https://github.com/edubart/bwrapbox) – Linux sandboxing utility on top of bubblewrap
 - [edubart/minilua](https://github.com/edubart/minilua) – Single-file port of Lua, a powerful scripting language.
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
@@ -367,8 +368,12 @@
 - [kubo/injector](https://github.com/kubo/injector) – Library for injecting a shared library into a Linux or Windows process
 - [landley/toybox](https://github.com/landley/toybox) – toybox
 - [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) – Jessibuca是一款开源的纯H5直播流播放器
+- [leahneukirchen/lr](https://github.com/leahneukirchen/lr) – list files, recursively
+- [leahneukirchen/nitro](https://github.com/leahneukirchen/nitro) – tiny but flexible init system and process supervisior
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) – Unix command line queue utility
 - [leahneukirchen/outils](https://github.com/leahneukirchen/outils) – port of some non-standard OpenBSD tools to Linux
+- [leahneukirchen/snooze](https://github.com/leahneukirchen/snooze) – run a command at a particular time
+- [leahneukirchen/ulidgen](https://github.com/leahneukirchen/ulidgen) – generate or tag lines with ULID
 - [leleliu008/C-examples](https://github.com/leleliu008/C-examples) – C语言学习项目
 - [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build projects written in C, C++, Rust, Golang, etc.
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
@@ -418,6 +423,13 @@
 - [moosefs/moosefs](https://github.com/moosefs/moosefs) – MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage
 - [mozillazg/ptcpdump](https://github.com/mozillazg/ptcpdump) – Process-aware, eBPF-based tcpdump
 - [mrdotx/cinfo](https://github.com/mrdotx/cinfo) – a fast and minimal system information tool for linux-based operating systems
+- [msantos/alcove](https://github.com/msantos/alcove) – Control plane for system processes
+- [msantos/fchmodexec](https://github.com/msantos/fchmodexec) – fchmod(2) inherited file descriptors before exec(3)'ing a command
+- [msantos/prv](https://github.com/msantos/prv) – pressure relief valve for Unix process pipelines
+- [msantos/pseudocron](https://github.com/msantos/pseudocron) – sleep(1) using a cron expression
+- [msantos/runcron](https://github.com/msantos/runcron) – simple, safe, container-friendly cron alternative
+- [msantos/trep](https://github.com/msantos/trep) – Selectively stream stdin to stdout/stderr based on regular expressions
+- [msantos/tscat](https://github.com/msantos/tscat) – Timestamp stdin to stdout/stderr
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
 - [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
@@ -434,6 +446,7 @@
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
+- [openwall/passwdqc](https://github.com/openwall/passwdqc) – Password/passphrase strength checking and policy enforcement
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 - [oracle/adaptivemm](https://github.com/oracle/adaptivemm) – adaptivemm - A userspace daemon for proactive free memory management
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
@@ -3014,6 +3027,7 @@
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) – A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [AkashHamal0x01/learn250](https://github.com/AkashHamal0x01/learn250)
 - [Alessandro-Salerno/tarman-user-repository](https://github.com/Alessandro-Salerno/tarman-user-repository) – The TUR: Tarman User Repository - Where tarman recipes are held!
+- [AlmaLinux/container-images](https://github.com/AlmaLinux/container-images)
 - [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) – A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [AppImage/AppImageSpec](https://github.com/AppImage/AppImageSpec) – This repository holds the specification for the AppImage format.
 - [AppImageMan/ail](https://github.com/AppImageMan/ail) – Version controlled mirror of AppImage files.
@@ -3504,6 +3518,7 @@
 - [InfoSecWarrior/Offensive-Pentesting-Scripts](https://github.com/InfoSecWarrior/Offensive-Pentesting-Scripts) – Scripts that are intended to help you in your pen-testing and bug-hunting efforts by automating various manual tasks, making your work more efficient and effective.
 - [InitRoot/BurpSQLTruncSanner](https://github.com/InitRoot/BurpSQLTruncSanner) – Messy BurpSuite plugin for SQL Truncation vulnerabilities.
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) – Colored logcat script which only shows log entries for a specific application package.
+- [Jip-Hop/jailmaker](https://github.com/Jip-Hop/jailmaker) – Persistent Linux 'jails' on TrueNAS SCALE to install software (k3s, docker, portainer, podman, etc.) with full access to all files via bind mounts thanks to systemd-nspawn!
 - [KissPeter/APIFuzzer](https://github.com/KissPeter/APIFuzzer) – Fuzz test your application using your OpenAPI or Swagger API definition without coding
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) – A powerful and useful hacker dictionary builder for a brute-force attack
@@ -3838,7 +3853,6 @@
 - [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) – aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [mk-fg/fgtk](https://github.com/mk-fg/fgtk) – A set of a misc tools to work with files and processes
 - [monoidic/TLDR2](https://github.com/monoidic/TLDR2)
-- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [montysecurity/C2-Tracker](https://github.com/montysecurity/C2-Tracker) – Live Feed of C2 servers, tools, and botnets
 - [moogar0880/PyTrakt](https://github.com/moogar0880/PyTrakt) – A Pythonic interface to the Trakt.tv REST API
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) – Cloudflare, Sucuri, Incapsula real IP tracker.
@@ -4501,6 +4515,7 @@
 - [facebookexperimental/hermit](https://github.com/facebookexperimental/hermit) – Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.
 - [facebookincubator/below](https://github.com/facebookincubator/below) – A time traveling resource monitor for modern Linux systems
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) – Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
+- [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) – A memory visualizer in Rust (ptrace + userfaultfd)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) – mouse & keyboard sharing via LAN
 - [ffizer/ffizer](https://github.com/ffizer/ffizer) – ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
@@ -4690,6 +4705,7 @@
 - [mkj/sunset](https://github.com/mkj/sunset) – SSH for Rust, no_std and elsewhere
 - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs) – A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [momo-os/blossom](https://github.com/momo-os/blossom) – 🌸 A Delightful Package Manager for Linux
+- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) – HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [moonrepo/proto](https://github.com/moonrepo/proto) – A pluggable multi-language version manager.
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator) – Tool to validate GitHub Action and Workflow YAML files
 - [mpalmer/scrape-ct-log](https://github.com/mpalmer/scrape-ct-log) – CLI tool to quickly and efficiently bulk-download entries from a Certificate Transparency log
@@ -4745,6 +4761,7 @@
 - [oconnor663/bao](https://github.com/oconnor663/bao) – an implementation of BLAKE3 verified streaming
 - [ofek/pyapp](https://github.com/ofek/pyapp) – Runtime installer for Python applications
 - [ogham/dog](https://github.com/ogham/dog) – A command-line DNS client.
+- [ohchase/yaui](https://github.com/ohchase/yaui) – Yet Another Unix Injector with support for Android/Android Emulator i686/x64/arm/aarch64
 - [oll3/bita](https://github.com/oll3/bita) – Differential file synchronization over http
 - [omerbenamram/evtx](https://github.com/omerbenamram/evtx) – A Fast (and safe) parser for the Windows XML Event Log (EVTX) format
 - [omjadas/hudsucker](https://github.com/omjadas/hudsucker) – Intercepting HTTP/S proxy
@@ -4806,8 +4823,8 @@
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
-- [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux.
-- [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux.
+- [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux
+- [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux
 - [pythops/lobtui](https://github.com/pythops/lobtui) – 🌐 TUI for lobste.rs website
 - [pythops/oryx](https://github.com/pythops/oryx) – 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) – Multi functional app to find duplicates, empty folders, similar images etc.
