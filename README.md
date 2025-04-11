@@ -444,6 +444,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) – Linux namespaces and seccomp-bpf sandbox
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nicbarker/clay](https://github.com/nicbarker/clay) – High performance UI layout library in C.
+- [nickolasburr/keuka](https://github.com/nickolasburr/keuka) – SSL/TLS analysis utility.
 - [nickolasburr/rng](https://github.com/nickolasburr/rng) – Print range of lines to stdout.
 - [nihui/ruapu](https://github.com/nihui/ruapu) – Detect CPU features with single-file
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
@@ -3240,6 +3241,7 @@
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
+- [leleliu008/uppm-package-repository-linux-aarch64](https://github.com/leleliu008/uppm-package-repository-linux-aarch64)
 - [leleliu008/uppm-package-repository-linux-x86_64](https://github.com/leleliu008/uppm-package-repository-linux-x86_64)
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – The list of continuous integration services and tools
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
@@ -5550,7 +5552,7 @@
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [nmimusic/unifetch](https://github.com/nmimusic/unifetch) – An unofficial inheritor of Neofetch
 - [noahbliss/mortar](https://github.com/noahbliss/mortar) – Framework to join Linux's physical security bricks. 
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
