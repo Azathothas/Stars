@@ -301,6 +301,7 @@
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving the ultimate goal: app immortality. Refuse forced termination, auto-start on phone boot, auto-start at scheduled times, event-driven auto-start.
+- [fgont/ipv6toolkit](https://github.com/fgont/ipv6toolkit) – SI6 Networks' IPv6 Toolkit
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
@@ -312,6 +313,7 @@
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) – Gluster Filesystem : Build your distributed storage in minutes
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) – An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+- [google/fscryptctl](https://github.com/google/fscryptctl) – Small C tool for Linux filesystem encryption
 - [google/neper](https://github.com/google/neper) – neper is a Linux networking performance tool.
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
 - [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
@@ -362,6 +364,7 @@
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
 - [keenerd/gz-sort](https://github.com/keenerd/gz-sort) – A utility for sorting really big files.  http://kmkeen.com/gz-sort/
 - [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
+- [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) – A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) – BSD-licensed implementation of rsync
@@ -406,6 +409,7 @@
 - [maroofi/bulkDNS](https://github.com/maroofi/bulkDNS) – buldDNS: A DNS scanner for large-scale measurement
 - [maroofi/libctld](https://github.com/maroofi/libctld) – Top Level Domain parser based on Public Suffix List (PSL)
 - [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) – nwipe secure disk eraser
+- [marty1885/landlock-unveil](https://github.com/marty1885/landlock-unveil) – OpenBSD unveil(2) like function in Linux using Landlock
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
 - [masneyb/gftp](https://github.com/masneyb/gftp) – gFTP is a free multithreaded file transfer client for *NIX based machines. 56 language translations available.
 - [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
@@ -440,6 +444,7 @@
 - [netblue30/firejail](https://github.com/netblue30/firejail) – Linux namespaces and seccomp-bpf sandbox
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nicbarker/clay](https://github.com/nicbarker/clay) – High performance UI layout library in C.
+- [nickolasburr/rng](https://github.com/nickolasburr/rng) – Print range of lines to stdout.
 - [nihui/ruapu](https://github.com/nihui/ruapu) – Detect CPU features with single-file
 - [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
@@ -651,7 +656,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) – Transparent file encryption in git
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) – Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) – Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
-- [AlmaLinux/wsl-images](https://github.com/AlmaLinux/wsl-images) – Visual Studio solution and kickstart file to generate WSL images and the associated appx.
+- [AlmaLinux/wsl-images](https://github.com/AlmaLinux/wsl-images) – Official AlmaLinux OS WSL image sources
 - [AppImageMan/aim](https://github.com/AppImageMan/aim) – A tool for installing, updating, and removing AppImages.
 - [Aryanstha/NetTool](https://github.com/Aryanstha/NetTool) – Simple NetTool with CPP to make a report on simple networking command like ping, tracert, nslookup
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
@@ -1044,6 +1049,7 @@
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack) – ↕️🤫 Stealth redirector for your red team operation security
 - [DBCDK/morph](https://github.com/DBCDK/morph) – NixOS deployment tool
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) – Lorem Ipsum... but for photos.
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) – dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) – Spoof TLS/JA3 fingerprints in GO and Javascript 
 - [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) – CRProxy (Container Registry Proxy) is a generic image proxy
 - [DarthSim/overmind](https://github.com/DarthSim/overmind) – Process manager for Procfile-based applications and tmux
@@ -1774,6 +1780,7 @@
 - [kvesta/vesta](https://github.com/kvesta/vesta) – A static analysis of vulnerabilities, Docker and Kubernetes cluster configuration detect toolkit based on the real penetration of cloud computing
 - [lachlan2k/phatcrack](https://github.com/lachlan2k/phatcrack) – Modern web-based distributed hashcracking solution, built on hashcat
 - [laktak/zfind](https://github.com/laktak/zfind) – search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter
+- [landlock-lsm/go-landlock](https://github.com/landlock-lsm/go-landlock) – A Go library for the Linux Landlock sandboxing feature
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) – A lightweight, fast, and secure code execution environment that supports multiple programming languages
 - [lanrat/allxfr](https://github.com/lanrat/allxfr) – AXFR all the things!
 - [lanrat/certgraph](https://github.com/lanrat/certgraph) – An open source intelligence tool to crawl the graph of certificate Alternate Names
@@ -3492,6 +3499,7 @@
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
+- [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) – Lists of public DNSCrypt / DoH DNS servers and DNS relays
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) – Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [DeiC-HPC/cotainr](https://github.com/DeiC-HPC/cotainr) – cotainr - a user space Apptainer/Singularity container builder.
 - [DotNetRussell/Ensemble](https://github.com/DotNetRussell/Ensemble) – A Bug Bounty Platform that allows hunters to issue commands over a geo-distributed cluster. The ideal user is someone who is attempting to scan multiple bug bounty programs simultaneously, on a recurring basis.
@@ -4654,6 +4662,7 @@
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely in Rust.
 - [kyren/piccolo](https://github.com/kyren/piccolo) – An experimental stackless Lua VM implemented in pure Rust
+- [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock) – A Rust library for the Linux Landlock sandboxing feature
 - [lapce/lapce](https://github.com/lapce/lapce) – Lightning-fast and Powerful Code Editor written in Rust
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [leadlang/lead](https://github.com/leadlang/lead) – The Lead Programming Language Interpreter and the Open Lead Language Runtime & Compiler
@@ -5405,7 +5414,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
-- [harilvfs/carch](https://github.com/harilvfs/carch) – An automated script for quick & easy Linux system setup (Arch & Fedora) 🧩
+- [harilvfs/carch](https://github.com/harilvfs/carch) – A Simple Script to Make Linux System Setups Easier 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
