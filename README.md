@@ -248,7 +248,6 @@
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [blechschmidt/massdns](https://github.com/blechschmidt/massdns) – A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
 - [bmc/daemonize](https://github.com/bmc/daemonize) – Command line utility to run a program as a Unix daemon
-- [boku7/Loki](https://github.com/boku7/Loki) – 🧙‍♂️ Node JS C2 for backdooring vulnerable Electron applications
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
@@ -366,6 +365,7 @@
 - [kenzok8/small-package](https://github.com/kenzok8/small-package) – 自动同步更新上游库软件
 - [kevinboone/epub2txt2](https://github.com/kevinboone/epub2txt2) – A simple command-line utility for Linux, for extracting text from EPUB documents.
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) – tools for logs with ANSI color
+- [kmxz/overlayfs-tools](https://github.com/kmxz/overlayfs-tools) – Maintenance tools for overlay-filesystem
 - [krallin/tini](https://github.com/krallin/tini) – A tiny but valid `init` for containers
 - [kristapsdz/openrsync](https://github.com/kristapsdz/openrsync) – BSD-licensed implementation of rsync
 - [ksh93/ksh](https://github.com/ksh93/ksh) – ksh 93u+m: KornShell lives! | Latest release: https://github.com/ksh93/ksh/releases
@@ -477,6 +477,7 @@
 - [pouriyajamshidi/flat](https://github.com/pouriyajamshidi/flat) – Measure UDP  and TCP connection latency for IPv4 and IPv6 using eBPF and Go
 - [ppp-project/ppp](https://github.com/ppp-project/ppp) – Paul's PPP Package: PPP daemon and associated utilities | Official GitHub repo: https://github.com/ppp-project/ppp
 - [proh14/canoutils](https://github.com/proh14/canoutils) – coreutils but cano! public domain 💖
+- [projg2/cpuid2cpuflags](https://github.com/projg2/cpuid2cpuflags) – Tool to generate CPU_FLAGS_* for your CPU
 - [proot-me/proot](https://github.com/proot-me/proot) – chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) – Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [ptitSeb/box86](https://github.com/ptitSeb/box86) – Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
@@ -2211,6 +2212,8 @@
 - [sweetbbak/tget](https://github.com/sweetbbak/tget) – wget but for torrents
 - [sweetbbak/toru](https://github.com/sweetbbak/toru) – Bittorrent streaming CLI tool. Stream anime torrents, real-time with no waiting for downloads. 
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) – Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
+- [sylabs/sif](https://github.com/sylabs/sif) – Singularity Image Format (SIF) reference implementation.
+- [sylabs/singularity](https://github.com/sylabs/singularity) – SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 - [synacktiv/IPSpinner](https://github.com/synacktiv/IPSpinner) – IPSpinner works as a local proxy that redirects requests through external services.
 - [synacktiv/octoscan](https://github.com/synacktiv/octoscan) – Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) – Open Source Continuous File Synchronization
@@ -2635,6 +2638,7 @@
 - [backblaze-b2-samples/cloudflare-b2](https://github.com/backblaze-b2-samples/cloudflare-b2) – Provide access to a private Backblaze B2 bucket via a Cloudflare Worker
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) – Beautifier for javascript 
 - [beefproject/beef](https://github.com/beefproject/beef) – The Browser Exploitation Framework Project
+- [boku7/Loki](https://github.com/boku7/Loki) – 🧙‍♂️ Node.js Command & Control for Script-Jacking Vulnerable Electron Applications
 - [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) – Converts .py to .exe using a simple graphical interface 
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) – A fully-modern text-based browser, rendering to TTY and browsers
 - [ccbikai/ip-api](https://github.com/ccbikai/ip-api) – 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
@@ -5364,6 +5368,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) – A purely bash web server, no socat, netcat, etc... 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
+- [ecdye/zram-config](https://github.com/ecdye/zram-config) – A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [eddiewebb/circleci-queue](https://github.com/eddiewebb/circleci-queue) – CircleCI orb to block/queue jobs to enforce max concurrency limits
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) – transparently encrypt files within a git repository
