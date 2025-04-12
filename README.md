@@ -1949,7 +1949,7 @@
 - [oalders/is](https://github.com/oalders/is) – an inspector for your environment
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) – a go-lang supervisor implementation
 - [olareg/olareg](https://github.com/olareg/olareg) – Minimal container registry
-- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) – Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [omerh/awsctl](https://github.com/omerh/awsctl) – Control AWS infrastructure easily from a single command line written in Go
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) – k9s like CLI for AWS and GCP
 - [oneclickvirt/backtrace](https://github.com/oneclickvirt/backtrace) – 回程路由线路测试模块
@@ -4427,7 +4427,7 @@
 - [cestef/braise](https://github.com/cestef/braise) – Run your tasks like a chef !
 - [cestef/rwalk](https://github.com/cestef/rwalk) – A blazingly fast web directory scanner written in Rust
 - [chawyehsu/hok](https://github.com/chawyehsu/hok) – CLI reimplementation of Scoop in Rust
-- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) – Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) – Tool for manipulating and re-signing Android A/B OTAs
 - [chevdor/tera-cli](https://github.com/chevdor/tera-cli) – A command line utility on top of the tera templating engine. Takes json|yaml|toml as input and can merge ENV in. You may see it as envsubst on steroid.
 - [chmln/sd](https://github.com/chmln/sd) – Intuitive find & replace CLI (sed alternative)
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
