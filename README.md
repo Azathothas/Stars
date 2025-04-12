@@ -1014,6 +1014,7 @@
 - [256lights/zb](https://github.com/256lights/zb) – An experiment in hermetic, reproducible build systems
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
+- [42LoCo42/statish](https://github.com/42LoCo42/statish) – Bundle a shellscript with statically linked binaries!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [89luca89/podman-launcher](https://github.com/89luca89/podman-launcher) – Simple golang wrapper to bundle a podman installation in a single binary
@@ -2955,6 +2956,7 @@
 - [kreatolinux/src](https://github.com/kreatolinux/src) – Kreato Linux source tree
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [nim-lang/choosenim](https://github.com/nim-lang/choosenim) – Official tool for easily installing and managing multiple versions of the Nim programming language.
+- [nim-lang/nimony](https://github.com/nim-lang/nimony) – Nimony is a new Nim implementation that is in heavy development.
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
 
 <div id="nix"></div>
@@ -2968,6 +2970,7 @@
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) – Spawns lightweight nixos vms in a shell
 - [Naxdy/nix-bwrapper](https://github.com/Naxdy/nix-bwrapper) – A user-friendly method of sandboxing applications using bubblewrap with portals support.
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) – Config for the Community aarch64 NixOS box
+- [NixOS/bundlers](https://github.com/NixOS/bundlers) – Aggregated bundlers [maintainer=@tomberek, @Artturin] 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
 - [SamLukeYes/archix](https://github.com/SamLukeYes/archix) – Utilities for Arch Linux development, in a flake
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
@@ -4708,6 +4711,7 @@
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
 - [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
+- [metafates/brewer](https://github.com/metafates/brewer) – 🍺 An extremely fast homebrew CLI wrapper with extra features.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) – A markdown terminal slideshow tool
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) – Like jq, but for HTML.
@@ -5156,6 +5160,7 @@
 - [Genivia/ugrep-benchmarks](https://github.com/Genivia/ugrep-benchmarks) – ugrep benchmarks
 - [GhostTroops/TOP](https://github.com/GhostTroops/TOP) – TOP All bugbounty pentesting CVE-2023- POC Exp  RCE example payload  Things
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) – Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
+- [GrabbenD/ostree-utility](https://github.com/GrabbenD/ostree-utility) – Helper script to easily install and upgrade the system via containers and OSTree in Arch Linux
 - [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates at the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
