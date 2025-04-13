@@ -2600,7 +2600,6 @@
 - [833M0L3/NEANotify](https://github.com/833M0L3/NEANotify) – A simple webapp to keep track of the electricity outage
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) – A from-scratch experimental AOT JS engine, written in JS
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
@@ -4755,6 +4754,7 @@
 - [neosmart/tac](https://github.com/neosmart/tac) – A high-performance, cross-platform file reverse utility
 - [next-hat/nanocl](https://github.com/next-hat/nanocl) – Work in progress distributed system that simplifies the orchestration of containers and virtual machines.
 - [ngrok/ngrok-rust](https://github.com/ngrok/ngrok-rust) – Embed ngrok secure ingress into your Rust apps with a single line of code.
+- [nichmor/arwen](https://github.com/nichmor/arwen) – cross-platform patching of the shared libraries in rust ( patchelf && install_name_tool ) 
 - [nicolaiunrein/cargo-get](https://github.com/nicolaiunrein/cargo-get) – Query package information from Cargo.toml files in a script-friendly way.
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) – A Command-line tool similar to Neofetch for obtaining information about your country
 - [nik-rev/patchy](https://github.com/nik-rev/patchy) – A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
@@ -5125,6 +5125,7 @@
 - [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) – Download a gdrive folder or file easily, shell ftw.
 - [Animeshz/scripts](https://github.com/Animeshz/scripts) – Collection of my regularly used scripts
 - [AryanVBW/LinuxDroid](https://github.com/AryanVBW/LinuxDroid) – The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) – Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [Autorevision/autorevision](https://github.com/Autorevision/autorevision) – A script for extracting version information useful in release/build scripting.
 - [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) – XMonad™️. Widgets go brr.
 - [Azathothas/Arsenal](https://github.com/Azathothas/Arsenal) – Hastly written Tools & Scripts for Personal Use Cases & Bug Bounties
