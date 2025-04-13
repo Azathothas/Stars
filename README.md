@@ -2245,7 +2245,7 @@
 - [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
-- [tillson/git-hound](https://github.com/tillson/git-hound) – Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
+- [tillson/git-hound](https://github.com/tillson/git-hound) – Recon tool leveraging GitHub Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [timbray/topfew](https://github.com/timbray/topfew) – Finds the field values (or combinations of values) which appear most often in a stream of records.
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) – A tool for adding new lines to files, skipping duplicates
@@ -3886,7 +3886,7 @@
 - [mzfr/slicer](https://github.com/mzfr/slicer) – A tool to automate the boring process of APK recon
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) – Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [napisani/procmux](https://github.com/napisani/procmux) – a TUI utility for running multiple commands in parallel in easily switchable terminals
-- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) – Differential fuzzing REPL for HTTP implementations.
+- [narfindustries/http-garden](https://github.com/narfindustries/http-garden) – Differential testing framework for HTTP implementations
 - [nathom/streamrip](https://github.com/nathom/streamrip) – A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [nccgroup/PMapper](https://github.com/nccgroup/PMapper) – A tool for quickly evaluating IAM permissions in AWS.
 - [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite) – Multi-Cloud Security Auditing Tool
