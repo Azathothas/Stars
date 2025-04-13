@@ -2004,6 +2004,7 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) – 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) – The One CD for All {applications, platforms, operations}
 - [pixelfs/pixelfs](https://github.com/pixelfs/pixelfs) – PixelFS is a cross-device file system, Transfer files based on s3-protocol.
+- [pkgforge-security/crt](https://github.com/pkgforge-security/crt) – CLI tool to check Certificate Transparency logs using crt.sh [Maintainer=@Azathothas]
 - [pkgforge/sbuilder-go](https://github.com/pkgforge/sbuilder-go) – Golang utilities for Linting and Building SBUILD Recipes [Maintainer=@xplshn]
 - [platput/sockv5er](https://github.com/platput/sockv5er) – Tool to create ssh tunnels on demand using the free tier ec2 instances from AWS from any given region
 - [plutov/playgo](https://github.com/plutov/playgo) – CLI tool to send .go file to the Go Playground
