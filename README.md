@@ -243,6 +243,7 @@
 - [axoflow/axosyslog](https://github.com/axoflow/axosyslog) – AxoSyslog - the scalable security data processor
 - [baidu/dperf](https://github.com/baidu/dperf) – dperf is a 100Gbps network load tester.
 - [baulk/baulk](https://github.com/baulk/baulk) – baulk - Minimal Package Manager for Windows
+- [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) – This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [begriffs/gitftp](https://github.com/begriffs/gitftp) – Browse git over anonymous FTP
 - [beordle/termtunnel](https://github.com/beordle/termtunnel) – Cross-platform terminal tunnel tool
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) – IPv6 address rate limiting evasion tool (that also supports IPv4)
@@ -940,6 +941,7 @@
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
 - [beeware/briefcase-linux-appimage-template](https://github.com/beeware/briefcase-linux-appimage-template) – A template for generating Linux AppImage projects with Briefcase
 - [captn3m0/repology-dump-docker](https://github.com/captn3m0/repology-dump-docker)
+- [dyne/docker-devuan-builds](https://github.com/dyne/docker-devuan-builds) – Slim docker base images based on Devuan
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
@@ -2355,7 +2357,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3636 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +3812 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -2419,6 +2421,7 @@
 - [aerokube/moon](https://github.com/aerokube/moon) – Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) – Automagically reverse-engineer REST APIs via capturing traffic
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
+- [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) – This tracks website development for Bedrock Linux
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) – Documentation for Cirrus CI 📚
@@ -2460,6 +2463,7 @@
 - [trickest/cve](https://github.com/trickest/cve) – Gather and update all available and newest CVEs with their PoC.
 - [vysecurity/IPFuscator](https://github.com/vysecurity/IPFuscator) – IPFuscator - A tool to automatically generate alternative IP representations
 - [x0rb3l/Cyber-Bookmarks](https://github.com/x0rb3l/Cyber-Bookmarks) – A list of bookmarks I have used since I started my journey in cyber security
+- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) – reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
 
 <div id="haskell"></div>
@@ -2741,7 +2745,6 @@
 - [wh0/snail-cli](https://github.com/wh0/snail-cli) – a CLI for Glitch
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) – Easily manage the brightness of your monitors in Windows from the system tray
 - [xnl-h4ck3r/XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) – A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements.
-- [xplshn/AppBundleHUB](https://github.com/xplshn/AppBundleHUB) – A repo & website that builds a ton of appbundles, weekly, completely automated. Firefox, Chromium, inkscape, ppsspp, steam, thunar, xfce components & some mutlicall AppBundles too! (there's lots more)
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) – 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
@@ -5203,6 +5206,7 @@
 - [Moe-hacker/rootfstool](https://github.com/Moe-hacker/rootfstool) – A tool to get linux container rootfs from lxc-image mirrors.
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) – Script for installing Guacamole on Ubuntu
+- [NVIDIA/enroot](https://github.com/NVIDIA/enroot) – A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
@@ -5375,6 +5379,7 @@
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) – 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) – A purely bash web server, no socat, netcat, etc... 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) – EMBA - The firmware security analyzer
+- [easybuilders/easybuild](https://github.com/easybuilders/easybuild) – EasyBuild - building software with ease
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) – A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [eddiewebb/circleci-queue](https://github.com/eddiewebb/circleci-queue) – CircleCI orb to block/queue jobs to enforce max concurrency limits
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
