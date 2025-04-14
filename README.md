@@ -183,6 +183,7 @@
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
+- [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) – NVIDIA container runtime library
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) – Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) – Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
@@ -1036,6 +1037,7 @@
 - [Aryanstha/GoHTTPHasher](https://github.com/Aryanstha/GoHTTPHasher) – A lightweight Golang command-line tool designed to generate cryptographic hash values for HTTP headers.
 - [Aryanstha/GoSubSeeker](https://github.com/Aryanstha/GoSubSeeker)
 - [Bearer/bearer](https://github.com/Bearer/bearer) – Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+- [BeryJu/gravity](https://github.com/BeryJu/gravity) – Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) – Automating situational awareness for cloud penetration tests.
 - [BishopFox/dufflebag](https://github.com/BishopFox/dufflebag) – Search exposed EBS volumes for secrets
 - [BishopFox/jsluice](https://github.com/BishopFox/jsluice) – Extract URLs, paths, secrets, and other interesting bits from JavaScript
