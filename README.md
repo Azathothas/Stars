@@ -1213,6 +1213,7 @@
 - [abdfnx/tran](https://github.com/abdfnx/tran) – 🖥 Securely transfer and send anything between computers with TUI.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) – cross-platform, cli app to perform various operations on string
 - [abiosoft/colima](https://github.com/abiosoft/colima) – Container runtimes on macOS (and Linux) with minimal setup
+- [aceeric/ociregistry](https://github.com/aceeric/ociregistry) – Golang pull-only, pull-through, caching OCI distribution server
 - [activecm/rita-legacy](https://github.com/activecm/rita-legacy) – Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [adhocore/gronx](https://github.com/adhocore/gronx) – Lightweight, fast and dependency-free Cron expression parser (due checker, next/prev due date finder), task runner, job scheduler and/or daemon for Golang (tested on v1.13+) and standalone usage. If you are bold, use it to replace crontab entirely.
 - [admpub/nging](https://github.com/admpub/nging) – Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
@@ -1422,6 +1423,7 @@
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) – Container to WASM converter
 - [containerd/imgcrypt](https://github.com/containerd/imgcrypt) – OCI Image Encryption Package
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) – contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) – Fast container image distribution plugin with lazy pulling
 - [containers/buildah](https://github.com/containers/buildah) – A tool that facilitates building OCI images.
 - [containers/ocicrypt](https://github.com/containers/ocicrypt) – Encryption libraries for Encrypted OCI Container images
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
@@ -1618,6 +1620,7 @@
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) – Auditing for TLS certificates (Go code)
 - [google/codesearch](https://github.com/google/codesearch) – Fast, indexed regexp search over large file trees
+- [google/container-explorer](https://github.com/google/container-explorer)
 - [google/deps.dev](https://github.com/google/deps.dev) – Resources for the deps.dev API
 - [google/fscrypt](https://github.com/google/fscrypt) – Go tool for managing Linux filesystem encryption
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) – Go library and CLIs for working with container registries
@@ -2025,6 +2028,7 @@
 - [praetorian-inc/fingerprintx](https://github.com/praetorian-inc/fingerprintx) – Standalone utility for service discovery on open ports! 
 - [primait/nuvola](https://github.com/primait/nuvola)
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) – Go implementation of AppImage tools
+- [project-stacker/stacker](https://github.com/project-stacker/stacker) – A vendor-neutral OCI-native container image (tgz, squashfs, erofs) builder (purely based on OCI Image Specification)
 - [project-zot/zot](https://github.com/project-zot/zot) – zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [projectdiscovery/aix](https://github.com/projectdiscovery/aix) – AIx is a cli tool to interact with Large Language Models (LLM) APIs.
 - [projectdiscovery/alterx](https://github.com/projectdiscovery/alterx) – Fast and customizable subdomain wordlist generator using DSL
@@ -5661,6 +5665,7 @@
 - [rohsec/chaosDump](https://github.com/rohsec/chaosDump) – A powerful and clean bash script to dump and extract information from Project Discovery's Chaos Project https://chaos.projectdiscovery.io.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
+- [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) – Kubernetes without the root privileges
 - [rti/nixwrap](https://github.com/rti/nixwrap) – Easy Application Sandboxing
 - [ruanformigoni/arch-bootstrap](https://github.com/ruanformigoni/arch-bootstrap) – Bootstrap a base Arch Linux system
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
