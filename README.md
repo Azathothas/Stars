@@ -1022,6 +1022,7 @@
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
 - [42LoCo42/statish](https://github.com/42LoCo42/statish) – Bundle a shellscript with statically linked binaries!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) – bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) – Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [89luca89/podman-launcher](https://github.com/89luca89/podman-launcher) – Simple golang wrapper to bundle a podman installation in a single binary
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
@@ -1123,7 +1124,7 @@
 - [LeanerCloud/ec2-instances-info](https://github.com/LeanerCloud/ec2-instances-info) – Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) – OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) – Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
-- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) – A TUI for reading logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods for quick viewing and filtering with fuzzy find, regex support and coloring the output, written in Go with the gocui.
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) – A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing and filtering with fuzzy find, regex support and coloring the output.
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) – 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [M0Rf30/yap](https://github.com/M0Rf30/yap) – Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
@@ -3586,6 +3587,7 @@
 - [RevoltSecurities/Subdominator](https://github.com/RevoltSecurities/Subdominator) – SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 - [RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) – CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) – The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+- [RusNor/StartWine-Launcher](https://github.com/RusNor/StartWine-Launcher)
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) – AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [SilentDemonSD/WZML-X](https://github.com/SilentDemonSD/WZML-X) – A Super Enhanced Telegram bot which can download torrents, mega, google drive links, telegram file, direct links and all yt-dlp sites, upload to google drive, telegram cloud, rclone clouds or ddl servers. Made with Pyrogram in Python by WZML-X Devs.
 - [SkyperTHC/curlshell](https://github.com/SkyperTHC/curlshell) – reverse shell using curl
