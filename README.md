@@ -108,6 +108,8 @@
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) – the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [Francesco149/nolibc-httpd](https://github.com/Francesco149/nolibc-httpd) – 1kb single-page http server, static binary for linux x86_64
 - [hackerschoice/memexec](https://github.com/hackerschoice/memexec) – Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
+- [ivan-of-the-swamp/oxyfuel-downloader](https://github.com/ivan-of-the-swamp/oxyfuel-downloader) – Minimalistic file downloader
+- [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) – A cross-platform x86 assembler with an Intel-like syntax
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
 
 <div id="astro"></div>
@@ -305,6 +307,7 @@
 - [fgont/ipv6toolkit](https://github.com/fgont/ipv6toolkit) – SI6 Networks' IPv6 Toolkit
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) – Linux application sandboxing and distribution framework
 - [flatpak/xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) – Desktop integration portal
+- [floooh/pacman.c](https://github.com/floooh/pacman.c) – Simple Pacman clone written in C99.
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [florolf/casync-nano](https://github.com/florolf/casync-nano) – tiny casync replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
@@ -3630,6 +3633,7 @@
 - [airbus-seclab/cpu_rec](https://github.com/airbus-seclab/cpu_rec) – Recognize cpu instructions in an arbitrary binary file
 - [albertodonato/sshoot](https://github.com/albertodonato/sshoot) – Manage sshuttle VPN sessions
 - [alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) – This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
+- [allyourcodebase/cpython](https://github.com/allyourcodebase/cpython) – A port of the CPython implementation of the Python programming language to the zig build system
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) – File upload vulnerability scanner and exploitation tool.
 - [amalmurali47/onaws](https://github.com/amalmurali47/onaws) – Fetch the details of assets hosted on AWS.
 - [amalmurali47/swagroutes](https://github.com/amalmurali47/swagroutes) – swagroutes is a command-line tool that extracts and lists API routes from Swagger files in YAML or JSON format.
@@ -6089,13 +6093,20 @@
 ## Zig
 
 - [Cloudef/zig2nix](https://github.com/Cloudef/zig2nix) – Flake for packaging, building and running Zig projects.
+- [Hejsil/cache](https://github.com/Hejsil/cache) – Provides caching for any command line tool that does not have it
 - [Hejsil/dipm](https://github.com/Hejsil/dipm) – An alternative to `curl | sh`
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) – container image to single executable compiler
 - [Vexu/arocc](https://github.com/Vexu/arocc) – A modern fully featured C compiler.
 - [amiralawi/zcoreutils](https://github.com/amiralawi/zcoreutils) – Coreutils equivalents written in zig
 - [andrewrk/poop](https://github.com/andrewrk/poop) – Performance Optimizer Observation Platform
+- [buzz-language/buzz](https://github.com/buzz-language/buzz) – 👨‍🚀  buzz, A small/lightweight statically typed scripting language
+- [cryptocode/stitch](https://github.com/cryptocode/stitch) – Append resources to your executables
+- [dasimmet/wabt](https://github.com/dasimmet/wabt) – WebAssembly Binary Toolkit (wabt) and Binaryen on the zig build system
 - [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
+- [floooh/pacman.zig](https://github.com/floooh/pacman.zig) – Simple Pacman clone written in Zig.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) – 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [ianic/tls.zig](https://github.com/ianic/tls.zig) – TLS 1.3/1.2  client and TLS 1.3 server in Zig
+- [jcalabro/uscope](https://github.com/jcalabro/uscope) – μscope 🔬
 - [jedisct1/zig-minisign](https://github.com/jedisct1/zig-minisign) – Minisign reimplemented in Zig.
 - [kubkon/bold](https://github.com/kubkon/bold) – bold: the bold linker
 - [kubkon/zelf](https://github.com/kubkon/zelf) – Zig's ELF parser utility
