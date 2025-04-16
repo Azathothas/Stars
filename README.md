@@ -224,6 +224,7 @@
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
+- [abbat/elfexec](https://github.com/abbat/elfexec) – Utility to execute ELF binary directly from stdin pipe.
 - [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
 - [acassen/keepalived](https://github.com/acassen/keepalived) – Keepalived
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) – Scriptable database and system performance benchmark
@@ -295,6 +296,7 @@
 - [edubart/bwrapbox](https://github.com/edubart/bwrapbox) – Linux sandboxing utility on top of bubblewrap
 - [edubart/minilua](https://github.com/edubart/minilua) – Single-file port of Lua, a powerful scripting language.
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) – nysm is a stealth post-exploitation container.
+- [emanuele6/emanutils](https://github.com/emanuele6/emanutils) – A collection of exec tools for amd64 GNU/Linux
 - [embeddedartistry/libc](https://github.com/embeddedartistry/libc) – libc targeted for embedded systems usage.  Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) – When you need a web server in a hurry.
 - [eradman/entr](https://github.com/eradman/entr) – Run arbitrary commands when files change
@@ -495,6 +497,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) – UNIX-like reverse engineering framework and command-line toolset
 - [rahra/onioncat](https://github.com/rahra/onioncat) – Official repository of OnionCat, the VPN adapter for Tor and I2P.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) – A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
+- [rbsec/sslscan](https://github.com/rbsec/sslscan) – sslscan tests SSL/TLS enabled services to discover supported cipher suites
 - [rc-chuah/Hyper-V-Switch](https://github.com/rc-chuah/Hyper-V-Switch) – This Program Enables And Disables Hyper-V Hypervisor So You Can Use Other Virtualisation Tools Such As (VMware, VirtualBox) Simultaneously.
 - [resurrecting-open-source-projects/scrot](https://github.com/resurrecting-open-source-projects/scrot) – SCReenshOT - command line screen capture utility
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) – earlyoom - Early OOM Daemon for Linux
@@ -529,6 +532,7 @@
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
 - [skarnet/nsss](https://github.com/skarnet/nsss) – A small, statically linkable NSS-like implementation of getpwnam() et al. user database access
 - [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
+- [skarnet/shibari](https://github.com/skarnet/shibari) – A small DNS server
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) – Portable C and C++ Development Kit for x64 (and x86) Windows
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) – :zap: KCP - A Fast and Reliable ARQ Protocol
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) – 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
@@ -1150,6 +1154,7 @@
 - [PremoWeb/chadburn](https://github.com/PremoWeb/chadburn) – Chadburn is a scheduler alternative to cron, built on Go and designed for Docker environments.
 - [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
 - [QaidVoid/seederella](https://github.com/QaidVoid/seederella) – seederella is a database seeding tool that brings your schema to life effortlessly and elegantly
+- [Qi4l-Labs/RLscan](https://github.com/Qi4l-Labs/RLscan) – 强化学习 + 端口扫描
 - [R3DRUN3/vermilion](https://github.com/R3DRUN3/vermilion) – Linux post exploitation tool for info gathering and exfiltration 🐧📡💀
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) – TUI for Mastodon with vim inspired keys
 - [RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon) – Fast HTTP enumerator
@@ -1560,6 +1565,7 @@
 - [fipso/freenews](https://github.com/fipso/freenews) – Reverse Proxy & DNS based solution to bypass paywalls 🔨💵🧱
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) – firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [firecracker-microvm/firectl](https://github.com/firecracker-microvm/firectl) – firectl is a command-line tool to run Firecracker microVMs
+- [firefart/hijagger](https://github.com/firefart/hijagger) – Checks all maintainers of all NPM and Pypi packages for hijackable packages through domain re-registration
 - [firefart/stunner](https://github.com/firefart/stunner) – Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [flint-actions/flint](https://github.com/flint-actions/flint) – Secure and isolated GitHub Actions runs without a headache.
 - [fmnx/cftun](https://github.com/fmnx/cftun) – Third-party Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -2065,6 +2071,7 @@
 - [puzzlepeaches/ffufw](https://github.com/puzzlepeaches/ffufw)
 - [qaware/protocurl](https://github.com/qaware/protocurl) – protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [qi4L/qscan](https://github.com/qi4L/qscan) – Lightning-fast internal network scanner
 - [quackduck/devzat](https://github.com/quackduck/devzat) – The devs are over here at devzat, chat over SSH!
 - [quay/clair](https://github.com/quay/clair) – Vulnerability Static Analysis for Containers
 - [r4ulcl/bntoolkit](https://github.com/r4ulcl/bntoolkit) – Toolkit to investigate the BitTorrent network.
@@ -2741,6 +2748,7 @@
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) – :shell: Portable Unix shell commands for Node.js
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
+- [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext)
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) – Manage Flatpak permissions
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) – Find active github forks of a repo https://git.io/vSnrC
 - [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) – DNS-over-HTTPS proxy on Cloudflare Workers
@@ -3229,6 +3237,8 @@
 - [hakluke/bug-bounty-standards](https://github.com/hakluke/bug-bounty-standards) – A list of edge cases that occur in bug bounty programs, conversations on how they should be handled. The goal is to standardise the way that specific situations are handled in bug bounties.
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) – Below are some simple methods for exiting vim.
 - [harsh-bothra/SecurityStories](https://github.com/harsh-bothra/SecurityStories)
+- [hegdepavankumar/VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys) – Welcome to the VMware ESXi License Keys! Here, you'll find a curated collection of free license keys for various versions, including vSphere 6 and 7
+- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) – Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) – Use your macOS terminal shell to do awesome things.
 - [hillz2/openwrt_cloudflare_warp](https://github.com/hillz2/openwrt_cloudflare_warp) – How to use Cloudflare WARP on OpenWrt to bypass DPI (Deep Packet Inspection)
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) – HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -3257,6 +3267,7 @@
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
+- [leahneukirchen/leahutils](https://github.com/leahneukirchen/leahutils) – description of leahutils
 - [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
