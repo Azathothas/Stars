@@ -152,6 +152,7 @@
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) – 3proxy - tiny free proxy server
 - [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [Acceis/eBPF-hide-PID](https://github.com/Acceis/eBPF-hide-PID) – This tool have the power to hide any PID/directory in the Linux kernel
 - [Alessandro-Salerno/htmc](https://github.com/Alessandro-Salerno/htmc) – Ever wanted to code a website in C? No? Well, now you can!
 - [Alessandro-Salerno/tarman](https://github.com/Alessandro-Salerno/tarman) – The portable, cross-platform, extensible, and simple package manager for tarballs (and others!)
 - [AppImage/appimagetool](https://github.com/AppImage/appimagetool) – A low-level tool to generate an AppImage from an existing AppDir
@@ -469,6 +470,7 @@
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [otatebe/chfs](https://github.com/otatebe/chfs) – CHFS parallel and distributed file system for node-local persistent memory
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
+- [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) – A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29 
 - [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [pengutronix/genimage](https://github.com/pengutronix/genimage) – tool to generate multiple filesystem and flash images from a tree
 - [pixelomer/bin2video](https://github.com/pixelomer/bin2video) – Tool for encoding files as videos
@@ -568,6 +570,7 @@
 - [txthinking/joker](https://github.com/txthinking/joker) – joker can turn process into daemon. Zero-Configuration
 - [tyfkda/xcc](https://github.com/tyfkda/xcc) – Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
 - [udem-dlteam/pnut](https://github.com/udem-dlteam/pnut) – 🥜 A Self-Compiling C Transpiler Targeting Human-Readable POSIX Shell
+- [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) – MemProcFS
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [uswriting/zeroperl](https://github.com/uswriting/zeroperl) –  Perl5 in a sandboxed, self-contained WebAssembly module.
@@ -3751,6 +3754,7 @@
 - [dolevf/graphw00f](https://github.com/dolevf/graphw00f) – graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
 - [doyensec/GQLSpection](https://github.com/doyensec/GQLSpection) – GQLSpection - parses GraphQL introspection schema and generates possible queries
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) – WebSocket REPL for pentesters
+- [droidrun/droidrun](https://github.com/droidrun/droidrun)
 - [dwisiswant0/secpat2gf](https://github.com/dwisiswant0/secpat2gf) – convert secret patterns to gf compatible.
 - [dynobo/normcap](https://github.com/dynobo/normcap) – OCR powered screen-capture tool to capture information instead of images
 - [e1abrador/Burp-Encode-IP](https://github.com/e1abrador/Burp-Encode-IP) – Burp Suite extension to encode an IP address focused to bypass application IP / domain blacklist.
@@ -3810,7 +3814,6 @@
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) – :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) – 🪓 Run Background Tasks at Scale
 - [hisxo/ReconAIzer](https://github.com/hisxo/ReconAIzer) – A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – The best source for dashboard icons.
 - [hoppersroppers/nightmare](https://github.com/hoppersroppers/nightmare)
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) – Making large AI models cheaper, faster and more accessible
 - [httpie/cli](https://github.com/httpie/cli) – 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -4409,6 +4412,7 @@
 - [axodotdev/oranda](https://github.com/axodotdev/oranda) – 🎁 generate beautiful landing pages for your developer tools 
 - [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) – Simple BPF static linker
 - [b1-team/superman](https://github.com/b1-team/superman) – 🤖 Kill The Protected Process 🤖
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) – Validate and execute GitHub Actions workflows locally.
 - [bbqsrc/cargo-ndk](https://github.com/bbqsrc/cargo-ndk) – Compile Rust projects against the Android NDK without hassle
 - [bee-san/Ares](https://github.com/bee-san/Ares) – Automated decoding of encrypted text without knowing the key or ciphers used
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) – 🤖 The Modern Port Scanner 🤖
@@ -5951,6 +5955,7 @@
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) – 🛰️ Represent any GraphQL API as an interactive graph
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
