@@ -465,6 +465,7 @@
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
 - [openwall/passwdqc](https://github.com/openwall/passwdqc) – Password/passphrase strength checking and policy enforcement
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) – This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+- [oracle-samples/bysyscall](https://github.com/oracle-samples/bysyscall) – bypass system calls using BPF
 - [oracle/adaptivemm](https://github.com/oracle/adaptivemm) – adaptivemm - A userspace daemon for proactive free memory management
 - [orhun/zps](https://github.com/orhun/zps) – A small utility for listing and reaping zombie processes on GNU/Linux.
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
