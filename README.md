@@ -257,6 +257,7 @@
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) – Linux kernel rootkit
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [ccxvii/mujs](https://github.com/ccxvii/mujs) – An embeddable Javascript interpreter in C.
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
@@ -314,6 +315,7 @@
 - [floooh/sokol](https://github.com/floooh/sokol) – minimal cross-platform standalone C headers
 - [florolf/casync-nano](https://github.com/florolf/casync-nano) – tiny casync replacement
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) – Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
+- [gamemann/XDP-Firewall](https://github.com/gamemann/XDP-Firewall) – A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is supported with this firewall! I hope this helps network engineers/programmers interested in utilizing XDP!
 - [gentoo/pax-utils](https://github.com/gentoo/pax-utils) – [MIRROR] ELF related utils for ELF 32/64 binaries that can check files for security relevant properties
 - [git/git](https://github.com/git/git) – Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [gjedeer/tuntox](https://github.com/gjedeer/tuntox) – Tunnel TCP connections over the Tox protocol
@@ -449,6 +451,7 @@
 - [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
+- [netblue30/fdns](https://github.com/netblue30/fdns) – Firejail DNS-over-HTTPS Proxy Server
 - [netblue30/firejail](https://github.com/netblue30/firejail) – Linux namespaces and seccomp-bpf sandbox
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) – xrdp: an open source RDP server
 - [nicbarker/clay](https://github.com/nicbarker/clay) – High performance UI layout library in C.
@@ -594,6 +597,7 @@
 - [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) – wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
 - [wtarreau/mhz](https://github.com/wtarreau/mhz) – CPU frequency measurement utility
+- [xdp-project/bpf-examples](https://github.com/xdp-project/bpf-examples) – Making eBPF programming easier via build env and examples
 - [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
@@ -734,6 +738,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) – Userspace eBPF runtime for Observability, Network & General Extensions Framework
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [falconindy/auracle](https://github.com/falconindy/auracle) – A flexible command line client for Arch Linux's User Repository
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
@@ -1275,6 +1280,7 @@
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) – aptly - Debian repository management tool
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) – Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [aquasecurity/docker-bench](https://github.com/aquasecurity/docker-bench) – Checks whether Docker is deployed according to security best practices as defined in the CIS Docker Benchmark
+- [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) – eBPF library for Go. Powered by libbpf.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) – Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) – Arduino command line tool
@@ -2508,6 +2514,7 @@
 - [Sprocket-Security/gigaproxy](https://github.com/Sprocket-Security/gigaproxy) – One proxy to rule them all
 - [cirruslabs/linux-image-templates](https://github.com/cirruslabs/linux-image-templates)
 - [kslifer/wordpress-on-gcp-free-tier](https://github.com/kslifer/wordpress-on-gcp-free-tier) – Wordpress on GCP. Aiming for $0.
+- [laluka/lalubuntu](https://github.com/laluka/lalubuntu)
 - [nccgroup/cowcloud](https://github.com/nccgroup/cowcloud)
 - [pumasecurity/serverless-prey](https://github.com/pumasecurity/serverless-prey) – Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions
 - [pvarentsov/terraform-aws-free-tier](https://github.com/pvarentsov/terraform-aws-free-tier) – Getting started with the Terraform for managing a base free-tier AWS resources.
@@ -4467,6 +4474,7 @@
 - [chrisdickinson/git-rs](https://github.com/chrisdickinson/git-rs) – git, implemented in rust, for fun and education :crab:
 - [cjrh/lifter](https://github.com/cjrh/lifter) – Download and sync new releases of single-file binaries from Github Releases and other sites
 - [ckaznable/tenki](https://github.com/ckaznable/tenki) – tty-clock with weather effect
+- [clickswave/voyage](https://github.com/clickswave/voyage) – Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance.
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) – A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 - [cloud-hypervisor/rust-hypervisor-firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware)
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) – Userspace WireGuard® Implementation in Rust
@@ -4710,6 +4718,7 @@
 - [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
 - [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) – An over-engineered rewrite of pipes.sh in Rust
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
+- [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) – Minimal and opinionated eBPF tooling for the Rust ecosystem
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) – Clash Nyanpasu～(∠・ω< )⌒☆​
 - [linkdd/procfusion](https://github.com/linkdd/procfusion) – Very simple process manager written in Rust for your Docker images
 - [linux-packaging-rs/flatpak-ext](https://github.com/linux-packaging-rs/flatpak-ext) – Run flatpaks without installing them, and more! Migrated to Codeberg.
