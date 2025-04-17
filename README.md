@@ -135,7 +135,6 @@
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 
@@ -257,7 +256,7 @@
 - [boku7/StringReaper](https://github.com/boku7/StringReaper) – Reaping treasures from strings in remote processes memory 
 - [brynet/file](https://github.com/brynet/file) – A portable version of OpenBSD's privsep/sandboxed file(1) utility
 - [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) – WebAssembly Micro Runtime (WAMR)
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) – Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) – Red-Team Linux kernel rootkit
 - [cbsd/cbsd](https://github.com/cbsd/cbsd) – Yet one more wrapper around jail, bhyve, QEMU and XEN
 - [ccxvii/mujs](https://github.com/ccxvii/mujs) – An embeddable Javascript interpreter in C.
 - [cfoust/cy](https://github.com/cfoust/cy) – 🤖 time travel in the terminal
@@ -393,6 +392,7 @@
 - [leleliu008/C-examples](https://github.com/leleliu008/C-examples) – C语言学习项目
 - [leleliu008/ndk-pkg](https://github.com/leleliu008/ndk-pkg) – A package builder/manager for Android NDK to build projects written in C, C++, Rust, Golang, etc.
 - [leleliu008/uppm](https://github.com/leleliu008/uppm) – Universal Prebuild Package Manager for Unix-like systems.
+- [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, Haskell, etc.
 - [lem0nSec/ShellGhost](https://github.com/lem0nSec/ShellGhost) – A memory-based evasion technique which makes shellcode invisible from process start to end.
 - [lemire/despacer](https://github.com/lemire/despacer) – C library to remove white space from strings as fast as possible
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) – 💾 The shell-like, command line terminal file manager
@@ -458,7 +458,6 @@
 - [nickolasburr/keuka](https://github.com/nickolasburr/keuka) – SSL/TLS analysis utility.
 - [nickolasburr/rng](https://github.com/nickolasburr/rng) – Print range of lines to stdout.
 - [nihui/ruapu](https://github.com/nihui/ruapu) – Detect CPU features with single-file
-- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nmap/npcap](https://github.com/nmap/npcap) – Nmap Project's Windows packet capture and transmission library
 - [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) – The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
@@ -780,6 +779,7 @@
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) – Featureful ncurses based MPD client inspired by ncmpc
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) – An RSS/Atom feed reader for text terminals
+- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) – Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [nixcloud/ip2unix](https://github.com/nixcloud/ip2unix) – Turn IP sockets into Unix domain sockets
 - [oasislinux/toolchain](https://github.com/oasislinux/toolchain) – a static toolchain targeting x86_64-linux-musl
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) – Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -1486,7 +1486,7 @@
 - [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
 - [devld/go-drive](https://github.com/devld/go-drive) – A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
-- [devploit/nomore403](https://github.com/devploit/nomore403) – Tool to bypass 403/40X response codes.
+- [devploit/nomore403](https://github.com/devploit/nomore403) – Advanced tool for bypassing 403/40X restrictions in web applications.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [dhth/mult](https://github.com/dhth/mult) – Run a command multiple times and glance at the outputs via a TUI
@@ -2634,7 +2634,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) – A from-scratch experimental AOT JS engine, written in JS
-- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
+- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、boringssl unpinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
@@ -2962,6 +2962,7 @@
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) – Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 - [Xe/site](https://github.com/Xe/site) – The new frontend/backend code for https://xeiaso.net
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [xpack-dev-tools/gcc-xpack](https://github.com/xpack-dev-tools/gcc-xpack) – A binary distribution of the GNU Compiler Collection (GCC)
 
 <div id="meson"></div>
@@ -4778,7 +4779,6 @@
 - [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) – Backup tool for PC game saves
 - [mtkennerly/shawl](https://github.com/mtkennerly/shawl) – Windows service wrapper for arbitrary commands
 - [mttaggart/OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) – Notion as a platform for offensive operations
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) – A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) – The Mullvad VPN client app for desktop and mobile
 - [mullvad/udp-over-tcp](https://github.com/mullvad/udp-over-tcp) – Proxy UDP traffic over a TCP stream
 - [n0-computer/dumbpipe](https://github.com/n0-computer/dumbpipe) – Unix pipes between devices
@@ -5544,9 +5544,9 @@
 - [leleliu008/ppkg-formula-repository-official-core](https://github.com/leleliu008/ppkg-formula-repository-official-core) – official formula repository for ppkg
 - [leleliu008/python-distribution](https://github.com/leleliu008/python-distribution) – A self-contained and relocatable CPython distribution
 - [leleliu008/ruby-distribution](https://github.com/leleliu008/ruby-distribution) – A self-contained and relocatable Ruby distribution
-- [leleliu008/xcpkg](https://github.com/leleliu008/xcpkg) – A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, etc.
 - [leleliu008/xcpkg-formula-repository-official-core](https://github.com/leleliu008/xcpkg-formula-repository-official-core) – the official formula repository for xcpkg
 - [lemnos/theme.sh](https://github.com/lemnos/theme.sh) – A script which lets you set your $terminal theme.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [linux-strata/ata](https://github.com/linux-strata/ata) – package manager
 - [linux-strata/os](https://github.com/linux-strata/os) – linux distribution
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) – A bash script to check the status of your IP on various geo-restricted services. 
