@@ -1300,7 +1300,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [autobrr/distribrr](https://github.com/autobrr/distribrr) – An orchestrator for distributed download of torrents
-- [autobrr/mkbrr](https://github.com/autobrr/mkbrr) – mkbrr is a tool to create, modify and inspect torrent files.
+- [autobrr/mkbrr](https://github.com/autobrr/mkbrr) – ⚡ mkbrr is a tool to create, modify and inspect torrent files. Fast.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) – A curated list of awesome Go frameworks, libraries and software
 - [aws/amazon-ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) – A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [awslabs/amazon-s3-tar-tool](https://github.com/awslabs/amazon-s3-tar-tool) – A utility tool to create a tarball of existing objects in Amazon S3
