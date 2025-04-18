@@ -1038,6 +1038,7 @@
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) – Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [89luca89/pakkero](https://github.com/89luca89/pakkero) – Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion.
 - [89luca89/podman-launcher](https://github.com/89luca89/podman-launcher) – Simple golang wrapper to bundle a podman installation in a single binary
+- [Achno/gowall](https://github.com/Achno/gowall) – A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) – Network-wide ads & trackers blocking DNS server
 - [AkihiroSuda/apt-transport-oci](https://github.com/AkihiroSuda/apt-transport-oci) – OCI transport plugin for apt-get (i.e., apt-get over ghcr.io)
 - [Akilan1999/p2p-rendering-computation](https://github.com/Akilan1999/p2p-rendering-computation) – p2p network to enable running distributed computation and rendering. 
@@ -1137,7 +1138,7 @@
 - [LeanerCloud/ec2-instances-info](https://github.com/LeanerCloud/ec2-instances-info) – Golang library for specs and pricing information about AWS EC2 instances based on the data from www.ec2instances.info
 - [LeeBrotherston/badflare](https://github.com/LeeBrotherston/badflare) – OSINT tool for discovering the real IP addresses of services which are behind Cloudflare but not properly locked down
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) – Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
-- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) – A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing and filtering with fuzzy find, regex support and coloring the output.
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) – A TUI for reading logs from journald, auditd, file system, Docker containers, Podman and Kubernetes pods for quick viewing, coloring output and filtering with fuzzy find, regex support and timestamp.
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) – 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
 - [M0Rf30/yap](https://github.com/M0Rf30/yap) – Package software with ease 📦 Versatile deb, rpm and apk packager fueled by PKGBUILD specfiles and golang
 - [M3DZIK/go-pingbot](https://github.com/M3DZIK/go-pingbot) – ⚡ This application "pings" websites every few minutes. It can be used to keep the application alive on e.g. glitch.me or repl.it.
@@ -1486,7 +1487,7 @@
 - [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 - [devanshbatham/revit](https://github.com/devanshbatham/revit) – A command-line utility for performing reverse DNS lookups
 - [devld/go-drive](https://github.com/devld/go-drive) – A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
-- [devploit/nomore403](https://github.com/devploit/nomore403) – Advanced tool for bypassing 403/40X restrictions in web applications.
+- [devploit/nomore403](https://github.com/devploit/nomore403) – 🚫 Advanced tool for security researchers to bypass 403/40X restrictions through smart techniques and adaptive request manipulation. Fast. Precise. Effective.
 - [dhn/spk](https://github.com/dhn/spk) – spk aka spritzgebaeck: A small OSINT/Recon tool to find CIDRs that belong to a specific organization.
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [dhth/mult](https://github.com/dhth/mult) – Run a command multiple times and glance at the outputs via a TUI
@@ -2368,6 +2369,7 @@
 - [wudijun/Catcher](https://github.com/wudijun/Catcher) – Catcher(捕手) 重点系统指纹漏洞验证工具，适用于外网打点，资产梳理漏洞检查。
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
+- [x-motemen/gore](https://github.com/x-motemen/gore) –   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [x-way/ip_diff](https://github.com/x-way/ip_diff) – Compare two lists of IP prefixes
 - [x-way/ip_match](https://github.com/x-way/ip_match) – Match IP addresses against a list of prefixes
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
@@ -2405,7 +2407,7 @@
 - [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) – NodePass is a secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. 通用内网穿透方案，免配单文件三合一运行模式，动态预热TLS/TCP单次连接池，TLS1.3加密分级，TCP/UDP协议串联/转换，RESTful API实例管理...
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) – NodePass is a secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. 一套通用TCP/UDP隧道解决方案，免配置单文件多模式，采用控制数据双路分离架构，内置零延迟自适应连接池，实现跨网络限制的快速安全访问。
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
@@ -2634,7 +2636,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) – A from-scratch experimental AOT JS engine, written in JS
-- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、boringssl unpinning
+- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、boringssl unpinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
@@ -4728,6 +4730,7 @@
 - [louib/nix2sbom](https://github.com/louib/nix2sbom) – nix2sbom extracts the CycloneDX and SPDX SBOM (Software Bill of Materials) from a Nix derivation
 - [lowitea/gitlobster](https://github.com/lowitea/gitlobster) – 🦞 A tool for full cloning all available repositories from a GitLab instance.
 - [lsk569937453/eagle](https://github.com/lsk569937453/eagle) – A tool to plot the memory and cpu usage.
+- [lttle-cloud/ignition](https://github.com/lttle-cloud/ignition) – microvm manager for tiny clouds
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) – build and install C-compatible libraries
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
@@ -4750,7 +4753,7 @@
 - [mcandre/unmake](https://github.com/mcandre/unmake) – a makefile linter
 - [mdsteele/rust-ar](https://github.com/mdsteele/rust-ar) – Rust library for encoding/decoding Unix archive (.a) files
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
-- [meli/meli](https://github.com/meli/meli) – 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
+- [meli/meli](https://github.com/meli/meli) – terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [metafates/brewer](https://github.com/metafates/brewer) – 🍺 An extremely fast homebrew CLI wrapper with extra features.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) – Connect your local process and your cloud environment, and run local code in cloud conditions.
