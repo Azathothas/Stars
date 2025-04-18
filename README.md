@@ -173,6 +173,7 @@
 - [Gottox/sqsh-tools](https://github.com/Gottox/sqsh-tools) – 🗜️ fast r/o squashfs implementation written in C.
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
+- [JoeDog/siege](https://github.com/JoeDog/siege) – Siege is an http load tester and benchmarking utility
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [Kitware/CMake](https://github.com/Kitware/CMake) – Mirror of CMake upstream repository
@@ -4412,6 +4413,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atanunq/viuer](https://github.com/atanunq/viuer) – Rust library for displaying images in the terminal.
+- [attunehq/attune](https://github.com/attunehq/attune) – The open source artifact registry.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) – Distributed systems runtime daemon written in Rust.
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
@@ -4594,6 +4596,7 @@
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) – 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [foresterre/sic](https://github.com/foresterre/sic) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
+- [fossas/circe](https://github.com/fossas/circe) – Read, extract, and transform container contents
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
 - [funatsufumiya/git-lfs-agent-rclone](https://github.com/funatsufumiya/git-lfs-agent-rclone) – A custom transfer agent for git-lfs that uses rclone to transfer files.
 - [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
@@ -4853,6 +4856,7 @@
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
+- [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) – A storage service.
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) – A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [pacwrap/pacwrap](https://github.com/pacwrap/pacwrap) – A package manager which facilitates Arch-based bubblewrap containers.
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
