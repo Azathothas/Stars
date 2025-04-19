@@ -5698,7 +5698,7 @@
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) – Statically-linked, hermetic, relocatable Zsh
 - [rootcathacking/catspin](https://github.com/rootcathacking/catspin) – Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) – Kubernetes without the root privileges
-- [rti/nixwrap](https://github.com/rti/nixwrap) – Easy Application Sandboxing
+- [rti/nixwrap](https://github.com/rti/nixwrap) – Easy Application Sandboxing on NixOS
 - [ruanformigoni/arch-bootstrap](https://github.com/ruanformigoni/arch-bootstrap) – Bootstrap a base Arch Linux system
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
