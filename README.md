@@ -1030,7 +1030,7 @@
 - [0x5ubt13/enumeraga](https://github.com/0x5ubt13/enumeraga) – Automatic multiprocess Linux CLI tool that aims for a quick enumeration wrapping pentesting tools.
 - [0xsha/CloudBrute](https://github.com/0xsha/CloudBrute) – Awesome cloud enumerator 
 - [0xsha/GoLinkFinder](https://github.com/0xsha/GoLinkFinder) – A fast and minimal JS endpoint extractor 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) – 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [256lights/zb](https://github.com/256lights/zb) – An experiment in hermetic, reproducible build systems
 - [404tk/cloudrecon](https://github.com/404tk/cloudrecon) – 云上资产暴露面枚举
 - [404tk/cloudtoolkit](https://github.com/404tk/cloudtoolkit) – Cloud Penetration Testing Toolkit
@@ -5349,7 +5349,7 @@
 - [armbian/os](https://github.com/armbian/os) – Armbian operating system rolling releases provides automated nightly builds of maintained targets
 - [arp242/goon](https://github.com/arp242/goon) – Run Go on another machine such as a QEMU VM or cloud instance
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) – A collection of android security related resources
-- [attacksurge/ax](https://github.com/attacksurge/ax) – The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our eight supported cloud providers! 
+- [attacksurge/ax](https://github.com/attacksurge/ax) – The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our nine supported cloud providers! 
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) – Helper tools for the AUR.
 - [avs-origami/ypm](https://github.com/avs-origami/ypm) – Bit-sized package manager for linux written in Rust
 - [ax/apk.sh](https://github.com/ax/apk.sh) – Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
