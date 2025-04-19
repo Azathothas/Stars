@@ -1281,6 +1281,7 @@
 - [aptible/supercronic](https://github.com/aptible/supercronic) – Cron for containers
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) – aptly - Debian repository management tool
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) – Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
+- [aquasecurity/btfhub](https://github.com/aquasecurity/btfhub) – BTFhub, in collaboration with the BTFhub Archive repository, supplies BTF files for all published kernels that lack native support for embedded BTF. This joint effort ensures that even kernels without built-in BTF support can effectively leverage the benefits of eBPF programs, promoting compatibility across various kernel versions.
 - [aquasecurity/docker-bench](https://github.com/aquasecurity/docker-bench) – Checks whether Docker is deployed according to security best practices as defined in the CIS Docker Benchmark
 - [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo) – eBPF library for Go. Powered by libbpf.
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) – Linux Runtime Security and Forensics using eBPF
@@ -2342,6 +2343,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [vmfunc/sif](https://github.com/vmfunc/sif) – the blazing-fast pentesting suite.
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
 - [vulsio/go-exploitdb](https://github.com/vulsio/go-exploitdb) – Tool for searching Exploits from Exploit Databases, etc.
 - [vultr/vultr-cli](https://github.com/vultr/vultr-cli) – Official command line tool for Vultr services
@@ -2468,7 +2470,7 @@
 - [gwen001/offsectools_www](https://github.com/gwen001/offsectools_www) – A vast collection of security tools and resources curated by the community.
 - [initialrise/90DaysofInternship](https://github.com/initialrise/90DaysofInternship) – A repository to track progress, notes, tasks etc. during the time of internship
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) – AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Source extensions for the Mihon/Tachiyomi app.
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) – Extension repository for Mihon and variants
 - [leadlang/android](https://github.com/leadlang/android) – Lead Lang Android Client (In Progress)
 - [lure-sh/lure-web](https://github.com/lure-sh/lure-web) – A web interface for the Linux User Repository
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) – Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
@@ -2876,7 +2878,7 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) – PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 - [jobobby04/TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) – Free and open source manga reader for Android
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) – CPU Info is a KMP application which provides information about device hardware and software
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions for Tachiyomi/Mihon and variants.
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) – Source code of extensions in https://github.com/keiyoushi/extensions
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) – An alternative frontend for YouTube, for Android.
 - [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) – 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
 - [luk1337/SauceNAO](https://github.com/luk1337/SauceNAO) – Unofficial SauceNAO client for Android.
@@ -3855,7 +3857,7 @@
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
 - [jopohl/urh](https://github.com/jopohl/urh) – Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) – SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) – JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 - [just-buildsystem/justbuild-static-binaries](https://github.com/just-buildsystem/justbuild-static-binaries) – Description to build justbuild binaries statically
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) – A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [kejilion/python-for-vps](https://github.com/kejilion/python-for-vps) – 专注制作VPS机群自动化管理脚本！
@@ -5341,7 +5343,7 @@
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
 - [ansemjo/version.sh](https://github.com/ansemjo/version.sh) – output identical version strings from repository clones or downloaded archives
-- [archlinux/arch-boxes](https://github.com/archlinux/arch-boxes) – Arch-boxes provides automated builds of the Arch Linux releases for different providers and post-processors (read-only mirror) 
+- [archlinux/arch-boxes](https://github.com/archlinux/arch-boxes) – Arch-boxes provides images of Arch Linux
 - [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker) – Docker Base Image for Arch Linux (read-only mirror)
 - [archlinux/devtools](https://github.com/archlinux/devtools) – Tools for Arch Linux package maintainers (read-only mirror)
 - [arget13/DDexec](https://github.com/arget13/DDexec) – A technique to run binaries filelessly and stealthily on Linux by "overwriting" the shell's process with another.
@@ -5470,7 +5472,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
 - [guimspace/fopus](https://github.com/guimspace/fopus) – A one-liner command to archive, compress, encrypt, split and sign files.
-- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.0 For Termux , Version : 2.11.0 , Maintained
+- [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.1 For Termux , Version : 2.11.1 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter) – Pack/Encrypt/Obfuscate ELF + SHELL scripts
@@ -5947,7 +5949,7 @@
 - [crazy-max/ghaction-upx](https://github.com/crazy-max/ghaction-upx) – GitHub Action for UPX, the Ultimate Packer for eXecutables
 - [cross-platform-actions/action](https://github.com/cross-platform-actions/action) – Cross-platform GitHub action
 - [cybersecsi/houdini](https://github.com/cybersecsi/houdini) – Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
-- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size. Demo example for NextJS.
+- [datopian/r2-bucket-uploader](https://github.com/datopian/r2-bucket-uploader) – Cloudflare R2 bucket File Uploader with multipart upload enabled. Tested with files up to 10 GB size.
 - [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) – Domain Dumper delivers daily updates on the statistics of all registered domains across 900+ zones, with records dating back to January 1, 1990. This API provides daily updates on the number of domains registered on each TLD and updates its files every 24 hours.
@@ -5974,6 +5976,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
+- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to recreate a debugger-like experience from logs
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
