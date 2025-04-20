@@ -1832,6 +1832,7 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) – Update multiple repositories in with one command
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) – Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) – Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [lkarlslund/ldapnomnom](https://github.com/lkarlslund/ldapnomnom) – Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by (ab)using LDAP Ping requests (cLDAP)
 - [lmorg/murex](https://github.com/lmorg/murex) – A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) – 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
@@ -3010,6 +3011,7 @@
 - [NixOS/aarch64-build-box](https://github.com/NixOS/aarch64-build-box) – Config for the Community aarch64 NixOS box
 - [NixOS/bundlers](https://github.com/NixOS/bundlers) – Aggregated bundlers [maintainer=@tomberek, @Artturin] 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) – Nix Packages collection & NixOS
+- [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [SamLukeYes/archix](https://github.com/SamLukeYes/archix) – Utilities for Arch Linux development, in a flake
 - [antithesishq/madness](https://github.com/antithesishq/madness) – Madness enables you to easily run the same binary on NixOS and non-NixOS systems
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
@@ -3264,6 +3266,7 @@
 - [ifconfig-me/Directory-Traversal-Payloads](https://github.com/ifconfig-me/Directory-Traversal-Payloads) – List of Directory Traversal/LFI Payloads Scraped from the Internet
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) – An evolving how-to guide for securing a Linux server.
 - [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) – "Can I take over DNS?" — a list of DNS providers and how to claim vulnerable domains.
+- [infracloudio/awesome-microvm](https://github.com/infracloudio/awesome-microvm) – 🎉 A curated list of awesome things related to Micro-VMs
 - [internetwache/CT_subdomains](https://github.com/internetwache/CT_subdomains) – An hourly updated list of subdomains gathered from certificate transparency logs
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) – Peer-to-peer hypermedia protocol
 - [ipverse/asn-ip](https://github.com/ipverse/asn-ip) – Download IP address lists grouped by network provider (ASN)
@@ -5255,6 +5258,7 @@
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) – Script for installing Guacamole on Ubuntu
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) – A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
+- [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) – smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [Phantop/appdwarf](https://github.com/Phantop/appdwarf) – Tool to compress and run programs using dwarfs
@@ -5263,7 +5267,6 @@
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) – A list of public iPerf3 servers...
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape)
 - [RandomCoderOrg/ubuntu-on-android](https://github.com/RandomCoderOrg/ubuntu-on-android) – Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
-- [Rconybea/nix-from-scratch](https://github.com/Rconybea/nix-from-scratch) – Build nix package manager and dependencies from source without write access to LSB directories
 - [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) – RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) – Build script for BareMetal OS and its related utilities
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
@@ -5430,6 +5433,7 @@
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) – A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [eddiewebb/circleci-queue](https://github.com/eddiewebb/circleci-queue) – CircleCI orb to block/queue jobs to enforce max concurrency limits
 - [edoardottt/secfiles](https://github.com/edoardottt/secfiles) – My useful files for penetration tests, security assessments, bug bounty and other security related stuff
+- [efrecon/gh-runner-krunvm](https://github.com/efrecon/gh-runner-krunvm) – Fully isolated microVM-based self-hosted GitHub runners
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) – transparently encrypt files within a git repository
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) – [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) – 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
