@@ -774,7 +774,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) – Mobile Shell
-- [momo5502/emulator](https://github.com/momo5502/emulator) – 🪅 Windows User Space Emulator 
+- [momo5502/sogen](https://github.com/momo5502/sogen) – 🪅 Windows User Space Emulator 
 - [moudey/Shell](https://github.com/moudey/Shell) – Powerful context menu manager for Windows File Explorer
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) – MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [namazso/OpenHashTab](https://github.com/namazso/OpenHashTab) – 📝 File hashing and checking shell extension
@@ -897,7 +897,7 @@
 
 ## Dart
 
-- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) – Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) – Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
@@ -1494,6 +1494,7 @@
 - [dhn/udon](https://github.com/dhn/udon) – A simple tool that helps to find assets/domains based on the Google Analytics ID.
 - [dhth/mult](https://github.com/dhth/mult) – Run a command multiple times and glance at the outputs via a TUI
 - [diamondburned/nix-search](https://github.com/diamondburned/nix-search) – A Nix-channel-compatible package search
+- [dimonomid/nerdlog](https://github.com/dimonomid/nerdlog) – Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server
 - [direnv/direnv](https://github.com/direnv/direnv) – unclutter your .profile
 - [distribworks/dkron](https://github.com/distribworks/dkron) – Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) – Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
@@ -3166,7 +3167,6 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) – 🗂 High resolution web browser logos
-- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
@@ -4750,8 +4750,7 @@
 - [makindotcc/fabricbin](https://github.com/makindotcc/fabricbin) – Patch binary file using IDA signatures and defined replacement bytes in YAML.
 - [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) – ldd for Windows - and more!
 - [marcoradocchia/microxdg](https://github.com/marcoradocchia/microxdg) – An XDG Base Directory Specification Rust library that aims to be conservative on memory allocation and overall memory footprint.
-- [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui)
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) – A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) – An environment variables cli tool backed by SQLite
 - [mattwparas/steel](https://github.com/mattwparas/steel) – An embedded scheme interpreter in Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) – Terminal-based typing test.
@@ -4948,6 +4947,7 @@
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) – An embeddable dynamic programming language for Rust.
+- [rust-av/Av1an](https://github.com/rust-av/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
 - [rust-cli/rexpect](https://github.com/rust-cli/rexpect) – .github/workflows/ci.yml
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
@@ -5342,6 +5342,7 @@
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) – Make customized Alpine Linux rootfs (base image) for containers
 - [amrsa1/Android-Emulator-image](https://github.com/amrsa1/Android-Emulator-image) – The use of this Docker image simplifies the process of running an Android emulator within a Docker container
+- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
 - [anasfanani/Magisk-Tailscaled](https://github.com/anasfanani/Magisk-Tailscaled) – Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
