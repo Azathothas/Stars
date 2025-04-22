@@ -4335,7 +4335,7 @@
 - [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – Linux server OS optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – A graphical server OS optimized for self-hosting
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
