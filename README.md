@@ -681,7 +681,7 @@
 - [Blub/netevent](https://github.com/Blub/netevent) – Input-Event device cloning utility. Use it together with ssh/netcat/... to share input devices among different machines.
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) – A Fast and Easy to use microframework for the web.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) – A fast usermode x86 and x86-64 emulator for Arm64 Linux
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) – 🔍 ugrep 7.4 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
@@ -4258,7 +4258,7 @@
 - [EdJoPaTo/website-stalker](https://github.com/EdJoPaTo/website-stalker) – Track changes on websites via git
 - [Edu4rdSHL/unimap](https://github.com/Edu4rdSHL/unimap) – Scan only once by IP address and reduce scan times with Nmap for large amounts of data.
 - [EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer) – Evasion by machine code de-optimization.
-- [Elsie19/libpacstall](https://github.com/Elsie19/libpacstall) – Yurt
+- [Elsie19/libpacstall](https://github.com/Elsie19/libpacstall) – Backend library for pacstall (rust rewrite)
 - [EmberHext/DomoArigato](https://github.com/EmberHext/DomoArigato) – A simple command line tool which quickly audits the Disallow entries of a site's robots.txt.
 - [ErrorNoInternet/overmask](https://github.com/ErrorNoInternet/overmask) – Add a writeable overlay on top of read-only files
 - [Etto48/HexPatch](https://github.com/Etto48/HexPatch) – HexPatch: a binary patcher and editor written in Rust with terminal user interface (TUI).
@@ -4397,6 +4397,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
+- [alexykn/sapphire](https://github.com/alexykn/sapphire) – Rust based package manager for macOS
 - [ali77gh/bake-rs](https://github.com/ali77gh/bake-rs) – Simple and easy to use "script runner" written in Rust.
 - [altfoxie/url-uploader](https://github.com/altfoxie/url-uploader) – Upload files to Telegram by URLs
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
@@ -4814,7 +4815,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [nix-community/nh](https://github.com/nix-community/nh) – Yet another nix cli helper
+- [nix-community/nh](https://github.com/nix-community/nh) – Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
@@ -5910,7 +5911,7 @@
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) – Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
-- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) – Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
+- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) – Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
 - [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
@@ -5982,7 +5983,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
-- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to recreate a debugger-like experience from logs
+- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to recreate a debugger-like experience from logs 🦀
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
