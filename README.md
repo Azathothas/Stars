@@ -1375,6 +1375,7 @@
 - [caarlos0/xdg-open-svc](https://github.com/caarlos0/xdg-open-svc) – xdg-open as a service
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) – Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) – Build Caddy with plugins
+- [caido-community/burp2caido](https://github.com/caido-community/burp2caido) – A tool to migrate Burpsuite HTTP history to Caido.
 - [candrewlee14/webman](https://github.com/candrewlee14/webman) – Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!
 - [canonical/microceph](https://github.com/canonical/microceph) – MicroCeph is snap-deployed Ceph with built-in clustering
 - [canonical/microcloud](https://github.com/canonical/microcloud) – Automated private cloud based on LXD, Ceph and OVN
@@ -2079,7 +2080,6 @@
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) – Quickly discover exposed hosts on the internet using multiple search engines.
 - [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) – A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) – A high performance go implementation of Wappalyzer Technology Detection Library
-- [projectmonke/burp2caido](https://github.com/projectmonke/burp2caido) – A tool to migrate Burpsuite HTTP history to Caido.
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
@@ -2905,7 +2905,7 @@
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) –  The missing link between Android and a sorted file system. 
-- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)
+- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) – A Non-professional and Recreational Proxy Tool Integration.
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
 
@@ -4813,7 +4813,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [nix-community/nh](https://github.com/nix-community/nh) – Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) – Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) – Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) – Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) – Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
