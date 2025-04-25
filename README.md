@@ -915,7 +915,7 @@
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) – An Open source app to download and read books from shadow library (Anna’s Archive)
 - [frostnova721/animestream](https://github.com/frostnova721/animestream) – An app to stream and download anime
 - [gokadzev/Musify](https://github.com/gokadzev/Musify) – Unlock the full potential of music: Stream effortlessly with one app!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – Plays & manages your music library. Looks beautiful & juicy.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) – 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) – Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) – Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) – A cross-platform manga app made for e-hentai & exhentai by Flutter
@@ -1566,7 +1566,7 @@
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – nginx access logs analytics
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [ferama/rospo](https://github.com/ferama/rospo) – 🐸 Simple, reliable, persistent ssh tunnels with embedded ssh server
+- [ferama/rospo](https://github.com/ferama/rospo) – 🐸 Effortless persistent SSH tunnels with embedded server for seamless connectivity
 - [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) – Jeeves SQLI Finder
 - [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) – Finding XSS during recon
 - [ferreiraklet/nilo](https://github.com/ferreiraklet/nilo) – Responser 
@@ -2396,7 +2396,7 @@
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
-- [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 780~ lines of Go. (and our runtime in 900~ lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
+- [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 649LOC lines of Go. (and our runtime in 984 lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
 - [xplshn/scriptfs](https://github.com/xplshn/scriptfs) – scriptfs - Your filesystem as a scriptable resource. Create your own pseudo-filesystems via defining a single scripts.yaml file
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) – A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) – A simple and fast anti-censorship tool written in Go
@@ -4103,7 +4103,6 @@
 - [unkn0wnamd/ByteWizard](https://github.com/unkn0wnamd/ByteWizard)
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) – Docker images used by ustcmirror :rocket:
 - [utkusen/shotlooter](https://github.com/utkusen/shotlooter) – a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
 - [vavkamil/js-snitch](https://github.com/vavkamil/js-snitch) – Scans remote JavaScript files with Trufflehog + Semgrep to detect leaked secrets
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
@@ -4164,7 +4163,6 @@
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) – a small statically-linked linux system
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) – Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) – Simple Python version management
-- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) – Registry index for crates.io
 - [slimm609/checksec](https://github.com/slimm609/checksec) – Checksec
 - [which-distro/os-release](https://github.com/which-distro/os-release) – A collection of /etc/os-release from various distros.
 
@@ -4230,7 +4228,7 @@
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) – muvm - run programs from your system in a microVM
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
-- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative
+- [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative (currently x86 only)
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [CachyOS/cachy-chroot](https://github.com/CachyOS/cachy-chroot)
@@ -5802,6 +5800,7 @@
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) – A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) – A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [userdocs/qbittorrent-nox-static-embedded](https://github.com/userdocs/qbittorrent-nox-static-embedded) – An experiment
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) – Docker images used by ustcmirror :rocket:
 - [valoq/bwscripts](https://github.com/valoq/bwscripts) – Bubblewrap example scripts
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) – Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) – Virtual DSM in a Docker container.
@@ -5875,6 +5874,7 @@
 ## Tcl
 
 - [pkgforge-dev/Static-Binaries](https://github.com/pkgforge-dev/Static-Binaries) – Moved to https://github.com/pkgforge/soarpkgs
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) – Registry index for crates.io
 
 <div id="tex"></div>
 
