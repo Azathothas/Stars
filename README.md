@@ -109,6 +109,7 @@
 - [Francesco149/nolibc-httpd](https://github.com/Francesco149/nolibc-httpd) – 1kb single-page http server, static binary for linux x86_64
 - [hackerschoice/memexec](https://github.com/hackerschoice/memexec) – Circumventing "noexec" mount flag to execute arbitrary linux binaries by ptrace-less process injection
 - [ivan-of-the-swamp/oxyfuel-downloader](https://github.com/ivan-of-the-swamp/oxyfuel-downloader) – Minimalistic file downloader
+- [kilobyte/arch-test](https://github.com/kilobyte/arch-test) – detect architectures runnable by your machine+kernel
 - [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) – A cross-platform x86 assembler with an Intel-like syntax
 - [xiph/rav1e](https://github.com/xiph/rav1e) – The fastest and safest AV1 encoder.
 
@@ -1259,7 +1260,7 @@
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) – Simple command line utility to make DNS lookups to the specified server
 - [ameshkov/gocurl](https://github.com/ameshkov/gocurl) – Simplified version of curl written in pure Go with additional features
 - [ameshkov/godnsbench](https://github.com/ameshkov/godnsbench) – Simple DNS bench util that supports encrypted protocols.
-- [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for docker containers. 
+- [amir20/dozzle](https://github.com/amir20/dozzle) – Realtime log viewer for containers.  Supports Docker, Swarm and K8s. 
 - [amuluze/amprobe](https://github.com/amuluze/amprobe) – 轻量级主机及容器监控服务
 - [anandvarma/namegen](https://github.com/anandvarma/namegen) – 🌈 A unique(ish) random name and id generator 
 - [anchore/binny](https://github.com/anchore/binny) – Manage a directory of binaries without a package manager
@@ -1911,6 +1912,7 @@
 - [mrusme/shell-time](https://github.com/mrusme/shell-time) – Screen Time, but for the Shell!
 - [mrusme/wth](https://github.com/mrusme/wth) – What The Heck: The better personal information dashboard for your terminal
 - [mrvcoder/cloud_data](https://github.com/mrvcoder/cloud_data) – Get some useful data from Clouds for your targets
+- [msantos/embedexe](https://github.com/msantos/embedexe) – Run an executable embedded in a Go binary
 - [msoap/shell2http](https://github.com/msoap/shell2http) – Executing shell commands via HTTP server
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) – A minimalist, easy-to-host service for sharing images and other files
 - [mtzanidakis/tsrp](https://github.com/mtzanidakis/tsrp) – HTTPS reverse proxy for Tailscale
@@ -2694,7 +2696,7 @@
 - [devploit/debugHunter](https://github.com/devploit/debugHunter) – Discover hidden debugging parameters and uncover web application secrets
 - [diego95root/h1-templates](https://github.com/diego95root/h1-templates)
 - [dolevf/Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application) – Damn Vulnerable GraphQL Application is an intentionally vulnerable GraphQL service implementation designed for learning about and practising GraphQL Security.
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) – 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) – 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) – Data set of top third party web domains with rich metadata about them
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) –  CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) – Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -4267,6 +4269,7 @@
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [Goldziher/uncomment](https://github.com/Goldziher/uncomment) – CLI to remove comments from code
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -4395,7 +4398,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
-- [alexykn/sapphire](https://github.com/alexykn/sapphire) – Rust based package manager for macOS
+- [alexykn/spm](https://github.com/alexykn/spm) – Rust based package manager for macOS
 - [ali77gh/bake-rs](https://github.com/ali77gh/bake-rs) – Simple and easy to use "script runner" written in Rust.
 - [altfoxie/url-uploader](https://github.com/altfoxie/url-uploader) – Upload files to Telegram by URLs
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
