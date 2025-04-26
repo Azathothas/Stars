@@ -325,6 +325,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [google/fscryptctl](https://github.com/google/fscryptctl) – Small C tool for Linux filesystem encryption
 - [google/neper](https://github.com/google/neper) – neper is a Linux networking performance tool.
+- [gsauthof/osjitter](https://github.com/gsauthof/osjitter) – Measure how much the OS interrupts programs
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
 - [haampie/libtree](https://github.com/haampie/libtree) – ldd as a tree
 - [hackerschoice/dsniff](https://github.com/hackerschoice/dsniff)
@@ -3335,7 +3336,7 @@
 - [pacstall/pacmime](https://github.com/pacstall/pacmime)
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
-- [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System
+- [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
 - [pkgforge-dev/Distropacks](https://github.com/pkgforge-dev/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [pkgforge-dev/Toolpacks-BinCache-Importer](https://github.com/pkgforge-dev/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
@@ -3820,6 +3821,7 @@
 - [google/paranoid_crypto](https://github.com/google/paranoid_crypto) – Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.
 - [greshake/Alice](https://github.com/greshake/Alice) – Giving ChatGPT access to a real terminal
 - [gruns/furl](https://github.com/gruns/furl) – 🌐 URL parsing and manipulation made easy.
+- [gsauthof/utility](https://github.com/gsauthof/utility) – Collection of command line utilities
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) – GraphQL automated security testing toolkit
 - [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip) – Try to find the origin IP of a webapp protected by Cloudflare.
 - [gwen001/graphql-introspection-analyzer](https://github.com/gwen001/graphql-introspection-analyzer) – Graphql introspection query analyzer.
@@ -4398,7 +4400,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
-- [alexykn/spm](https://github.com/alexykn/spm) – Rust based package manager for macOS
+- [alexykn/sp](https://github.com/alexykn/sp) – Rust based package manager for macOS
 - [ali77gh/bake-rs](https://github.com/ali77gh/bake-rs) – Simple and easy to use "script runner" written in Rust.
 - [altfoxie/url-uploader](https://github.com/altfoxie/url-uploader) – Upload files to Telegram by URLs
 - [amber-lang/amber](https://github.com/amber-lang/amber) – 💎 Amber the programming language compiled to Bash
