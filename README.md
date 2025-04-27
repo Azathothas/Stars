@@ -2415,7 +2415,7 @@
 - [yhy0/Jie](https://github.com/yhy0/Jie) – Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gathering, and exploitation, elevating it to an indispensable toolkit for both security professionals and penetration testers. 挖洞辅助工具(漏洞扫描、信息收集)
 - [yinheli/sshw](https://github.com/yinheli/sshw) – 🐝  ssh client wrapper for automatic login
 - [yorukot/superfile](https://github.com/yorukot/superfile) – Pretty fancy and modern terminal file manager
-- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) – NodePass is a secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. 一套通用TCP/UDP隧道解决方案，免配置单文件多模式，采用控制数据双路分离架构，内置零延迟自适应连接池，实现跨网络限制的快速安全访问。
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass) – NodePass is a secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. 通用TCP/UDP隧道解决方案，免配置单文件多模式，采用控制数据双路分离架构，内置零延迟自适应连接池，实现跨网络限制的快速安全访问。
 - [yudai/gotty](https://github.com/yudai/gotty) – Share your terminal as a web application
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) – Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) – HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
@@ -4603,7 +4603,7 @@
 - [flukejones/asusctl](https://github.com/flukejones/asusctl) – Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [flxzt/rnote](https://github.com/flxzt/rnote) – Sketch and take handwritten notes.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) – 🦀 Find the minimum supported Rust version (MSRV) for your project
-- [foresterre/sic](https://github.com/foresterre/sic) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image.
+- [foresterre/imagineer](https://github.com/foresterre/imagineer) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
 - [fossas/circe](https://github.com/fossas/circe) – Read, extract, and transform container contents
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
