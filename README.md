@@ -5990,7 +5990,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
-- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to debug with tracing logs 🦀
+- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to debug tracing logs 🦀
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
