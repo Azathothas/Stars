@@ -3737,6 +3737,7 @@
 - [cckuailong/pocsploit](https://github.com/cckuailong/pocsploit) – a lightweight, flexible and novel open source poc verification framework
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [celery/celery](https://github.com/celery/celery) – Distributed Task Queue (development branch)
+- [certtools/intelmq](https://github.com/certtools/intelmq) – IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) – auto sign cursor
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
@@ -5989,7 +5990,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
-- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to recreate a debugger-like experience from logs 🦀
+- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 A VS Code extension to debug with tracing logs 🦀
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
