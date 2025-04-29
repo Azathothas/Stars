@@ -794,7 +794,6 @@
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) – qBittorrent BitTorrent client
 - [raboof/nethogs](https://github.com/raboof/nethogs) – Linux 'net top' tool
-- [radareorg/iaito](https://github.com/radareorg/iaito) – Official radare2 GUI
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt) – LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 - [ruanformigoni/flatimage](https://github.com/ruanformigoni/flatimage) – FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
@@ -2945,6 +2944,7 @@
 - [morrolinux/ChimeraDesk](https://github.com/morrolinux/ChimeraDesk) – Simple, fast and flexible DIY Remote Desktop software 
 - [muink/openwrt-rgmac](https://github.com/muink/openwrt-rgmac) – a simple random MAC address generator for OpenWRT
 - [pkgforge/store.pkgforge.dev](https://github.com/pkgforge/store.pkgforge.dev) – 🛒 [WIP] Soarpkgs AppHub/AppStore: User Friendly GUI to Browse, Download, Install & Review All our Packages [Maintainer=@ahqsoftwares]
+- [radareorg/iaito](https://github.com/radareorg/iaito) – Official radare2 GUI
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
