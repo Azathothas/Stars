@@ -3567,6 +3567,7 @@
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) – The BGP swiss army knife of networking
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) – 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) – No fortress, purely open ground.  OpenManus is Coming.
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) – Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
@@ -3812,7 +3813,6 @@
 - [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk) – Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 - [gdraheim/docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images)
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) – docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) – 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [gehaxelt/Python-dsstore](https://github.com/gehaxelt/Python-dsstore) – A library for parsing .DS_Store files and extracting file names
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) – abusing github commit history for the lulz
 - [ghfetch/ghfetch](https://github.com/ghfetch/ghfetch) – A nice way to display CLI Github user / repo / organization info inspired in neofetch
