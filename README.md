@@ -788,7 +788,7 @@
 - [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll) – :electron: O-MVLL is a code obfuscator based on LLVM for native code (Android & iOS)
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) – World's most powerful command line package manager
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) – ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.
-- [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode 7-Zip
+- [ozone10/7zip-Dark7zip](https://github.com/ozone10/7zip-Dark7zip) – Dark mode for 7-Zip and 7-Zip-zstd
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) – Instant Kubernetes-Native Application Observability
 - [pkgforge-dev/AppImageUpdate-Enhanced-Edition](https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition) – Fork with rate-limit-bypass & misc QOL changes [Maintainers=@QaidVoid|@Samueru-sama]
 - [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt) – Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications
@@ -2088,6 +2088,7 @@
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) – VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [qi4L/qscan](https://github.com/qi4L/qscan) – Lightning-fast internal network scanner
 - [quackduck/devzat](https://github.com/quackduck/devzat) – The devs are over here at devzat, chat over SSH!
+- [quarkslab/proxyblob](https://github.com/quarkslab/proxyblob) – SOCKS5 proxy tool that uses Azure Blob Storage as a means of communication.
 - [quay/clair](https://github.com/quay/clair) – Vulnerability Static Analysis for Containers
 - [r4ulcl/bntoolkit](https://github.com/r4ulcl/bntoolkit) – Toolkit to investigate the BitTorrent network.
 - [r4ulcl/nTask](https://github.com/r4ulcl/nTask) – nTask is a distributed task management program that allows you to distribute tasks across multiple computers using API communication and WebSockets. It handles task requests, distributes them to available workers, and stores the results in a database or sends them to a specified URL/API. Integration with other APIs or scripts is also supported.
@@ -4944,6 +4945,7 @@
 - [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rolling Rhino
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
 - [ripytide/metapac](https://github.com/ripytide/metapac) – multi-backend declarative package manager
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) – Rust library and CLI tool for OCR (extracting text from images)
 - [robinvandernoord/uvenv](https://github.com/robinvandernoord/uvenv) – uvenv: pipx for uv (🦀) on Linux and macOS
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
@@ -5748,7 +5750,7 @@
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用无环境依赖的=>https://github.com/oneclickvirt/ecs
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本。VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
