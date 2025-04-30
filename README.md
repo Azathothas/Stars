@@ -3567,6 +3567,7 @@
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) – 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp) – The BGP swiss army knife of networking
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
+- [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) – No fortress, purely open ground.  OpenManus is Coming.
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) – Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) – GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
@@ -3903,7 +3904,6 @@
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) – get things from one computer to another, safely
 - [mamba-org/micromamba-releases](https://github.com/mamba-org/micromamba-releases) – Micromamba executables mirrored from conda-forge as Github releases
 - [mamba-org/quetz](https://github.com/mamba-org/quetz) – The Open-Source Server for Conda Packages
-- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) – No fortress, purely open ground.  OpenManus is Coming.
 - [marc1307/tailscale-cloudflare-dnssync](https://github.com/marc1307/tailscale-cloudflare-dnssync) – Syncs Tailscale/Headscale host IPs to a cloudflare hosted dns zone
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) – A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) – The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
