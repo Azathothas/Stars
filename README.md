@@ -901,7 +901,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) – Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source music client! Available for both desktop & mobile!
 - [KaringX/karing](https://github.com/KaringX/karing) – Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
 - [Mosc/Glider](https://github.com/Mosc/Glider) – Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
