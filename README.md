@@ -1326,6 +1326,7 @@
 - [bebiksior/subwords](https://github.com/bebiksior/subwords) – Extract most frequent words in a list of subdomains
 - [beescuit/githubid](https://github.com/beescuit/githubid) – Quickly find all identities someone has used on their Github commits
 - [beevik/etree](https://github.com/beevik/etree) – parse and generate XML easily in go
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) – Streaming replication for SQLite.
 - [benchkram/bob](https://github.com/benchkram/bob) – Bob is a high-level build tool for multi-language projects.
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) – A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) – 🌿 It's Hacker News in your terminal
@@ -1911,6 +1912,7 @@
 - [mrusme/wth](https://github.com/mrusme/wth) – What The Heck: The better personal information dashboard for your terminal
 - [mrvcoder/cloud_data](https://github.com/mrvcoder/cloud_data) – Get some useful data from Clouds for your targets
 - [msantos/embedexe](https://github.com/msantos/embedexe) – Run an executable embedded in a Go binary
+- [mscheidegger/minidisc](https://github.com/mscheidegger/minidisc) – Zero-config service discovery for Tailscale networks
 - [msoap/shell2http](https://github.com/msoap/shell2http) – Executing shell commands via HTTP server
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) – A minimalist, easy-to-host service for sharing images and other files
 - [mtzanidakis/tsrp](https://github.com/mtzanidakis/tsrp) – HTTPS reverse proxy for Tailscale
