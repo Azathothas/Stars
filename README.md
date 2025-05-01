@@ -4427,7 +4427,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atanunq/viuer](https://github.com/atanunq/viuer) – Rust library for displaying images in the terminal.
-- [attunehq/attune](https://github.com/attunehq/attune) – The open source artifact registry.
+- [attunehq/attune](https://github.com/attunehq/attune) – Secure, simple software publishing.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) – Distributed systems runtime daemon written in Rust.
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
