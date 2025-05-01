@@ -2456,7 +2456,7 @@
 - [adityatelange/bhhb](https://github.com/adityatelange/bhhb) – Burp HTTP history browser (BHHB) - A tool to view HTTP history exported from Burp Suite Community Edition
 - [aerokube/moon](https://github.com/aerokube/moon) – Browser automation solution for Kubernetes and Openshift supporting Selenium, Playwright, Puppeteer and Cypress
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) – Automagically reverse-engineer REST APIs via capturing traffic
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) – Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [bedrocklinux/bedrocklinux-website](https://github.com/bedrocklinux/bedrocklinux-website) – This tracks website development for Bedrock Linux
 - [boostsecurityio/lotp](https://github.com/boostsecurityio/lotp) – boostsecurityio/lotp
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) – Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
@@ -2643,7 +2643,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) – Acode - powerful text/code editor for android
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) – Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) – A from-scratch experimental AOT JS engine, written in JS
-- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning某音全版本通杀
+- [CreditTone/hooker](https://github.com/CreditTone/hooker) – 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning
 - [EIGHTFINITE/top-user-agents](https://github.com/EIGHTFINITE/top-user-agents) – 📦 top-user-agents drop in replacement with zero dependencies. Always mirrors the latest version. Always up to date with the most common user agents. — `npm install top-user-agents@github:EIGHTFINITE/top-user-agents#main` — https://github.com/EIGHTFINITE/top-user-agents/tags | https://github.com/microlinkhq/top-user-agents
 - [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) – Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
