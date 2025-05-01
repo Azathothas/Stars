@@ -2112,6 +2112,7 @@
 - [relastle/pmy](https://github.com/relastle/pmy) – :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [reproducible-containers/buildkit-nix](https://github.com/reproducible-containers/buildkit-nix) – Nix derivations as Dockerfiles (`docker build -f default.nix .`)
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) – diff for Docker and OCI container images
+- [rest-sh/restish](https://github.com/rest-sh/restish) – Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [restic/restic](https://github.com/restic/restic) – Fast, secure, efficient backup program
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) – Dockerfile formatter. a modern dockfmt.
 - [retr0h/gilt](https://github.com/retr0h/gilt) – A GIT layering tool.
@@ -2907,7 +2908,7 @@
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) – 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) –  The missing link between Android and a sorted file system. 
-- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) – A Non-professional and Recreational Proxy Tool Integration.
+- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) – Husi(虎兕) is a Non-professional and Recreational Proxy Tool Integration.
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
 
@@ -3284,7 +3285,6 @@
 - [kakathic/YT-AT](https://github.com/kakathic/YT-AT) – Tool to build YouTube ReVanced online automatically.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) – 😱 Falsehoods Programmers Believe in
 - [kh4sh3i/RabbitMQ-Pentesting](https://github.com/kh4sh3i/RabbitMQ-Pentesting) – RabbitMQ exploit and Pentesting guide for penetration tester
-- [kivikakk/vyxos](https://github.com/kivikakk/vyxos) – My laptop and server Nix configuration.
 - [kkbo8005/mitan](https://github.com/kkbo8005/mitan) – 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、端口扫描、批量信息权重查询、密码字典等功能
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
@@ -4014,6 +4014,7 @@
 - [redhuntlabs/KubeStalk](https://github.com/redhuntlabs/KubeStalk) – KubeStalk discovers Kubernetes and related infrastructure based attack surface from a black-box perspective.
 - [redhuntlabs/Octopii](https://github.com/redhuntlabs/Octopii) – An AI-powered Personal Identifiable Information (PII) scanner.
 - [releng-tool/releng-tool](https://github.com/releng-tool/releng-tool) – A tool to tailor the building of multiple software components to help prepare packages for desired runtime environments (e.g. cross-platform portable packages, embedded targets, etc.).
+- [remarshal-project/remarshal](https://github.com/remarshal-project/remarshal) – Convert between CBOR, JSON, MessagePack, TOML, and YAML
 - [reorx/httpstat](https://github.com/reorx/httpstat) – curl statistics made simple
 - [repology/repology-rules](https://github.com/repology/repology-rules) – Package normalization ruleset for Repology
 - [repology/repology-updater](https://github.com/repology/repology-updater) – Repology backend service to update repository and package data
@@ -4566,6 +4567,7 @@
 - [emabee/flexi_logger](https://github.com/emabee/flexi_logger) – A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) – A Rust HTTP server for Python applications
 - [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) – 侦查守卫(observer_ward)Web应用和服务指纹识别工具
+- [enarx/ciborium](https://github.com/enarx/ciborium) – CBOR utilities
 - [enarx/enarx](https://github.com/enarx/enarx) – Enarx: Confidential Computing with WebAssembly
 - [envio-cli/envio](https://github.com/envio-cli/envio) – envio is a modern and secure command-line tool that simplifies the management of environment variables
 - [epi052/feroxbuster](https://github.com/epi052/feroxbuster) – A fast, simple, recursive content discovery tool written in Rust.
