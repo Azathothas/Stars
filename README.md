@@ -6066,7 +6066,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) – Full Toolkit for Next-Level Domain Analysis
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) – High Performace IDE for running Jupyter Notebooks
+- [zasper-io/zasper](https://github.com/zasper-io/zasper) – High Performace IDE for Jupyter Notebooks
 
 <div id="v"></div>
 
