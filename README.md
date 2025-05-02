@@ -410,6 +410,7 @@
 - [linux-audit/audit-userspace](https://github.com/linux-audit/audit-userspace) – Linux audit userspace repository
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) – zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) – A little fail-safe filesystem designed for microcontrollers
 - [liudf0716/xfrpc](https://github.com/liudf0716/xfrpc) – The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices such as OpenWRT routers and IoT devices, which often have limited ROM and RAM space.
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) – The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
@@ -4687,7 +4688,7 @@
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
 - [jedisct1/rust-minisign](https://github.com/jedisct1/rust-minisign) – A pure Rust implementation of the Minisign signature tool.
 - [jedisct1/rust-minisign-verify](https://github.com/jedisct1/rust-minisign-verify) – A small Rust crate to verify Minisign signatures.
-- [jellyterra/bwrapman](https://github.com/jellyterra/bwrapman) – Bubblewrap profile launcher.
+- [jellyterra/bwrapman](https://github.com/jellyterra/bwrapman) – Sandbox with permission control in profile like Flatpak.
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
