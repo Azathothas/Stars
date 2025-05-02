@@ -4901,7 +4901,7 @@
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
 - [prefix-dev/pixi-build-backends](https://github.com/prefix-dev/pixi-build-backends) – WIP backend implementations to build pixi projects from source
-- [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal package builder for Windows, macOS and Linux
+- [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) – rattler-build is a universal Conda package builder for Windows, macOS and Linux (like conda-build but faster)
 - [prefix-dev/rip](https://github.com/prefix-dev/rip) – Solve and install Python packages quickly with rip (pip in Rust)
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) – The ultimate cross-platform, bash-like shell
 - [printfn/fend](https://github.com/printfn/fend) – Arbitrary-precision unit-aware calculator
