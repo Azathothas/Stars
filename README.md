@@ -3179,7 +3179,7 @@
 - [aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) – Security Remediation Guides
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) – This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 Dotfiles for my windows rice
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 My Windows setup dotfiles
 - [assetnote/blind-ssrf-chains](https://github.com/assetnote/blind-ssrf-chains) – An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
 - [attacksurge/awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
