@@ -5754,7 +5754,7 @@
 - [sormy/aws-curl](https://github.com/sormy/aws-curl) – AWS curl shell wrapper is like vanilla curl but it can automatically sign request using SIGV4 to call AWS services without requirement to have AWS CLI with Python installed
 - [sounddrill31/saulgoodmanOS-custom](https://github.com/sounddrill31/saulgoodmanOS-custom) – Script to transform x86 pi OS into SaulGoodmanOS.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) – 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本。VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
+- [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) – VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 - [sprucecellodev125/cloudshell-gui](https://github.com/sprucecellodev125/cloudshell-gui) – Install Xfce desktop and Chrome Remote Desktop on Google Cloud Shell
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
