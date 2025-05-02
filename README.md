@@ -1958,6 +1958,7 @@
 - [nfx/slrp](https://github.com/nfx/slrp) – rotating open proxy multiplexer
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) – Generate files from docker container meta-data
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) – Wireguard web interface
+- [nickvourd/SugarFree](https://github.com/nickvourd/SugarFree) – Less sugar (entropy) for your binaries
 - [nickvourd/Supernova](https://github.com/nickvourd/Supernova) – Real fucking shellcode encryptor & obfuscator tool
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
@@ -5960,6 +5961,7 @@
 - [caido-community/workflows](https://github.com/caido-community/workflows) – 🛠️ Workflows created by the community
 - [caido/starterkit-plugin](https://github.com/caido/starterkit-plugin) – 🔰 Caido Plugin StarterKit
 - [canonical/snapcraft.io](https://github.com/canonical/snapcraft.io) – The official website's repository for the Snap store
+- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) – Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) – A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
