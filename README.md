@@ -411,7 +411,7 @@
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) – NVMe management command line interface.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) – zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) – A little fail-safe filesystem designed for microcontrollers
-- [liudf0716/xfrpc](https://github.com/liudf0716/xfrpc) – The xfrpc project is a lightweight implementation of the FRP client written in C language for OpenWRT and IoT systems. It is designed to provide an efficient solution for resource-constrained devices such as OpenWRT routers and IoT devices, which often have limited ROM and RAM space.
+- [liudf0716/xfrpc](https://github.com/liudf0716/xfrpc) – xfrpc 是一个轻量级的 FRP 客户端，完美兼容 frps，采用 C 语言实现，专为 OpenWRT 和物联网等资源受限系统优化设计。它针对 ROM 和 RAM 空间有限的设备，提供高效的内网穿透解决方案。xfrpc 集成了xDPI（深度包检测）功能，增强了安全性，有效防止内网穿透中因恶意嗅探导致的安全威胁，确保数据传输和网络访问的可靠保护。
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) – The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files.
 - [lxc/lxc](https://github.com/lxc/lxc) – LXC - Linux Containers
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) – android-ndk for termux
