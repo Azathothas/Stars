@@ -2898,7 +2898,7 @@
 - [nemuTUI/nemu-droid](https://github.com/nemuTUI/nemu-droid) – Android client for nEMU
 - [ohmae/dms-explorer](https://github.com/ohmae/dms-explorer) – DLNA Player for Android
 - [plateaukao/einkbro](https://github.com/plateaukao/einkbro) – A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) – PulsarRPA: A Super-Fast, AI-Enabled Browser Automation Solution! 💖
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) – PulsarRPA: An AI-Enabled, Super-Fast, Thread-Safe Browser Automation Solution! 💖
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) – "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon  
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) – Android app for streaming and downloading media.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) – APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
