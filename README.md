@@ -5253,7 +5253,7 @@
 - [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) – Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build & Release are automated by Github Action.
 - [M0Rf30/PKGBUILD](https://github.com/M0Rf30/PKGBUILD) – robertfoster's PKGBUILD
 - [Macmod/CloudPersist](https://github.com/Macmod/CloudPersist) – A collection of simple scripts to achieve persistence quick in cloud environments without generating too much noise.
-- [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro) – install linux distributions on android 
+- [Magisk-Modules-Alt-Repo/chroot-distro](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro) – Install Gnu/Linux distributions on Android 
 - [Magisk-Modules-Alt-Repo/custom-certificate-authorities](https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities) – A Magisk module which adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store. 
 - [Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc) – Upstream repo: 
 - [Magisk-Modules-Repo/ccbins](https://github.com/Magisk-Modules-Repo/ccbins)
