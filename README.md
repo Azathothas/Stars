@@ -2820,7 +2820,6 @@
 ## Just
 
 - [catppuccin/mobaxterm](https://github.com/catppuccin/mobaxterm) – 🎲 Soothing pastel theme for MobaXterm
-- [secureblue/secureblue](https://github.com/secureblue/secureblue) – Hardened Fedora Atomic and Fedora CoreOS images 
 
 <div id="kotlin"></div>
 
@@ -5724,6 +5723,7 @@
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
 - [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers
 - [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns) – 一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉
+- [secureblue/secureblue](https://github.com/secureblue/secureblue) – Hardened Fedora Atomic and Fedora CoreOS images 
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
@@ -5755,7 +5755,7 @@
 - [srknoztrk53/awsip](https://github.com/srknoztrk53/awsip) – aws ip rotator
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [srvrco/getssl](https://github.com/srvrco/getssl) – obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers. 
-- [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager
+- [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager, statically build packages, for darwin/linux, with clang
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) – Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
