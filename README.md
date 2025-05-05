@@ -17,7 +17,6 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Cmake](#cmake)
-- [Coffeescript](#coffeescript)
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
@@ -872,12 +871,6 @@
 - [lzhiyong/android-sdk-tools](https://github.com/lzhiyong/android-sdk-tools) – building android-sdk tools  for Android
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) – C++ Library Manager for Windows, Linux, and MacOS
 - [nmeum/android-tools](https://github.com/nmeum/android-tools) – Unoffical CMake-based build system for android command line utilities
-
-<div id="coffeescript"></div>
-
-## Coffeescript
-
-- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) – Manage and switch between multiple proxies quickly & easily.
 
 <div id="crystal"></div>
 
@@ -2793,6 +2786,7 @@
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
+- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) – Manage and switch between multiple proxies quickly & easily.
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
 - [zzzteph/sheye](https://github.com/zzzteph/sheye) – Opensource assets and vulnerability scanning tool
@@ -5355,7 +5349,7 @@
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) – Make customized Alpine Linux rootfs (base image) for containers
 - [amrsa1/Android-Emulator-image](https://github.com/amrsa1/Android-Emulator-image) – The use of this Docker image simplifies the process of running an Android emulator within a Docker container
-- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
+- [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  To grab the profiles, click the Release below.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
 - [anasfanani/Magisk-Tailscaled](https://github.com/anasfanani/Magisk-Tailscaled) – Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.
 - [anasfik/flutter-spy](https://github.com/anasfik/flutter-spy) – Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) – Cheat sheets, customizations and configurations I use across multiple systems.
