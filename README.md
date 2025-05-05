@@ -5548,7 +5548,7 @@
 - [kenzok8/compile-package](https://github.com/kenzok8/compile-package) – small-package仓库，每日更新插件编译
 - [kerolloz/go-installer](https://github.com/kerolloz/go-installer) – Go-Installer: Effortless Golang Installation with One Command! 🚀
 - [kiddin9/packages-compile](https://github.com/kiddin9/packages-compile)
-- [kigster/bashmatic](https://github.com/kigster/bashmatic) – Optimized for humans, 500+ BASH functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users.
+- [kigster/bashmatic](https://github.com/kigster/bashmatic) – Optimized for humans, 900+ BASH DSL functions for all walks of life. Über Toölkit for über geeks and UNIX command line power users. Visit https://bashmatic.dev for more info..
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) – An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [kokoko3k/gopreload](https://github.com/kokoko3k/gopreload) – Preloads files needed for given programs.
 - [kokoko3k/ssh-rdp](https://github.com/kokoko3k/ssh-rdp) – Real display ssh based remote desktop
