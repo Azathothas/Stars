@@ -1350,6 +1350,7 @@
 - [boyter/lc](https://github.com/boyter/lc) – licensechecker (lc) a command line application which scans directories and identifies what software license things are under producing reports as either SPDX, CSV, JSON, XLSX or CLI Tabular output. Dual-licensed under MIT or the UNLICENSE.
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
+- [bpfsnoop/bpfsnoop](https://github.com/bpfsnoop/bpfsnoop) – Modernized kernel functions, kernel tracepoints and bpf progs tracing tool for the bpf era.
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) – possibly useful tools for the Internet (including dnscheck.tools and myaddr.tools)
 - [brightzheng100/vind](https://github.com/brightzheng100/vind) – `vind` is a tool to create and manage a cluster of containers that look and work like virtual machines, on Docker.
 - [brosck/mantra](https://github.com/brosck/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -4135,6 +4136,7 @@
 - [xnl-h4ck3r/xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) – A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) – :shell: Python-powered shell. Full-featured and cross-platform.
 - [xxh/xxh](https://github.com/xxh/xxh) – 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [xythrez/exSIF](https://github.com/xythrez/exSIF) – Extended SIF format with self extracting runtime for apptainer
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) – A feature-rich command-line audio/video downloader
 - [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser)
 - [zappa/Zappa](https://github.com/zappa/Zappa) – Serverless Python 
