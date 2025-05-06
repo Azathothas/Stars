@@ -1788,7 +1788,6 @@
 - [kevincobain2000/gobrew](https://github.com/kevincobain2000/gobrew) – Go version manager, written in Go. Super simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) – A cli tool to proxy and analyze TCP connections.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) – PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
-- [kingparks/jetbra-activate](https://github.com/kingparks/jetbra-activate) – idea激活，2025最新IDEA激活方式，超级稳定
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) – A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [knadh/listmonk](https://github.com/knadh/listmonk) – High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [knadh/otpgateway](https://github.com/knadh/otpgateway) – Standalone server for user address and OTP verification flows with pluggable providers (e-mail, SMS, bank penny drops etc.)
