@@ -4399,6 +4399,7 @@
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
 - [ahqstore/client](https://github.com/ahqstore/client) – The AHQ Store Neo Client
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
+- [al13n321/nnd](https://github.com/al13n321/nnd) – A debugger for Linux
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [alexkirsz/dispatch](https://github.com/alexkirsz/dispatch) – Combine internet connections, increase your download speed
 - [alexykn/sps](https://github.com/alexykn/sps) – Rust based package manager for macOS
