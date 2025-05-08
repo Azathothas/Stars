@@ -5039,7 +5039,7 @@
 - [svenstaro/dummyhttp](https://github.com/svenstaro/dummyhttp) – Super simple HTTP server that replies a fixed body with a fixed response code
 - [svenstaro/genact](https://github.com/svenstaro/genact) – 🌀 A nonsense activity generator
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) – 🌟 For when you really just want to serve some files over HTTP right now!
-- [svenstaro/vmexec](https://github.com/svenstaro/vmexec) – 🔧 Run a single command in a speedy virtual machine with zero-setup
+- [svenstaro/vmexec](https://github.com/svenstaro/vmexec) – 🔧 Run a single command in a speedy virtual machine with zero-setup THE PROJECT MOVED TO https://gitlab.archlinux.org/archlinux/vmexec
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) – The fastest way to identify anything!
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) – cat for markdown
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) – 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
