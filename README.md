@@ -2656,6 +2656,7 @@
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
 - [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) – Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) – 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，提供API
+- [ReversecLabs/android-keystore-audit](https://github.com/ReversecLabs/android-keystore-audit)
 - [RuoShui-0014/js-env](https://github.com/RuoShui-0014/js-env) – 基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法。
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
@@ -2664,7 +2665,6 @@
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
-- [WithSecureLabs/android-keystore-audit](https://github.com/WithSecureLabs/android-keystore-audit)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) – 🐵 自用的一些乱七八糟 油猴脚本~ 
 - [YappyBots/YappyGitHub](https://github.com/YappyBots/YappyGitHub) – A github monitor bot for Discord
 - [Yeo-x/ShareDL](https://github.com/Yeo-x/ShareDL) – 基于 Cloudflare Workers 的代理下载和文件分享服务，支持直接代理下载、短链接分享和 AList, Github 文件预览。
@@ -4906,7 +4906,6 @@
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
 - [pwnwriter/kanha](https://github.com/pwnwriter/kanha) – 🦚  A web-app pentesting suite written in rust .
-- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) – Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [pythops/bluetui](https://github.com/pythops/bluetui) – 🛜 TUI for managing bluetooth on Linux
 - [pythops/impala](https://github.com/pythops/impala) – 🛜 TUI for managing wifi on Linux
 - [pythops/lobtui](https://github.com/pythops/lobtui) – 🌐 TUI for lobste.rs website
