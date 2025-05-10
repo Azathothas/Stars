@@ -5112,7 +5112,6 @@
 - [woboq/tr](https://github.com/woboq/tr) – Translation tools for rust
 - [woelper/oculante](https://github.com/woelper/oculante) – A fast and simple image viewer / editor for many operating systems
 - [woodruffw/toml2json](https://github.com/woodruffw/toml2json) – A very small CLI for converting TOML to JSON
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) – Static analysis for GitHub Actions
 - [wssheldon/osintui](https://github.com/wssheldon/osintui) – OSINT from your favorite services in a friendly terminal user interface - integrations for Virustotal, Shodan, and Censys
 - [xct/winssh](https://github.com/xct/winssh)
 - [xetdata/nfsserve](https://github.com/xetdata/nfsserve) – A Rust NFS Server implementation
@@ -5140,6 +5139,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) – A simple, stateless NixOS deployment tool
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
 - [zimbatm/mdsh](https://github.com/zimbatm/mdsh) – `$ mdsh` # a markdown shell pre-processor
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) – Static analysis for GitHub Actions
 - [zmwangx/metadata](https://github.com/zmwangx/metadata) – Media file metadata for human consumption
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) – Make every request from a separate IPv6 address.
 - [zydou/arti](https://github.com/zydou/arti) – An implementation of Tor, in Rust. [NOT Official, Mirrors Only, NO PR here] 
