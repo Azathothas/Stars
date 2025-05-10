@@ -3246,7 +3246,7 @@
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
 - [getcursor/cursor](https://github.com/getcursor/cursor) – The AI Code Editor
-- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – A simple and lightweight Linux® distribution based on musl libc and toybox
+- [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – A simple, lightweight and opinionated Linux® distribution based on musl libc and toybox
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) – 📜 A collective list of public GraphQL APIs
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) – A curated list of useful resources for gRPC
