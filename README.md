@@ -833,6 +833,7 @@
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) – A C++ header-only HTTP/HTTPS server and client library
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
@@ -2786,7 +2787,6 @@
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) – Manage and switch between multiple proxies quickly & easily.
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) – Running V2ray inside edge/serverless runtime
