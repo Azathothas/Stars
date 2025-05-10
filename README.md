@@ -3524,7 +3524,7 @@
 
 ## Python
 
-- [000pp/Pinkerton](https://github.com/000pp/Pinkerton) – 🕵️ JavaScript file crawler and secret finder tool developed with Python 
+- [000pp/Pinkerton](https://github.com/000pp/Pinkerton) – 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related.
 - [0ex/fake-sudo](https://github.com/0ex/fake-sudo) – A drop-in sudo replacement that uses user namespaces to pretend we are root.
 - [0xacb/recollapse](https://github.com/0xacb/recollapse) – REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
 - [0xacb/viewgen](https://github.com/0xacb/viewgen) – Viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys
@@ -4425,7 +4425,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) – An extremely fast Python package and project manager, written in Rust.
 - [atanunq/viu](https://github.com/atanunq/viu) – Terminal image viewer with native support for iTerm and Kitty
 - [atanunq/viuer](https://github.com/atanunq/viuer) – Rust library for displaying images in the terminal.
-- [attunehq/attune](https://github.com/attunehq/attune) – Secure, simple software publishing.
+- [attunehq/attune](https://github.com/attunehq/attune) – Faster builds, zero effort.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) – Distributed systems runtime daemon written in Rust.
 - [avs-origami/arc](https://github.com/avs-origami/arc) – Tiny package manager for Linux.
