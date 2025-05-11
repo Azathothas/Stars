@@ -3019,7 +3019,6 @@
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) – Build OpenWRT images in Nix derivations
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
-- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ Home-Manager configuration ala Nix flakes
 - [flatironinstitute/nixpack](https://github.com/flatironinstitute/nixpack) – nix+spack = nixpack (spanix?)
@@ -4474,6 +4473,7 @@
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
 - [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) – pre-compiled binary packages for `cargo install`
@@ -6007,6 +6007,7 @@
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [karldreher/b2-cloudflare-worker](https://github.com/karldreher/b2-cloudflare-worker) – A cloudflare worker which is used to cache content from a private Backblaze B2 bucket.
+- [kern/filepizza](https://github.com/kern/filepizza) – :pizza: Peer-to-peer file transfers in your browser
 - [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service (WebUI & WebDAV) using CloudFlare R2
