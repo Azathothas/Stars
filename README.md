@@ -2490,7 +2490,6 @@
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) – luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) – Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) – World’s single largest Internet domains dataset
@@ -2765,6 +2764,7 @@
 - [sepehrdaddev/zap-scripts](https://github.com/sepehrdaddev/zap-scripts) – Zed Attack Proxy Scripts for finding CVEs and Secrets.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) – The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) – :shell: Portable Unix shell commands for Node.js
+- [sirpdboy/luci-app-ddns-go](https://github.com/sirpdboy/luci-app-ddns-go) – luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) – GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [svenstaro/upx-action](https://github.com/svenstaro/upx-action) – Strips and runs upx on binaries
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext)
