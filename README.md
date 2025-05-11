@@ -1433,7 +1433,7 @@
 - [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via WireGuard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [colonyos/colonies](https://github.com/colonyos/colonies) – Colonies is a distributed framework to implement a meta-operating system.
-- [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access your cloud.
+- [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access AWS.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
 - [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
 - [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
