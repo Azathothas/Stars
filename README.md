@@ -2212,6 +2212,7 @@
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) – go-audit is an alternative to the auditd daemon that ships with many distros
 - [slackhq/nebula](https://github.com/slackhq/nebula) – A scalable overlay networking tool with a focus on performance, simplicity and security
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) – Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) – Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) – Verify provenance from SLSA compliant builders
 - [smallstep/cli](https://github.com/smallstep/cli) – 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [smmr-software/mabel](https://github.com/smmr-software/mabel) – A fancy BitTorrent client for the terminal
