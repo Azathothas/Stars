@@ -2557,6 +2557,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) – Ghidra is a software reverse engineering (SRE) framework
 - [Neamar/KISS](https://github.com/Neamar/KISS) – Lightning fast, open-source, < 250kb Android launcher
 - [NetSPI/AWSSigner](https://github.com/NetSPI/AWSSigner) – Burp Extension for AWS Signing 
+- [NextAlone/Nagram](https://github.com/NextAlone/Nagram) – The third-party Telegram android app.
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) – Powerful android apk editor - aapt/aapt2 independent
@@ -2573,6 +2574,7 @@
 - [akto-api-security/akto](https://github.com/akto-api-security/akto) – Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) – Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) – Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK!
+- [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) – a fast, scalable, multi-language and extensible build system
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) – A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) – Unofficial warp client for android
