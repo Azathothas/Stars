@@ -2282,7 +2282,7 @@
 - [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 - [tianon/gosleep](https://github.com/tianon/gosleep) – "sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar
-- [tillson/git-hound](https://github.com/tillson/git-hound) – Recon tool leveraging GitHub Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
+- [tillson/git-hound](https://github.com/tillson/git-hound) – GitHub recon tool leveraging Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs. Support for GitHub dorks.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) – Define your dev environment as code. For microservice apps on Kubernetes.
 - [timbray/topfew](https://github.com/timbray/topfew) – Finds the field values (or combinations of values) which appear most often in a stream of records.
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) – A tool for adding new lines to files, skipping duplicates
