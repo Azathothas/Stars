@@ -1958,6 +1958,7 @@
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) – A unified NixOS tooling replacement for nixos-* utilities
 - [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) – The tool for creating, delivering and rotating backups for GNU/Linux distributions.
 - [nlewo/comin](https://github.com/nlewo/comin) – GitOps For NixOS Machines
@@ -2357,7 +2358,6 @@
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) – Wait4X allows you to wait for a port or a service to enter the requested state.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) – An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
 - [warewulf/warewulf](https://github.com/warewulf/warewulf) – Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) – A unified NixOS tooling replacement for nixos-* utilities
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
@@ -5841,8 +5841,8 @@
 - [xplshn/AltSys](https://github.com/xplshn/AltSys) – An assortment of utilities that make up, an ALT(ernative SYS(tem
 - [xplshn/Andes](https://github.com/xplshn/Andes) – Barebones, Linux based Unix distro. W.I.P
 - [xplshn/Handyscripts](https://github.com/xplshn/Handyscripts) – Handy POSIX(mostly) scripts I made for personal use.
-- [xykt/IPQuality](https://github.com/xykt/IPQuality) – A script for IP quality detection
-- [xykt/NetQuality](https://github.com/xykt/NetQuality) – A script for network quality detection
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) – IP质量体检脚本 - IP Quality Check Script
+- [xykt/NetQuality](https://github.com/xykt/NetQuality) – 网络质量体检脚本 - Network Quality Check Script
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) – 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
