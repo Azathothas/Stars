@@ -1958,7 +1958,7 @@
 - [nickzer0/RagingRotator](https://github.com/nickzer0/RagingRotator) – A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 - [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) – An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - [nil-go/konf](https://github.com/nil-go/konf) – The simplest config loader for Go that reads/watches from file, env, flag and clouds (AWS, Azure, GCP). 
-- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) – A unified NixOS tooling replacement for nixos-* utilities
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) – A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks] 
 - [nix-community/trustix](https://github.com/nix-community/trustix) – Trustix: Distributed trust and reproducibility tracking for binary caches [maintainer=@adisbladis]
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) – The tool for creating, delivering and rotating backups for GNU/Linux distributions.
 - [nlewo/comin](https://github.com/nlewo/comin) – GitOps For NixOS Machines
