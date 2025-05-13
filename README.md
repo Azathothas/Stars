@@ -150,6 +150,7 @@
 ## C
 
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) – 3proxy - tiny free proxy server
+- [6over3/zeroperl](https://github.com/6over3/zeroperl) –  Perl5 in a sandboxed, self-contained WebAssembly module.
 - [8dcc/bin-graph](https://github.com/8dcc/bin-graph) – Visualize binary files
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) – The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [Acceis/eBPF-hide-PID](https://github.com/Acceis/eBPF-hide-PID) – This tool have the power to hide any PID/directory in the Linux kernel
@@ -580,7 +581,6 @@
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) – MemProcFS
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
-- [uswriting/zeroperl](https://github.com/uswriting/zeroperl) –  Perl5 in a sandboxed, self-contained WebAssembly module.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
 - [v1cont/yad](https://github.com/v1cont/yad) – Yet Another Dialog
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
@@ -601,6 +601,7 @@
 - [wtarreau/mhz](https://github.com/wtarreau/mhz) – CPU frequency measurement utility
 - [xdp-project/bpf-examples](https://github.com/xdp-project/bpf-examples) – Making eBPF programming easier via build env and examples
 - [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
+- [xiph/vorbis-tools](https://github.com/xiph/vorbis-tools) – Command-line tools for creating and playing Ogg Vorbis files. THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/vorbis-tools
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
 - [xscorp/jsmug](https://github.com/xscorp/jsmug) – A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 - [yadifa/yadifa](https://github.com/yadifa/yadifa) –   YADIFA is a lightweight authoritative Name Server with DNSSEC capabilities. Developed by the passionate people behind the .eu top-level domain, YADIFA has been built from scratch to face today’s DNS challenges, with no compromise on security, speed and stability, to offer a better and safer Internet experience.
@@ -4897,6 +4898,7 @@
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) – Efficient Duplicate File Finder
 - [ple1n/nsproxy](https://github.com/ple1n/nsproxy) – Kernel-namespaces-based alternative to proxychains.
 - [pls-rs/pls](https://github.com/pls-rs/pls) – pls is a prettier and powerful ls(1) for the pros.
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) – Multiple USB File Flasher
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) – A list of publicly available STUN servers, refreshed every hour.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) – Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) – Package management made easy
@@ -5489,6 +5491,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
 - [guimspace/fopus](https://github.com/guimspace/fopus) – A one-liner command to archive, compress, encrypt, split and sign files.
+- [guyush1/gdb-static](https://github.com/guyush1/gdb-static) – A statically compiled gdb/gdbserver-16.x repository
 - [h4ck3r0/Apktool-termux](https://github.com/h4ck3r0/Apktool-termux) – Apktool 2.11.1 For Termux , Version : 2.11.1 , Maintained
 - [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) – Termux Theme Installer , Zsh Shell , Easy to use .
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) – Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
