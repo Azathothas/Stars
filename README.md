@@ -3022,6 +3022,7 @@
 - [astro/microvm.nix](https://github.com/astro/microvm.nix) – NixOS MicroVMs
 - [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) – Build OpenWRT images in Nix derivations
 - [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) – A reverse proxy that exposes services on your tailnet (as their own tailscale participants)
+- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) – Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [codedsprit/nix](https://github.com/codedsprit/nix) – ❄️ Home-Manager configuration ala Nix flakes
 - [flatironinstitute/nixpack](https://github.com/flatironinstitute/nixpack) – nix+spack = nixpack (spanix?)
@@ -4477,7 +4478,6 @@
 - [bytehunt/rayso](https://github.com/bytehunt/rayso) – 💫 create beautiful code snippets on ray.so 
 - [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
-- [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) – pre-compiled binary packages for `cargo install`
