@@ -3899,6 +3899,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) – 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) – 🐧 A list of awesome Linux softwares 
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) – curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
+- [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) – CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and investors perform fast, automated open-source due-diligence.
 - [m417z/winbindex](https://github.com/m417z/winbindex) – An index of Windows binaries, including download links for executables such as exe, dll and sys files
 - [m4ll0k/BBTz](https://github.com/m4ll0k/BBTz) – BBT - Bug Bounty Tools (examples💡)
 - [maaaaz/dnsdumps](https://github.com/maaaaz/dnsdumps) – Various DNS dumps (daily new domains, FQDNs, etc.)
