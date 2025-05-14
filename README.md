@@ -1340,6 +1340,7 @@
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise) – Bitrise runner CLI - run your automations on your Mac or Linux machine -
 - [bjesus/pipet](https://github.com/bjesus/pipet) – Swiss-army tool for scraping and extracting data from online assets, made for hackers 
 - [blacknon/lssh](https://github.com/blacknon/lssh) – lssh: A list-based SSH/SCP/SFTP client supporting single and parallel connections, local bashrc usage on remote machines, and advanced proxying. Written in Go.
+- [block/rce-agent](https://github.com/block/rce-agent) – gRPC-based Remote Command Execution Agent
 - [blues-lab/totp-app-analysis-public](https://github.com/blues-lab/totp-app-analysis-public) – Security and Privacy Failures in Popular 2FA Apps
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) – A TUI bluetooth manager for Linux.
 - [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client) – net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. 
@@ -2230,7 +2231,6 @@
 - [splitsh/lite](https://github.com/splitsh/lite) – Split a repository to read-only standalone repositories
 - [spq/pkappa2](https://github.com/spq/pkappa2) – Network traffic analysis tool for Attack & Defense CTF's
 - [square/certstrap](https://github.com/square/certstrap) – Tools to bootstrap CAs, certificate requests, and signed certificates.
-- [square/rce-agent](https://github.com/square/rce-agent) – gRPC-based Remote Command Execution Agent
 - [ssleert/zfxtop](https://github.com/ssleert/zfxtop) – [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 - [sterrasec/apk-medit](https://github.com/sterrasec/apk-medit) – memory search and patch tool on debuggable apk without root & ndk
 - [stolenusername/cowitness](https://github.com/stolenusername/cowitness) – CoWitness is a powerful web application testing tool that enhances the accuracy and efficiency of your testing efforts. It allows you to mimic an HTTP server and a DNS server, providing complete responses and valuable insights during your testing process.
