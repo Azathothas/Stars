@@ -3209,6 +3209,7 @@
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) – A list of free, public, forward proxy servers. UPDATED DAILY!
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) – Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting) – Overview of free hosting offers, incl. compute hosting, app hosting, databases, serverless etc.
+- [conda-forge/feedstocks](https://github.com/conda-forge/feedstocks) – All conda-forge feedstocks, in one convenient place
 - [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) – 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 - [craiu/mobiletrackers](https://github.com/craiu/mobiletrackers) – A repository of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) – 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
@@ -3751,6 +3752,7 @@
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [coffinxp/loxs](https://github.com/coffinxp/loxs) – best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) – A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 - [conda/conda](https://github.com/conda/conda) – A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [corpnewt/MountEFI](https://github.com/corpnewt/MountEFI) –  An even more robust edition of my previous MountEFI scripts
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) – Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
