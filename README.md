@@ -1906,7 +1906,7 @@
 - [mrusme/cexec](https://github.com/mrusme/cexec) – Execute any command, cache its output and get cached output on subsequent execution
 - [mrusme/cloudcash](https://github.com/mrusme/cloudcash) – Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [mrusme/planor](https://github.com/mrusme/planor) – The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
-- [mrusme/reader](https://github.com/mrusme/reader) – reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
+- [mrusme/reader](https://github.com/mrusme/reader) – reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages (and EML files!) on the CLI.
 - [mrusme/shell-time](https://github.com/mrusme/shell-time) – Screen Time, but for the Shell!
 - [mrusme/wth](https://github.com/mrusme/wth) – What The Heck: The better personal information dashboard for your terminal
 - [mrvcoder/cloud_data](https://github.com/mrvcoder/cloud_data) – Get some useful data from Clouds for your targets
