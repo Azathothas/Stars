@@ -5160,7 +5160,7 @@
 ## SCSS
 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) – A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – Largest AppImages collection!
+- [Portable-Linux-Apps/Portable-Linux-Apps.github.io](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io) – Census, cataloging and distribution of all AppImages and portable apps for GNU/Linux, through the "AM" package manager. Largest AppImages collection!
 - [jonico/awesome-runners](https://github.com/jonico/awesome-runners) – A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 - [rs-loves-bugs/xsshunter](https://github.com/rs-loves-bugs/xsshunter)
 
@@ -5736,7 +5736,7 @@
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
 - [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers
 - [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns) – 一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉
-- [secureblue/secureblue](https://github.com/secureblue/secureblue) – Hardened Fedora Atomic and Fedora CoreOS images 
+- [secureblue/secureblue](https://github.com/secureblue/secureblue) – A security-focused desktop and server linux operating system.
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [sh4run/scripts-configs](https://github.com/sh4run/scripts-configs)
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow) – Upstream shadow tree
