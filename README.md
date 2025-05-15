@@ -216,6 +216,7 @@
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
 - [Thraetaona/Blitzping](https://github.com/Thraetaona/Blitzping) – A very high-speed, configurable, and portable packet-crafting utility optimized for embedded devices
 - [TinyCC/tinycc](https://github.com/TinyCC/tinycc) – Unofficial mirror of mob development branch
+- [TokTok/toxins](https://github.com/TokTok/toxins) – A collection of small programs using toxcore.
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) – A top utility for IO
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) – A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [VHSgunzo/ptyspawn](https://github.com/VHSgunzo/ptyspawn) – Tool for executing a command in a new PTY (pseudo-terminal) with new PGID and SID
