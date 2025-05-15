@@ -3624,6 +3624,7 @@
 - [Privado-Inc/privado](https://github.com/Privado-Inc/privado) – Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
 - [ProjectNull0/Firebase-exploit](https://github.com/ProjectNull0/Firebase-exploit) – Fast and customizable Firebase api and Project ID extractor .
 - [PushkraJ99/ParamSpider](https://github.com/PushkraJ99/ParamSpider) –  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing 
+- [Quansight-Labs/conda-metadata-app](https://github.com/Quansight-Labs/conda-metadata-app) – A streamlit app to query metadata from conda packages
 - [R0X4R/bhedak](https://github.com/R0X4R/bhedak) – A replacement of "qsreplace", accepts URLs as standard input, replaces all query string values with user-supplied values and stdout.
 - [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) – EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [RemmyNine/Confusional](https://github.com/RemmyNine/Confusional) – Python tool to generate crafted JWTs, exploiting the algorithm confusion vulnerability in JWT signature validation.  Useful for security testing.
@@ -3745,6 +3746,7 @@
 - [cedowens/Helpful_aws-scripts](https://github.com/cedowens/Helpful_aws-scripts) – python3 scripts to help with aws triage needs
 - [celery/celery](https://github.com/celery/celery) – Distributed Task Queue (development branch)
 - [certtools/intelmq](https://github.com/certtools/intelmq) – IntelMQ is a solution for IT security teams for collecting and processing security feeds using a message queuing protocol.
+- [channel-mirrors/conda-oci-mirror](https://github.com/channel-mirrors/conda-oci-mirror) – Tools to mirror conda packages to an OCI registry
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) – auto sign cursor
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
