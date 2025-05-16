@@ -2855,6 +2855,7 @@
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) – An open-source auto clicker on images for Android
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) – An F-Droid client with modern UI and an arsenal of extra features.
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) – 🧩 Patches for ReVanced
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) – Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
