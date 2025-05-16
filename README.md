@@ -4462,6 +4462,7 @@
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) – CLI Native WebRTC Agent in Rust
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) – A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
+- [blue-build/cli](https://github.com/blue-build/cli) – BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [blueOkiris/aip-man](https://github.com/blueOkiris/aip-man) – An App Image Package Manager
 - [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) – TUI Framework With Batteries Included
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
