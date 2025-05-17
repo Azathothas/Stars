@@ -698,6 +698,7 @@
 - [NVISOsecurity/disable-flutter-tls-verification](https://github.com/NVISOsecurity/disable-flutter-tls-verification) – A Frida script that disables Flutter's TLS verification
 - [NekoSekaiMoe/moe-container-manager_old](https://github.com/NekoSekaiMoe/moe-container-manager_old) – A container manager for chroot and proot for GNU/Linux, based on moe-hacker/termux-container
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) – LAV Filters - Open-Source DirectShow Media Splitter and Decoders
+- [Nicoshev/rapidhash](https://github.com/Nicoshev/rapidhash) – Very fast, high quality, platform-independent hashing algorithm.
 - [Nitrux/nx-software-center](https://github.com/Nitrux/nx-software-center) – NX Software Center. A GUI to install and manage AppImages.
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) – Partially open-source alternative Steam Client for Linux. 
@@ -4695,6 +4696,7 @@
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) – Run applications through VPN tunnels with temporary network namespaces
 - [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs) – A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
 - [jdx/mise](https://github.com/jdx/mise) – dev tools, env vars, task runner
+- [jedisct1/EtchDNS](https://github.com/jedisct1/EtchDNS) – A new DNS proxy designed for simplicity, security and extensibility with WebAssembly plugins.
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
 - [jedisct1/rust-minisign](https://github.com/jedisct1/rust-minisign) – A pure Rust implementation of the Minisign signature tool.
 - [jedisct1/rust-minisign-verify](https://github.com/jedisct1/rust-minisign-verify) – A small Rust crate to verify Minisign signatures.
