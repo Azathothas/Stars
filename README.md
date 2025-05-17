@@ -4234,6 +4234,7 @@
 - [2moe/cardbox](https://github.com/2moe/cardbox) – <Work in Progress> A modern, modular, and cross-platform implementation of core system utilities.
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
 - [8LWXpg/ptr](https://github.com/8LWXpg/ptr) – The missing PowerToys Run plugin manager
+- [A2-ai/rv](https://github.com/A2-ai/rv)
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
 - [Achiefs/fim](https://github.com/Achiefs/fim) – FIM is an Open Source Host-based file integrity monitoring tool that performs file system analysis, file integrity checking, real time alerting and provides Audit daemon data.
