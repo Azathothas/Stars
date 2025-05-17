@@ -5385,7 +5385,6 @@
 - [ax/apk.sh](https://github.com/ax/apk.sh) – Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [axonasif/dotsh](https://github.com/axonasif/dotsh) – A fast dotfiles and system configuration installer framework optimized for Gitpod and power users
 - [azlux/gnos-sockets](https://github.com/azlux/gnos-sockets) – :feet: Colorful IP sockets list
-- [basant0x01/b3-Hackerone](https://github.com/basant0x01/b3-Hackerone) – triple-b is the General repo created for mantaining backup for Bugbounty programs and it's scopes.
 - [basecamp/omakub](https://github.com/basecamp/omakub) – Opinionated Ubuntu Setup
 - [bash-bastion/basalt](https://github.com/bash-bastion/basalt) – The rock-solid Bash package manager.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) – Bash Automated Testing System
