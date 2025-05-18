@@ -1300,7 +1300,7 @@
 - [atc0005/dnsc](https://github.com/atc0005/dnsc) – Run a DNS query concurrently against all servers in a list and provide results summary
 - [atoonk/ping-aws-ips](https://github.com/atoonk/ping-aws-ips) – ping all AWS IP addresses to see how many ec2 instances AWS has at any given time
 - [atredispartners/flamingo](https://github.com/atredispartners/flamingo) – Flamingo captures credentials sprayed across the network by various IT and security products.
-- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) – The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) – Modern, easy to use download automation for torrents and usenet.
 - [autobrr/distribrr](https://github.com/autobrr/distribrr) – An orchestrator for distributed download of torrents
 - [autobrr/mkbrr](https://github.com/autobrr/mkbrr) – ⚡ mkbrr is a tool to create, modify and inspect torrent files. Fast.
