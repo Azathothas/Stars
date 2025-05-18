@@ -1708,8 +1708,8 @@
 - [hostinger/fireactions](https://github.com/hostinger/fireactions) – BYOM (Bring Your Own Metal) and run self-hosted GitHub runners in ephemeral, fast and secure Firecracker based virtual machines.
 - [howeyc/crocgui](https://github.com/howeyc/crocgui) – GUI for croc
 - [hueristiq/xsubfind3r](https://github.com/hueristiq/xsubfind3r) – A command-line utility designed to discover subdomains for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available.
+- [hueristiq/xurl](https://github.com/hueristiq/xurl) – A command-line utility for working with URLs.
 - [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) – A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
-- [hueristiq/xurls](https://github.com/hueristiq/xurls) – A command-line utility for working with URLs.
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) – 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 - [iawia002/lux](https://github.com/iawia002/lux) – 👾 Fast and simple video download library and CLI tool written in Go
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch) – 🔍 Search anyone's digital footprint across 300+ websites
