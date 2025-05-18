@@ -226,6 +226,7 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) – Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) – OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [ZerBea/hcxtools](https://github.com/ZerBea/hcxtools) – A small set of tools to convert packets from capture files to hash files for use with Hashcat or John the Ripper. 
+- [Zxilly/UA2F](https://github.com/Zxilly/UA2F) – Change User-Agent to F-string on OpenWRT router to prevent being detected.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
 - [abbat/elfexec](https://github.com/abbat/elfexec) – Utility to execute ELF binary directly from stdin pipe.
@@ -5347,7 +5348,6 @@
 - [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
 - [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) – A thorough guide to defeating DRM on Linux
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
-- [Zxilly/UA2F](https://github.com/Zxilly/UA2F) – Change User-Agent to F-string on OpenWRT router to prevent being detected.
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
