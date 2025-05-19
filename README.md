@@ -6040,6 +6040,7 @@
 - [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) – Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [morethanmin/morethan-log](https://github.com/morethanmin/morethan-log) – 😎 A static blog using notion database
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) – Telegram Web K, GPL v3
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) – The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) – Make any web page a desktop application
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) – 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) – Nix language support for VSCode editor [maintainer: @jnoortheen]
