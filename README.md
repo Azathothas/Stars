@@ -1439,7 +1439,6 @@
 - [coder/wush](https://github.com/coder/wush) – simplest & fastest way to transfer files between computers via WireGuard
 - [codingo/dorky](https://github.com/codingo/dorky) – A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 - [colonyos/colonies](https://github.com/colonyos/colonies) – Colonies is a distributed framework to implement a meta-operating system.
-- [common-fate/granted](https://github.com/common-fate/granted) – The easiest way to access AWS.
 - [complexorganizations/code-formatter](https://github.com/complexorganizations/code-formatter) – ✔️ Formatting, beautifying, and optimizing code.
 - [confidential-containers/enclave-cc](https://github.com/confidential-containers/enclave-cc) – Process-based Confidential Container Runtime
 - [contabo/cntb](https://github.com/contabo/cntb) – Contabo Command Line Interface
@@ -1600,6 +1599,7 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) – An interactive web UI for gRPC, along the lines of postman
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) – Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [future-architect/vuls](https://github.com/future-architect/vuls) – Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) – The easiest way to access AWS.
 - [fyne-io/apps](https://github.com/fyne-io/apps) – Fyne App Browser
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) – Cross platform GUI toolkit in Go inspired by Material Design
 - [fyoorer/ffufsee](https://github.com/fyoorer/ffufsee) – Ffuf output browser
