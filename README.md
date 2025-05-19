@@ -1055,6 +1055,7 @@
 - [Aryanstha/Go-for-Pentester](https://github.com/Aryanstha/Go-for-Pentester)
 - [Aryanstha/GoHTTPHasher](https://github.com/Aryanstha/GoHTTPHasher) – A lightweight Golang command-line tool designed to generate cryptographic hash values for HTTP headers.
 - [Aryanstha/GoSubSeeker](https://github.com/Aryanstha/GoSubSeeker)
+- [Autumn-27/ScopeSentry-Scan](https://github.com/Autumn-27/ScopeSentry-Scan) – ScopeSentry工具扫描端源码
 - [Bearer/bearer](https://github.com/Bearer/bearer) – Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) – Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox) – Automating situational awareness for cloud penetration tests.
