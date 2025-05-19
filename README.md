@@ -3421,6 +3421,7 @@
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) – A curated list of awesome V frameworks, libraries, software and resources.
 - [wallarm/jwt-secrets](https://github.com/wallarm/jwt-secrets)
 - [wanderer-moe/cdn](https://github.com/wanderer-moe/cdn) – 📁 All assets and other files used in wanderer.moe — hosted with Cloudflare R2. 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) – Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [wishihab/Android-RATList](https://github.com/wishihab/Android-RATList) – Android - Remote Access Trojan List
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) – x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) – Free Proxy List from the best sources. Updates every 3 hours!
