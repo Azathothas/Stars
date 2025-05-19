@@ -1750,6 +1750,7 @@
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) – Gospider - Fast web spider written in Go
 - [jaeles-project/jaeles](https://github.com/jaeles-project/jaeles) – The Swiss Army knife for automated Web Application Testing
 - [jaksi/sshesame](https://github.com/jaksi/sshesame) – An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+- [jaxxstorm/tscli](https://github.com/jaxxstorm/tscli) – A CLI tool to interact with the Tailscale API
 - [jdrews/logstation](https://github.com/jdrews/logstation) – Tail log files in web browser
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) – Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) – The lazier way to manage everything docker
