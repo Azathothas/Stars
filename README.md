@@ -776,6 +776,7 @@
 - [lix-project/lix](https://github.com/lix-project/lix) – [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to doing right by its community
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) – The Fast Cross-Platform Package Manager
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) – A fast high compression read-only file system for Linux, Windows and macOS
+- [microsoft/WSL](https://github.com/microsoft/WSL) – Windows Subsystem for Linux
 - [microsoft/ctsTraffic](https://github.com/microsoft/ctsTraffic) – ctsTraffic is a highly scalable client/server networking tool giving detailed performance and reliability analytics
 - [microsoft/terminal](https://github.com/microsoft/terminal) – The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/wslg](https://github.com/microsoft/wslg) – Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
