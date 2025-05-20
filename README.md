@@ -583,6 +583,7 @@
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) – MemProcFS
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) – Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) – A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
+- [upa/mscp](https://github.com/upa/mscp) – mscp: transfer files over multiple SSH (SFTP) connections
 - [util-linux/util-linux](https://github.com/util-linux/util-linux)
 - [v1cont/yad](https://github.com/v1cont/yad) – Yet Another Dialog
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) – This project aims to enhance the working environment on Windows
