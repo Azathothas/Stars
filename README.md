@@ -1432,7 +1432,7 @@
 - [cloudfoundry/winc](https://github.com/cloudfoundry/winc) – CLI tool for spawning and running containers on Windows according to the OCI specification
 - [clouditor/clouditor](https://github.com/clouditor/clouditor) – The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.
 - [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) – Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
 - [coder/coder](https://github.com/coder/coder) – Provision remote development environments via Terraform
@@ -2619,6 +2619,7 @@
 - [moneytoo/Player](https://github.com/moneytoo/Player) – ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
 - [mstrobel/procyon](https://github.com/mstrobel/procyon) – Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 - [nccgroup/jwt-reauth](https://github.com/nccgroup/jwt-reauth)
+- [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) – An NFC research toolkit application for Android
 - [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) – A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing scheme has an embedded debug keystore and auto verifies after signing.
 - [projectdiscovery/nuclei-burp-plugin](https://github.com/projectdiscovery/nuclei-burp-plugin) – Nuclei plugin for BurpSuite
 - [qtc-de/beanshooter](https://github.com/qtc-de/beanshooter) – JMX enumeration and attacking tool.
@@ -4798,6 +4799,7 @@
 - [mgree/ffs](https://github.com/mgree/ffs) – the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [michidk/vscli](https://github.com/michidk/vscli) – A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
+- [microsoft/edit](https://github.com/microsoft/edit) – We all edit.
 - [microsoft/sudo](https://github.com/microsoft/sudo) – It's sudo, for Windows
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
 - [mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) – Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. 
@@ -5046,7 +5048,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) – Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – Secure, scalable mail & collaboration server with comprehensive protocol support (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
