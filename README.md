@@ -5049,7 +5049,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) – IRC application written in Rust
 - [ssh-vault/ssh-vault](https://github.com/ssh-vault/ssh-vault) – 🌰  encrypt/decrypt using ssh keys
 - [sshuttle/sshuttle_rust](https://github.com/sshuttle/sshuttle_rust) – Rewrite sshuttle in rust
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – Secure, scalable mail & collaboration server with comprehensive protocol support (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) – Secure, scalable mail & collaboration server with IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV support.
 - [starship/starship](https://github.com/starship/starship) – ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) – A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [stefins/wdcrypt](https://github.com/stefins/wdcrypt) – 🔐A CLI to encrypt all the files and folder in your current working directory.
