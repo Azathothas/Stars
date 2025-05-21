@@ -283,8 +283,10 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) – Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) –  FUSE implementation for overlayfs
 - [cooperative-computing-lab/cctools](https://github.com/cooperative-computing-lab/cctools) – The Cooperative Computing Tools (cctools) enable large scale distributed computations to harness hundreds to thousands of machines from clusters, clouds, and grids.
+- [coreos/rpm-ostree](https://github.com/coreos/rpm-ostree) – ⚛📦 Hybrid image/package system with atomic upgrades and package layering
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) – upstream mirror
 - [corsix/polyfill-glibc](https://github.com/corsix/polyfill-glibc) – Patch Linux executables for compatibility with older glibc
+- [cph6/zsync](https://github.com/cph6/zsync) – zsync - rsync over http
 - [cr-0w/maldev](https://github.com/cr-0w/maldev) – ⚠️ malware development
 - [curl/curl](https://github.com/curl/curl) – A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [curl/trurl](https://github.com/curl/trurl) – a command line tool for URL parsing and manipulation.
@@ -430,6 +432,7 @@
 - [martymac/fpart](https://github.com/martymac/fpart) – Sort files and pack them into partitions
 - [masneyb/gftp](https://github.com/masneyb/gftp) – gFTP is a free multithreaded file transfer client for *NIX based machines. 56 language translations available.
 - [matthewgeorgy/wintrace](https://github.com/matthewgeorgy/wintrace) – simple tracing utility for windows
+- [mbessler/imidj](https://github.com/mbessler/imidj) – imidj - IMage Incremental Deltafragment Joiner, a content-addressable filesystem-image delta upgrade/sync tool 
 - [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) – 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [michaelforney/samurai](https://github.com/michaelforney/samurai) – ninja-compatible build tool written in C
 - [michaelforney/sbase](https://github.com/michaelforney/sbase) – Portable UNIX tools (personal repository)
@@ -1453,6 +1456,7 @@
 - [containers/podman](https://github.com/containers/podman) – Podman: A tool for managing OCI containers and pods.
 - [containers/podman-tui](https://github.com/containers/podman-tui) – Podman Terminal UI
 - [containers/skopeo](https://github.com/containers/skopeo) – Work with remote images registries - retrieving information, images, signing content
+- [containers/tar-diff](https://github.com/containers/tar-diff)
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup)
 - [coreos/ignition](https://github.com/coreos/ignition) – First boot installer and configuration tool
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) – INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
@@ -1947,6 +1951,7 @@
 - [nao1215/mimixbox](https://github.com/nao1215/mimixbox) – MimixBox - mimic BusyBox on Linux
 - [nao1215/morrigan](https://github.com/nao1215/morrigan) – morrigan - Penetration Tool Set
 - [nao1215/sqluv](https://github.com/nao1215/sqluv) – simple terminal UI for RDBMS & CSV/TSV/LTSV at local/https/s3 
+- [naoki9911/d4c](https://github.com/naoki9911/d4c) – Efficient Container Image Updating with Delta Encoding
 - [natesales/q](https://github.com/natesales/q) – A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [nathants/libaws](https://github.com/nathants/libaws) – just ship on aws
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) – 🎧☁️ Your Personal Streaming Service
@@ -2339,6 +2344,7 @@
 - [umair9747/Genzai](https://github.com/umair9747/Genzai) – The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities.
 - [umputun/spot](https://github.com/umputun/spot) – A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 - [umputun/sys-agent](https://github.com/umputun/sys-agent) – System agent. Reports server status via HTTP API
+- [unbasical/doras](https://github.com/unbasical/doras) – Delta updates based on OCI registries.
 - [uniget-org/cli](https://github.com/uniget-org/cli) – The universal installer and updater for (container) tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
