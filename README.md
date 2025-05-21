@@ -964,6 +964,7 @@
 - [baby9/warp-cli-docker](https://github.com/baby9/warp-cli-docker) – Docker image to run Cloudflare Warp in proxy mode
 - [beeware/briefcase-linux-appimage-template](https://github.com/beeware/briefcase-linux-appimage-template) – A template for generating Linux AppImage projects with Briefcase
 - [captn3m0/repology-dump-docker](https://github.com/captn3m0/repology-dump-docker)
+- [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
 - [dyne/docker-devuan-builds](https://github.com/dyne/docker-devuan-builds) – Slim docker base images based on Devuan
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
@@ -1131,7 +1132,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) – ✂️ Removing CDN IPs from the list of IP addresses
 - [ImAyrix/fallparams](https://github.com/ImAyrix/fallparams) – Find All Parameters - Tool to crawl pages, find potential parameters and generate a custom target parameter wordlist 
-- [ItsIgnacioPortal/hacker-scoper](https://github.com/ItsIgnacioPortal/hacker-scoper) – Automagically filter URLs with Bug Bounty program scope rules scraped from the internet.
+- [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) – Automagically filter URLs with Bug Bounty program scope rules scraped from the internet.
 - [JFryy/qq](https://github.com/JFryy/qq) – jq, but with many interoperable configuration format transcodings and interactive querying.
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) – Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae) – Cross shell and platform alias management
@@ -3772,7 +3773,6 @@
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
-- [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [coffinxp/loxs](https://github.com/coffinxp/loxs) – best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) – A place to submit conda recipes before they become fully fledged conda-forge feedstocks
