@@ -4618,6 +4618,7 @@
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) – Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) – A memory visualizer in Rust (ptrace + userfaultfd)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
+- [ferama/wsw](https://github.com/ferama/wsw) – 🥪 A tiny, practical tool that lets any executable run as a real Windows service, with zero boilerplate.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) – mouse & keyboard sharing via LAN
 - [ffizer/ffizer](https://github.com/ffizer/ffizer) – ffizer is a files and folders initializer / generator. Create any kind (or part) of project from template.
 - [fioncat/otree](https://github.com/fioncat/otree) – A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
@@ -4713,6 +4714,7 @@
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
+- [jinliu/kdotool](https://github.com/jinliu/kdotool) – xdotool-like for KDE Wayland
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
 - [jkfran/killport](https://github.com/jkfran/killport) – A command-line tool to easily kill processes running on a specified port.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
