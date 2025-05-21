@@ -3765,6 +3765,7 @@
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
+- [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [coffinxp/loxs](https://github.com/coffinxp/loxs) – best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) – A place to submit conda recipes before they become fully fledged conda-forge feedstocks
@@ -4521,7 +4522,6 @@
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) – 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) – Graceful process restarts in Rust
 - [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) – Make it safe to serve untrusted SVG files
-- [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static linux rust binaries
 - [cmlccie/awsipranges](https://github.com/cmlccie/awsipranges) – Quickly query the AWS IP Ranges
 - [cn-kali-team/notion-blog](https://github.com/cn-kali-team/notion-blog) – One click build your website with Notion for free using wrangler
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) – The Conventional Commits toolbox
