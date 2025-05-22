@@ -192,6 +192,7 @@
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Nevuly/WSL2-Linux-Kernel-Rolling](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling) – Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) – Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
+- [NiLuJe/zsync2](https://github.com/NiLuJe/zsync2) – Rewrite of https://github.com/AppImage/zsync-curl, using modern C++, providing both a library and standalone tools.
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) – A small utility to modify the dynamic linker and RPATH of ELF executables
 - [Old-Man-Programmer/tree](https://github.com/Old-Man-Programmer/tree) – Tree for Unix/LInux
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) – The OpenRC init system
@@ -359,6 +360,7 @@
 - [ibara/oed](https://github.com/ibara/oed) – Portable OpenBSD ed(1) editor.
 - [ibara/oksh](https://github.com/ibara/oksh) – Portable OpenBSD ksh, based on the Public Domain Korn Shell (pdksh).
 - [idealeer/xmap](https://github.com/idealeer/xmap) – XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
+- [ilanschnell/bsdiff4](https://github.com/ilanschnell/bsdiff4) – binary diff and patch using the BSDIFF4-format
 - [inferno-os/inferno-os](https://github.com/inferno-os/inferno-os) – Inferno® is a distributed operating system.  Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) – Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 - [iovisor/bcc](https://github.com/iovisor/bcc) – BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -4564,6 +4566,7 @@
 - [dbohdan/s2png](https://github.com/dbohdan/s2png) – Store any data in PNG images
 - [devmatteini/dra](https://github.com/devmatteini/dra) – A command line tool to download release assets from GitHub
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
+- [divvun/bidiff](https://github.com/divvun/bidiff) – A Rust take on bsdiff
 - [djc/topfew-rs](https://github.com/djc/topfew-rs) – Rust implementation of Tim Bray's topfew tool
 - [dkorunic/findlargedir](https://github.com/dkorunic/findlargedir) – quickly find all "blackhole" directories with a huge amount of filesystem entries in a flat structure
 - [dndx/phantun](https://github.com/dndx/phantun) – Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
@@ -4674,6 +4677,7 @@
 - [holo-routing/holo](https://github.com/holo-routing/holo) – Holo is a suite of routing protocols designed to support high-scale and automation-driven networks.
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
+- [hucsmn/qbsdiff](https://github.com/hucsmn/qbsdiff) – fast and memory saving bsdiff 4.x compatible delta compressor and patcher
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) – Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer)
 - [huggingface/xet-core](https://github.com/huggingface/xet-core) – xet client tech, used in huggingface_hub
@@ -4726,6 +4730,7 @@
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) – RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) – 🦀 How to minimize Rust binary size 📦
 - [jordfras/linetime](https://github.com/jordfras/linetime) – Command line tool prefixing lines with a timestamp
+- [jorgenbele/tarpatch](https://github.com/jorgenbele/tarpatch) – Diff/Patch like tool for Tar based delta updates
 - [jpeddicord/askalono](https://github.com/jpeddicord/askalono) – A tool & library to detect open source licenses from texts
 - [jrhawley/pad-path](https://github.com/jrhawley/pad-path) – Intuitively modify your `$PATH`
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) – Tmux Sessionizer: A tool for opening git repositories as tmux sessions
