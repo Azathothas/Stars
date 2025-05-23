@@ -4964,8 +4964,6 @@
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) – The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [rapiz1/catp](https://github.com/rapiz1/catp) – Print the output of a running process
-- [rapiz1/rathole](https://github.com/rapiz1/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) – Slice and dice logs on the command line
@@ -5168,6 +5166,8 @@
 - [your-tools/ruplacer](https://github.com/your-tools/ruplacer) – Find and replace text in source files
 - [yshavit/mdq](https://github.com/yshavit/mdq) – like jq but for Markdown: find specific elements in a md doc
 - [yshui/job-security](https://github.com/yshui/job-security) – job control from anywhere!
+- [yujqiao/catp](https://github.com/yujqiao/catp) – Print the output of a running process
+- [yujqiao/rathole](https://github.com/yujqiao/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) – Terminal UI to list, browse and run APIs defined with openapi spec.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
