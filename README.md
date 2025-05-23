@@ -775,7 +775,7 @@
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
-- [lanthora/candy](https://github.com/lanthora/candy) – A reliable, low-latency, and anti-censorship virtual private network
+- [lanthora/candy](https://github.com/lanthora/candy) – A simple networking tool
 - [lavv17/lftp](https://github.com/lavv17/lftp) – sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
