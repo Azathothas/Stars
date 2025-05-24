@@ -4351,6 +4351,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) – jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [PeterDing/aget-rs](https://github.com/PeterDing/aget-rs) – Aget-rs - Fast Asynchronous Downloader with Rust 🦀
 - [Phate6660/rsfetch](https://github.com/Phate6660/rsfetch) – A WIP rewrite of rsfetch from scratch.
+- [PsychedelicShayna/jw](https://github.com/PsychedelicShayna/jw) –  Blazingly fast CLI filesystem traverser and multithreaded mass file hasher / hash index generator, with diff support to validate hashes and track changes, powered by jwalk and xxh3, and of course, Rust! 
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) – Empowering everyone to host fast and efficient Minecraft servers.
 - [PyO3/maturin](https://github.com/PyO3/maturin) – Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [QaidVoid/alpix](https://github.com/QaidVoid/alpix) – Hacking alpine linux packages.
@@ -4450,6 +4451,7 @@
 - [archlinux/alpm](https://github.com/archlinux/alpm) – Project that works on specifications, Rust libraries and tools for Arch Linux Package Management (read-only mirror)
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) – High-velocity, monorepo-scale workflow for Git
 - [asciinema/agg](https://github.com/asciinema/agg) – asciinema gif generator
+- [assert-rs/dir-diff](https://github.com/assert-rs/dir-diff) – Do two directories have different contents?
 - [assert-rs/snapbox](https://github.com/assert-rs/snapbox) – Snapshot testing for a herd of CLI tests
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) – ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) – An extremely fast Python linter and code formatter, written in Rust.
@@ -4482,9 +4484,11 @@
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) – CLI Native WebRTC Agent in Rust
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) – A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [bloxx12/dix](https://github.com/bloxx12/dix) – Diff Nix
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) – Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [blue-build/cli](https://github.com/blue-build/cli) – BlueBuild's command line program that builds custom Fedora Atomic images based on your recipe.yml
 - [blueOkiris/aip-man](https://github.com/blueOkiris/aip-man) – An App Image Package Manager
+- [bmwill/diffy](https://github.com/bmwill/diffy) – Tools for finding and manipulating differences between files
 - [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) – TUI Framework With Batteries Included
 - [boinkor-net/chars](https://github.com/boinkor-net/chars) – cha(rs) is a commandline tool to display information about unicode characters
 - [boinkor-net/flac-tracksplit](https://github.com/boinkor-net/flac-tracksplit) – Tool to losslessly, quickly & accurately split CUE+FLAC files into multiple tracks
