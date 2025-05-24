@@ -4242,7 +4242,7 @@
 - [0x00snape/dropthly](https://github.com/0x00snape/dropthly) – Stealthy dropper for Linux. 
 - [0x00snape/geolocate](https://github.com/0x00snape/geolocate) – A simple side project to geolocate the domain.
 - [0x00snape/pdump](https://github.com/0x00snape/pdump) – A process memory dumper written in rust.
-- [0x00snape/pinject](https://github.com/0x00snape/pinject) – Seamless process injection for Linux. 
+- [0x00snape/pinject](https://github.com/0x00snape/pinject) – process injection for Linux. 
 - [0x00snape/sneakfork](https://github.com/0x00snape/sneakfork) – Seeks to hide the presence of its process in Linux.
 - [0x00snape/sniffo](https://github.com/0x00snape/sniffo) – SUDO username  and password stealer.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
