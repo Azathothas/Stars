@@ -4662,10 +4662,10 @@
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
 - [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
-- [hail-hydrant/zxc](https://github.com/hail-hydrant/zxc) –  Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+- [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) –  Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) – A fast and convenient fuzzy matcher library for rust
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) – Hermit for Rust.
@@ -5055,7 +5055,7 @@
 - [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits, landlock and seccomp.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – A web crawler, scraper, and automation framework for Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) – Web crawler, scraper, and automation framework for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
