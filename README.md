@@ -3909,7 +3909,7 @@
 - [knownsec/pocsuite3](https://github.com/knownsec/pocsuite3) – pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) – Reverse engineering tool for linux games
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) – Cross-platform, fast, feature-rich, GPU based terminal
-- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – Libadwaita game launcher
+- [kra-mo/cartridges](https://github.com/kra-mo/cartridges) – Mirrored from https://codeberg.org/kramo/cartridges
 - [ksg97031/frida-gadget](https://github.com/ksg97031/frida-gadget) – Automated tool for patching APKs to enable the use of Frida gadget by downloading the library and injecting code into the main activity.
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) – strip output from Jupyter and IPython notebooks
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) – bypass-url-parser
