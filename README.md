@@ -1701,6 +1701,7 @@
 - [hakluke/hakscale](https://github.com/hakluke/hakscale) – Distribute ordinary bash commands over many systems
 - [hakluke/hakstore](https://github.com/hakluke/hakstore)
 - [handlename/ssmwrap](https://github.com/handlename/ssmwrap) – Execute command with environment variables or/and files loaded from AWS SSM.
+- [hangxie/parquet-tools](https://github.com/hangxie/parquet-tools) – Utility to deal with Parquet data
 - [harakeishi/whris](https://github.com/harakeishi/whris) – "whris" is Displays management information for IPs associated with the domain.
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -2411,7 +2412,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4029 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4039 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
 - [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -4361,6 +4362,7 @@
 - [RaunakChhatwal/fhsenv](https://github.com/RaunakChhatwal/fhsenv) – Rust dev-tool to install Nix packages into an FHS-compliant virtual shell
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe) – Package your Node.js application into a single executable file, but only 10MB.🔥
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) – Firmware Analysis Tool
+- [ReagentX/Logria](https://github.com/ReagentX/Logria) – A powerful CLI tool that puts log aggregation at your fingertips.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) – Spotify for the terminal written in Rust 🚀
 - [RustCrypto/SSH](https://github.com/RustCrypto/SSH) – Pure Rust implementation of components of the Secure Shell (SSH) protocol
 - [SUPERCILEX/forkfs](https://github.com/SUPERCILEX/forkfs) – ForkFS allows you to sandbox a process's changes to your file system.
@@ -4748,6 +4750,7 @@
 - [k3ii/qdir](https://github.com/k3ii/qdir) – Qdir- Quick Directory Generator
 - [kahing/catfs](https://github.com/kahing/catfs) – Cache AnyThing filesystem written in Rust
 - [kalaksi/lightkeeper](https://github.com/kalaksi/lightkeeper) – LightkeeperRM (Remote Management) is a lightweight and modular drop-in replacement for maintaining servers over SSH.
+- [kantord/zeitgrep](https://github.com/kantord/zeitgrep) – sorted grep
 - [kardeiz/sanitize-filename](https://github.com/kardeiz/sanitize-filename)
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
@@ -4908,6 +4911,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [osa1/tiny](https://github.com/osa1/tiny) – A terminal IRC client 
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
+- [oxalica/dwarfs-rs](https://github.com/oxalica/dwarfs-rs) – A library for reading DwarFS archives (aka. DwarFS images)
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
@@ -5104,6 +5108,7 @@
 - [tox-rs/tox](https://github.com/tox-rs/tox) – toxcore implementation in Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) – Rust Weaponization for Red Team Engagements.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) – A memory safe implementation of sudo and su.
+- [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) – 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools: encoders/decoders, CTF and reverse engineering helpers.
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
