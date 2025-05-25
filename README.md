@@ -1134,7 +1134,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) – ✂️ Removing CDN IPs from the list of IP addresses
 - [ImAyrix/fallparams](https://github.com/ImAyrix/fallparams) – Find All Parameters - Tool to crawl pages, find potential parameters and generate a custom target parameter wordlist 
-- [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) – CLI tool for filtering URLs with Bug Bounty program scope rules scraped from the internet.
+- [ItsIgnacioPortal/Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) – CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules.
 - [JFryy/qq](https://github.com/JFryy/qq) – jq, but with many interoperable configuration format transcodings and interactive querying.
 - [Jacalz/rymdport](https://github.com/Jacalz/rymdport) – Cross-platform application for easy encrypted file, folder, and text sharing between devices.
 - [JanDeDobbeleer/aliae](https://github.com/JanDeDobbeleer/aliae) – Cross shell and platform alias management
