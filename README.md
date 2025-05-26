@@ -4727,6 +4727,7 @@
 - [jedisct1/rsign2](https://github.com/jedisct1/rsign2) – A command-line tool to sign files and verify signatures in pure Rust.
 - [jedisct1/rust-minisign](https://github.com/jedisct1/rust-minisign) – A pure Rust implementation of the Minisign signature tool.
 - [jedisct1/rust-minisign-verify](https://github.com/jedisct1/rust-minisign-verify) – A small Rust crate to verify Minisign signatures.
+- [jedisct1/yes-rs](https://github.com/jedisct1/yes-rs) – 🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀
 - [jellyterra/bwrapman](https://github.com/jellyterra/bwrapman) – Sandbox with permission control in profile like Flatpak.
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
@@ -5566,7 +5567,7 @@
 - [itiligent/Easy-Guacamole-Installer](https://github.com/itiligent/Easy-Guacamole-Installer) – 2025 Gucamole installer with options for HTTPS reverse proxy, Active Directory integration, MFA, LetsEncrypt, dark theme, MySQL backup, email alerts & more. 
 - [itiligent/Easy-OpenWRT-Builder](https://github.com/itiligent/Easy-OpenWRT-Builder) – A script for creating custom OpenWRT images repeatably on Linux, featuring optional x86 virtual machine conversion & firmware parition resize
 - [ivan-hc/AM](https://github.com/ivan-hc/AM) – AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!
-- [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates a custom AppImage from Debian or from a PPA of your choice for the previous (not the oldest) and still supported Ubuntu LTS
+- [ivan-hc/AppImaGen](https://github.com/ivan-hc/AppImaGen) – A script that generates Debian and Ubuntu based AppImage packages on any distro
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
 - [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built using Runimage.
