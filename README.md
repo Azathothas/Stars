@@ -4731,6 +4731,7 @@
 - [jellyterra/bwrapman](https://github.com/jellyterra/bwrapman) – Sandbox with permission control in profile like Flatpak.
 - [jelmer/wadl](https://github.com/jelmer/wadl) – Wadl parser for rust
 - [jerrita/peerban](https://github.com/jerrita/peerban) – 高性能 BT 吸血客户端封禁器，支持客户端探测、自动过滤 PT，兼容 qBittorrent
+- [jgarzik/sqawk](https://github.com/jgarzik/sqawk) – A fusion of SQL and awk: Applying SQL to text-based data files
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) – Find files with SQL-like queries
 - [jinliu/kdotool](https://github.com/jinliu/kdotool) – xdotool-like for KDE Wayland
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) – A Git-compatible VCS that is both simple and powerful
