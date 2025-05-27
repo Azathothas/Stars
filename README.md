@@ -4775,6 +4775,7 @@
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [krtab/agnos](https://github.com/krtab/agnos) – Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
+- [kulfi-project/kulfi](https://github.com/kulfi-project/kulfi) – Kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet - https://kulfi.app: Web Browser for Kulfi Net - https://malai.sh: Command Line Toolkit for Kulfi Net
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely in Rust.
@@ -6061,6 +6062,7 @@
 - [jirutka/nginx-binaries](https://github.com/jirutka/nginx-binaries) – Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) – OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) – JupyterLab desktop application, based on Electron.
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) – Wasm powered Jupyter running in the browser 💡
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) – Install Qt on your Github Actions workflows with just one simple action
 - [kamranahmedse/aws-cost-cli](https://github.com/kamranahmedse/aws-cost-cli) – CLI tool to perform cost analysis on your AWS account with Slack integration
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) – Interactive roadmaps, guides and other educational content to help developers grow in their careers.
