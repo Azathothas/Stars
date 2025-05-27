@@ -596,6 +596,7 @@
 - [vanhauser-thc/thc-ipv6](https://github.com/vanhauser-thc/thc-ipv6) – IPv6 attack toolkit
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) – A new bootable USB solution.
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) – vnStat - a network traffic monitor for Linux and BSD
+- [videolan/multicat](https://github.com/videolan/multicat) – Please send patches as pull requests.
 - [visit1985/mdp](https://github.com/visit1985/mdp) – A command-line based markdown presentation tool.
 - [void-linux/xbps](https://github.com/void-linux/xbps) – The X Binary Package System (XBPS)
 - [voltagex-forks/proxydroid](https://github.com/voltagex-forks/proxydroid) – Global Proxy for Android
@@ -1682,7 +1683,7 @@
 - [guumaster/hostctl](https://github.com/guumaster/hostctl) – Your dev tool to manage /etc/hosts like a pro!
 - [gvcgo/asciinema](https://github.com/gvcgo/asciinema) – 🔥🎨 ⚡️📝A cross-platform asciinema(v2) terminal session recorder for MacOS/Linux/Windows. Currently a better choice than the official one.
 - [gvcgo/gobuilder](https://github.com/gvcgo/gobuilder) – An enhancement for official <go build>.
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. Docs: https://gvcgo.github.io/vmrdocs
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) – 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. 
 - [gwen001/github-endpoints](https://github.com/gwen001/github-endpoints) – Find endpoints on GitHub.
 - [gwen001/github-regexp](https://github.com/gwen001/github-regexp) – Basically a regexp over a GitHub search.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) – Find subdomains on GitHub.
