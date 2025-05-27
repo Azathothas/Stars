@@ -330,6 +330,7 @@
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) – An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [gojue/ecapture](https://github.com/gojue/ecapture) – Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [google/fscryptctl](https://github.com/google/fscryptctl) – Small C tool for Linux filesystem encryption
+- [google/kafel](https://github.com/google/kafel) – A language and library for specifying syscall filtering policies.
 - [google/neper](https://github.com/google/neper) – neper is a Linux networking performance tool.
 - [gsauthof/osjitter](https://github.com/gsauthof/osjitter) – Measure how much the OS interrupts programs
 - [gyf304/dotenv](https://github.com/gyf304/dotenv) – Standalone, language agnostic dotenv
@@ -2807,7 +2808,7 @@
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) – 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
 - [yao-pkg/pkg](https://github.com/yao-pkg/pkg) – Package your Node.js project into an executable
 - [yeswehack/yeswehack_vdp_finder](https://github.com/yeswehack/yeswehack_vdp_finder) – This extension tells if visited sites have vulnerability disclosure programs
-- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) – CF-workers/pages代理脚本【Vless与Trojan】：支持nat64版proxyip生成，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [zaproxy/community-scripts](https://github.com/zaproxy/community-scripts) – A collection of ZAP scripts and tips provided by the community - pull requests very welcome!
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) – Manage and switch between multiple proxies quickly & easily.
 - [zetxtech/cloudfreed](https://github.com/zetxtech/cloudfreed) – Forked from: https://github.com/akmal-abar/CloudFreed-CloudFlare-solver-bypass
@@ -4935,7 +4936,7 @@
 - [pkgforge-dev/elftools](https://github.com/pkgforge-dev/elftools) – Tools & Libraries for manipulating ELF Files [Maintainers=@QaidVoid|@Azathothas]
 - [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
-- [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – A fast download manager [maintainer=@QaidVoid]
+- [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – ⚡Lightening-Fast, feature-rich, Universal Downloader 📥 for GitHub, GitLab, OCI & More [Maintainer=@QaidVoid]
 - [pkgforge/soarql](https://github.com/pkgforge/soarql) – Soar JSON metadata to SQLite Converter
 - [pkgforge/squishy-rs](https://github.com/pkgforge/squishy-rs) – Convenient high level library for reading SquashFS files in Rust [maintainer=@QaidVoid]
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) – Run Anything
