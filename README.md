@@ -5504,6 +5504,7 @@
 - [ethack/tht](https://github.com/ethack/tht) – Threat Hunting Toolkit is a Swiss Army knife for threat hunting, log processing, and security-focused data science
 - [fcolista/apkfile](https://github.com/fcolista/apkfile) – Search files inside various version of Alpine Linux packages 
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) – Bootstrap your Ubuntu in a single command!
+- [filiparag/wikiman](https://github.com/filiparag/wikiman) – Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
 - [fipso/ccurl.sh](https://github.com/fipso/ccurl.sh) – Use cURL with cookies from Chrome
 - [firasuke/mussel](https://github.com/firasuke/mussel) – The shortest and fastest script to build working cross compilers targeting musl libc
 - [fire1ce/DDNS-Cloudflare-Bash](https://github.com/fire1ce/DDNS-Cloudflare-Bash) – Cloudflare DDNS bash Script for most Linux distributions and MacOS. Choose any source IP address to update external or internal (WAN/LAN).  Cloudflare's options proxy and TTL configurable via the parameters.
