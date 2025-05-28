@@ -5924,8 +5924,8 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
+- [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor) – Bitor Scanning Software
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
-- [orbitscanner/Bitor](https://github.com/orbitscanner/Bitor) – Bitor Scanning Software
 
 <div id="swift"></div>
 
