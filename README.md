@@ -1795,6 +1795,7 @@
 - [k1LoW/awsdo](https://github.com/k1LoW/awsdo) – awsdo is a tool to do anything using AWS temporary credentials.
 - [k1LoW/runn](https://github.com/k1LoW/runn) – runn is a package/tool for running operations following a scenario.
 - [k1LoW/sheer-heart-attack](https://github.com/k1LoW/sheer-heart-attack) – :bomb: A debugging tool that can execute any command on process/host metrics trigger :boom: .
+- [k1LoW/tbls](https://github.com/k1LoW/tbls) – tbls is a CI-Friendly tool to document a database, written in Go.
 - [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) – Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [kahing/goofys](https://github.com/kahing/goofys) – a high-performance, POSIX-ish Amazon S3 file system written in Go
 - [kairos-io/kairos](https://github.com/kairos-io/kairos) – The immutable Linux meta-distribution for edge Kubernetes.
@@ -1993,7 +1994,6 @@
 - [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) – Userspace TCP/IP Sockets For WireGuard.
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [noperator/chromedb](https://github.com/noperator/chromedb) – Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the browser.
-- [nubificus/urunc](https://github.com/nubificus/urunc) – a simple container runtime that aspires to become `runc` for unikernels
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) – Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments. 
 - [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
@@ -2354,6 +2354,7 @@
 - [unbasical/doras](https://github.com/unbasical/doras) – Delta updates based on OCI registries.
 - [uniget-org/cli](https://github.com/uniget-org/cli) – The universal installer and updater for (container) tools
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) – A Declarative Dependency Management tool
+- [urunc-dev/urunc](https://github.com/urunc-dev/urunc) – a simple container runtime that aspires to become `runc` for unikernels
 - [usbarmory/GoTEE](https://github.com/usbarmory/GoTEE) – Go Trusted Execution Environment (TEE)
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) – TamaGo - bare metal Go
 - [usual2970/certimate](https://github.com/usual2970/certimate) – 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
@@ -2761,6 +2762,7 @@
 - [macbre/phantomas](https://github.com/macbre/phantomas) – Headless Chromium-based web performance metrics collector and monitoring tool
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) – AriaNg, a modern web frontend making aria2 easier to use.
 - [mazen160/xless](https://github.com/mazen160/xless) – The Serverless Blind XSS App
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) – Command line tool for the Mermaid library
 - [messede-degod/SF-UI](https://github.com/messede-degod/SF-UI) – A GUI Frontend for services provided by https://thc.org/segfault
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) – :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [midoxnet/mapperplus](https://github.com/midoxnet/mapperplus) – MapperPlus facilitates the extraction of source code from a collection of targets that have publicly exposed .js.map files.
@@ -2973,7 +2975,6 @@
 - [pkgforge/store.pkgforge.dev](https://github.com/pkgforge/store.pkgforge.dev) – 🛒 [WIP] Soarpkgs AppHub/AppStore: User Friendly GUI to Browse, Download, Install & Review All our Packages [Maintainer=@ahqsoftwares]
 - [radareorg/iaito](https://github.com/radareorg/iaito) – Official radare2 GUI
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
@@ -5479,6 +5480,7 @@
 - [docsion/rfsh](https://github.com/docsion/rfsh) – RFSH: Run shell scripts in batch, concurrently, fully customized with variable .
 - [dokku/dokku](https://github.com/dokku/dokku) – A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dracula/tmux](https://github.com/dracula/tmux) – 🧛🏻‍♂️ Dark theme for tmux
+- [dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng) – dracut - the event driven initramfs infrastructure
 - [dracutdevs/dracut](https://github.com/dracutdevs/dracut) – dracut the event driven initramfs infrastructure
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) – Emulator configurator for Steam Deck
 - [dreamkinn/CompileCSDocker](https://github.com/dreamkinn/CompileCSDocker) – Compile SharpHound and others on Linux
@@ -5771,6 +5773,7 @@
 - [rti/nixwrap](https://github.com/rti/nixwrap) – Easy Application Sandboxing on NixOS
 - [ruanformigoni/arch-bootstrap](https://github.com/ruanformigoni/arch-bootstrap) – Bootstrap a base Arch Linux system
 - [runimage/repo](https://github.com/runimage/repo) – Repository for RunImage container with precompiled packages.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) – Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [ryanwoodsmall/crosware](https://github.com/ryanwoodsmall/crosware) – Tools, things, stuff, miscellaneous, etc., for Chrome OS / Chromium OS
 - [ryanwoodsmall/static-binaries](https://github.com/ryanwoodsmall/static-binaries) – some static binaries for linux, maybe useful for bootstrapping, no big deal
 - [sabotage-linux/sabotage](https://github.com/sabotage-linux/sabotage) – a radical and experimental distribution based on musl libc and busybox
