@@ -209,6 +209,7 @@
 - [Scribery/tlog](https://github.com/Scribery/tlog) – Terminal I/O logger
 - [SkyperTHC/dnsstream](https://github.com/SkyperTHC/dnsstream) – Network Capture DNS answers
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) – Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+- [Summa-Cogni/Mathpad](https://github.com/Summa-Cogni/Mathpad) – A mathematical keypad for students and professionals
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [TUVIMEN/reliq](https://github.com/TUVIMEN/reliq) – HTML parsing and searching tool
