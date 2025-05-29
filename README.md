@@ -5688,7 +5688,7 @@
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [nmimusic/unifetch](https://github.com/nmimusic/unifetch) – An unofficial inheritor of Neofetch
 - [noahbliss/mortar](https://github.com/noahbliss/mortar) – Framework to join Linux's physical security bricks. 
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) – Run adb in Termux without root permissions!
