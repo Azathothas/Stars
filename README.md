@@ -314,6 +314,7 @@
 - [eth-cscs/squashfs-mount](https://github.com/eth-cscs/squashfs-mount) – Setuid instead of FUSE for mounting squashfs files.
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
+- [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving the ultimate goal: app immortality. Refuse forced termination, auto-start on phone boot, auto-start at scheduled times, event-driven auto-start.
 - [fgont/ipv6toolkit](https://github.com/fgont/ipv6toolkit) – SI6 Networks' IPv6 Toolkit
@@ -6234,7 +6235,6 @@
 - [buzz-language/buzz](https://github.com/buzz-language/buzz) – 👨‍🚀  buzz, A small/lightweight statically typed scripting language
 - [cryptocode/stitch](https://github.com/cryptocode/stitch) – Append resources to your executables
 - [dasimmet/wabt](https://github.com/dasimmet/wabt) – WebAssembly Binary Toolkit (wabt) and Binaryen on the zig build system
-- [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
 - [floooh/pacman.zig](https://github.com/floooh/pacman.zig) – Simple Pacman clone written in Zig.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) – 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [ianic/tls.zig](https://github.com/ianic/tls.zig) – TLS 1.3/1.2  client and TLS 1.3 server in Zig
