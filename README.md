@@ -5902,7 +5902,7 @@
 - [xykt/NetQuality](https://github.com/xykt/NetQuality) – 网络质量检测脚本 - Network Quality Check Script
 - [yi-jiayu/fuzzy-repo-finder](https://github.com/yi-jiayu/fuzzy-repo-finder) – Fuzzy auto-completion for GitHub and GitLab repositories powered by fzf
 - [yousafkhamza/dns-lookup-bash-script](https://github.com/yousafkhamza/dns-lookup-bash-script) – It's a bash script to show a complete DNS lookup of a domain and it might be useful for Linux system/support engineers who handled client support. I believe it helps for these guys to troubleshoot or easy way to find all the details in a single click.
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) – 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) – 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 - [z-shell/zi](https://github.com/z-shell/zi) – ✨ A Swiss Army Knife for Zsh - Unix Shell
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) – Feature-rich syntax highlighting for ZSH
 - [zgfg/SystemlessDebloater](https://github.com/zgfg/SystemlessDebloater) – Select and systemlessly debloat preinstalled system apps. Supporting up to System As Root (SAR), Dynamic partitions and Android 13. Module must be installed through Magisk app, not TWRP
