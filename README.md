@@ -5339,6 +5339,7 @@
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
 - [Samueru-sama/deploy-linux.sh](https://github.com/Samueru-sama/deploy-linux.sh) – POSIX(ish) shell script that deploys dependencies for AppImages, similar to linuxdeploy, linuxdeploy-qt, go-appimage and others.
+- [Samueru-sama/simple-appimage-sandbox](https://github.com/Samueru-sama/simple-appimage-sandbox) – Tool to sandbox AppImages with bubblewrap easily
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 - [Shell-Company/QRExfil](https://github.com/Shell-Company/QRExfil) – This tool is a command line utility that allows you to convert any binary file into a QRcode movie. The data can then be reassembled visually allowing exfiltration of data in air gapped systems 
 - [Skimmeroni/Nupk](https://github.com/Skimmeroni/Nupk) – Dummy package manager in roughly 350 lines of shell script
