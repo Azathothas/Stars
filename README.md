@@ -754,7 +754,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) – Share a single keyboard and mouse between multiple computers.
 - [directvt/vtm](https://github.com/directvt/vtm) – Text-based desktop environment
 - [draios/sysdig](https://github.com/draios/sysdig) – Linux system exploration and troubleshooting tool with first class support for containers
-- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) – Userspace eBPF runtime for Observability, Network & General Extensions Framework
+- [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) – Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [falconindy/auracle](https://github.com/falconindy/auracle) – A flexible command line client for Arch Linux's User Repository
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
@@ -4274,6 +4274,7 @@
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) – muvm - run programs from your system in a microVM
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative (currently x86 only)
+- [Berrysoft/symdep](https://github.com/Berrysoft/symdep) – A simple tool to view the import & export symbols of executable.
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [CachyOS/cachy-chroot](https://github.com/CachyOS/cachy-chroot)
@@ -4384,6 +4385,7 @@
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – A graphical server OS optimized for self-hosting
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) – Temporary file library for rust
 - [Strawberry-Foundations/spkg](https://github.com/Strawberry-Foundations/spkg) – spkg is a package manager that downloads the source code from the official sources, and then compiles it specifically for your device
+- [Super1Windcloud/hyperscoop](https://github.com/Super1Windcloud/hyperscoop) – 🦀次世代更快,更强, 更精美的windows 包管理器 (Scoop By Rust), Next-generation, faster, more powerful, and more refined Windows package manager
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) – A dotfile manager and templater written in rust 🦀
 - [Syntrait/splinux](https://github.com/Syntrait/splinux) – A tool for splitting the screen on Linux, and passing inputs to them 
 - [Systemcluster/staticfilemap](https://github.com/Systemcluster/staticfilemap) – Procedural macro to embed files during compilation with optional compression
@@ -4435,6 +4437,7 @@
 - [aerys/gpm](https://github.com/aerys/gpm) – Git-based Package Manager.
 - [aformatik/codchi](https://github.com/aformatik/codchi) – Codchi is a tool that manages your project's development environment in a reproducible and easy-to-use way. Setting up a development environment should be as easy as a `git clone`!
 - [agateau/clyde](https://github.com/agateau/clyde) – A cross-platform package manager for prebuilt applications
+- [agourlay/dlm](https://github.com/agourlay/dlm) – Minimal HTTP download manager
 - [aheart/hearth](https://github.com/aheart/hearth) – Linux server monitoring via SSH 🔥📊
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
