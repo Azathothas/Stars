@@ -550,6 +550,7 @@
 - [sh1r4s3/runns](https://github.com/sh1r4s3/runns) – This is a daemon and helper scripts to run program in network namespace.
 - [sholtrop/ldpfuse](https://github.com/sholtrop/ldpfuse) – C library for developing file systems in userspace that leverage LD_PRELOAD.
 - [sisong/HPatchLite](https://github.com/sisong/HPatchLite) – Lite version of HDiffPatch, tiny code & ram requires when patch on embedded systems,MCU,NB-IoT,...
+- [sjinks/setcap-static](https://github.com/sjinks/setcap-static) – A statically linked lightweight version of setcap(8) to use in `scratch` images
 - [skarnet/execline](https://github.com/skarnet/execline) – The execline scripting language
 - [skarnet/nsss](https://github.com/skarnet/nsss) – A small, statically linkable NSS-like implementation of getpwnam() et al. user database access
 - [skarnet/s6](https://github.com/skarnet/s6) – The s6 supervision suite.  
@@ -559,6 +560,7 @@
 - [slavaGanzin/await](https://github.com/slavaGanzin/await) – 28Kb, small memory footprint, single binary that run list of commands in parallel and waits for their termination
 - [slicer69/doas](https://github.com/slicer69/doas) – A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
 - [stefanberger/swtpm](https://github.com/stefanberger/swtpm) – Libtpms-based TPM emulator with socket, character device, and Linux CUSE interface.
+- [stevegrubb/libcap-ng](https://github.com/stevegrubb/libcap-ng) – Libcap-ng is a library for Linux that makes using posix capabilities easy.
 - [strace/strace](https://github.com/strace/strace) – strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) – Utility to execute a command as another user
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) – SumatraPDF reader
@@ -759,6 +761,7 @@
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) – Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) – A GUI to monitor and manage Tailscale on your Linux desktop.
 - [falconindy/auracle](https://github.com/falconindy/auracle) – A flexible command line client for Arch Linux's User Repository
+- [fenrus75/powertop](https://github.com/fenrus75/powertop) – The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) – Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) – Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) – Stream virtual desktops and games running in Docker
@@ -4135,6 +4138,7 @@
 - [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [teaxyz/chai](https://github.com/teaxyz/chai) – tea’s package dataset
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
+- [thebjorn/pydeps](https://github.com/thebjorn/pydeps) – Python Module Dependency graphs
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) – Run unpatched binaries on Nix/NixOS
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) – :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 - [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) – 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
@@ -4836,6 +4840,7 @@
 - [mgree/ffs](https://github.com/mgree/ffs) – the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [mgunyho/tere](https://github.com/mgunyho/tere) – Terminal file explorer
 - [michidk/vscli](https://github.com/michidk/vscli) – A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) – Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [microsoft/edit](https://github.com/microsoft/edit) – We all edit.
 - [microsoft/sudo](https://github.com/microsoft/sudo) – It's sudo, for Windows
 - [mihaigalos/aim](https://github.com/mihaigalos/aim) – 🎯 A command line download/upload tool with resume.
