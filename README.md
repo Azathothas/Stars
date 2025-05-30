@@ -3899,7 +3899,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
-- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – Time servers with NTS support
+- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – NTP servers with NTS support
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [jc141x/releases-feed](https://github.com/jc141x/releases-feed) – All our releases scraped into various machine readable files (CSV, JSON, RSS)
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
