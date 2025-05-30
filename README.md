@@ -5545,7 +5545,7 @@
 - [git5loxosec/rMETAshell](https://github.com/git5loxosec/rMETAshell) – rMETAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) – Watch a file or folder and automatically commit changes to a git repo easily.
 - [go-debos/debos-recipes](https://github.com/go-debos/debos-recipes) – Collection of debos recipes
-- [gobolinux/Recipes](https://github.com/gobolinux/Recipes) – The GoboLinux recipes repository
+- [gobolinux/Recipes](https://github.com/gobolinux/Recipes) – 📜 The GoboLinux recipes repository
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) – Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [gsauthof/dracut-sshd](https://github.com/gsauthof/dracut-sshd) – Provide SSH access to initramfs early user space on Fedora and other systems that use Dracut
 - [guimspace/fopus](https://github.com/guimspace/fopus) – A one-liner command to archive, compress, encrypt, split and sign files.
