@@ -3180,6 +3180,7 @@
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
 - [QaidVoid/appimageupdate](https://github.com/QaidVoid/appimageupdate) – Update AppImages using metadata embedded directly within the AppImage itself
+- [QaidVoid/sxr](https://github.com/QaidVoid/sxr) – WIP: Source Extractor (Drop-in replacement for Gentoo's Portage)
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh) – Android security guides, roadmap, docs, courses, write-ups, and teryaagh. 
 - [RavikumarRamesh/hpAndro1337](https://github.com/RavikumarRamesh/hpAndro1337) – Repository for download all version of @hpAndro1337 (Android AppSec) application.
