@@ -477,6 +477,7 @@
 - [ntpsec/ntpsec](https://github.com/ntpsec/ntpsec) – The Network Time Protocol suite, refactored   GitHub is a mirror of https://gitlab.com/NTPsec/ntpsec
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) – OBS Studio - Free and open source software for live streaming and screen recording
 - [oleg-derevenetz/bwping](https://github.com/oleg-derevenetz/bwping) – ICMP-based network bandwidth measurement tool
+- [onekey-sec/sasquatch](https://github.com/onekey-sec/sasquatch)
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) – One true awk
 - [openSUSE/catatonit](https://github.com/openSUSE/catatonit) – A container init that is so simple it's effectively brain-dead.
 - [openenclave/openenclave](https://github.com/openenclave/openenclave) – SDK for developing enclaves
