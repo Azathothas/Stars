@@ -5200,7 +5200,7 @@
 - [your-tools/ruplacer](https://github.com/your-tools/ruplacer) – Find and replace text in source files
 - [yshavit/mdq](https://github.com/yshavit/mdq) – like jq but for Markdown: find specific elements in a md doc
 - [yshui/job-security](https://github.com/yshui/job-security) – job control from anywhere!
-- [yujqiao/catp](https://github.com/yujqiao/catp) – Print the output of a running process
+- [yujqiao/catproc](https://github.com/yujqiao/catproc) – Print the output of a running process
 - [yujqiao/rathole](https://github.com/yujqiao/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) – Terminal UI to list, browse and run APIs defined with openapi spec.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
