@@ -4559,6 +4559,7 @@
 - [code-inflation/cfspeedtest](https://github.com/code-inflation/cfspeedtest) – Unofficial CLI for speed.cloudflare.com
 - [codyd51/uefirc](https://github.com/codyd51/uefirc) – An IRC client in your motherboard
 - [cole14/rust-elf](https://github.com/cole14/rust-elf) – Library for parsing ELF files for Rust
+- [conda-incubator/conda-mirror](https://github.com/conda-incubator/conda-mirror) – 🪞 Mirror upstream conda channels
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
@@ -5132,6 +5133,7 @@
 - [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) – 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames.
 - [trou/rsbkb](https://github.com/trou/rsbkb) – CLI tools: encoders/decoders, CTF and reverse engineering helpers.
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) – Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
+- [tsowell/wiremix](https://github.com/tsowell/wiremix) – A simple TUI audio mixer for PipeWire
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
