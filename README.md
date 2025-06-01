@@ -2002,6 +2002,7 @@
 - [noisysockets/noisysockets](https://github.com/noisysockets/noisysockets) – Userspace TCP/IP Sockets For WireGuard.
 - [noisysockets/nsh](https://github.com/noisysockets/nsh) – The Noisy Sockets CLI
 - [noperator/chromedb](https://github.com/noperator/chromedb) – Read Chromium data (namely, cookies and local storage) straight from disk, without spinning up the browser.
+- [noperator/raink](https://github.com/noperator/raink) – Bleeding-edge fork of raink 🩸
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) – Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments. 
 - [nullenc0de/FFUF-Workflow-Tool](https://github.com/nullenc0de/FFUF-Workflow-Tool) – This tool automates the process of running FFUF (Fuzz Faster U Fool) and post-processing its results to extract valid URLs. It supports both direct file input and piped input for wordlists.
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) – Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use.
