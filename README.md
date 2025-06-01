@@ -1524,7 +1524,7 @@
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) – Simple ethernet interface traffic monitor and reporting tool
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) – A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) – A beautiful CLI dashboard for GitHub 🚀 
-- [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) – Grab your DNS logs, detect anomalies, and finally understand what's happening on your network.
+- [dmachard/DNS-collector](https://github.com/dmachard/DNS-collector) – Grab your DNS logs, detect anomalies, and finally understand what's happening on your network. The missing piece between DNS servers and your data stack.
 - [dnr/styx](https://github.com/dnr/styx) – alternate nix substitution
 - [dokku/lambda-builder](https://github.com/dokku/lambda-builder) – A tool for building lambda function images or zips via Docker
 - [dolthub/dolt](https://github.com/dolthub/dolt) – Dolt – Git for Data
