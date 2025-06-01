@@ -1376,6 +1376,7 @@
 - [bp0lr/fget](https://github.com/bp0lr/fget)
 - [bp0lr/gauplus](https://github.com/bp0lr/gauplus)
 - [bpfsnoop/bpfsnoop](https://github.com/bpfsnoop/bpfsnoop) – Modernized kernel functions, kernel tracepoints and bpf progs tracing tool for the bpf era.
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) – Domain Availability Research Tool
 - [brianshea2/addr.tools](https://github.com/brianshea2/addr.tools) – possibly useful tools for the Internet
 - [brightzheng100/vind](https://github.com/brightzheng100/vind) – `vind` is a tool to create and manage a cluster of containers that look and work like virtual machines, on Docker.
 - [brosck/mantra](https://github.com/brosck/mantra) – 「🔑」A tool used to hunt down API key leaks in JS files and pages
