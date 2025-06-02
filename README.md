@@ -2393,6 +2393,7 @@
 - [watermint/toolbox](https://github.com/watermint/toolbox) – The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) – An open-source, cross-platform terminal for seamless workflows
 - [wdahlenburg/VhostFinder](https://github.com/wdahlenburg/VhostFinder) – Identify virtual hosts by similarity comparison 
+- [weiwenhao/parker](https://github.com/weiwenhao/parker) – 🍀 package the workdir into a lightweight container runtime that can be executed directly.
 - [weppos/publicsuffix-go](https://github.com/weppos/publicsuffix-go) – Domain name parser for Go based on the Public Suffix List.
 - [wgpsec/cloudsword](https://github.com/wgpsec/cloudsword) – 一款帮助云租户发现和测试云上风险、增强云上防护能力的综合性开源工具
 - [wgpsec/lc](https://github.com/wgpsec/lc) – LC（List Cloud）是一个多云攻击面资产梳理工具
