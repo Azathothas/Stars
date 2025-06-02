@@ -464,6 +464,7 @@
 - [msantos/tscat](https://github.com/msantos/tscat) – Timestamp stdin to stdout/stderr
 - [nanovms/nanos](https://github.com/nanovms/nanos) – A kernel designed to run one and only one application in a virtualized environment
 - [natanael-b/make-portable](https://github.com/natanael-b/make-portable) – The easiest way to make a glibc executable portable on Linux
+- [nature-lang/nature](https://github.com/nature-lang/nature) – The Nature Programming Language
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) – Reparent a running program to a new terminal
 - [nemuTUI/nemu](https://github.com/nemuTUI/nemu) – Ncurses UI for QEMU
 - [netblue30/fdns](https://github.com/netblue30/fdns) – Firejail DNS-over-HTTPS Proxy Server
