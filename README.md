@@ -4895,6 +4895,7 @@
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) – A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 - [nikstur/userborn](https://github.com/nikstur/userborn) – Declaratively bear (manage) Linux users and groups
 - [nix-community/comma](https://github.com/nix-community/comma) – Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) – Nix binary cache implemented in rust (maintainer: @Mic92)
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) – check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango] 
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) – Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/nh](https://github.com/nix-community/nh) – Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
@@ -5762,6 +5763,7 @@
 - [pry0cc/axiom](https://github.com/pry0cc/axiom) – The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
 - [psyb0t/ssh-tunnel-swarm](https://github.com/psyb0t/ssh-tunnel-swarm) – A powerful shell script tool for managing multiple SSH tunnels concurrently.
 - [pwnesia/ssb](https://github.com/pwnesia/ssb) – Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
+- [pyavitz/debian-image-builder](https://github.com/pyavitz/debian-image-builder) – Debian image builder for single board computers
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) – A cli tool to browse and play anime
 - [qemus/qemu](https://github.com/qemus/qemu) – QEMU in a Docker container.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) – Quickly create and run optimised Windows, macOS and Linux virtual machines
