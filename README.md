@@ -5987,7 +5987,6 @@
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) – Minimalistic web app designed for sending private and secure notes.
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) – Zero-Trust access management with true WireGuard® 2FA/MFA
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) – Automatically refresh your Nix Flakes.
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [DnsChanger/dnsChanger-desktop](https://github.com/DnsChanger/dnsChanger-desktop) – DNS Changer for Windows, Linux, Mac operating systems
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) – Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [Escape-Technologies/graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist) – The only GraphQL wordlist you'll ever need. Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.
@@ -6141,6 +6140,7 @@
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) – Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time.
 - [stepci/stepci](https://github.com/stepci/stepci) – Automated API Testing and Quality Assurance
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
+- [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
