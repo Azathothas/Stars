@@ -2474,6 +2474,7 @@
 
 ## HTML
 
+- [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [HeliumOS-org/website](https://github.com/HeliumOS-org/website)
@@ -3208,6 +3209,7 @@
 - [acidvegas/bgp](https://github.com/acidvegas/bgp) – Research & Experiments with Border Gateway Protocol (BGP)
 - [aclap-dev/video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper) – Download Helper
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [alitariq4589/cloud-v-builds](https://github.com/alitariq4589/cloud-v-builds)
 - [allanlw/svg-cheatsheet](https://github.com/allanlw/svg-cheatsheet) – A cheatsheet for exploiting server-side SVG processors.
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) – 🗂 High resolution web browser logos
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) – List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
@@ -3261,6 +3263,7 @@
 - [devsdenepal/When_Nepal_was_h4ck3d](https://github.com/devsdenepal/When_Nepal_was_h4ck3d) – Record of dates and events of popular hacking attacks noticed and reported through social media and news.
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) – A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
+- [dkurt/github_actions_riscv](https://github.com/dkurt/github_actions_riscv) – GitHub Actions Self-Hosted runner for RISC-V
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) – Python tools for penetration testers
 - [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) – The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) – 🧛🏻‍♂️ One theme. All platforms.
@@ -3596,7 +3599,6 @@
 - [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
 - [Citi/scaler](https://github.com/Citi/scaler) – Efficient, lightweight and reliable distributed computation engine
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
-- [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) – Lists of public DNSCrypt / DoH DNS servers and DNS relays
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) – Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
