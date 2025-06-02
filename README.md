@@ -36,6 +36,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jq](#jq)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
@@ -2835,6 +2836,12 @@
 ## Jinja
 
 - [bootlin/toolchains-webpage](https://github.com/bootlin/toolchains-webpage) – The webpage of http://toolchains.bootlin.com/
+
+<div id="jq"></div>
+
+## Jq
+
+- [wader/jqjq](https://github.com/wader/jqjq) – jq implementation of jq
 
 <div id="jupyter-notebook"></div>
 
@@ -5900,7 +5907,6 @@
 - [vmactions/netbsd-vm](https://github.com/vmactions/netbsd-vm) – Use NetBSD in github actions
 - [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm) – Use OpenBSD in github actions
 - [void-linux/void-packages](https://github.com/void-linux/void-packages) – The Void source packages collection
-- [wader/jqjq](https://github.com/wader/jqjq) – jq implementation of jq
 - [wfxr/forgit](https://github.com/wfxr/forgit) – :zzz: A utility tool powered by fzf for using git interactively.
 - [wfxr/tmux-power](https://github.com/wfxr/tmux-power) – 🎨 Tmux powerline theme
 - [wick3dr0se/archstrap](https://github.com/wick3dr0se/archstrap) – A stupid simple script to bootstrap Arch Linux from other Linux distributions
