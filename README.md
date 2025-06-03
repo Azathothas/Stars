@@ -2275,7 +2275,7 @@
 - [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment) – CLI to create and hide GitHub comments
 - [suzuki-shunsuke/nllint](https://github.com/suzuki-shunsuke/nllint) – Linter to check newlines at the end of files
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) – pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
-- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
+- [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) – Scope aggregation tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 - [sw33tLie/sns](https://github.com/sw33tLie/sns) – IIS shortname scanner written in Go
 - [sw33tLie/uff](https://github.com/sw33tLie/uff) – unleashed ffuf
 - [sweetbbak/find-suid](https://github.com/sweetbbak/find-suid) – Find setuid binaries on a file system with speed. A lot faster than using "find" and a lot more practical.
@@ -4609,6 +4609,7 @@
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) – Sexy fonts for the console
 - [donnie4w/tklog](https://github.com/donnie4w/tklog) – lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) – ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+- [doy/rbw](https://github.com/doy/rbw) – unofficial bitwarden cli
 - [dpc/fs-dir-cache](https://github.com/dpc/fs-dir-cache) – A CLI tool for CIs and build scripts, making file system based caching easy and correct (locking, eviction, etc.)
 - [dphilla/wasm-vfs](https://github.com/dphilla/wasm-vfs) – A Wasm-first VFS
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) – Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
