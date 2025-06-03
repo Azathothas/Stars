@@ -490,6 +490,7 @@
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) – Operating system and container binary deployment and upgrades
 - [otatebe/chfs](https://github.com/otatebe/chfs) – CHFS parallel and distributed file system for node-local persistent memory
 - [p-gen/smenu](https://github.com/p-gen/smenu) – smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
+- [p7zip-project/p7zip](https://github.com/p7zip-project/p7zip) – A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [pathtofile/bad-bpf](https://github.com/pathtofile/bad-bpf) – A collection of eBPF programs demonstrating bad behavior, presented at DEF CON 29 
 - [pbatard/rufus](https://github.com/pbatard/rufus) – The Reliable USB Formatting Utility
 - [pengutronix/genimage](https://github.com/pengutronix/genimage) – tool to generate multiple filesystem and flash images from a tree
