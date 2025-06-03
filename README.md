@@ -704,7 +704,7 @@
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
-- [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET etc
+- [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET, network tools, player etc
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
@@ -5309,7 +5309,7 @@
 - [HackingGate/Country-IP-Blocks](https://github.com/HackingGate/Country-IP-Blocks) – Latest country IP ranges in CIDR notation updates at the end of every week day (Monday to Friday at 9:22PM UTC)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) – 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 - [Hejsil/dipm-pkgs](https://github.com/Hejsil/dipm-pkgs)
-- [HeliumOS-org/bootc](https://github.com/HeliumOS-org/bootc)
+- [HeliumOS-org/HeliumOS](https://github.com/HeliumOS-org/HeliumOS)
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [Homebrew/install](https://github.com/Homebrew/install) – 📥 Homebrew (un)installer
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
