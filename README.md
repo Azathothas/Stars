@@ -4272,8 +4272,8 @@
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) – Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [0x61nas/aarty](https://github.com/0x61nas/aarty) – Print any image in your terminal
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) – A blazing-fast Python HTTP Client with TLS fingerprint
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) – An ergonomic Rust HTTP Client with TLS fingerprint
 - [0x676e67/vproxy](https://github.com/0x676e67/vproxy) – A high-performance HTTP/HTTPS/SOCKS5 proxy server
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) – An ergonomic Rust HTTP Client with TLS fingerprint
 - [12932/cf_speedtest](https://github.com/12932/cf_speedtest) – A CLI internet speed test tool
 - [2moe/cardbox](https://github.com/2moe/cardbox) – <Work in Progress> A modern, modular, and cross-platform implementation of core system utilities.
 - [2moe/tomlyre](https://github.com/2moe/tomlyre) – 📁💻🔍🔧 This CLI utility facilitates effortless manipulation and exploration of TOML, YAML, JSON and RON files.
