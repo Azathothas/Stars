@@ -4428,6 +4428,7 @@
 - [VHSgunzo/ulexec](https://github.com/VHSgunzo/ulexec) – A tool for loading and executing PE on Windows and ELF on Linux from memory written in Rust
 - [VHSgunzo/uruntime](https://github.com/VHSgunzo/uruntime) – Universal RunImage and AppImage runtime with SquashFS and DwarFS supports
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) – A rewrite of YARA in Rust.
+- [Virviil/oci2git](https://github.com/Virviil/oci2git) – Introspecting Docker images as easy as using Git
 - [Void-ux/pixelsort](https://github.com/Void-ux/pixelsort) – CLI image manipulation tool to pixel sort images
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) – custom protocol network proxy
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) – WebAssembly System Interface
