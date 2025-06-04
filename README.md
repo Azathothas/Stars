@@ -1702,7 +1702,7 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) – 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [hahwul/gee](https://github.com/hahwul/gee) – 🏵 Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go
 - [hahwul/gitls](https://github.com/hahwul/gitls) – 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
-- [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
+- [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – JSON Web Token Hack Toolkit
 - [hahwul/mzap](https://github.com/hahwul/mzap) – ⚡️ Multiple target ZAP Scanning
 - [hahwul/s3reverse](https://github.com/hahwul/s3reverse) – The format of various s3 buckets is convert in one format. for bugbounty and security testing.
 - [hahwul/websocket-connection-smuggler](https://github.com/hahwul/websocket-connection-smuggler) – websocket-connection-smuggler
@@ -3185,7 +3185,6 @@
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) – Win32 port of OpenSSH
 - [Purp1eW0lf/Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) – You didn't think I'd go and leave the blue team out, right? 
 - [QaidVoid/QaidVoid](https://github.com/QaidVoid/QaidVoid)
-- [QaidVoid/appimageupdate](https://github.com/QaidVoid/appimageupdate) – Update AppImages using metadata embedded directly within the AppImage itself
 - [QaidVoid/sxr](https://github.com/QaidVoid/sxr) – WIP: Source Extractor (Drop-in replacement for Gentoo's Portage)
 - [R-s0n/ars0n-framework-scans](https://github.com/R-s0n/ars0n-framework-scans) – A repository to store data from completed scans in The Ars0n Framework
 - [Ralireza/Android-Security-Teryaagh](https://github.com/Ralireza/Android-Security-Teryaagh) – Android security guides, roadmap, docs, courses, write-ups, and teryaagh. 
