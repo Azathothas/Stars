@@ -3168,7 +3168,6 @@
 - [Jiab77/scc](https://github.com/Jiab77/scc) – Use Segfault voluntary users resources to build a massive computing cluster.
 - [Karanxa/Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) – A repository that includes all the important wordlists used while bug hunting.
 - [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) – Collection of methodology and test case for various web vulnerabilities.
-- [LinuxNerdBTW/XSS_CheatSheet](https://github.com/LinuxNerdBTW/XSS_CheatSheet)
 - [LittleJake/ip-blacklist](https://github.com/LittleJake/ip-blacklist) – Plaintext blacklist IP, update 4 times a day.
 - [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) – :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) – An awesome curated knowledge-base about atomic systems
@@ -3437,6 +3436,7 @@
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) – Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) – 🌩️ A list of awesome online development environments
+- [su-mangale/XSS_CheatSheet](https://github.com/su-mangale/XSS_CheatSheet)
 - [sw33tLie/impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt) – A collection of impressive and useful results from OpenAI's chatgpt
 - [tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) – The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 - [teamssix/awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) – awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员
@@ -4460,7 +4460,7 @@
 - [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) – A simple example with Rust and Cosmopolitan Libc
 - [ahqsoftwares/tauri-ahq-store](https://github.com/ahqsoftwares/tauri-ahq-store) – The open source app store for windows 10/11
 - [ahqstore/apps](https://github.com/ahqstore/apps) – AHQ Store Application List Repo
-- [ahqstore/client](https://github.com/ahqstore/client) – The AHQ Store Neo Client
+- [ahqstore/client](https://github.com/ahqstore/client) – Empowering app distribution for all. AHQ Store is a cross platform app store with support for Windows, Linux and android.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) – A smarter cd command. Supports all major shells.
 - [al13n321/nnd](https://github.com/al13n321/nnd) – A debugger for Linux
 - [alexhallam/tv](https://github.com/alexhallam/tv) – 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
@@ -5327,7 +5327,6 @@
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) – Easy to use unprivileged Linux container packed into a single portable executable
 - [LLNL/uberenv](https://github.com/LLNL/uberenv) – Automates using spack to build and deploy software
 - [LemonBench/LemonBench](https://github.com/LemonBench/LemonBench) – A simple Linux Benchmark Toolkit
-- [LinuxNerdBTW/openbox-minimal](https://github.com/LinuxNerdBTW/openbox-minimal)
 - [LloydAsp/NodeBench](https://github.com/LloydAsp/NodeBench) – vps聚合测试脚本，直接输出排版好的markdown格式，方便粘贴
 - [LloydAsp/OsMutation](https://github.com/LloydAsp/OsMutation) – Reinstall Any OpenVZ/LXC VPS to Debian/CentOS/Alpine
 - [Locietta/xanmod-kernel-WSL2](https://github.com/Locietta/xanmod-kernel-WSL2) – Xanmod kernel for WSL2, built by clang with ThinLTO enabled. Build & Release are automated by Github Action.
@@ -5853,6 +5852,7 @@
 - [stnolting/riscv-gcc-prebuilt](https://github.com/stnolting/riscv-gcc-prebuilt) – 📦 Prebuilt RISC-V GCC toolchains for x64 Linux. 
 - [stunnel/static-curl](https://github.com/stunnel/static-curl) – static builds cURL with HTTP3
 - [su-haris/simple-network-speedtest](https://github.com/su-haris/simple-network-speedtest) – A simple script to bench network performance
+- [su-mangale/openbox-minimal](https://github.com/su-mangale/openbox-minimal)
 - [supriyo-biswas/static-builds](https://github.com/supriyo-biswas/static-builds) – Statically-built, dependency free binaries of software packages for Linux.
 - [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) – Tools and living docs 🧬 for Debian-based servers and Web Applications
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) – Transparent Proxy for Android(root) 
