@@ -2431,7 +2431,6 @@
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4052 statically linked binaries in the default repos (amd64/arm64)! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
-- [xplshn/eget2](https://github.com/xplshn/eget2) – Easily install prebuilt binaries from GitHub.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
 - [xplshn/pelf](https://github.com/xplshn/pelf) – The .AppImage alternative designed for Linux, BSDs and more! Written in 649LOC lines of Go. (and our runtime in 984 lines of Go). Fully portable and self-contained. With support for `dwarfs` & `squashfs` and more coming soon!
@@ -3068,6 +3067,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) – Gaming on Nix
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) – NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
 - [milahu/nixos-tails](https://github.com/milahu/nixos-tails) – tails linux based on nixos linux. tails linux implemented in the nix language
+- [misuzu/nixos-vf2](https://github.com/misuzu/nixos-vf2)
 - [mrene/fzf-nix](https://github.com/mrene/fzf-nix) – Fuzzy search through nixpkgs.
 - [namishh/crystal](https://github.com/namishh/crystal) – nix dotfiles for chilly people
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) – NixOS on WSL [maintainer=@nzbr] 
