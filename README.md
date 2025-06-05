@@ -1221,6 +1221,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) – ⛑ Automated developer-oriented status page
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) – Fast, multi-purpose tool for AWS CloudWatch Logs
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) – Cameradar hacks its way into RTSP videosurveillance cameras
+- [Unpackerr/xt](https://github.com/Unpackerr/xt) – Extract Everything. Decompress entire folders filled with archives.
 - [VHSgunzo/ssrv](https://github.com/VHSgunzo/ssrv) – Shell server/client
 - [VKCOM/nocc](https://github.com/VKCOM/nocc) – A distributed C++ compiler: like distcc, but faster
 - [Vanilla-OS/Vib](https://github.com/Vanilla-OS/Vib) – Vib (Vanilla Image Builder) is a tool that allow generating Containerfile(s) using a Flatpak-like recipe and syntax.
@@ -3536,7 +3537,7 @@
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) – A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) – 📥 Next-generation Scoop (un)installer
 - [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) – 📦 A Scoop bucket for alternative versions of apps.
-- [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – Dominate Active Directory with PowerShell. Inspired by CrackMapExec / NetExec.
+- [The-Viper-One/PsMapExec](https://github.com/The-Viper-One/PsMapExec) – Dominate Active Directory with PowerShell. 
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) – A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [actions/runner-images](https://github.com/actions/runner-images) – GitHub Actions runner images
 - [andyrids/alpine-wsl-dev](https://github.com/andyrids/alpine-wsl-dev) – Alpine Linux on WSL2 dev environment setup
@@ -4699,6 +4700,7 @@
 - [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
+- [hasenbanck/sevenz-rust2](https://github.com/hasenbanck/sevenz-rust2) – Rust native 7z compressor / decompressor and LZMA/LZMA2 implementation
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) –  Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
