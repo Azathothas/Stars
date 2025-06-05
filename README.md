@@ -4955,6 +4955,7 @@
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
 - [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible) – A storage service.
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) – A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
+- [oxipng/oxipng](https://github.com/oxipng/oxipng) – Multithreaded PNG optimizer written in Rust
 - [pacwrap/pacwrap](https://github.com/pacwrap/pacwrap) – A package manager which facilitates Arch-based bubblewrap containers.
 - [pamburus/hl](https://github.com/pamburus/hl) – A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pardus-topluluk/paket](https://github.com/pardus-topluluk/paket) – Blazing fast, memory safe & modern Linux package manager written in Rust.
@@ -5085,7 +5086,6 @@
 - [shixinhuang99/sxtetris](https://github.com/shixinhuang99/sxtetris) – A terminal Tetris game
 - [shotover/shotover-proxy](https://github.com/shotover/shotover-proxy) – L7 data-layer proxy
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) – A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
-- [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) – Multithreaded PNG optimizer written in Rust
 - [sigoden/argc](https://github.com/sigoden/argc) – A Bash CLI framework, also a Bash command runner.
 - [sigoden/dufs](https://github.com/sigoden/dufs) – A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
