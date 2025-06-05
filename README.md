@@ -2430,7 +2430,7 @@
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
 - [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4052 statically linked binaries in the default repos (amd64/arm64)! The easy to use, easy to get, suckless software distribution system.
-- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's metadata hourly
+- [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's Repository Index every 30 minutes
 - [xplshn/eget2](https://github.com/xplshn/eget2) – The obvious replacement for zyedidia/eget. Written from scratch.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
 - [xplshn/fake-elf](https://github.com/xplshn/fake-elf) – Make `file` and other programs think that a script is actually an ELF file (enables double-clicking on file managers)
@@ -5224,6 +5224,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) – A terminal workspace with batteries included
 - [zer0yu/anew](https://github.com/zer0yu/anew) – A tool for adding new lines to files, skipping duplicates and written in Rust!
 - [zerotier/zeronsd](https://github.com/zerotier/zeronsd) – A DNS server for ZeroTier users
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) – A fancy diagnostics & error reporting crate
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) – Multi-tenant Nix Binary Cache
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) – A simple, stateless NixOS deployment tool
 - [zhboner/realm](https://github.com/zhboner/realm) – A network relay tool
@@ -6089,7 +6090,6 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) – 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) – Your definitive source for dashboard icons.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) – Electron wrapper to build and distribute HTTP Toolkit for the desktop
-- [hyperdrive-eng/traceback](https://github.com/hyperdrive-eng/traceback) – 🐞 VS Code extension to debug tracing logs 🦀
 - [ipfs/helia](https://github.com/ipfs/helia) – An implementation of IPFS in TypeScript
 - [james-elicx/cloudy](https://github.com/james-elicx/cloudy) – File explorer for Cloudflare R2 Storage.
 - [jeffreytse/cactus-tunnel](https://github.com/jeffreytse/cactus-tunnel) – 🌵 A charming TCP tunnel over WebSocket and Browser.
@@ -6163,6 +6163,7 @@
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) – Browser extension to spoof timezone, geolocation, locale and user agent.
 - [wei/pull](https://github.com/wei/pull) – 🤖 Keep your forks up-to-date via automated PRs
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) – The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [workbackai/traceback](https://github.com/workbackai/traceback) – 🐞 VS Code extension to debug tracing logs 🦀
 - [wotschofsky/domain-digger](https://github.com/wotschofsky/domain-digger) – Full Toolkit for Next-Level Domain Analysis
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) – PasteBin based on Cloudflare
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) – High Performace IDE for Jupyter Notebooks
