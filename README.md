@@ -3620,7 +3620,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) – Proxy server to bypass Cloudflare protection
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) – 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) – No fortress, purely open ground.  OpenManus is Coming.
-- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST MIRROR! Main development repository is https://codeberg.org/Freedium-cfd/web
+- [Freedium-cfd/web](https://github.com/Freedium-cfd/web) – THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
 - [Frissi0n/GTFONow](https://github.com/Frissi0n/GTFONow) – Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries using GTFOBins.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) – GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [Ge0rg3/requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) – A Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
