@@ -1316,6 +1316,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) – Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [ashirt-ops/ashirt-server](https://github.com/ashirt-ops/ashirt-server) – Adversary Simulators High-Fidelity Intelligence and Reporting Toolkit
 - [ashishb/gabo](https://github.com/ashishb/gabo) – GitHub Actions Boilerplate Generator
+- [assetnote/newtowner](https://github.com/assetnote/newtowner) – Abuse trust-boundaries to bypass firewalls and network controls
 - [assetnote/surf](https://github.com/assetnote/surf) – Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 - [atc0005/check-vmware](https://github.com/atc0005/check-vmware) – Go-based tooling to monitor VMware environments; NOT affiliated with or endorsed by VMware, Inc.
 - [atc0005/dnsc](https://github.com/atc0005/dnsc) – Run a DNS query concurrently against all servers in a list and provide results summary
