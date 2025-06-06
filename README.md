@@ -820,7 +820,7 @@
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) – A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [rochus-keller/LeanQt](https://github.com/rochus-keller/LeanQt) – LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 - [ruanformigoni/flatimage](https://github.com/ruanformigoni/flatimage) – FlatImage, a hybrid of Flatpak sandboxing with AppImage portability
-- [rui314/mold](https://github.com/rui314/mold) – Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) – mold: A Modern Linker 🦠
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
