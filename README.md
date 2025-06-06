@@ -1704,7 +1704,6 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) – 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [hahwul/gee](https://github.com/hahwul/gee) – 🏵 Gee is tool of stdin to each files and stdout. It is similar to the tee command, but there are more functions for convenience. In addition, it was written as go
 - [hahwul/gitls](https://github.com/hahwul/gitls) – 🖇 Enumerate git repository URL from list of URL / User / Org. Friendly to pipeline
-- [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – JSON Web Token Hack Toolkit
 - [hahwul/mzap](https://github.com/hahwul/mzap) – ⚡️ Multiple target ZAP Scanning
 - [hahwul/s3reverse](https://github.com/hahwul/s3reverse) – The format of various s3 buckets is convert in one format. for bugbounty and security testing.
 - [hahwul/websocket-connection-smuggler](https://github.com/hahwul/websocket-connection-smuggler) – websocket-connection-smuggler
@@ -2430,7 +2429,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4052 statically linked binaries in the default repos (amd64/arm64)! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4052 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's Repository Index every 30 minutes
 - [xplshn/eget2](https://github.com/xplshn/eget2) – The obvious replacement for zyedidia/eget. Written from scratch.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -4699,6 +4698,7 @@
 - [greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) – This repository contains the scanner component for Greenbone Community Edition.
 - [greymd/teip](https://github.com/greymd/teip) – Masking tape to help commands "do one thing well"
 - [haha-business/pentacle](https://github.com/haha-business/pentacle) – Executes programs as sealed anonymous files on Linux
+- [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) – JSON Web Token Hack Toolkit
 - [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
