@@ -379,7 +379,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) – n³ The unorthodox terminal file manager
 - [jedisct1/minisign](https://github.com/jedisct1/minisign) – A dead simple tool to sign files and verify digital signatures.
 - [jerome-pouiller/reredirect](https://github.com/jerome-pouiller/reredirect) – Tool to dynamicly redirect outputs of a running process
-- [jo-lund/jomon](https://github.com/jo-lund/jomon) – A network forensics and sniffer tool
+- [jo-lund/jomon](https://github.com/jo-lund/jomon) – A network forensics and passive sniffer tool
 - [jqlang/jq](https://github.com/jqlang/jq) – Command-line JSON processor
 - [jsummers/deark](https://github.com/jsummers/deark) – A utility for file format and metadata analysis, data extraction, decompression, and image format decoding
 - [just-buildsystem/bootstrappable-toolchain](https://github.com/just-buildsystem/bootstrappable-toolchain) – Collection of toolchains built from source
