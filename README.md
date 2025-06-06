@@ -1420,7 +1420,7 @@
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
 - [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化扫描引擎 | A highly controllable and scalable automated scanning engine for red teams
 - [chainreactors/proxyclient](https://github.com/chainreactors/proxyclient) – golang styles proxy client, support http/https, socks4/5, ssh
-- [chainreactors/spray](https://github.com/chainreactors/spray) – 最好用最智能最可控的目录爆破工具 | The most powerful, user-friendly, intelligent, and precise HTTP buster.
+- [chainreactors/spray](https://github.com/chainreactors/spray) – 最好用最智能最可控的目录Fuzz工具 | The most powerful, user-friendly, intelligent, and precise HTTP Fuzzer.
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – 最强大的密码爆破/喷洒工具 | The most powerful bruteforcer / sprayer Artifact
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) – SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) – Generate images of code and terminal output 📸
