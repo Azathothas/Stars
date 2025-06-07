@@ -3077,6 +3077,7 @@
 - [nix-community/nix-installers](https://github.com/nix-community/nix-installers) – Nix installers for legacy distributions (rpm & deb & pacman) [maintainer=@adisbladis]
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) – Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] 
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) – A wrapper tool for nix OpenGL application [maintainer=@guibou]
+- [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) – NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [nix-community/nur-packages-template](https://github.com/nix-community/nur-packages-template) – A template for NUR repositories: [maintainer=@fgaz] 
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
