@@ -778,7 +778,6 @@
 - [huggingface/dedupe_estimator](https://github.com/huggingface/dedupe_estimator) – Chunk Dedupe Estimation
 - [husarnet/husarnet](https://github.com/husarnet/husarnet) – Husarnet is a Peer-to-Peer VPN to connect your laptops, servers and microcontrollers over the Internet with zero configuration.
 - [ip7z/7zip](https://github.com/ip7z/7zip) – 7-Zip
-- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
 - [johang/btfs](https://github.com/johang/btfs) – A bittorrent filesystem based on FUSE.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) – Drop in replacement for ueberzug written in C++
 - [just-buildsystem/justbuild](https://github.com/just-buildsystem/justbuild) – just, a generic build tool
@@ -5624,6 +5623,7 @@
 - [jean0t/archon](https://github.com/jean0t/archon) – A minimalist low level package manager for your linux, compatible with all linux distros due to the use of POSIX.
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) – install latest or LTS linux kernel and enable BBR or BBR plus
 - [jirutka/setup-alpine](https://github.com/jirutka/setup-alpine) – Easily use Alpine Linux on GitHub Actions, with support for QEMU user emulator
+- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) – A minimal docker baseimage to ease creation of X graphical application containers
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) – Docker container for Firefox
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) – Docker container for HandBrake
 - [johnwinans/riscv-toolchain-install-guide](https://github.com/johnwinans/riscv-toolchain-install-guide) – How to download & install qemu a toolchain suitable for building and running freestanding RISC-V C/C++ programs
