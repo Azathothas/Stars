@@ -5584,7 +5584,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
-- [harilvfs/carch](https://github.com/harilvfs/carch) – A Simple Script to Make Linux System Setup Easier 🧩
+- [harilvfs/carch](https://github.com/harilvfs/carch) – A simple CLI tool to automate Linux system setup 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
