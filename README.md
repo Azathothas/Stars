@@ -1172,7 +1172,7 @@
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
-- [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint
+- [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client 100% in Go to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OkamiW/proxy-ns](https://github.com/OkamiW/proxy-ns) – Run programs in a network namespace where all traffic go through proxy
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) – OliveTin gives safe and simple access to predefined shell commands from a web interface. 
@@ -4097,7 +4097,7 @@
 - [samber/the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) – 🤖 A curated list of websites that restrict access to AI Agents, AI crawlers and GPTs
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) – Extract individual files from .zip files over http without downloading the entire archive.
 - [saw-your-packet/EC2StepShell](https://github.com/saw-your-packet/EC2StepShell) – EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Supercharge your API testing, catch bugs, and ensure compliance
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) – Catch API bugs before your users do
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
@@ -5103,7 +5103,7 @@
 - [souk4711/hakoniwa](https://github.com/souk4711/hakoniwa) – Process isolation for Linux using namespaces, resource limits, landlock and seccomp.
 - [sourcefrog/conserve](https://github.com/sourcefrog/conserve) – 🌲 Robust file backup tool in Rust
 - [spellshift/realm](https://github.com/spellshift/realm) – Realm is a cross platform Red Team engagement platform with a focus on automation and reliability.
-- [spider-rs/spider](https://github.com/spider-rs/spider) – Data curation building blocks for Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) – Web crawler and scraper for Rust
 - [spider-rs/ua_generator](https://github.com/spider-rs/ua_generator) – Pre-compiled random real User-Agents. Updated weekly for windows, mac, linux, and android
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) – Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range.
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) – CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
