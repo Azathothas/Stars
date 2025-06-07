@@ -653,7 +653,7 @@
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) – A bash inspired readline implementation for PowerShell
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) – PowerShell for every system!
 - [SeppPenner/awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy) – A curated list of (not only) German piracy sites.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) – ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) – the subtitle editor :)
 - [actions/runner](https://github.com/actions/runner) – The Runner for GitHub Actions :rocket:
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) – A tool to view and extract the contents of an Windows Installer (.msi) file.
