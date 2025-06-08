@@ -4579,6 +4579,7 @@
 - [conda-incubator/conda-mirror](https://github.com/conda-incubator/conda-mirror) – 🪞 Mirror upstream conda channels
 - [confidential-containers/guest-components](https://github.com/confidential-containers/guest-components) – Confidential Containers Guest Tools and Components
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) – A command line progress reporting library for Rust
+- [containers/composefs-rs](https://github.com/containers/composefs-rs) – Rust library for the composefs filesystem
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) – An OCI container runtime monitor written in Rust
 - [containers/crun-vm](https://github.com/containers/crun-vm) – Run VM disk images using Podman / Docker / Kubernetes.
 - [containers/libkrun](https://github.com/containers/libkrun) – A dynamic library providing Virtualization-based process isolation capabilities
