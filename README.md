@@ -6088,7 +6088,7 @@
 - [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
-- [giscus/giscus](https://github.com/giscus/giscus) – A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [giscus/giscus](https://github.com/giscus/giscus) – A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) – The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
