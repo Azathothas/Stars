@@ -5426,7 +5426,7 @@
 - [XDream8/revanced-creator](https://github.com/XDream8/revanced-creator) – Create Revanced apps easily ☠️
 - [XQuartz/XQuartz](https://github.com/XQuartz/XQuartz) – An X11 server and client libraries for macOS
 - [YT-Advanced/WSA-Script](https://github.com/YT-Advanced/WSA-Script) – Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android) with GitHub Actions
-- [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A well quick standalone Alpine PRoot installer & launcher
+- [Yonle/alpine-proot](https://github.com/Yonle/alpine-proot) – A quick standalone Alpine Linux proot installer & launcher
 - [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) – A thorough guide to defeating DRM on Linux
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
