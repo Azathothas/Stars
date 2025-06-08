@@ -3917,6 +3917,7 @@
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [jc141x/releases-feed](https://github.com/jc141x/releases-feed) – All our releases scraped into various machine readable files (CSV, JSON, RSS)
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
+- [jedisct1/draft-denis-ipcrypt](https://github.com/jedisct1/draft-denis-ipcrypt) – Methods for IP Address Encryption and Obfuscation.
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
 - [joouha/euporie](https://github.com/joouha/euporie) – Jupyter notebooks in the terminal
