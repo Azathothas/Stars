@@ -3434,6 +3434,7 @@
 - [slowpeek/debian-iso-guide](https://github.com/slowpeek/debian-iso-guide) – Your guide to Debian iso downloads
 - [snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) – A curated list of amazingly awesome Burp Extensions
 - [soulteary/docker-flare](https://github.com/soulteary/docker-flare) – Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
+- [stal-ix/pkgsrc](https://github.com/stal-ix/pkgsrc) – package cache for stal/ix
 - [stal-ix/stal-ix.github.io](https://github.com/stal-ix/stal-ix.github.io) – landing page
 - [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
