@@ -617,6 +617,7 @@
 - [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl) – The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!
 - [wtarreau/mhz](https://github.com/wtarreau/mhz) – CPU frequency measurement utility
 - [xdp-project/bpf-examples](https://github.com/xdp-project/bpf-examples) – Making eBPF programming easier via build env and examples
+- [xemu-project/xemu](https://github.com/xemu-project/xemu) – Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [ximion/appstream](https://github.com/ximion/appstream) – Tools and libraries to work with AppStream metadata
 - [xiph/vorbis-tools](https://github.com/xiph/vorbis-tools) – Command-line tools for creating and playing Ogg Vorbis files. THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/vorbis-tools
 - [xplshn/m_ascii85](https://github.com/xplshn/m_ascii85) – The better Ascii85 implementation.
@@ -717,6 +718,7 @@
 - [Nicoshev/rapidhash](https://github.com/Nicoshev/rapidhash) – Very fast, high quality, platform-independent hashing algorithm.
 - [Nitrux/nx-software-center](https://github.com/Nitrux/nx-software-center) – NX Software Center. A GUI to install and manage AppImages.
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
+- [OFFTKP/felix86](https://github.com/OFFTKP/felix86) – Run x86 and x86-64 games on RISC-V Linux
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) – Partially open-source alternative Steam Client for Linux. 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
@@ -4296,6 +4298,7 @@
 - [Berrysoft/symdep](https://github.com/Berrysoft/symdep) – A simple tool to view the import & export symbols of executable.
 - [BlackDex/rust-musl](https://github.com/BlackDex/rust-musl) – For compiling static Rust binaries using musl toolchain with some pre-compiled static libraries
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) – ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) – View disk space usage and delete unwanted data, fast.
 - [CachyOS/cachy-chroot](https://github.com/CachyOS/cachy-chroot)
 - [Canop/broot](https://github.com/Canop/broot) – A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Canop/dysk](https://github.com/Canop/dysk) – A linux utility to get information on filesystems, like df but better
@@ -4331,6 +4334,7 @@
 - [FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4) – JA4+ is a suite of network fingerprinting standards
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) – Ultra-fast, simple and powerful cross-platform IPTV app
 - [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
+- [FyraLabs/readymade](https://github.com/FyraLabs/readymade) – Install ready-made distribution images!
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Goldziher/uncomment](https://github.com/Goldziher/uncomment) – CLI to remove comments from code
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
@@ -4717,6 +4721,7 @@
 - [holo-routing/holo](https://github.com/holo-routing/holo) – Holo is a suite of routing protocols designed to support high-scale and automation-driven networks.
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) – GritQL is a query language for searching, linting, and modifying code.
 - [houseabsolute/ubi](https://github.com/houseabsolute/ubi) – The Universal Binary Installer
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) – Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [hucsmn/qbsdiff](https://github.com/hucsmn/qbsdiff) – fast and memory saving bsdiff 4.x compatible delta compressor and patcher
 - [huggingface/hf-hub](https://github.com/huggingface/hf-hub) – Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` python package
 - [huggingface/hf_transfer](https://github.com/huggingface/hf_transfer)
