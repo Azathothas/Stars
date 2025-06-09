@@ -5555,6 +5555,7 @@
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) – ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [ernw/static-toolbox](https://github.com/ernw/static-toolbox) – A collection of statically compiled tools like Nmap and Socat.
 - [ethack/tht](https://github.com/ethack/tht) – Threat Hunting Toolkit is a Swiss Army knife for threat hunting, log processing, and security-focused data science
+- [eweOS/packages](https://github.com/eweOS/packages) – eweOS main package repository
 - [fcolista/apkfile](https://github.com/fcolista/apkfile) – Search files inside various version of Alpine Linux packages 
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) – Bootstrap your Ubuntu in a single command!
 - [filiparag/wikiman](https://github.com/filiparag/wikiman) – Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs, and FreeBSD documentation
