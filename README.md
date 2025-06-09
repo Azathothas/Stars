@@ -5782,6 +5782,7 @@
 - [pkgforge/nix-appimage](https://github.com/pkgforge/nix-appimage) – Create App.NixAppImage for PkgForge Portable Collection [Maintainer=@Azathothas]
 - [pkgforge/pkgcache](https://github.com/pkgforge/pkgcache) – 📀 Pre-Built Portable Packages [AppBundle | AppImage | FlatImage | GameImage | RunImage & More] for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) – 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
+- [plctlab/riscv-ci](https://github.com/plctlab/riscv-ci) – Build scripts of ci.rvperf.org
 - [poetaman/arttime](https://github.com/poetaman/arttime) – arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [polkaulfield/ubuntu-debullshit](https://github.com/polkaulfield/ubuntu-debullshit) – Purges snaps, installs flatpaks, and restores vanilla GNOME
 - [porteux/porteux](https://github.com/porteux/porteux) – High-performance, modular, minimalist Linux distro
