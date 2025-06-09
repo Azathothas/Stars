@@ -41,6 +41,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [LUA](#lua)
+- [Llvm](#llvm)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -706,7 +707,7 @@
 - [GustavLindberg99/AndroidDrive](https://github.com/GustavLindberg99/AndroidDrive) – A program that allows mounting Android smartphones as drives on Windows 
 - [Haruno19/starfetch](https://github.com/Haruno19/starfetch) – command line tool that displays constellations
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) – The Linux perf GUI for performance analysis.
-- [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – Remote control. Support VNC, RDP, Terminal, SSH, TELNET, network tools, player etc
+- [KangLin/RabbitRemoteControl](https://github.com/KangLin/RabbitRemoteControl) – A open source remote desktop and remote control. Support VNC, RDP, Terminal, SSH, TELNET, network tools, player etc
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) – Truly independent web browser
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) – The 7-Zip derivative intended for the modern Windows experience
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) – 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
@@ -2968,6 +2969,12 @@
 - [rnpnr/opkg](https://github.com/rnpnr/opkg) – statically linked package installer
 - [version-fox/version-fox-plugins](https://github.com/version-fox/version-fox-plugins) – plugins repository for VersionFox
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) – 🔥 A cross-platform build utility based on Lua
+
+<div id="llvm"></div>
+
+## Llvm
+
+- [tpde2/tpde](https://github.com/tpde2/tpde) – A fast framework for writing baseline compiler back-ends in C++
 
 <div id="makefile"></div>
 
