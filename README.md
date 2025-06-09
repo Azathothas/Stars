@@ -4965,7 +4965,7 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) – A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [osa1/tiny](https://github.com/osa1/tiny) – A terminal IRC client 
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) – Painless compression and decompression in the terminal
-- [oxalica/dwarfs-rs](https://github.com/oxalica/dwarfs-rs) – A library for reading DwarFS archives (aka. DwarFS images)
+- [oxalica/dwarfs-rs](https://github.com/oxalica/dwarfs-rs) – A library for reading and writing DwarFS archives (aka. DwarFS images)
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) – [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) – ⚓ A collection of JavaScript tools written in Rust.
 - [oxidecomputer/aws-wire-lengths](https://github.com/oxidecomputer/aws-wire-lengths) – simple command line for various AWS management tasks
