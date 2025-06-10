@@ -579,6 +579,7 @@
 - [termux/proot](https://github.com/termux/proot) – An chroot-like implementation using ptrace.
 - [termux/termux-x11](https://github.com/termux/termux-x11) – Termux X-server add-on.
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap) – the LIBpcap interface to various kernel packet capture mechanism
+- [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump) – the TCPdump network dissector
 - [tio/tio](https://github.com/tio/tio) – A serial device I/O tool
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) – Instant Terminal Sharing
 - [tmux/tmux](https://github.com/tmux/tmux) – tmux source code
@@ -825,6 +826,7 @@
 - [rui314/mold](https://github.com/rui314/mold) – mold: A Modern Linker 🦠
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) – FUSE-based file system backed by Amazon S3
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) – Subtitle Speech Synchronizer
+- [seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) – PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING.
 - [setvisible/ArrowDL](https://github.com/setvisible/ArrowDL) – ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) – PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [sisong/ApkDiffPatch](https://github.com/sisong/ApkDiffPatch) – a C++ library and command-line tools for Zip(Jar,Apk) file Diff & Patch; create minimal delta/differential; support Jar sign(apk v1 sign) & apk v2,v3,v4 sign .
@@ -856,6 +858,7 @@
 - [worawit/blutter](https://github.com/worawit/blutter) – Flutter Mobile Application Reverse Engineering Tool
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) – A C++ header-only HTTP/HTTPS server and client library
+- [zeek/zeek](https://github.com/zeek/zeek) – Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
@@ -3813,6 +3816,7 @@
 - [chenjj/CORScanner](https://github.com/chenjj/CORScanner) – 🎯 Fast CORS misconfiguration vulnerabilities scanner
 - [chimera-linux/cports](https://github.com/chimera-linux/cports) – Chimera ports collection
 - [cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat) – A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+- [cisagov/Malcolm](https://github.com/cisagov/Malcolm) – Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 - [claffin/cloudproxy](https://github.com/claffin/cloudproxy) – Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success.
 - [codingo/Interlace](https://github.com/codingo/Interlace) – Easily turn single threaded command line applications into a fast, multi-threaded application with CIDR and glob support.
 - [coffinxp/loxs](https://github.com/coffinxp/loxs) – best tool for finding SQLi,CRLF,XSS,LFi,OpenRedirect
