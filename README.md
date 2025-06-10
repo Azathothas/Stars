@@ -4848,7 +4848,7 @@
 - [lapce/lapdev](https://github.com/lapce/lapdev) – Self-Hosted Remote Dev Environment
 - [leadlang/lead](https://github.com/leadlang/lead) – The Lead Programming Language Interpreter and the Open Lead Language Runtime & Compiler
 - [leesum1/RV64emu-rs](https://github.com/leesum1/RV64emu-rs) – RV64emu is a riscv64 emulator written in rust,can run linux !
-- [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style.
+- [lgarron/folderify](https://github.com/lgarron/folderify) – :file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)
 - [lhvy/pipes-rs](https://github.com/lhvy/pipes-rs) – An over-engineered rewrite of pipes.sh in Rust
 - [liam-ilan/terminal3d](https://github.com/liam-ilan/terminal3d) – View .obj files in the terminal 🦀
 - [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) – Minimal and opinionated eBPF tooling for the Rust ecosystem
