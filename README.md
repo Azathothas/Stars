@@ -984,6 +984,7 @@
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
 - [fornwall/rust-static-builder](https://github.com/fornwall/rust-static-builder) – Docker image to build statically linked Linux executables from Rust projects.
 - [fwcd/docker-archlinux](https://github.com/fwcd/docker-archlinux) – Unofficial multi-platform Docker images of Arch Linux and its ports (x86_64, aarch64, armv7h, riscv64, powerpc64le)
+- [hostinger/fireactions-images](https://github.com/hostinger/fireactions-images) – Public container images for Fireactions
 - [ironpeakservices/iron-scratch](https://github.com/ironpeakservices/iron-scratch) – Secure base image for running Go (or any other static) applications.
 - [joaompinto/docker-build-python-static-bin](https://github.com/joaompinto/docker-build-python-static-bin) – Docker image that allows to build static binaries for Python applications
 - [jz543fm/kali-dockerized](https://github.com/jz543fm/kali-dockerized) – Kali Linux in Docker + Ubuntu 22.04 in Docker for Bug Bounty, Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Kali Linux inside with Docker with or without support with systemd, repository also contains Proof of Concept with kind (Kubernetes in Docker) to test Kali Linux with enabled systemd in K8s cluster
@@ -1389,6 +1390,7 @@
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) – Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) – See DNS configurations quickly
 - [bufbuild/buf](https://github.com/bufbuild/buf) – The best way of working with Protocol Buffers.
+- [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) – Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [burrowers/garble](https://github.com/burrowers/garble) – Obfuscate Go builds
 - [byt3hx/jsleak](https://github.com/byt3hx/jsleak) – jsleak is a tool to find secret , paths or links in the source code during the recon.
 - [c3l3si4n/crtdumper](https://github.com/c3l3si4n/crtdumper) – crtdumper is a Go application designed to interact directly with Certificate Transparency (CT) logs servers  and extract domain names from certificates. Perfect for security researchers and developers interested in massively extracting domain names from CT logs.
@@ -2997,6 +2999,7 @@
 - [radareorg/iaito](https://github.com/radareorg/iaito) – Official radare2 GUI
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) – Simple makefile-based build for musl cross compiler
 - [skarnet/lh-bootstrap](https://github.com/skarnet/lh-bootstrap) – A tool to build runnable Linux images with s6 and s6-rc
+- [userdocs/qbt-musl-cross-make](https://github.com/userdocs/qbt-musl-cross-make) – Custom musl crossmake builds for qbittorrent nox static build targets
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) – Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) – ArchLinux based WSL Distribution. Supports multiple install.
 
@@ -3344,12 +3347,15 @@
 - [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists) – 📜 Yet another collection of wordlists
 - [krizzsk/HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) – A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 - [lando/lando](https://github.com/lando/lando) – A development tool for all your projects that is fast, easy, powerful and liberating
+- [lazyparser/talks](https://github.com/lazyparser/talks) – Schedule and slides of my presentations.
 - [leahneukirchen/leahutils](https://github.com/leahneukirchen/leahutils) – description of leahutils
 - [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
+- [leleliu008/uppm-formula-repository-linux-riscv64](https://github.com/leleliu008/uppm-formula-repository-linux-riscv64)
 - [leleliu008/uppm-formula-repository-linux-x86_64](https://github.com/leleliu008/uppm-formula-repository-linux-x86_64) – the offical formula repository for uppm
 - [leleliu008/uppm-package-repository-linux-aarch64](https://github.com/leleliu008/uppm-package-repository-linux-aarch64)
+- [leleliu008/uppm-package-repository-linux-riscv64](https://github.com/leleliu008/uppm-package-repository-linux-riscv64)
 - [leleliu008/uppm-package-repository-linux-x86_64](https://github.com/leleliu008/uppm-package-repository-linux-x86_64)
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) – The list of continuous integration services and tools
 - [logpai/loghub](https://github.com/logpai/loghub) – A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
