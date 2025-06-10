@@ -61,6 +61,7 @@
 - [Purescript](#purescript)
 - [Python](#python)
 - [Qml](#qml)
+- [Renderscript](#renderscript)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Rpm Spec](#rpm-spec)
@@ -4229,6 +4230,12 @@
 ## Qml
 
 - [pkgforge-dev/Pixelpulse2-AppImage](https://github.com/pkgforge-dev/Pixelpulse2-AppImage) – Pixelpulse2 is a user interface for analog systems exploration. [Maintainer=@sounddrill31]
+
+<div id="renderscript"></div>
+
+## Renderscript
+
+- [QaidVoid/compak](https://github.com/QaidVoid/compak) – A high level Rust library for archive management
 
 <div id="rich-text-format"></div>
 
