@@ -2795,7 +2795,6 @@
 - [openwrt/luci](https://github.com/openwrt/luci) – LuCI - OpenWrt Configuration Interface
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) – 📝 create a webpage with just markdown
 - [paazmaya/shuji](https://github.com/paazmaya/shuji) – Reverse engineering JavaScript and CSS sources from sourcemaps
-- [pkgforge-dev/WWW](https://github.com/pkgforge-dev/WWW) – The official website for pkgforge. (store frontend) [Maintainers=@xplshn|@Tamrakar182]
 - [pkgforge-dev/reverse-proxies](https://github.com/pkgforge-dev/reverse-proxies) – CloudFlare Worker Config to reverse proxy to GitHub, GitLab, Codeberg, Repology & More [Maintainer=@Azathothas]
 - [practisec/pwnedhub](https://github.com/practisec/pwnedhub)
 - [prettier/prettier](https://github.com/prettier/prettier) – Prettier is an opinionated code formatter.
@@ -4302,6 +4301,7 @@
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) – GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and window functions and allow customization like user-defined types and functions
 - [Andoryuuta/certstream-rs](https://github.com/Andoryuuta/certstream-rs) – A library for streaming Certificate Transparency Log events from the certstream service
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) – muvm - run programs from your system in a microVM
+- [Askannz/munal-os](https://github.com/Askannz/munal-os) – An experimental operating system fully written in Rust, with a unikernel design, cooperative scheduling and a security model based on WASM sandboxing.
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) – A tui tool for browsing and downloading torrents
 - [Ben-Lichtman/ropr](https://github.com/Ben-Lichtman/ropr) – A blazing fast™ multithreaded ROP Gadget finder. ropper / ropgadget alternative (currently x86 only)
 - [Berrysoft/symdep](https://github.com/Berrysoft/symdep) – A simple tool to view the import & export symbols of executable.
@@ -5151,6 +5151,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) – Realtime ticker data in your terminal 📈
 - [tauri-apps/fix-path-env-rs](https://github.com/tauri-apps/fix-path-env-rs)
 - [tbillington/kondo](https://github.com/tbillington/kondo) – Cleans dependencies and build artifacts from your projects.
+- [theopfr/somo](https://github.com/theopfr/somo) – A human-friendly alternative to netstat for socket and port monitoring on Linux.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 - [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) – Interactive find and replace in the terminal
