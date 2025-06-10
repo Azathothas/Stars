@@ -647,7 +647,7 @@
 - [8LWXpg/PowerToysRun-ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) – PowerToys Run Plugin for killing processes
 - [8LWXpg/PowerToysRun-SSH](https://github.com/8LWXpg/PowerToysRun-SSH) – PowerToys Run plugin for connecting to ssh clients
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) – A tool to "Fix" Windows 11
-- [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp
+- [Bluegrams/Vividl](https://github.com/Bluegrams/Vividl) – Modern Windows GUI for youtube-dl/ yt-dlp. Download videos from hundreds of websites.
 - [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) – A powerful tool for managing networks and troubleshoot network problems!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) – A Swiss Army knife for developers.
 - [DigitalRuby/IPBan](https://github.com/DigitalRuby/IPBan) – Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
