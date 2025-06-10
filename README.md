@@ -2906,6 +2906,7 @@
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) – A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) – DataBackup for Android 7.0+
 - [adriangl/pict2cam](https://github.com/adriangl/pict2cam) – Android fake camera application to feed camera intents with files in your device's storage
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) – A Download Manager that speeds up your downloads
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) – An app for manga and anime
 - [aniyomiorg/aniyomi-extensions](https://github.com/aniyomiorg/aniyomi-extensions) – Source extensions for the Aniyomi app.
 - [axiel7/MoeList](https://github.com/axiel7/MoeList) – Another unofficial Android MAL client
