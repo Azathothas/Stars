@@ -3234,7 +3234,7 @@
 - [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) – A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 - [arkadiyt/bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) – This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
 - [artnitolog/awesome-arxiv](https://github.com/artnitolog/awesome-arxiv) – Curated resources for discovering, reading, and working with arXiv papers
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 My Windows setup dotfiles
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) – 🌾 My Windows setup
 - [assetnote/blind-ssrf-chains](https://github.com/assetnote/blind-ssrf-chains) – An exhaustive list of all the possible ways you can chain your Blind SSRF vulnerability
 - [attacksurge/awesome-attack-surface-monitoring](https://github.com/attacksurge/awesome-attack-surface-monitoring) – Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) – A curated list of amazingly awesome open-source sysadmin resources.
@@ -6143,6 +6143,7 @@
 - [kern/filepizza](https://github.com/kern/filepizza) – :pizza: Peer-to-peer file transfers in your browser
 - [kotx/render](https://github.com/kotx/render) – Cloudflare Worker to proxy and cache requests to R2
 - [kxxoling/cf-status-page](https://github.com/kxxoling/cf-status-page) – Status page auto deployed on Cloudflare
+- [liriliri/aya](https://github.com/liriliri/aya) – Android ADB desktop app
 - [longern/FlareDrive](https://github.com/longern/FlareDrive) – Free file hosting service (WebUI & WebDAV) using CloudFlare R2
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) – ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [lyc8503/onedrive-cf-index-ng](https://github.com/lyc8503/onedrive-cf-index-ng) – Another OneDrive public directory listing on Docker / Cloudflare Workers, forked from onedrive-vercel-index.
