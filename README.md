@@ -1379,7 +1379,7 @@
 - [bojand/ghz](https://github.com/bojand/ghz) – Simple gRPC benchmarking and load testing tool
 - [bokysan/socketace](https://github.com/bokysan/socketace) – Your ultimate connection proxy. Proxy connections over websockets / UDP / DNS. Wrap connections in SSL/TLS. Auto-connect over best possible channel. 
 - [bolkedebruin/rdpgw](https://github.com/bolkedebruin/rdpgw) – Remote Desktop Gateway in Go for deploying on Linux/BSD/Kubernetes
-- [bombsimon/wsl](https://github.com/bombsimon/wsl) – ␊ Whitespace Linter - Forces you to use empty lines!
+- [bombsimon/wsl](https://github.com/bombsimon/wsl) – ␊ whitespace linter - Forces you to use empty lines!
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) – Format agnostic SBOM tooling
 - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine) – boostsecurityio/poutine
 - [boringtools/git-alerts](https://github.com/boringtools/git-alerts) – Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
@@ -3163,6 +3163,7 @@
 - [BrownBearSec/SDTO-realworld-subdomains](https://github.com/BrownBearSec/SDTO-realworld-subdomains) – A repository to host the subdomain wordlists from my blog https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
 - [CaledoniaProject/awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security) – A curated list of intriguing open-source security tools, with my reviews and insights.
 - [Ch0pin/uncrackable](https://github.com/Ch0pin/uncrackable) – A list of bizarre crackmes
+- [ContinuumIO/anaconda-issues](https://github.com/ContinuumIO/anaconda-issues) – Anaconda issue tracking
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) – An awesome collection of aesthetic wallpapers 
 - [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) – MACsposed - Add support for MAC Address spoofing to Android 12 through 15!
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) – 动漫磁性链接加速方案（animeTrackerList）
