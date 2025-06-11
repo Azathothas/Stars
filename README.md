@@ -4124,7 +4124,7 @@
 - [sdushantha/dora](https://github.com/sdushantha/dora) – Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found
 - [sdushantha/gitdir](https://github.com/sdushantha/gitdir) – Download a single directory/folder from a GitHub repo
 - [seanpm2001/Candroid](https://github.com/seanpm2001/Candroid) – 🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) – Python APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) – Python APIs for web automation, testing, UI agents, and bypassing bot-detection.
 - [sensepost/dresscode](https://github.com/sensepost/dresscode) – Scan websites CSP policies and visualise their vunlnerabilities from a dashboard
 - [sensepost/objection](https://github.com/sensepost/objection) – 📱 objection - runtime mobile exploration
 - [sensepost/susinternals](https://github.com/sensepost/susinternals) – psexecsvc - a python implementation of PSExec's native service implementation
