@@ -3403,12 +3403,15 @@
 - [pacstall/pacmime](https://github.com/pacstall/pacmime)
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
+- [pkgforge-cargo/builder](https://github.com/pkgforge-cargo/builder) – 📦 The Largest Collection of Pre-Compiled Cargo/Rust Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge-community/stalix-pkger](https://github.com/pkgforge-community/stalix-pkger) – Easy stal/IX Package Builder [Maintainer=@Azathothas]
+- [pkgforge-conda/builder](https://github.com/pkgforge-conda/builder) – Conda Packages re:packaged for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
 - [pkgforge-dev/Distropacks](https://github.com/pkgforge-dev/Distropacks) – Linux Distro (Alma | Alpine | Arch | Amazon | Clear | Debian | Fedora | Gentoo | Kali | OpenSuSe | Oracle | Rocky | Ubuntu)  images (.tar) extracted & pulled from various sources. (Docker Registry, Official Mirrors etc)
 - [pkgforge-dev/Toolpacks-BinCache-Importer](https://github.com/pkgforge-dev/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
 - [pkgforge-dev/ndk-pkg-formula-repository-fork-core](https://github.com/pkgforge-dev/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
+- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge-security/CertStream-Domains](https://github.com/pkgforge-security/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [pkgforge-security/CertStream-Nepal](https://github.com/pkgforge-security/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
