@@ -3403,7 +3403,6 @@
 - [pacstall/pacmime](https://github.com/pacstall/pacmime)
 - [pantsufan/Magisk-Ad-Blocking-Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) – Magisk module to block ads on android
 - [pdelteil/BugBountyReportTemplates](https://github.com/pdelteil/BugBountyReportTemplates) – List of reporting templates I have used since I started doing BBH.
-- [pkgforge-cargo/builder](https://github.com/pkgforge-cargo/builder) – 📦 The Largest Collection of Pre-Compiled Cargo/Rust Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge-community/stalix-pkger](https://github.com/pkgforge-community/stalix-pkger) – Easy stal/IX Package Builder [Maintainer=@Azathothas]
 - [pkgforge-conda/builder](https://github.com/pkgforge-conda/builder) – Conda Packages re:packaged for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge-dev/Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages) – AppImages That Truly Work On Any Linux System (Even musl-libc and non-FHS systems)
@@ -5786,6 +5785,7 @@
 - [phoenixbyrd/Termux_XFCE](https://github.com/phoenixbyrd/Termux_XFCE)
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) – System for building cross-distribution Linux binaries
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) – A black hole for Internet advertisements
+- [pkgforge-cargo/builder](https://github.com/pkgforge-cargo/builder) – 📦 The Largest Collection of Pre-Compiled Cargo/Rust Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge-community/AM-HF-SYNC](https://github.com/pkgforge-community/AM-HF-SYNC) – Build, Cache & Sync AM ==> https://huggingface.co/datasets/pkgforge/AMcache
 - [pkgforge-community/Toolpacks-Temp-Builds](https://github.com/pkgforge-community/Toolpacks-Temp-Builds) – Testing Temp/Demo Builds for https://github.com/Azathothas/Toolpacks
 - [pkgforge-community/repo-data](https://github.com/pkgforge-community/repo-data) – Repo Metadata, Syncers & Updaters
