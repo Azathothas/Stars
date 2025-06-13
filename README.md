@@ -3123,6 +3123,7 @@
 ## Nushell
 
 - [nushell/nightly](https://github.com/nushell/nightly) – The nightly release packages of Nushell, Only keep the latest a few releases
+- [rhino-linux/rhino-pkg](https://github.com/rhino-linux/rhino-pkg) – A wrapper for apt + snap + flatpak + Pacstall
 
 <div id="objective-c"></div>
 
@@ -5838,7 +5839,6 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) – redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [revanced-apks/build-apps](https://github.com/revanced-apks/build-apps) – The ReVanced APKs
 - [rhino-linux/docker](https://github.com/rhino-linux/docker)
-- [rhino-linux/rhino-pkg](https://github.com/rhino-linux/rhino-pkg) – A wrapper for apt + snap + flatpak + Pacstall
 - [risecid/parrot-in-termux](https://github.com/risecid/parrot-in-termux) – Installing Parrot Os With Termux
 - [rix4uni/originip](https://github.com/rix4uni/originip) – originip finds origin ip from dig, shodan, censys, securitytrails, viewdns, hunter how, fofa, zoomeye.
 - [rix4uni/scope](https://github.com/rix4uni/scope) – An automated GitHub Actions-based crawler that fetches and updates public scopes from popular bug bounty platforms (like Hackerone/Bugcrowd/Intigriti/etc) (updates every 10 minutes)
