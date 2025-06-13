@@ -1463,7 +1463,7 @@
 - [cloudfoundry/winc](https://github.com/cloudfoundry/winc) – CLI tool for spawning and running containers on Windows according to the OCI specification
 - [clouditor/clouditor](https://github.com/clouditor/clouditor) – The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.
 - [cloudius-systems/capstan](https://github.com/cloudius-systems/capstan) – Capstan, a tool for packaging and running your application on OSv. http://osv.io/capstan
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) – 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) – 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) – A Friendly Kubernetes CloudShell (Web Terminal) ! 
 - [cmars/onionpipe](https://github.com/cmars/onionpipe) – Onion addresses for anything.
 - [coder/coder](https://github.com/coder/coder) – Provision remote development environments via Terraform
@@ -1509,7 +1509,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) – eBPF-based Linux high-performance transparent proxy solution.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, powerful alternative to Airflow. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -4288,7 +4288,7 @@
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) – Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
 - [tamatebako/tebako](https://github.com/tamatebako/tebako) – Tebako: an executable packager (for Ruby programs)
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services in public beta.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
 
