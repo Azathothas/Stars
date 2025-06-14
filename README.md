@@ -1182,7 +1182,7 @@
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
-- [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client 100% in Go to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
+- [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
 - [OJ/gobuster](https://github.com/OJ/gobuster) – Directory/File, DNS and VHost busting tool written in Go
 - [OkamiW/proxy-ns](https://github.com/OkamiW/proxy-ns) – Run programs in a network namespace where all traffic go through proxy
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) – OliveTin gives safe and simple access to predefined shell commands from a web interface. 
