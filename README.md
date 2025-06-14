@@ -3256,7 +3256,6 @@
 - [bromite/bromite](https://github.com/bromite/bromite) – Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [buggysolid/bugbounty-wordlist](https://github.com/buggysolid/bugbounty-wordlist) – Real world bug bounty wordlists
 - [caido-community/awesome](https://github.com/caido-community/awesome) – 🔗 A curated list of awesome Caido related projects
-- [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) – A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) – Terminal Emulators
 - [cenk/nrd](https://github.com/cenk/nrd) – Newly Registered Domains - Generated from WhoisDS.com free NRD database.
@@ -5519,6 +5518,7 @@
 - [borestad/static-binaries](https://github.com/borestad/static-binaries) – Static binaries updated hourly
 - [breeze303/openwrt-ci](https://github.com/breeze303/openwrt-ci) – 自动化编译IPQ系列固件
 - [bruzistico/mortomuitolouco](https://github.com/bruzistico/mortomuitolouco) – Tool to try to find IPs of "dead" subdomains/domains, based on virtual hosts.
+- [caido/caido](https://github.com/caido/caido) – 🚀 Caido releases, wiki and roadmap
 - [candrewlee14/webman-pkgs](https://github.com/candrewlee14/webman-pkgs) – Repo to store package installation config files for https://github.com/candrewlee14/webman
 - [carlosedp/riscv-bringup](https://github.com/carlosedp/riscv-bringup) – Risc-V journey thru containers and new projects
 - [casterbyte/F31](https://github.com/casterbyte/F31) – Kali noise reduction tool
