@@ -984,6 +984,7 @@
 - [beeware/briefcase-linux-appimage-template](https://github.com/beeware/briefcase-linux-appimage-template) – A template for generating Linux AppImage projects with Briefcase
 - [captn3m0/repology-dump-docker](https://github.com/captn3m0/repology-dump-docker)
 - [clux/muslrust](https://github.com/clux/muslrust) – Docker environment for building musl based static rust binaries
+- [cross-rs/cross-toolchains](https://github.com/cross-rs/cross-toolchains) – Additional Dockerfiles and crosstool-ng config files to build additional toolchains.
 - [dyne/docker-devuan-builds](https://github.com/dyne/docker-devuan-builds) – Slim docker base images based on Devuan
 - [eweOS/docker](https://github.com/eweOS/docker) – Docker image for eweOS
 - [fathonix/toybox-split-musleabi](https://github.com/fathonix/toybox-split-musleabi) – Dockerfile to build statically compiled, split ToyBox binaries targeting soft-float, 32-bit ARM Linux EABI.
