@@ -3459,7 +3459,6 @@
 - [soulteary/docker-flare](https://github.com/soulteary/docker-flare) – Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
 - [stal-ix/pkgsrc](https://github.com/stal-ix/pkgsrc) – package cache for stal/ix
 - [stal-ix/stal-ix.github.io](https://github.com/stal-ix/stal-ix.github.io) – landing page
-- [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) – Daily feed of bad IPs (with blacklist hit scores)
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) – Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) – 🌩️ A list of awesome online development environments
@@ -5895,6 +5894,7 @@
 - [srl-labs/wsl-containerlab](https://github.com/srl-labs/wsl-containerlab) – A ready-to-use WSL distribution that makes network labbing on Windows a breeze
 - [srvrco/getssl](https://github.com/srvrco/getssl) – obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers. 
 - [stal-ix/ix](https://github.com/stal-ix/ix) – ix package manager, statically build packages, for darwin/linux, with clang
+- [stal-ix/stalix](https://github.com/stal-ix/stalix) – STAtically LInked LInuX, based on IX package manager
 - [stck-lzm/badown](https://github.com/stck-lzm/badown) – badown (bash-downloader for mediafire, zippyshare & mega) 
 - [stealthcopter/deepce](https://github.com/stealthcopter/deepce) – Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) – Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
