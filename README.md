@@ -3057,6 +3057,7 @@
 - [kreatolinux/src](https://github.com/kreatolinux/src) – Kreato Linux source tree
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [nim-lang/choosenim](https://github.com/nim-lang/choosenim) – Official tool for easily installing and managing multiple versions of the Nim programming language.
+- [nim-lang/nimble](https://github.com/nim-lang/nimble) – Package manager for the Nim programming language.
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) – Nimony is a new Nim implementation that is in heavy development.
 - [nim-lang/packages](https://github.com/nim-lang/packages) – List of packages for Nimble
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
@@ -5053,6 +5054,7 @@
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) – The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
+- [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) – ELF visualizer. Generates HTML files from ELF binaries.
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) – Slice and dice logs on the command line
 - [reciperium/recipe-lang](https://github.com/reciperium/recipe-lang) – Write recipes understood by humans and machines
@@ -5258,7 +5260,6 @@
 - [yshavit/mdq](https://github.com/yshavit/mdq) – like jq but for Markdown: find specific elements in a md doc
 - [yshui/job-security](https://github.com/yshui/job-security) – job control from anywhere!
 - [yujqiao/catproc](https://github.com/yujqiao/catproc) – Print the output of a running process
-- [yujqiao/rathole](https://github.com/yujqiao/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) – Terminal UI to list, browse and run APIs defined with openapi spec.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) – ✨ Rust 版 ServerStatus 探针、威力加强版
 - [zed-industries/zed](https://github.com/zed-industries/zed) – Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -5761,6 +5762,7 @@
 - [nickjj/dotfiles](https://github.com/nickjj/dotfiles) – Settings for various tools I use.
 - [nikitastupin/orgs-data](https://github.com/nikitastupin/orgs-data) – Mapping from bug bounty and vulnerability disclosure programs to respective GitHub organizations
 - [nikitastupin/pwnhub](https://github.com/nikitastupin/pwnhub) – How GitHub Actions workflows can be hacked
+- [nim-lang/nightlies](https://github.com/nim-lang/nightlies) – Separate repository to trigger installer builds.
 - [nitanmarcel/isodrive-magisk](https://github.com/nitanmarcel/isodrive-magisk) – Use your android device to boot Linux distributions/ISO files on your PC
 - [nitefood/asn](https://github.com/nitefood/asn) – ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) – Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
