@@ -177,7 +177,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) – Display and control your Android device
 - [Gottox/sqsh-tools](https://github.com/Gottox/sqsh-tools) – 🗜️ fast r/o squashfs implementation written in C.
 - [Im-0xea/binfetch](https://github.com/Im-0xea/binfetch) – A Neofetch inspired binary analyzer
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) – ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 - [JoeDog/siege](https://github.com/JoeDog/siege) – Siege is an http load tester and benchmarking utility
 - [JonathonReinhart/staticx](https://github.com/JonathonReinhart/staticx) – Create static executable from dynamic executable
 - [JuliaPoo/Artfuscator](https://github.com/JuliaPoo/Artfuscator) – A C compiler targeting an artistically pleasing nightmare for reverse engineers
@@ -2652,7 +2652,7 @@
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) – Powerful and extensible proxy server with anti-censorship functionality for Android
 - [malexmave/blog-spring-actuator-example](https://github.com/malexmave/blog-spring-actuator-example) – An example project with a vulnerable Spring Actuator configuration, as a companion to a blog post
 - [meefik/busybox](https://github.com/meefik/busybox) – BusyBox for Android
-- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV Or JSON. The Data Loading Workhorse behind https://ip.thc.org
+- [messede-degod/sstable-migrator](https://github.com/messede-degod/sstable-migrator) – Generate SStables From CSV. The Data Conversion Workhorse behind https://ip.thc.org
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) – MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [mikeroyal/AWS-Guide](https://github.com/mikeroyal/AWS-Guide) – Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 - [moeinfatehi/Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder) – A burp suite extension that enumerates infrastructure and application admin interfaces (OTG-CONFIG-005)
@@ -3058,6 +3058,7 @@
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [nim-lang/choosenim](https://github.com/nim-lang/choosenim) – Official tool for easily installing and managing multiple versions of the Nim programming language.
 - [nim-lang/nimony](https://github.com/nim-lang/nimony) – Nimony is a new Nim implementation that is in heavy development.
+- [nim-lang/packages](https://github.com/nim-lang/packages) – List of packages for Nimble
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) – A curated list of awesome Nim frameworks, libraries, software and resources.
 
 <div id="nix"></div>
