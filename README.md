@@ -1202,7 +1202,7 @@
 - [RevoltSecurities/Crlfix](https://github.com/RevoltSecurities/Crlfix) – CrlfiX
 - [RichardKnop/machinery](https://github.com/RichardKnop/machinery) – Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [RikunjSindhwad/Task-Ninja](https://github.com/RikunjSindhwad/Task-Ninja) – Ultimate Tasks Automation Framework for Hackers, DevSecOps, Pentesters, and Bug-bounty hunters! 
-- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌓 The Moon-powered shell! A comfy and extensible shell for Lua fans! 🌺 ✨
+- [Rosettea/Hilbish](https://github.com/Rosettea/Hilbish) – 🌺 ✨🌙 The Moon-powered shell! A comfy and extensible shell for Lua fans!
 - [SRI-CSL/gllvm](https://github.com/SRI-CSL/gllvm) – Whole Program LLVM: wllvm ported to go
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) – Certificate Transparency Log Monitor
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) – The universal proxy platform
@@ -2490,7 +2490,7 @@
 - [Correia-jpv/fucking-Awesome-Linux-Software](https://github.com/Correia-jpv/fucking-Awesome-Linux-Software) – A list of awesome applications, software, tools and other materials for Linux distros. With repository stars⭐ and forks🍴
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) – Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) – GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-- [HeliumOS-org/website](https://github.com/HeliumOS-org/website)
+- [HeliumOS-org/heliumos.org](https://github.com/HeliumOS-org/heliumos.org)
 - [Homebrew/brew.sh](https://github.com/Homebrew/brew.sh) – 🔖 The Homebrew homepage
 - [Homebrew/formulae.brew.sh](https://github.com/Homebrew/formulae.brew.sh) – 🏎 An online formulae browser for Homebrew
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) – A curated list of awesome warez and piracy links
