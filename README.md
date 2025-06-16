@@ -5080,7 +5080,7 @@
 - [rewe-digital/schema2000](https://github.com/rewe-digital/schema2000) – Schema2000 is a tool that parses exsiting JSON documents and tries to derive a JSON schema from these documents.
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) – A fast, simple TUI for interacting with systemd services and their logs
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) – Rhai - An embedded scripting language for Rust.
-- [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rolling Rhino
+- [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rhino Linux
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
 - [ripytide/metapac](https://github.com/ripytide/metapac) – multi-backend declarative package manager
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) – Rust library and CLI tool for OCR (extracting text from images)
@@ -5639,7 +5639,7 @@
 - [hackerschoice/segfault](https://github.com/hackerschoice/segfault)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
-- [harilvfs/carch](https://github.com/harilvfs/carch) – A simple CLI tool to automate Linux system setup 🧩
+- [harilvfs/carch](https://github.com/harilvfs/carch) – A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
 - [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
