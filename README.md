@@ -2771,6 +2771,7 @@
 - [iterative/setup-dvc](https://github.com/iterative/setup-dvc) – DVC GitHub action
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) – A simple, distributed task scheduler and runner with a web based UI.
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) – Read e-books in style
+- [joye61/pic-smaller](https://github.com/joye61/pic-smaller) – Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [kangax/html-minifier](https://github.com/kangax/html-minifier) – Javascript-based HTML compressor/minifier (with Node.js support)
 - [khantsithu1998/bypass-react-native-emulator-detection](https://github.com/khantsithu1998/bypass-react-native-emulator-detection) – bypass react-native-device-info emulator detection frida script
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) – A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
