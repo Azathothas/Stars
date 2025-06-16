@@ -5088,6 +5088,7 @@
 - [robiot/rustcat](https://github.com/robiot/rustcat) – Rustcat(rcat) - The modern Port listener and Reverse shell
 - [robjtede/inspect-cert-chain](https://github.com/robjtede/inspect-cert-chain) – Inspect and debug TLS certificate chains (without OpenSSL)
 - [ronnychevalier/cargo-multivers](https://github.com/ronnychevalier/cargo-multivers) – Cargo subcommand to build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary
+- [rorosen/zeekstd](https://github.com/rorosen/zeekstd) – Rust implementation of the Zstandard Seekable Format
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) – Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
 - [ruanformigoni/gameimage](https://github.com/ruanformigoni/gameimage) – Gameimage - FlatImage Game Packer 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
