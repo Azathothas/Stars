@@ -2540,6 +2540,7 @@
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+- [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) – Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [swisskyrepo/HardwareAllTheThings](https://github.com/swisskyrepo/HardwareAllTheThings) – Hardware/IOT Pentesting Wiki
 - [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext)
@@ -5094,7 +5095,6 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) – A Flash Player emulator written in Rust
 - [rune-rs/rune](https://github.com/rune-rs/rune) – An embeddable dynamic programming language for Rust.
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) – Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-- [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
 - [rust-cli/rexpect](https://github.com/rust-cli/rexpect) – .github/workflows/ci.yml
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
