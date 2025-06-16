@@ -44,6 +44,7 @@
 - [Llvm](#llvm)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Marko](#marko)
 - [Mathematica](#mathematica)
 - [Mdx](#mdx)
 - [Meson](#meson)
@@ -2701,7 +2702,7 @@
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) – Translate your page in real time using Google, Bing or Yandex
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) – Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [Homebrew/actions](https://github.com/Homebrew/actions) – 🚀 Homebrew's GitHub Actions
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) – Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) – Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 - [MiguelCarino/findmeadistro](https://github.com/MiguelCarino/findmeadistro) – a website that finds random OS
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) – Based on a true story
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) – Connect APIs, remarkably fast.  Free for developers.
@@ -3018,6 +3019,12 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) – Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) – 📚 Collaborative cheatsheets for console commands
 
+<div id="marko"></div>
+
+## Marko
+
+- [Zigistry/Zigistry](https://github.com/Zigistry/Zigistry) – A place where you can find all the libraries that suit your Zig lang needs. ⭐️ Please star to support this work!
+
 <div id="mathematica"></div>
 
 ## Mathematica
@@ -3049,6 +3056,7 @@
 
 ## Nim
 
+- [PMunch/futhark](https://github.com/PMunch/futhark) – Automatic wrapping of C headers in Nim
 - [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) – LLVM-based compiler for the Nim language
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 - [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
@@ -3737,6 +3745,7 @@
 - [Xewdy444/Playwright-reCAPTCHA](https://github.com/Xewdy444/Playwright-reCAPTCHA) – A Python library for solving reCAPTCHA v2 and v3 with Playwright
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) – Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) – ALL IN ONE Hacking Tool For Hackers
+- [Zigistry/database](https://github.com/Zigistry/database) – This repo solely contains the database of Zigistry, this is updated every hour.
 - [a-scie/lift](https://github.com/a-scie/lift) – Provides science, a high level tool to build scies with.
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) – A tool for checking the security hardening options of the Linux kernel
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) – Smart DNS proxy to watch Netflix
