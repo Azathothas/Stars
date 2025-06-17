@@ -319,7 +319,7 @@
 - [eth-cscs/squashfs-mount](https://github.com/eth-cscs/squashfs-mount) – Setuid instead of FUSE for mounting squashfs files.
 - [facebook/zstd](https://github.com/facebook/zstd) – Zstandard - Fast real-time compression algorithm
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) – A high performance layer 4 load balancer
-- [fairyglade/ly](https://github.com/fairyglade/ly) – display manager with console UI
+- [fairyglade/ly](https://github.com/fairyglade/ly) – A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/AnErrupTion/ly).
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) – A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) – Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving the ultimate goal: app immortality. Refuse forced termination, auto-start on phone boot, auto-start at scheduled times, event-driven auto-start.
 - [fgont/ipv6toolkit](https://github.com/fgont/ipv6toolkit) – SI6 Networks' IPv6 Toolkit
