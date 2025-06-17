@@ -3432,7 +3432,6 @@
 - [pkgforge-dev/Toolpacks-BinCache-Importer](https://github.com/pkgforge-dev/Toolpacks-BinCache-Importer) – Official (pkgforge-stable) Repo 📦📀 for Importing Toolpacks to PkgForge's BinCache
 - [pkgforge-dev/ip.pkgforge.dev](https://github.com/pkgforge-dev/ip.pkgforge.dev) – Simple, Private & Tracker Free Cloudflare Worker Config to return IP + GeoInfo in plain TEXT, CSV, JSON, XML & YAML [Maintainer=@Azathothas]
 - [pkgforge-dev/ndk-pkg-formula-repository-fork-core](https://github.com/pkgforge-dev/ndk-pkg-formula-repository-fork-core) – Forked: https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
-- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge-security/.github](https://github.com/pkgforge-security/.github) – This ORG hosts @pkgforge's Official Security Tools & Research
 - [pkgforge-security/CertStream-Domains](https://github.com/pkgforge-security/CertStream-Domains) – [Automated | UpToDate] Daily Dumps of CertStream Certificate Logs Subdomains Data (SAN || CN)
 - [pkgforge-security/CertStream-Nepal](https://github.com/pkgforge-security/CertStream-Nepal) – [Automated | UpToDate] Daily Dumps of CertStream Subdomains Data For Nepal 🇳🇵
@@ -5823,6 +5822,7 @@
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
+- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
