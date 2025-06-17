@@ -1512,7 +1512,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) – eBPF-based Linux high-performance transparent proxy solution.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, light-weight, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, powerful, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -3954,6 +3954,7 @@
 - [iterative/dvc](https://github.com/iterative/dvc) – 🦉 Data Versioning and ML Experiments
 - [ivan-sincek/forbidden](https://github.com/ivan-sincek/forbidden) – Bypass 4xx HTTP response status codes and more. The tool is based on Python Requests, PycURL, and HTTP Client.
 - [ivre/ivre](https://github.com/ivre/ivre) – Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
+- [jabbalaci/SpeedTests](https://github.com/jabbalaci/SpeedTests) – comparing the execution speeds of various programming languages
 - [jakev/pyxamstore](https://github.com/jakev/pyxamstore) – Python utility for parsing Xamarin AssemblyStore blob files
 - [jamesmishra/unwebpack-sourcemap](https://github.com/jamesmishra/unwebpack-sourcemap) – Extract uncompiled, uncompressed SPA code from Webpack source maps. A fork of @rarecoil's work.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – NTP servers with NTS support
