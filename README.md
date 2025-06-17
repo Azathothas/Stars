@@ -1675,6 +1675,7 @@
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) – turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) – rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [golang-design/clipboard](https://github.com/golang-design/clipboard) – 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) 
+- [golang/pkgsite](https://github.com/golang/pkgsite) – [mirror] Home of the pkg.go.dev website
 - [gomarkdown/mdtohtml](https://github.com/gomarkdown/mdtohtml) – Command-line tool to convert markdown to html
 - [google/cabbie](https://github.com/google/cabbie) – A client side tool for managing the installation of Microsoft Windows updates on a device.
 - [google/certificate-transparency-go](https://github.com/google/certificate-transparency-go) – Auditing for TLS certificates (Go code)
@@ -4848,6 +4849,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) – Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [kateinoigakukun/wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) – A virtual filesystem layer for WASI.
 - [kateinoigakukun/wasminspect](https://github.com/kateinoigakukun/wasminspect) – An interactive debugger for WebAssembly 
+- [kellnr/kellnr](https://github.com/kellnr/kellnr) – The registry for Rust crates
 - [ken-matsui/jyt](https://github.com/ken-matsui/jyt) – A tridirectional converter between Json, Yaml, and Toml
 - [khyerdev/tcobalt](https://github.com/khyerdev/tcobalt) – Command-line interface wrapper for https://cobalt.tools, written in rust
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) – Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
