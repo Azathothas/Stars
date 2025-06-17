@@ -54,6 +54,7 @@
 - [Nsis](#nsis)
 - [Nushell](#nushell)
 - [Objective-C](#objective-c)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -3144,6 +3145,12 @@
 
 - [833M0L3/Legion-4600H-Hackintosh](https://github.com/833M0L3/Legion-4600H-Hackintosh) – macOS on Lenovo Legion 5-15ARH05 - Ryzen 4600H & GTX 1650 Ti
 - [darlinghq/darling](https://github.com/darlinghq/darling) – Darwin/macOS emulation layer for Linux
+
+<div id="odin"></div>
+
+## Odin
+
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) – Odin Programming Language
 
 <div id="others"></div>
 
