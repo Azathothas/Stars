@@ -4531,6 +4531,7 @@
 - [ancwrd1/snx-rs](https://github.com/ancwrd1/snx-rs) – Open Source Linux Client For Check Point VPN Tunnels
 - [andreibachim/shortcut](https://github.com/andreibachim/shortcut) – Make desktop files
 - [androguard/goauld](https://github.com/androguard/goauld) – Dynamic injection tool for Linux/Android
+- [anistark/feluda](https://github.com/anistark/feluda) – Detect license usage restrictions in your project!
 - [ankddev/envfetch](https://github.com/ankddev/envfetch) – Lightweight cross-platform CLI tool for working with environment variables.
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
 - [apache/iggy](https://github.com/apache/iggy) – Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
