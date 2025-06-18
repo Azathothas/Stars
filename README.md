@@ -863,7 +863,6 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) – A C++ header-only HTTP/HTTPS server and client library
 - [zeek/zeek](https://github.com/zeek/zeek) – Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
@@ -1512,7 +1511,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) – eBPF-based Linux high-performance transparent proxy solution.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
 - [dagger/dagger](https://github.com/dagger/dagger) – An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, powerful workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) – A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
 - [danderson/netboot](https://github.com/danderson/netboot) – Packages and utilities for network booting
 - [danielgatis/imgcat](https://github.com/danielgatis/imgcat) – Display images and gifs in your terminal.
@@ -3293,6 +3292,7 @@
 - [coracoo/awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) – 上百款可docker部署的项目，包含项目地址、项目部署教程等。
 - [craiu/mobiletrackers](https://github.com/craiu/mobiletrackers) – A repository of telemetry domains and URLs used by mobile location tracking, user profiling, targeted marketing and aggressive ads libraries.
 - [croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) – 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
+- [cursor/cursor](https://github.com/cursor/cursor) – The AI Code Editor
 - [cyprosecurity/API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) – API Security Project aims to present unique attack & defense methods in API Security field
 - [daffainfo/all-about-apikey](https://github.com/daffainfo/all-about-apikey) – Detailed information about API key / OAuth token (Description, Request, Response, Regex, Example)
 - [daffainfo/match-replace-burp](https://github.com/daffainfo/match-replace-burp) – Useful "Match and Replace" burpsuite rules
@@ -3332,7 +3332,6 @@
 - [fscarmen2/V2-for-Patr](https://github.com/fscarmen2/V2-for-Patr)
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) – Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) – 程序员延寿指南 | A programmer's guide to live longer
-- [getcursor/cursor](https://github.com/getcursor/cursor) – The AI Code Editor
 - [glaucuslinux/glaucus](https://github.com/glaucuslinux/glaucus) – An opinionated Linux® distribution based on musl libc and toybox
 - [google/android-riscv64](https://github.com/google/android-riscv64) – Issues and discussions around RISC-V support in AOSP.
 - [gosirys/Posts](https://github.com/gosirys/Posts) – Temporary dump of posts I eventually plan to publish on a proper site
