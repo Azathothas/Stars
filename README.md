@@ -218,6 +218,7 @@
 - [Sweets/hummingbird](https://github.com/Sweets/hummingbird) – Hummingbird init system for Linux based operating systems.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) – GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [TUVIMEN/reliq](https://github.com/TUVIMEN/reliq) – HTML parsing and searching tool
+- [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) – Package Python projects into executables
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) – Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
 - [Thomas-Tsai/partclone](https://github.com/Thomas-Tsai/partclone) – Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library.
 - [ThomasDickey/ncurses-snapshots](https://github.com/ThomasDickey/ncurses-snapshots) – snapshots of ncurses - see https://invisible-island.net/personal/git-exports.html (no pull requests are accepted)
@@ -2235,6 +2236,7 @@
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) – 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [seveas/herd](https://github.com/seveas/herd) – Massively parallel ssh client
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) – 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+- [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks) – Simple CLI tool to transform SOCKS proxy into HTTP proxy with support for Transparent Proxy (Redirect and TProxy), Proxychains and Traffic Sniffing
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) – Automatically update your Windows hosts file with the WSL2 VM IP address
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) – :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [shenwei356/brename](https://github.com/shenwei356/brename) – A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
@@ -6145,7 +6147,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) – Etherpad: A modern really-real-time collaborative document editor.
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) – A blazingly fast router for static sites
 - [flathub-infra/website](https://github.com/flathub-infra/website) – Monorepo with website and API
-- [fmhy/edit](https://github.com/fmhy/edit) – Make changes to FMHY
+- [fmhy/edit](https://github.com/fmhy/edit) – https://fmhy.net/
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) – Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [getezy/ezy](https://github.com/getezy/ezy) – 🔥 GUI client for gRPC/gRPC-Web
 - [giscus/giscus](https://github.com/giscus/giscus) – A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
