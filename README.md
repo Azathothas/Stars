@@ -1429,7 +1429,7 @@
 - [chainguard-dev/actions](https://github.com/chainguard-dev/actions) – A collection of reusable Github Actions workflows.
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) – Build OCI images from APK packages directly without Dockerfile
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) – build APKs from source code
-- [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高度可控可拓展的自动化扫描引擎 | A highly controllable and scalable automated scanning engine for red teams
+- [chainreactors/gogo](https://github.com/chainreactors/gogo) – 面向红队的, 高性能高度自由可拓展的自动化扫描引擎 | A highly controllable and extensionable automated scanning engine for red teams
 - [chainreactors/proxyclient](https://github.com/chainreactors/proxyclient) – golang styles proxy client, support http/https, socks4/5, ssh
 - [chainreactors/spray](https://github.com/chainreactors/spray) – 最好用最智能最可控的目录Fuzz工具 | The most powerful, user-friendly, intelligent, and precise HTTP Fuzzer.
 - [chainreactors/zombie](https://github.com/chainreactors/zombie) – 最强大的密码爆破/喷洒工具 | The most powerful bruteforcer / sprayer Artifact
