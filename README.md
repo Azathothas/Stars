@@ -3531,7 +3531,7 @@
 - [ambionics/phpggc](https://github.com/ambionics/phpggc) – PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. 
 - [box-project/box](https://github.com/box-project/box) – 📦🚀 Fast, zero config application bundler with PHARs.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) – An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) – Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) – Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) – SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) – Firefly III: a personal finances manager
 - [gwen001/vhost-brute](https://github.com/gwen001/vhost-brute) – A PHP tool to brute force vhost configured on a server.
