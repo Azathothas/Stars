@@ -3905,7 +3905,6 @@
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
 - [flattool/warehouse](https://github.com/flattool/warehouse) – A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [flotwig/TLDR-2](https://github.com/flotwig/TLDR-2) – TLDR 2 (TLD Records 2) is a continually updated DNS archive of zone transfer attempts against all existing TLD nameservers as well as the root servers. 
-- [flygon2018/MobaXterm-keygen](https://github.com/flygon2018/MobaXterm-keygen) – A keygen for MobaXterm
 - [fortra/impacket](https://github.com/fortra/impacket) – Impacket is a collection of Python classes for working with network protocols.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) – Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [freelabz/secator](https://github.com/freelabz/secator) – secator - the pentester's swiss knife
@@ -6031,7 +6030,7 @@
 ## Svelte
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [Materialious/Materialious](https://github.com/Materialious/Materialious) – Modern material design for Invidious.
+- [Materialious/Materialious](https://github.com/Materialious/Materialious) – Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor) – Bitor Scanning Software
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
