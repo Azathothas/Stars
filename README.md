@@ -2126,6 +2126,7 @@
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) – Quickly discover exposed hosts on the internet using multiple search engines.
 - [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) – A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) – A high performance go implementation of Wappalyzer Technology Detection Library
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) – Push docker images directly to remote servers without an external registry
 - [pterm/pterm](https://github.com/pterm/pterm) – ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.
 - [publicsuffix/list](https://github.com/publicsuffix/list) – The Public Suffix List
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) – Next generation distributed, event-driven, parallel config management!
@@ -4567,6 +4568,7 @@
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) – 🌀 A log file highlighter
 - [bgkillas/kalc](https://github.com/bgkillas/kalc) – a complex numbers, 2d/3d graphing, arbitrary precision, vector/matrix, cli calculator with real-time output and support for units
 - [bgpkit/oneio](https://github.com/bgpkit/oneio) – OneIO is a Rust library that provides unified simple IO interface for reading and writing to and from data files from different sources and compressions.
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) – A fast, minimalist directory tree viewer, written in Rust.
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) – Statistics-driven benchmarking library for Rust
 - [bincode-org/bincode](https://github.com/bincode-org/bincode) – A binary encoder / decoder implementation in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) – A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
