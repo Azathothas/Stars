@@ -5115,6 +5115,7 @@
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) – Cross compile Cargo project to Windows MSVC target with ease
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) – Compile Cargo project with zig as linker
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) – Rust library for build scripts to compile C/C++ code into a Rust library
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) – The Rust package registry
 - [rust-lang/glob](https://github.com/rust-lang/glob) – Support for matching file paths against Unix shell style patterns.
 - [rust-lang/libm](https://github.com/rust-lang/libm) – A port of MUSL's libm to Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
