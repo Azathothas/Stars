@@ -864,6 +864,7 @@
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) – Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) – A C++ header-only HTTP/HTTPS server and client library
 - [zeek/zeek](https://github.com/zeek/zeek) – Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) – Welcome to a calmer internet
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) – A Smart Ethernet Switch for Earth
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) – 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
