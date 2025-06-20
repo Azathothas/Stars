@@ -3120,6 +3120,7 @@
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) – Runtime sandboxing for Nix
 - [nixpak/pkgs](https://github.com/nixpak/pkgs) – NixPak Packages [CI: https://hercules-ci.com/github/nixpak/pkgs]
+- [oxalica/nocargo](https://github.com/oxalica/nocargo) – [alpha] Build Rust crates with Nix Build System.
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) – Convert a nixos derivation into a self-contained binary
@@ -4685,6 +4686,7 @@
 - [dszczyt/rust-jwt-cracker](https://github.com/dszczyt/rust-jwt-cracker) – JWT brute force token cracker written in rust
 - [dtolnay/build-alert](https://github.com/dtolnay/build-alert)
 - [dtolnay/cargo-unlock](https://github.com/dtolnay/cargo-unlock) – Remove Cargo.lock lockfile
+- [dtolnay/db-dump](https://github.com/dtolnay/db-dump) – Library for scripting analyses against crates.io's database dumps
 - [dtolnay/dircnt](https://github.com/dtolnay/dircnt) – Count directory entries—`ls | wc -l` but faster
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) – Wrapper to exec a command in a pty, even if redirecting the output
 - [dtolnay/sha1dir](https://github.com/dtolnay/sha1dir) – Checksum of a directory tree
