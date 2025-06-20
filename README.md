@@ -1183,6 +1183,7 @@
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) – Bare metal to production ready in mins; your own fly server on your VPS.
 - [Moe-sushi/yoshinon](https://github.com/Moe-sushi/yoshinon) – A whiptail-like dialog box written with Bubble Tea (Go)  #Meet the modern TUI
 - [Moopinger/smugglefuzz](https://github.com/Moopinger/smugglefuzz) – A rapid HTTP downgrade smuggling scanner written in Go.
+- [Musixal/Backhaul](https://github.com/Musixal/Backhaul) – Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support.
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) – SSH based reverse shell 
 - [NodyHub/grepsecrets](https://github.com/NodyHub/grepsecrets) – Grep Secrets from input
 - [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) – An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
@@ -3252,6 +3253,7 @@
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) – 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) – 📚「阅读」APP 自用书源（网络小说）
 - [acidvegas/bgp](https://github.com/acidvegas/bgp) – Research & Experiments with Border Gateway Protocol (BGP)
+- [acj/freebsd-firecracker-action](https://github.com/acj/freebsd-firecracker-action) – FreeBSD + Firecracker
 - [aclap-dev/video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper) – Download Helper
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) – A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [alitariq4589/cloud-v-builds](https://github.com/alitariq4589/cloud-v-builds)
@@ -4511,6 +4513,7 @@
 - [a-scie/jump](https://github.com/a-scie/jump) – A Self Contained Interpreted Executable Launcher
 - [a-scie/ptex](https://github.com/a-scie/ptex) – Ship gouged out scies that repair their base on 1st run by fetching missing files.
 - [aaronriekenberg/rust-parallel](https://github.com/aaronriekenberg/rust-parallel) – Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.
+- [acj/krapslog-rs](https://github.com/acj/krapslog-rs) – Visualize logs in your terminal: ▂▃▃▃▃▃▅▅▅▅▃▃▅▅▆▇
 - [adamperkowski/nvrs](https://github.com/adamperkowski/nvrs) – 🚦 fast new version checker for software releases 🦀
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) – An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [aerys/gpm](https://github.com/aerys/gpm) – Git-based Package Manager.
@@ -5488,6 +5491,7 @@
 - [Zackptg5/Cross-Compiled-Binaries-Android](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android) – A collection of (mostly) static cross compiled binaries for android
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) – aria2 static build, support cross compile
 - [acidvegas/random](https://github.com/acidvegas/random) – collection of un-sorted bollocks
+- [acj/freebsd-firecracker](https://github.com/acj/freebsd-firecracker) – Launch FreeBSD VMs using Firecracker
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) – A pure Unix shell script implementing ACME client protocol
 - [adi1090x/termux-style](https://github.com/adi1090x/termux-style) – Simple script to change color-schemes and fonts for Termux.
 - [ading2210/lklfuse-static](https://github.com/ading2210/lklfuse-static) – Scripts for building lklfuse as a single static binary. Mount any Linux filesystem without root.
