@@ -4341,6 +4341,7 @@
 - [A2-ai/rv](https://github.com/A2-ai/rv)
 - [ANSSI-FR/lidi](https://github.com/ANSSI-FR/lidi) – Transfer a raw TCP or Unix stream or files through a unidirectional link with forward error correction
 - [AOSC-Dev/oma](https://github.com/AOSC-Dev/oma) – Package Manager for AOSC OS
+- [AOSC-Dev/pkgsite-tools](https://github.com/AOSC-Dev/pkgsite-tools) – Packages Site Utilities
 - [Achiefs/fim](https://github.com/Achiefs/fim) – FIM is an Open Source Host-based file integrity monitoring tool that performs file system analysis, file integrity checking, real time alerting and provides Audit daemon data.
 - [AerynOS/os-tools](https://github.com/AerynOS/os-tools) – The home of moss (system state and package manager) and boulder (moss format build tool)
 - [AhmedSoliman/netperf](https://github.com/AhmedSoliman/netperf) – A network performance measurement tool written in Rust
