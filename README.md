@@ -1513,6 +1513,7 @@
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) – Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) – eBPF-based Linux high-performance transparent proxy solution.
 - [daffainfo/Key-Checker](https://github.com/daffainfo/Key-Checker) – Go scripts for checking API key / access token validity
+- [dagger/container-use](https://github.com/dagger/container-use) – Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [dagger/dagger](https://github.com/dagger/dagger) – An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) – Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [dan-v/awslambdaproxy](https://github.com/dan-v/awslambdaproxy) – An AWS Lambda powered HTTP/SOCKS web proxy
