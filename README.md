@@ -4748,6 +4748,7 @@
 - [foresterre/imagineer](https://github.com/foresterre/imagineer) – 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 - [fossable/goldboot](https://github.com/fossable/goldboot) – Immutable infrastructure for the desktop!
 - [fossas/circe](https://github.com/fossas/circe) – Read, extract, and transform container contents
+- [frederik-uni/crates.io-dump-minfied](https://github.com/frederik-uni/crates.io-dump-minfied)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) – A network diagnostic tool 
 - [funatsufumiya/git-lfs-agent-rclone](https://github.com/funatsufumiya/git-lfs-agent-rclone) – A custom transfer agent for git-lfs that uses rclone to transfer files.
 - [gamelife1314/rsb](https://github.com/gamelife1314/rsb) – a http server benchmark tool written in rust 🦀
