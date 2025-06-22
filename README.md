@@ -4201,7 +4201,6 @@
 - [takito1812/web-hacking-playground](https://github.com/takito1812/web-hacking-playground) – Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) – Distributed task queue with full async support
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
-- [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) – Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [teaxyz/chai](https://github.com/teaxyz/chai) – tea’s package dataset
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) – Python Module Dependency graphs
