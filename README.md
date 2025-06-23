@@ -2329,7 +2329,7 @@
 - [tg123/sshpiper](https://github.com/tg123/sshpiper) – The missing reverse proxy for ssh scp
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) – Teldrive
 - [thegeeklab/url-parser](https://github.com/thegeeklab/url-parser) – Simple command-line URL parser
-- [thevxn/dish](https://github.com/thevxn/dish) – A lightweight monitoring service that efficiently checks socket connections and can be configured remotely.
+- [thevxn/dish](https://github.com/thevxn/dish) – A lightweight, remotely configurable monitoring service.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) – Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [thought-machine/please](https://github.com/thought-machine/please) – High-performance extensible build system for reproducible multi-language builds.
 - [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) – :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
@@ -2431,6 +2431,7 @@
 - [wzv5/pping](https://github.com/wzv5/pping) – tcp ping, tls ping, http ping, icmp ping, dns ping, quic ping.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) – Remote repository management made easy
 - [x-motemen/gore](https://github.com/x-motemen/gore) –   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [x-stp/rxtls](https://github.com/x-stp/rxtls) – rxtls is a hyper-optimized, per-core Certificate Transparency (CT) log processor built for one purpose: to extract and process 100,000+ X.509 certificates per second from the global CT ecosystem with zero GC, zero blocking, and total CPU saturation.
 - [x-way/ip_diff](https://github.com/x-way/ip_diff) – Compare two lists of IP prefixes
 - [x-way/ip_match](https://github.com/x-way/ip_match) – Match IP addresses against a list of prefixes
 - [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) – Bruteforcing from various scanner output - Automatically attempts default creds on found services.
