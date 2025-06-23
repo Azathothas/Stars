@@ -1004,6 +1004,7 @@
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) – static podman binaries and container image
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) – Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 - [mingchen/docker-android-build-box](https://github.com/mingchen/docker-android-build-box) – An optimized docker image includes Android, Kotlin, Flutter sdk.
+- [nim-lang/docker-images](https://github.com/nim-lang/docker-images) – Official Docker Hub images for Nim programming language
 - [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) – Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) – Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [perryflynn/static-binaries](https://github.com/perryflynn/static-binaries) – Static builds of common software
@@ -3905,7 +3906,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) – Up-to-date simple useragent faker with real world database
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
-- [finos/scaler](https://github.com/finos/scaler) – Efficient, lightweight and reliable distributed computation engine
+- [finos/opengris-scaler](https://github.com/finos/opengris-scaler) – Efficient, lightweight and reliable distributed computation engine
 - [firerpa/lamda](https://github.com/firerpa/lamda) –  The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
