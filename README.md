@@ -3652,7 +3652,6 @@
 - [CaliDog/certstream-python](https://github.com/CaliDog/certstream-python) – Python library for connecting to CertStream
 - [Ch0pin/medusa](https://github.com/Ch0pin/medusa) – Binary instrumentation framework based on FRIDA
 - [Chizkiyahu/delete-untagged-ghcr-action](https://github.com/Chizkiyahu/delete-untagged-ghcr-action) – Action for delete containers from Github container registry 
-- [Citi/scaler](https://github.com/Citi/scaler) – Efficient, lightweight and reliable distributed computation engine
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) – newTrackon, a public open BitTorrent trackers monitoring tool
 - [D3Ext/DFShell](https://github.com/D3Ext/DFShell) – D3Ext's Forward Shell  
 - [DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) – Lists of public DNSCrypt / DoH DNS servers and DNS relays
@@ -3906,6 +3905,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) – Up-to-date simple useragent faker with real world database
 - [federicodotta/protobuf-decoder](https://github.com/federicodotta/protobuf-decoder) – A simple Google Protobuf Decoder for Burp
+- [finos/scaler](https://github.com/finos/scaler) – Efficient, lightweight and reliable distributed computation engine
 - [firerpa/lamda](https://github.com/firerpa/lamda) –  The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) – Stateful zone based firewall daemon with D-Bus interface
 - [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools) – Various helper tools for flatpak-builder
@@ -5037,6 +5037,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
 - [pkgforge-dev/elftools](https://github.com/pkgforge-dev/elftools) – Tools & Libraries for manipulating ELF Files [Maintainers=@QaidVoid|@Azathothas]
+- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – ⚡Lightening-Fast, feature-rich, Universal Downloader 📥 for GitHub, GitLab, OCI & More [Maintainer=@QaidVoid]
@@ -5834,7 +5835,6 @@
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
-- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/metadata](https://github.com/pkgforge/metadata) – 🤖🧬 Automated Metadata Files, Scripts & more for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
