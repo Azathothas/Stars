@@ -63,6 +63,7 @@
 - [Purescript](#purescript)
 - [Python](#python)
 - [Qml](#qml)
+- [Red](#red)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Rpm Spec](#rpm-spec)
@@ -613,6 +614,7 @@
 - [visit1985/mdp](https://github.com/visit1985/mdp) – A command-line based markdown presentation tool.
 - [void-linux/xbps](https://github.com/void-linux/xbps) – The X Binary Package System (XBPS)
 - [voltagex-forks/proxydroid](https://github.com/voltagex-forks/proxydroid) – Global Proxy for Android
+- [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) – Umka: a statically typed embeddable scripting language
 - [vvb2060/curl-android](https://github.com/vvb2060/curl-android) – curl tool and libcurl static library prefab for android
 - [vyos/ipaddrcheck](https://github.com/vyos/ipaddrcheck) – An IPv4 and IPv6 validation utility for use in scripts
 - [whdd/whdd](https://github.com/whdd/whdd) – HDD diagnostic and data recovery tool for Linux
@@ -752,6 +754,7 @@
 - [breuner/elbencho](https://github.com/breuner/elbencho) – A distributed storage benchmark for file systems, object stores & block devices with support for GPUs
 - [canonical/multipass](https://github.com/canonical/multipass) – Multipass orchestrates virtual Ubuntu instances
 - [capnproto/capnproto](https://github.com/capnproto/capnproto) – Cap'n Proto serialization/RPC system - core tools and C++ library
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) – Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [ceph/ceph](https://github.com/ceph/ceph) – Ceph is a distributed object, block, and file storage platform 
 - [chocolateimage/fontviewer](https://github.com/chocolateimage/fontviewer) – View and install fonts on a Linux system
 - [chrisant996/clink](https://github.com/chrisant996/clink) – Bash's powerful command line editing in cmd.exe
@@ -1504,6 +1507,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) – OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [cubefs/cubefs](https://github.com/cubefs/cubefs) – cloud-native distributed storage
 - [cuducos/chunk](https://github.com/cuducos/chunk) – 🧱 Chunk is a download manager for slow and unstable servers
+- [cue-lang/cue](https://github.com/cue-lang/cue) – The home of the CUE language! Validate and define text-based and dynamic configuration
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) – Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [cvilsmeier/sqinn-go](https://github.com/cvilsmeier/sqinn-go) – Golang SQLite without cgo
 - [cybozu-go/aptutil](https://github.com/cybozu-go/aptutil) – Go utilities for Debian APT repositories
@@ -3904,6 +3908,7 @@
 - [euske/pyrexecd](https://github.com/euske/pyrexecd) – Standalone SSH server for Windows
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) – OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon) – A high performance offensive security tool for reconnaissance and vulnerability scanning
+- [exaloop/codon](https://github.com/exaloop/codon) – A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) – Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) – Daemon to ban hosts that cause multiple authentication errors
 - [fake-useragent/fake-useragent](https://github.com/fake-useragent/fake-useragent) – Up-to-date simple useragent faker with real world database
@@ -4263,6 +4268,12 @@
 ## Qml
 
 - [pkgforge-dev/Pixelpulse2-AppImage](https://github.com/pkgforge-dev/Pixelpulse2-AppImage) – Pixelpulse2 is a user interface for analog systems exploration. [Maintainer=@sounddrill31]
+
+<div id="red"></div>
+
+## Red
+
+- [red/red](https://github.com/red/red) – Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file! 
 
 <div id="rich-text-format"></div>
 
@@ -4902,7 +4913,7 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
 - [m4b/goblin](https://github.com/m4b/goblin) – An impish, cross-platform binary parsing crate, written in Rust
-- [maestro-os/maestro](https://github.com/maestro-os/maestro) – Unix-like kernel written in Rust
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) – Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much bloat and legacy as possible while being usable in most usecases
 - [maestro-os/maestro-utils](https://github.com/maestro-os/maestro-utils) – Utility commands for Maestro operating system
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) – Rust implementation of Magic Wormhole, with new features and enhancements
 - [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
