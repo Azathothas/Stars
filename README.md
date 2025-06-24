@@ -3388,6 +3388,7 @@
 - [lazyparser/talks](https://github.com/lazyparser/talks) – Schedule and slides of my presentations.
 - [leahneukirchen/leahutils](https://github.com/leahneukirchen/leahutils) – description of leahutils
 - [leiadpc/unofficial-appimages](https://github.com/leiadpc/unofficial-appimages)
+- [leleliu008/appimage-runtime-type2-prebuild](https://github.com/leleliu008/appimage-runtime-type2-prebuild) – prebuild binraries for type2 appimage-runtime
 - [leleliu008/ndk-pkg-package-manually-build](https://github.com/leleliu008/ndk-pkg-package-manually-build) – manually build Android NDK packages using ndk-pkg via GitHub Actions.
 - [leleliu008/ppkg-package-manually-build](https://github.com/leleliu008/ppkg-package-manually-build) – manully build packages using ppkg via GitHub Actions.
 - [leleliu008/uppm-formula-repository-linux-riscv64](https://github.com/leleliu008/uppm-formula-repository-linux-riscv64)
