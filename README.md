@@ -3694,7 +3694,6 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) – :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) – A powerful and useful hacker dictionary builder for a brute-force attack
 - [LorenEteval/Furious](https://github.com/LorenEteval/Furious) – A GUI proxy client based on PySide6. Support Xray-core & hysteria
-- [LukeLambert/fly-dev-tunnel](https://github.com/LukeLambert/fly-dev-tunnel) – Create a secure tunnel from a custom domain to localhost using Fly and WireGuard.
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) – Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collections, requests, users and teams. Porch Pirate can be used as a client or be incorporated into your own applications.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) – Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) – Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
