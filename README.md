@@ -1525,6 +1525,7 @@
 - [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) – :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 - [deepfence/YaraHunter](https://github.com/deepfence/YaraHunter) – 🔍🔍  Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) – Extract JavaScript source trees from Sourcemap files
+- [destel/rill](https://github.com/destel/rill) – Go toolkit for clean, composable, channel-based concurrency
 - [devanshbatham/headerpwn](https://github.com/devanshbatham/headerpwn) – A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [devanshbatham/rayder](https://github.com/devanshbatham/rayder) – A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [devanshbatham/realm](https://github.com/devanshbatham/realm) – A utility for recursively traversing SSL/TLS certificates for collecting DNS names
@@ -1736,6 +1737,7 @@
 - [hartwork/go-wait-for-it](https://github.com/hartwork/go-wait-for-it) – :beaver: Wait for service(s) to be available before executing a command.
 - [hashicorp/consul](https://github.com/hashicorp/consul) – Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [hashicorp/packer](https://github.com/hashicorp/packer) – Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [hdm/ctail](https://github.com/hdm/ctail) – Tail Certificate Transparency logs and extract hostnames
 - [hectorm/cetusguard](https://github.com/hectorm/cetusguard) – CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 - [hedhyw/json-log-viewer](https://github.com/hedhyw/json-log-viewer) – Interactive viewer for JSON logs.
 - [helviojunior/sprayshark](https://github.com/helviojunior/sprayshark) – SprayShark is a modular G-Suite password sprayer with threading!
