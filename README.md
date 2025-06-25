@@ -4403,7 +4403,7 @@
 - [FyraLabs/anda](https://github.com/FyraLabs/anda) – A modern Build/CI System
 - [FyraLabs/readymade](https://github.com/FyraLabs/readymade) – Install ready-made distribution images!
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [Goldziher/uncomment](https://github.com/Goldziher/uncomment) – CLI to remove comments from code
+- [Goldziher/uncomment](https://github.com/Goldziher/uncomment) – Blazingly fast CLI to remove comments from code using tree-sitter grammers
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -4914,7 +4914,7 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) – ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [m4b/bingrep](https://github.com/m4b/bingrep) – like ~~grep~~ UBER, but for binaries
 - [m4b/goblin](https://github.com/m4b/goblin) – An impish, cross-platform binary parsing crate, written in Rust
-- [maestro-os/maestro](https://github.com/maestro-os/maestro) – Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much bloat and legacy as possible while being usable in most usecases
+- [maestro-os/maestro](https://github.com/maestro-os/maestro) – Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while being usable in most usecases
 - [maestro-os/maestro-utils](https://github.com/maestro-os/maestro-utils) – Utility commands for Maestro operating system
 - [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs) – Rust implementation of Magic Wormhole, with new features and enhancements
 - [makindotcc/FlarelessHeadlessChrome](https://github.com/makindotcc/FlarelessHeadlessChrome) – Pass cloudflare IUAM using headless chrome without hassle. Vercel WAF, friendlycaptcha too, and probably many more.
