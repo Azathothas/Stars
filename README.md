@@ -5443,6 +5443,7 @@
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) – A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) – smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [Phantop/appdwarf](https://github.com/Phantop/appdwarf) – Tool to compress and run programs using dwarfs
@@ -6151,6 +6152,7 @@
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) – Keep your GIFs up to date with VHS + GitHub actions 📽️
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) – Blazing fast file vault written in TypeScript! 🚀
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) – A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [cline/cline](https://github.com/cline/cline) – Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) – Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) – 🧙‍♀️ easily deploy cloudflare workers applications using wrangler and github actions
 - [cmj2002/r2-dir-list](https://github.com/cmj2002/r2-dir-list) – Directory Listing for Cloudflare R2
