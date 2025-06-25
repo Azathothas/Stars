@@ -139,7 +139,7 @@
 - [depler/curl-impersonate-win](https://github.com/depler/curl-impersonate-win) – A special build of curl for Windows that can impersonate Chrome and Safari
 - [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) – A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
 
@@ -2727,6 +2727,7 @@
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) – A Modern Framework for Bug Bounty Hunting
 - [R-s0n/ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) – Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) – 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，提供API
+- [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [ReversecLabs/android-keystore-audit](https://github.com/ReversecLabs/android-keystore-audit)
 - [RuoShui-0014/js-env](https://github.com/RuoShui-0014/js-env) – 基于isolated-vm魔改虚拟机实现的js环境框架，封装了一套非js标准的代理和native函数创建的方法。
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
@@ -6113,7 +6114,6 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) – 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [PabloLec/neoss](https://github.com/PabloLec/neoss) – :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) – Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
-- [ReactiveCircus/android-emulator-runner](https://github.com/ReactiveCircus/android-emulator-runner) – A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines.
 - [SerCeMan/firewalker](https://github.com/SerCeMan/firewalker) – Testing framework for Cloudflare Firewall rules
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) – Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) – Forward email to telegram with Cloudflare Email Routing
