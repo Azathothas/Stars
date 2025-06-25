@@ -5408,6 +5408,7 @@
 - [HeliumOS-org/HeliumOS](https://github.com/HeliumOS-org/HeliumOS)
 - [HenrikBengtsson/x86-64-level](https://github.com/HenrikBengtsson/x86-64-level) – x86-64-level - Get the x86-64 Microarchitecture Level on the Current Machine
 - [Homebrew/install](https://github.com/Homebrew/install) – 📥 Homebrew (un)installer
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) – An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely. 
 - [Inscyght/Zero-E](https://github.com/Inscyght/Zero-E) – Automates the network enumeration process in a fire-and-forget manner, among many more functions. Aims to be the illest Nmap/masscan wrapper alive. Zero effort, zero error network enumeration.
 - [Ironclad-Project/Gloire](https://github.com/Ironclad-Project/Gloire) – Mirror of codeberg's repository
 - [IvanGlinkin/AutoSUID](https://github.com/IvanGlinkin/AutoSUID) – AutoSUID application is the Open-Source project, the main idea of which is to automate harvesting the SUID executable files and to find a way for further escalating the privileges.
@@ -6306,6 +6307,7 @@
 - [CaliDog/certstream-server](https://github.com/CaliDog/certstream-server) – Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
 - [Frontesque/scrcpy-plus](https://github.com/Frontesque/scrcpy-plus) – A simple GUI for SCRCPY and other ADB functions
 - [JingBh/ServerStatus-theme](https://github.com/JingBh/ServerStatus-theme) – A custom theme for ServerStatus-Rust
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) – An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) – Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) – The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) – A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
