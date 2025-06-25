@@ -2629,6 +2629,7 @@
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) – Powerful android apk editor - aapt/aapt2 independent
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
+- [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) – Modern Android client for Hacker News
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) – Source code of Package Manager, an Application to Manage your Apps.
 - [St3v3nsS/InsecureBanking](https://github.com/St3v3nsS/InsecureBanking) – Insecure Android Application for testing Biometric bypasses  
 - [Static-Flow/BOR](https://github.com/Static-Flow/BOR) – BOR - Break On Request, is a burp extension that provides a custom context menu for marking requests to be stopped by the interceptor with only one click!
