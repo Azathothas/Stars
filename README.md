@@ -6093,6 +6093,7 @@
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) – Telegram Web A, GPL v3
 - [AnWeber/httpbook](https://github.com/AnWeber/httpbook) – Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) – Chrome extension to return youtube dislikes
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) – Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) – ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) – Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Charca/cloudflare-pages-auth](https://github.com/Charca/cloudflare-pages-auth) – Basic Authentication for Cloudflare Pages
