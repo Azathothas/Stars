@@ -2733,7 +2733,7 @@
 - [SafetyCulture/grpc-web-devtools](https://github.com/SafetyCulture/grpc-web-devtools) – Chrome & Firefox Browser extension to aid gRPC-Web development
 - [Sankalpa-Acharya/notBrowser](https://github.com/Sankalpa-Acharya/notBrowser)
 - [SeifElsallamy/Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) – Never forget where you inject.
-- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) – Abracadabra 魔曰，下一代文本加密工具
+- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) – Abracadabra 魔曰，古文风文本加密工具
 - [SteamDatabase/SteamTracking](https://github.com/SteamDatabase/SteamTracking) – 🕵 Tracking things, so you don't have to
 - [Twingate-Labs/tg-cli](https://github.com/Twingate-Labs/tg-cli) – Command Line Interface for Administering Twingate
 - [VikzSharma/ffufwebparser](https://github.com/VikzSharma/ffufwebparser) – Parse FFUF results in GUI with option to sort based by response code , size , keyword
