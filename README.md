@@ -4425,6 +4425,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
 - [Lukas-Heiligenbrunner/AURCache](https://github.com/Lukas-Heiligenbrunner/AURCache) – A cache build server for Archlinux AUR packages and serving them
 - [LukasKalbertodt/reinda](https://github.com/LukasKalbertodt/reinda) – Easily embed and manage assets for your web application to build standalone-executables. Offers filename hashing, templating and more.
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) – A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [Lurk/clink](https://github.com/Lurk/clink) – url cleaner
 - [LyonSyonII/run](https://github.com/LyonSyonII/run) – Run commands in the languages you love!
 - [MMRLApp/MMRL-CLI](https://github.com/MMRLApp/MMRL-CLI) – MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules
