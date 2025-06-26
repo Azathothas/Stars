@@ -5446,7 +5446,7 @@
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) – A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) – A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [NetBSDfr/smolBSD](https://github.com/NetBSDfr/smolBSD) – smolBSD is a tiny BSD UNIX (NetBSD) system creation tool, primarily aimed at building modern, lightweight, fast micro VMs
-- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)
+- [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) – A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) – Utility tool for using systemctl interactively
 - [PeterDaveHello/nrd-list-downloader](https://github.com/PeterDaveHello/nrd-list-downloader) – Shell Script to download NRD(Newly Registered Domain) list for free
 - [Phantop/appdwarf](https://github.com/Phantop/appdwarf) – Tool to compress and run programs using dwarfs
