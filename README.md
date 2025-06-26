@@ -6181,6 +6181,7 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) – Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [giuseppelt/EmailFlare](https://github.com/giuseppelt/EmailFlare) – Send emails from your domain through Cloudflare for free. Self host on your account.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) – Generate types and converters from JSON, Schema, and GraphQL
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) – An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [google/gts](https://github.com/google/gts) – ☂️ TypeScript style guide, formatter, and linter.  
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) – 🛰️ Represent any GraphQL API as an interactive graph
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) – Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
