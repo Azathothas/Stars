@@ -4713,6 +4713,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) – 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [ekzhang/jute](https://github.com/ekzhang/jute) – A native Jupyter notebook frontend with local + remote kernels, reactive cells, and IDE features, implemented in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) – Fast, collaborative live terminal sharing over the web
+- [elastio/ssstar](https://github.com/elastio/ssstar) – tar-like utility for constructing archives of objects stored on S3 or S3-compatible services
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) – elfshaker stores binary objects efficiently
 - [elliotwutingfeng/SyncthingRelayServerIPs](https://github.com/elliotwutingfeng/SyncthingRelayServerIPs) – Machine-readable .txt allowlist of Syncthing Relay Server IP Addresses, updated every hour
 - [emabee/flexi_logger](https://github.com/emabee/flexi_logger) – A flexible logger for rust programs that can write to stderr, stdout, and/or to log files
