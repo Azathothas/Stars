@@ -141,7 +141,7 @@
 - [joshuacline/windick](https://github.com/joshuacline/windick) – Windows Deployment Image Customization Kit
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) – An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) – Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – A static build of iperf3 to do network testing on remote servers.
+- [userdocs/iperf3-static](https://github.com/userdocs/iperf3-static) – Static builds of iperf3 binaries for Windows, Linux and MacOSX to do network testing on remote servers.
 
 <div id="bitbake"></div>
 
@@ -3885,7 +3885,7 @@
 - [derrod/legendary](https://github.com/derrod/legendary) – Legendary - A free and open-source replacement for the Epic Games Launcher
 - [devanshbatham/Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) – A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 - [devrim/cloudflare-noip](https://github.com/devrim/cloudflare-noip) – free alternative to paid dynamic DNS services like NoIP.com
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) – Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 - [disclose/diodb](https://github.com/disclose/diodb) – Open-source vulnerability disclosure and bug bounty program database
 - [dmdhrumilmistry/Termux-SSH](https://github.com/dmdhrumilmistry/Termux-SSH) – Termux SSH helps you to setup SSH server on termux application on android, which helps you to execute tasks remotely through terminal/cmd/powershell/termux.
 - [dolevf/graphql-cop](https://github.com/dolevf/graphql-cop) – Security Auditor Utility for GraphQL APIs
@@ -5587,6 +5587,7 @@
 - [containers/toolbox](https://github.com/containers/toolbox) – Tool for interactive command line environments on Linux
 - [cpendery/kaldo](https://github.com/cpendery/kaldo) – cross shell aliases
 - [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) – A versatile (cross-)toolchain generator.
+- [cruizba/ubuntu-dind](https://github.com/cruizba/ubuntu-dind) – A docker image based in ubuntu to run docker containers inside docker containers
 - [cswl/tsu](https://github.com/cswl/tsu) – Gain root shell on Termux.
 - [curl/wcurl](https://github.com/curl/wcurl) – a simple wrapper around curl to easily download files
 - [cytopia/pwncat](https://github.com/cytopia/pwncat) – pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
