@@ -5245,7 +5245,7 @@
 - [tuffy/matroska](https://github.com/tuffy/matroska) – A Rust library for reading Matroska (.mkv) files
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) – git commit --fixup, but automatic
 - [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) – Tunnel (TUN) interface for SOCKS and HTTP proxies
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) – Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) – Turso Database is a project to build the next evolution of SQLite.
 - [tux3/armerge](https://github.com/tux3/armerge) – Tool to merge static libraries and hide their private symbols
 - [tversteeg/emplace](https://github.com/tversteeg/emplace) – 👩‍❤️‍💋‍👩 Synchronize installed packages on multiple machines
 - [tw93/Pake](https://github.com/tw93/Pake) – 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
