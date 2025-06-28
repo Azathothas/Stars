@@ -6168,6 +6168,7 @@
 - [diced/zipline](https://github.com/diced/zipline) – A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [docker/bake-action](https://github.com/docker/bake-action) – GitHub Action to use Docker Buildx Bake as a high-level build command
 - [docker/build-push-action](https://github.com/docker/build-push-action) – GitHub Action to build and push Docker images with Buildx
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) – GitHub Action to install QEMU static binaries
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) – Domain Dumper delivers daily updates on the statistics of all registered domains across 900+ zones, with records dating back to January 1, 1990. This API provides daily updates on the number of domains registered on each TLD and updates its files every 24 hours.
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) – Web App: Download just a sub directory from a GitHub repo.
 - [downthemall/downthemall](https://github.com/downthemall/downthemall) – The DownThemAll! WebExtension
