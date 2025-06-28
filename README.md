@@ -795,7 +795,7 @@
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
-- [lanthora/candy](https://github.com/lanthora/candy) – A simple networking tool
+- [lanthora/candy](https://github.com/lanthora/candy) – A tool for creating private networks
 - [lavv17/lftp](https://github.com/lavv17/lftp) – sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
@@ -5225,6 +5225,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) – Realtime ticker data in your terminal 📈
 - [tauri-apps/fix-path-env-rs](https://github.com/tauri-apps/fix-path-env-rs)
 - [tbillington/kondo](https://github.com/tbillington/kondo) – Cleans dependencies and build artifacts from your projects.
+- [the-lean-crate/criner](https://github.com/the-lean-crate/criner) – A tool to mine crates.io and produce static websites
 - [theopfr/somo](https://github.com/theopfr/somo) – A human-friendly alternative to netstat for socket and port monitoring on Linux.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 - [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
