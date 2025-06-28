@@ -2062,6 +2062,7 @@
 - [orcastor/fico](https://github.com/orcastor/fico) – 🔬【FileICOn】从文件提取图标（支持图片[bmp/gif/jpg/jpeg/jp2/jpeg2000/png/tiff]、图标[ico/icns]、Windows可执行文件[exe/dll]、资源文件[mui/mun]、Linux可执行文件[*.desktop{*.AppImage/*.run}]、手机应用安装包[apk/ipa]、Windows文件夹图标[autorun.inf/desktop.ini]、MacOSX程序[*.app]）Extract icon from file or directory.
 - [orcastor/unpack](https://github.com/orcastor/unpack) – 【WIP】📦 一款脱壳工具，能够识别并尝试脱除常见的PE壳，如UPX、ASPack等，帮助用户进行软件逆向工程和恶意软件分析。This is an unpacking tool that can identify and attempt to remove common PE shells like UPX and ASPack, aiding in software reverse engineering and malware analysis.
 - [ory/kratos](https://github.com/ory/kratos) – Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. 
+- [osbuild/bootc-image-builder](https://github.com/osbuild/bootc-image-builder) – A container for deploying bootable container images.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) – In-depth attack surface mapping and asset discovery
 - [owasp-amass/resolve](https://github.com/owasp-amass/resolve) – DNS resolver pools written in Go
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) – Telling tales on you for leaking secrets!
@@ -4211,6 +4212,7 @@
 - [takito1812/web-hacking-playground](https://github.com/takito1812/web-hacking-playground) – Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) – Distributed task queue with full async support
 - [tasooshi/brutas](https://github.com/tasooshi/brutas) – Wordlists handcrafted (and automated) with ♥
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) – The SQL IDE for Your Terminal.
 - [teaxyz/chai](https://github.com/teaxyz/chai) – tea’s package dataset
 - [theahmadov/NIVOS](https://github.com/theahmadov/NIVOS) – NIVOS is a hacking tool that allows you to scan deeply , crack wifi, see people on your network. It applies to all linux operating systems. And it is improving every day, new packages are added. Thank You For Using NIVOS :> [NIVOS Created By NIVO Team]
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) – Python Module Dependency graphs
@@ -6240,6 +6242,7 @@
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) – A GitHub action to create or update an issue or pull request comment
 - [pkgforge/pkgs.pkgforge.dev](https://github.com/pkgforge/pkgs.pkgforge.dev) – 🔎 Web UI to Explore, Search & Query all Our Packages [Maintainer=@ahqsoftwares|@Tamrakar182]
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) – Fast, disk space efficient package manager
+- [podman-desktop/extension-bootc](https://github.com/podman-desktop/extension-bootc) – Support for bootable OS containers (bootc) and generating disk images
 - [portainer/portainer](https://github.com/portainer/portainer) – Making Docker and Kubernetes management easy.
 - [probot/probot](https://github.com/probot/probot) – 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [projectdiscovery/interactsh-web](https://github.com/projectdiscovery/interactsh-web) – Web dashboard for Interactsh client
