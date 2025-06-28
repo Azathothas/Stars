@@ -5099,7 +5099,7 @@
 - [r9os/r9](https://github.com/r9os/r9) – The R9 operating system
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) – The Gameboy emulator that runs anywhere (Terminal, Web, Desktop)
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) – The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
 - [raphamorim/rio](https://github.com/raphamorim/rio) – A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rash-sh/rash](https://github.com/rash-sh/rash) – Declarative shell scripting using Rust native bindings inspired by Ansible
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) – A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
