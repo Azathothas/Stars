@@ -1879,7 +1879,7 @@
 - [liamg/traitor](https://github.com/liamg/traitor) – :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [life4/enc](https://github.com/life4/enc) – 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [likexian/whois](https://github.com/likexian/whois) – Whois client for domain and ip whois information query in Go(Golang).
-- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) – A swiss army knife for xray-core to do task such as parsing xray config links, batch testing (latency, speedtest), socks proxy client, etc
+- [lilendian0x00/xray-knife](https://github.com/lilendian0x00/xray-knife) – The Ultimate Swiss Army Knife for Xray and Sing-box
 - [lima-vm/lima](https://github.com/lima-vm/lima) – Linux virtual machines, with a focus on running containers
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) – Update multiple repositories in with one command
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) – A toolkit for building secure, portable and lean operating systems for containers
