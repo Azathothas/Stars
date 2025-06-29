@@ -5061,6 +5061,7 @@
 - [pipelight/pipelight](https://github.com/pipelight/pipelight) – Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
 - [pkgcraft/pkgcraft](https://github.com/pkgcraft/pkgcraft) – highly experimental tooling ecosystem for Gentoo
 - [pkgforge-dev/elftools](https://github.com/pkgforge-dev/elftools) – Tools & Libraries for manipulating ELF Files [Maintainers=@QaidVoid|@Azathothas]
+- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge/sbuilder](https://github.com/pkgforge/sbuilder) – Utilities for linting and building SBUILD packages [maintainer=@QaidVoid]
 - [pkgforge/soar](https://github.com/pkgforge/soar) – A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]
 - [pkgforge/soar-dl](https://github.com/pkgforge/soar-dl) – ⚡Lightening-Fast, feature-rich, Universal Downloader 📥 for GitHub, GitLab, OCI & More [Maintainer=@QaidVoid]
@@ -5862,7 +5863,6 @@
 - [pkgforge-dev/python-standalone](https://github.com/pkgforge-dev/python-standalone) – Standalone & Minimal Builds of python (Sourced from multiple Projects) [Maintainer=@Azathothas] 
 - [pkgforge-dev/runimage-base](https://github.com/pkgforge-dev/runimage-base) – Base RunImage with many different rootfs [Maintainer=@Azathothas]
 - [pkgforge-dev/static-toolbox](https://github.com/pkgforge-dev/static-toolbox) – Moved to https://github.com/pkgforge/soarpkgs
-- [pkgforge-go/builder](https://github.com/pkgforge-go/builder) – 📦 The Largest Collection of Pre-Compiled Go Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager
 - [pkgforge-security/domains](https://github.com/pkgforge-security/domains) – Misc Domain data collected, filtered & parsed from various sources [Maintainer=@Azathothas]
 - [pkgforge/bincache](https://github.com/pkgforge/bincache) – 📦 The Largest Collection of Pre-Compiled Linux Static Binaries for Soar: The Modern, Bloat-Free Distro-Independent Package Manager 
 - [pkgforge/devscripts](https://github.com/pkgforge/devscripts) – 🖳 Scripts & Misc used globally at PkgForge ORG [Maintainer=@Azathothas]
