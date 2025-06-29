@@ -727,6 +727,8 @@
 - [Nitrux/nx-software-center](https://github.com/Nitrux/nx-software-center) – NX Software Center. A GUI to install and manage AppImages.
 - [NixOS/nix](https://github.com/NixOS/nix) – Nix, the purely functional package manager
 - [OFFTKP/felix86](https://github.com/OFFTKP/felix86) – Run x86 and x86-64 games on RISC-V Linux
+- [OpenAtom-Linyaps/linyaps](https://github.com/OpenAtom-Linyaps/linyaps)
+- [OpenAtom-Linyaps/linyaps-box](https://github.com/OpenAtom-Linyaps/linyaps-box)
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) – Partially open-source alternative Steam Client for Linux. 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) – The Serenity Operating System 🐞
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) – SuperTux source code
@@ -1224,6 +1226,7 @@
 - [StalkR/dns-reverse-proxy](https://github.com/StalkR/dns-reverse-proxy) – DNS Reverse Proxy
 - [Static-Flow/gofingerprint](https://github.com/Static-Flow/gofingerprint) – GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
 - [Symph0nia/Coda](https://github.com/Symph0nia/Coda) – 入侵痕迹清理/Cleaning up traces of intrusion
+- [System233/ll-killer-go](https://github.com/System233/ll-killer-go) – 玲珑杀手Go: 玲珑应用快速构建系统
 - [Tantalor93/dnspyre](https://github.com/Tantalor93/dnspyre) – CLI tool for a high QPS DNS benchmark
 - [TheForgotten69/go-opensubtitles](https://github.com/TheForgotten69/go-opensubtitles) – Go library for accessing the OpenSubtitles API
 - [TheYahya/enola](https://github.com/TheYahya/enola) – This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks
@@ -4787,7 +4790,7 @@
 - [hahwul/urx](https://github.com/hahwul/urx) – Extracts URLs from OSINT Archives for Security Insights
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) – 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [harryfei/which-rs](https://github.com/harryfei/which-rs) – A Rust equivalent of Unix command "which".
-- [hasenbanck/sevenz-rust2](https://github.com/hasenbanck/sevenz-rust2) – Rust native 7z compressor / decompressor and LZMA/LZMA2 implementation
+- [hasenbanck/sevenz-rust2](https://github.com/hasenbanck/sevenz-rust2) – Rust native 7z compressor / decompressor
 - [hatoo/oha](https://github.com/hatoo/oha) – Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [heil-hydrant/zxc](https://github.com/heil-hydrant/zxc) –  Terminal based intercepting proxy written in rust with tmux and vim as user interface. 
 - [helix-editor/helix](https://github.com/helix-editor/helix) – A post-modern modal text editor.
