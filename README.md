@@ -797,7 +797,7 @@
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) – Google SafetyNet attestation workarounds for Magisk
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) – SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) – ksnip the cross-platform screenshot and annotation tool
-- [lanthora/candy](https://github.com/lanthora/candy) – A tool for creating private networks
+- [lanthora/candy](https://github.com/lanthora/candy) – A simple networking tool
 - [lavv17/lftp](https://github.com/lavv17/lftp) – sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) – JPEG XL image format reference implementation
 - [libriscv/libriscv](https://github.com/libriscv/libriscv) – The fastest RISC-V sandbox
@@ -5689,7 +5689,7 @@
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) – Various tips & tricks
 - [hardenedlinux/harbian-audit](https://github.com/hardenedlinux/harbian-audit) – Hardened Debian GNU/Linux distro auditing
 - [harilvfs/carch](https://github.com/harilvfs/carch) – A simple Rust-based CLI tool (built with Ratatui) to streamline and automate your Linux system’s initial setup 🧩
-- [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM patches with my custom config 🛠️
+- [harilvfs/dwm](https://github.com/harilvfs/dwm) –   DWM with everything pre-patched with my custom config 🛠️
 - [heisenburgh/pixarch](https://github.com/heisenburgh/pixarch) – Pixarch is an arch-based rice that aims at being completely pixel themed.
 - [hemnstill/StandaloneTools](https://github.com/hemnstill/StandaloneTools) – Standalone tools for Windows and Linux
 - [heyhusen/archlinux-package-action](https://github.com/heyhusen/archlinux-package-action) – GitHub Action to run Arch Linux's package tools
