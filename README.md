@@ -2461,7 +2461,7 @@
 - [xplshn/a-utils](https://github.com/xplshn/a-utils) – Andes-utilities
 - [xplshn/bigdl](https://github.com/xplshn/bigdl) – 📦 Poor man's package manager. +2180 statically linked binaries in the repos! Development continues at https://github.com/xplshn/dbin
 - [xplshn/chains](https://github.com/xplshn/chains) – Go implementation of AISAP, separated from the original repo and completely re-structured. https://github.com/mgord9518/aisap
-- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4150 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) – 📦 Poor man's package manager. +4162 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
 - [xplshn/dbin-metadata](https://github.com/xplshn/dbin-metadata) – This repo generates dbin's Repository Index every 30 minutes
 - [xplshn/eget2](https://github.com/xplshn/eget2) – The obvious replacement for zyedidia/eget. Written from scratch.
 - [xplshn/eimg](https://github.com/xplshn/eimg) – Display high-resolution images in your terminal and (linux) framebuffer! [KITTY->iTERM2->SIXEL->FRAMEBUFFER]
@@ -4330,7 +4330,7 @@
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) – Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [rapid7/recog](https://github.com/rapid7/recog) – Pattern recognition for hosts, services, and content
 - [tamatebako/tebako](https://github.com/tamatebako/tebako) – Tebako: an executable packager (for Ruby programs)
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) – Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) – Next generation web scanner
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) – Host for Linux system containers based on NixOS, ZFS and LXC
 
