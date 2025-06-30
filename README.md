@@ -1614,6 +1614,7 @@
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) – nginx access logs analytics
 - [famasoon/crtsh](https://github.com/famasoon/crtsh) – This tool shows the result of crt.sh
 - [fatedier/frp](https://github.com/fatedier/frp) – A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [fatih/color](https://github.com/fatih/color) – Color package for Go (golang)
 - [ferama/rospo](https://github.com/ferama/rospo) – 🐸 Effortless persistent SSH tunnels with embedded server for seamless connectivity
 - [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) – Jeeves SQLI Finder
 - [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) – Finding XSS during recon
@@ -2234,6 +2235,7 @@
 - [sassoftware/relic](https://github.com/sassoftware/relic) – Relic is a service and a tool for adding digital signatures to operating system packages for Linux and Windows
 - [schachmat/wego](https://github.com/schachmat/wego) – weather app for the terminal
 - [schollz/croc](https://github.com/schollz/croc) – Easily and securely send things from one computer to another :crocodile: :package:
+- [schollz/progressbar](https://github.com/schollz/progressbar) – A really basic thread-safe progress bar for Golang applications
 - [sclevine/yj](https://github.com/sclevine/yj) – CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [screego/server](https://github.com/screego/server) – screen sharing for developers https://screego.net/
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) – ✨ Safely clean up your local branches
