@@ -5921,7 +5921,7 @@
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) – Use fzf to manage your tmux work environment!
 - [sam0402/ArchQ](https://github.com/sam0402/ArchQ) – ArchQ Linux for Audiophiles
 - [satishweb/docker-xrdp](https://github.com/satishweb/docker-xrdp) – XRDP Server for GUI Inside Docker Container
-- [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers
+- [sbnb-io/sbnb](https://github.com/sbnb-io/sbnb) – Linux distro for AI computers. Go from bare-metal GPUs to running AI workloads - like vLLM, SGLang, RAG, and Agents - in minutes, fully automated with AI Linux (Sbnb Linux).
 - [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns) – 一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉
 - [secureblue/secureblue](https://github.com/secureblue/secureblue) – A security-focused desktop and server linux operating system.
 - [serversideup/spin](https://github.com/serversideup/spin) – 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
