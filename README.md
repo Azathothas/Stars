@@ -4941,7 +4941,7 @@
 - [mcandre/unmake](https://github.com/mcandre/unmake) – a makefile linter
 - [mdsteele/rust-ar](https://github.com/mdsteele/rust-ar) – Rust library for encoding/decoding Unix archive (.a) files
 - [medialab/xan](https://github.com/medialab/xan) – The CSV magician
-- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) – Computer use SDK for building agents that learn from human screen recordings. Cross-platform (Windows/macOS/Linux), deterministic, and ready for L5 desktop automation.
+- [mediar-ai/terminator](https://github.com/mediar-ai/terminator) – Computer use SDK for building agents that learn from human screen recordings. Accessibility-first. Cross-platform (Windows/macOS/Linux), near-deterministic.
 - [meli/meli](https://github.com/meli/meli) – terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [memorysafety/river](https://github.com/memorysafety/river) – This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [metafates/brewer](https://github.com/metafates/brewer) – 🍺 An extremely fast homebrew CLI wrapper with extra features.
