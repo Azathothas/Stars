@@ -4753,6 +4753,7 @@
 - [facebookincubator/below](https://github.com/facebookincubator/below) – A time traveling resource monitor for modern Linux systems
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) – Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) – A memory visualizer in Rust (ptrace + userfaultfd)
+- [fastn-stack/fastn-net](https://github.com/fastn-stack/fastn-net) – fastn-net: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
 - [ferama/wsw](https://github.com/ferama/wsw) – 🥪 A tiny, practical tool that lets any executable run as a real Windows service, with zero boilerplate.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) – mouse & keyboard sharing via LAN
@@ -4897,7 +4898,6 @@
 - [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) – Secure multithreaded packet sniffer
 - [krtab/agnos](https://github.com/krtab/agnos) – Obtain (wildcard) certificates from let's encrypt using dns-01 without the need for API access to your DNS provider.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) – A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
-- [kulfi-project/kulfi](https://github.com/kulfi-project/kulfi) – Kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet - https://kulfi.app: Web Browser for Kulfi Net - https://malai.sh: Command Line Toolkit for Kulfi Net
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) – Threat-hunting tool for Linux
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) – Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [kyee-rs/grizzly](https://github.com/kyee-rs/grizzly) – 🐻 Grizzly - Self-Extractable (SFX) archives creator. Written purely in Rust.
