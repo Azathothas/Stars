@@ -4753,7 +4753,7 @@
 - [facebookincubator/below](https://github.com/facebookincubator/below) – A time traveling resource monitor for modern Linux systems
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) – Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
 - [fasterthanlime/mevi](https://github.com/fasterthanlime/mevi) – A memory visualizer in Rust (ptrace + userfaultfd)
-- [fastn-stack/fastn-net](https://github.com/fastn-stack/fastn-net) – fastn-net: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
+- [fastn-stack/kulfi](https://github.com/fastn-stack/kulfi) – kulfi: Open Source, General Purpose, Sovereign, Decentralized, Peer to Peer Internet. https://malai.sh: Command Line Toolkit for fastn-net.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) – Chromium running inside your terminal
 - [ferama/wsw](https://github.com/ferama/wsw) – 🥪 A tiny, practical tool that lets any executable run as a real Windows service, with zero boilerplate.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) – mouse & keyboard sharing via LAN
