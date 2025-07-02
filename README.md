@@ -2633,6 +2633,7 @@
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) – Powerful android apk editor - aapt/aapt2 independent
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) – 🧩 Patches for ReVanced
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) – Modern Android client for Hacker News
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) – Source code of Package Manager, an Application to Manage your Apps.
@@ -2927,7 +2928,6 @@
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) – An open-source auto clicker on images for Android
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) – An F-Droid client with modern UI and an arsenal of extra features.
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) – 🧩 Patches for ReVanced
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) – Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
@@ -4231,6 +4231,7 @@
 - [tox-dev/tox-conda](https://github.com/tox-dev/tox-conda) – Make tox cooperate with conda envs
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) – A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [tralph3/ZeroTier-GUI](https://github.com/tralph3/ZeroTier-GUI) – A Linux front-end for ZeroTier
+- [trufflesecurity/force-push-scanner](https://github.com/trufflesecurity/force-push-scanner) – Scan for secrets in dangling commits on GitHub using GH Archive data.
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) – Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha 
 - [unkn0wnamd/ByteWizard](https://github.com/unkn0wnamd/ByteWizard)
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
@@ -4325,6 +4326,7 @@
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) – Informative site with EoL dates of everything
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) – ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [hahwul/deadfinder](https://github.com/hahwul/deadfinder) – 🏴‍☠️ Find dead-links (broken links)
+- [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) – GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) – Computing-focused community centered around link aggregation and discussion
 - [mame/quine-relay](https://github.com/mame/quine-relay) – An uroboros program with 100+ programming languages
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) – The personal finance app for everyone
@@ -4891,6 +4893,7 @@
 - [koraa/huniq](https://github.com/koraa/huniq) – Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [koutheir/binary-security-check](https://github.com/koutheir/binary-security-check) – Moved: https://codeberg.org/koutheir/binary-security-check
 - [kpcyrd/apt-swarm](https://github.com/kpcyrd/apt-swarm) – 🥸 Experimental p2p gossip network for OpenPGP signature transparency 🥸
+- [kpcyrd/cloudflare-worker-rust](https://github.com/kpcyrd/cloudflare-worker-rust) – Build a Hello World WebAssembly web-service with Rust and run it locally with Cloudflare's workerd
 - [kpcyrd/rebuilderd](https://github.com/kpcyrd/rebuilderd) – Independent verification of binary packages - Reproducible Builds
 - [kpcyrd/repro-env](https://github.com/kpcyrd/repro-env) – Dependency lockfiles for reproducible build environments 📦🔒
 - [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) – TCP connection hijacker, Rust rewrite of shijack
@@ -5539,6 +5542,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
+- [alitariq4589/github-actions-riscv](https://github.com/alitariq4589/github-actions-riscv)
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) – Make customized Alpine Linux rootfs (base image) for containers
 - [amrsa1/Android-Emulator-image](https://github.com/amrsa1/Android-Emulator-image) – The use of this Docker image simplifies the process of running an Android emulator within a Docker container
 - [amwalding/wireshark_profiles](https://github.com/amwalding/wireshark_profiles) – Here is my Wireshark Profiles repository.  To grab the profiles, click the Release below.  These ZIP files contain profiles that can be added to your Wireshark configuration to speed up troubleshooting and packet analysis in Wireshark.  Please support my work - see the readme.
