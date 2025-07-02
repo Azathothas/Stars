@@ -3328,6 +3328,7 @@
 - [devsdenepal/When_Nepal_was_h4ck3d](https://github.com/devsdenepal/When_Nepal_was_h4ck3d) – Record of dates and events of popular hacking attacks noticed and reported through social media and news.
 - [devsdenepal/devsdenepal](https://github.com/devsdenepal/devsdenepal) – Config files for my GitHub profile.
 - [disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms) – A community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
+- [dkurt/dotnet_riscv](https://github.com/dkurt/dotnet_riscv) – Build .NET SDK for RISC-V
 - [dkurt/github_actions_riscv](https://github.com/dkurt/github_actions_riscv) – GitHub Actions Self-Hosted runner for RISC-V
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) – Python tools for penetration testers
 - [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) – The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
