@@ -2559,6 +2559,7 @@
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) – Secret Magpie - Secret Detection Tool
 - [raesene/Cloud-Native-Security-Talks](https://github.com/raesene/Cloud-Native-Security-Talks)
 - [referefref/modpot](https://github.com/referefref/modpot) – Modular web-application honeypot platform built using go and gin
+- [rekryt/iplist](https://github.com/rekryt/iplist) – IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) – A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) – Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle) – ANSI text styling
@@ -3561,7 +3562,6 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) – Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [monicahq/monica](https://github.com/monicahq/monica) – Personal CRM. Remember everything about your friends, family and business relationships.
 - [oldkingcone/slopShell](https://github.com/oldkingcone/slopShell) – the only php webshell you need.
-- [rekryt/iplist](https://github.com/rekryt/iplist) – IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 - [wadelau/Base62x](https://github.com/wadelau/Base62x) – Base62x is an alternative approach to Base 64 without symbols in output. 无符号的Base64编码解码方案.
 - [yanncam/ShuckNT](https://github.com/yanncam/ShuckNT) – ShuckNT is the script of Shuck.sh online service for on-premise use. It is design to dowgrade, convert, dissect and shuck authentication token based on Data Encryption Standard (DES).
 
