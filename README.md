@@ -5130,6 +5130,7 @@
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) – A fast, simple TUI for interacting with systemd services and their logs
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) – Rhai - An embedded scripting language for Rust.
 - [rhino-linux/rhino-setup](https://github.com/rhino-linux/rhino-setup) – Setup wizard for Rhino Linux
+- [richardscollin/tmux-rs](https://github.com/richardscollin/tmux-rs) – A Rust port of tmux
 - [richox/orz](https://github.com/richox/orz) –  a high performance, general purpose data compressor written in the crab-lang
 - [ripytide/metapac](https://github.com/ripytide/metapac) – multi-backend declarative package manager
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) – Rust library and CLI tool for OCR (extracting text from images)
