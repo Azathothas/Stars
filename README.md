@@ -1257,6 +1257,7 @@
 - [XORbit01/webpalm](https://github.com/XORbit01/webpalm) – 🕸️  Crawl in the web network
 - [XTLS/REALITY](https://github.com/XTLS/REALITY) – THE NEXT FUTURE
 - [Xe/x](https://github.com/Xe/x) – Various tools, trinkets and experiments
+- [Yeeb1/SockTail](https://github.com/Yeeb1/SockTail) – Lightweight binary that joins a device to a Tailscale network and exposes a local SOCKS5 proxy. Designed for red team operations and ephemeral access into restricted environments using Tailscale’s embedded client (tsnet). Zero config, no daemon, no persistence - just a fast way in.
 - [YouChenJun/CheckCdn](https://github.com/YouChenJun/CheckCdn) – 精确检查IP是否为CDN节点的工具
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) – Torrent stream server
 - [Z3NTL3/ProxyBeast](https://github.com/Z3NTL3/ProxyBeast) – ProxyBeast is a powerful, complete and free proxy checker with zero dependency and advanced capabilities.
@@ -5087,6 +5088,7 @@
 - [prefix-dev/shell](https://github.com/prefix-dev/shell) – The ultimate cross-platform, bash-like shell
 - [printfn/fend](https://github.com/printfn/fend) – Arbitrary-precision unit-aware calculator
 - [project-oak/oak](https://github.com/project-oak/oak) – Meaningful control of data in distributed systems.
+- [purpleprotocol/mimalloc_rust](https://github.com/purpleprotocol/mimalloc_rust) – A Rust wrapper over Microsoft's MiMalloc memory allocator
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) – Run multiple commands in parallel
 - [pwnwriter/haylxon](https://github.com/pwnwriter/haylxon) – ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal. 
 - [pwnwriter/hysp](https://github.com/pwnwriter/hysp) – 📦 An independent package manager that every hacker deserves. 
