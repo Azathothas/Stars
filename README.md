@@ -1699,7 +1699,7 @@
 - [google/keep-sorted](https://github.com/google/keep-sorted) – keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 - [google/osv-scanner](https://github.com/google/osv-scanner) – Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [google/starlark-go](https://github.com/google/starlark-go) – Starlark in Go: the Starlark configuration language, implemented in Go
-- [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(800+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+- [gookit/goutil](https://github.com/gookit/goutil) – 💪 Helper Utils(800+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) – The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) – Release engineering, simplified
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) – nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
