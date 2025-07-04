@@ -4393,6 +4393,7 @@
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) – Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) – Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) – ☁️ OxiCloud server, efficient and secure way to save all your data
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) – Fullstack app framework for web, desktop, and mobile.
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) –  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) – Dim, a media manager fueled by dark forces.
 - [Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS) – A Graphical Interface for Distrobox
@@ -5546,6 +5547,7 @@
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) – Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [akuhnet/w-colab](https://github.com/akuhnet/w-colab) – Free Rdp windows with google colab
 - [akuhnet/wqemu](https://github.com/akuhnet/wqemu)
+- [alexmyczko/fnt](https://github.com/alexmyczko/fnt) – apt for fonts, the missing font manager for macOS/linux
 - [alitariq4589/github-actions-riscv](https://github.com/alitariq4589/github-actions-riscv)
 - [alpinelinux/alpine-make-rootfs](https://github.com/alpinelinux/alpine-make-rootfs) – Make customized Alpine Linux rootfs (base image) for containers
 - [amrsa1/Android-Emulator-image](https://github.com/amrsa1/Android-Emulator-image) – The use of this Docker image simplifies the process of running an Android emulator within a Docker container
