@@ -5156,6 +5156,7 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
 - [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) – Core POSIX command line utilities in safe Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) – 🚀 High-performance distributed object storage for MinIO  alternative.
 - [rustne-kretser/noline](https://github.com/rustne-kretser/noline) – IO-agnostic line editor for embedded systems
 - [rustpq/pqcrypto](https://github.com/rustpq/pqcrypto) – Rust Post-Quantum cryptography
 - [rusty-ferris-club/rustwrap](https://github.com/rusty-ferris-club/rustwrap) – 📦+🦀=♥️ A tool that helps wrap binary releases for easy distribution
