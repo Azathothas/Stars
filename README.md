@@ -237,6 +237,7 @@
 - [Zxilly/UA2F](https://github.com/Zxilly/UA2F) – Change User-Agent to F-string on OpenWRT router to prevent being detected.
 - [a1ive/nwinfo](https://github.com/a1ive/nwinfo) – Hardware information utility for Windows
 - [a2flo/standalone_musl](https://github.com/a2flo/standalone_musl) – A musl libc fork providing enhanced glibc compatibility and facilitating the creation of "semi-static" binaries.
+- [a2o/snoopy](https://github.com/a2o/snoopy) – Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
 - [abbat/elfexec](https://github.com/abbat/elfexec) – Utility to execute ELF binary directly from stdin pipe.
 - [ac000/ipv6-tools](https://github.com/ac000/ipv6-tools) – Some simple tools for working with IPv6 addresses.
 - [acassen/keepalived](https://github.com/acassen/keepalived) – Keepalived
