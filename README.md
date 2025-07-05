@@ -5300,6 +5300,7 @@
 - [wezm/git-grab](https://github.com/wezm/git-grab) – Clone a git repository into a standard location organised by domain and path.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) – A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [wfxr/csview](https://github.com/wfxr/csview) – 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
+- [whitequark/rust-xdg](https://github.com/whitequark/rust-xdg) – A library that makes it easy to follow the X Desktop Group specifications
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) – a tool for reinterpreting ELF executables and shared libraries
 - [whitfin/jen](https://github.com/whitfin/jen) – A fast utility to generate fake/test documents based on a template
 - [whitfin/runiq](https://github.com/whitfin/runiq) – An efficient way to filter duplicate lines from input, à la uniq. 
