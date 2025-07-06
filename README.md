@@ -934,6 +934,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) – A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) – Get Android app updates straight from the source.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) – 🎧 Open source music client! Available for both desktop & mobile!
+- [KaringX/clashmi](https://github.com/KaringX/clashmi) – Clash Mihomo for iOS/Android
 - [KaringX/karing](https://github.com/KaringX/karing) – Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [Livinglist/Hacki](https://github.com/Livinglist/Hacki) – A feature-rich Hacker News client.
 - [Mosc/Glider](https://github.com/Mosc/Glider) – Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
@@ -2414,6 +2415,7 @@
 - [version-fox/vfox](https://github.com/version-fox/vfox) – A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [vimiix/ssx](https://github.com/vimiix/ssx) – 🦅 ssx is a retentive ssh client.
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) – Tool to check for dependency confusion vulnerabilities in multiple package management systems
+- [vlang/go2v](https://github.com/vlang/go2v) – Go => V source code translator
 - [vmfunc/sif](https://github.com/vmfunc/sif) – the blazing-fast pentesting suite.
 - [voidint/g](https://github.com/voidint/g) – Golang Version Manager
 - [volution/kawipiko](https://github.com/volution/kawipiko) – kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database
