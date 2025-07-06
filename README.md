@@ -4485,7 +4485,7 @@
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) – Elegantly record your screen
 - [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) – SeekStorm - sub-millisecond full-text search library & multi-tenancy server in Rust
 - [Sh1Yo/x8](https://github.com/Sh1Yo/x8) – Hidden parameters discovery suite
-- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A simple proxy tunnel, minimalist tool for bypassing the GFW.
+- [ShadowsocksR-Live/overtls](https://github.com/ShadowsocksR-Live/overtls) – A minimalist proxy tunnel for bypassing the GFW.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust
 - [SkuldNorniern/fluere](https://github.com/SkuldNorniern/fluere) – Fluere is a powerful and versatile tool designed for network monitoring and analysis. It is capable of capturing network packets in pcap format and converting them into NetFlow data, providing a comprehensive view of network traffic. It also Provides Terminal User Interface.
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) – A graphical server OS optimized for self-hosting
