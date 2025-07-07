@@ -6000,6 +6000,7 @@
 - [termux/repology-metadata](https://github.com/termux/repology-metadata) – Scripts and Github Actions workflow for generating Repology metadata.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
 - [termux/termux-tools](https://github.com/termux/termux-tools) – Scripts and small programs that are packaged into termux's termux-tools package
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume)
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) – Bash function to run tasks in parallel and display pretty output as they complete.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) – 🐳 Full-fledged Android SDK Docker Image
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
