@@ -5159,6 +5159,7 @@
 - [rust-lang/libm](https://github.com/rust-lang/libm) – A port of MUSL's libm to Rust.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) – Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/miri](https://github.com/rust-lang/miri) – An interpreter for Rust's mid-level intermediate representation
+- [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) – Cranelift based backend for rustc
 - [rustcoreutils/posixutils-rs](https://github.com/rustcoreutils/posixutils-rs) – Core POSIX command line utilities in safe Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) – An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) – 🚀 High-performance distributed object storage for MinIO  alternative.
