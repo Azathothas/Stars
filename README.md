@@ -5022,6 +5022,7 @@
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) – Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [numtide/system-manager](https://github.com/numtide/system-manager) – Manage system config using nix on any distro
 - [nushell/nushell](https://github.com/nushell/nushell) – A new type of shell
+- [o0x1024/rsubdomain](https://github.com/o0x1024/rsubdomain)
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool
 - [o8vm/octox](https://github.com/o8vm/octox) – Unix-like OS in Rust inspired by xv6-riscv
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) – A query engine for any combination of data sources. Query your files and APIs as if they were databases!
