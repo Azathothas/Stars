@@ -4433,6 +4433,7 @@
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) – Highly parallelized, blazing fast directory tree analyzer
 - [Keats/tera](https://github.com/Keats/tera) – A template engine for Rust based on Jinja2/Django
 - [Kixunil/debcrafter](https://github.com/Kixunil/debcrafter) – Crafts complex debian packages from *very rich* specification files
+- [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) – Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
 - [Kudaes/Split](https://github.com/Kudaes/Split) – Apply a divide and conquer approach to bypass EDRs
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
@@ -6002,7 +6003,7 @@
 - [termux/repology-metadata](https://github.com/termux/repology-metadata) – Scripts and Github Actions workflow for generating Repology metadata.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
 - [termux/termux-tools](https://github.com/termux/termux-tools) – Scripts and small programs that are packaged into termux's termux-tools package
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume)
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) – A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) – Bash function to run tasks in parallel and display pretty output as they complete.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) – 🐳 Full-fledged Android SDK Docker Image
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
