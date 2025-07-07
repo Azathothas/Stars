@@ -6090,8 +6090,8 @@
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) – 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) – Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
-- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) – Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor) – Bitor Scanning Software
+- [hayase-app/ui](https://github.com/hayase-app/ui) – Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) – best way to save what you love
 
 <div id="swift"></div>
