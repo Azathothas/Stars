@@ -5252,7 +5252,7 @@
 - [theopfr/somo](https://github.com/theopfr/somo) – A human-friendly alternative to netstat for socket and port monitoring on Linux.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 - [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
-- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) – Interactive find and replace in the terminal
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) – Interactive find-and-replace in the terminal
 - [threathunters-io/laurel](https://github.com/threathunters-io/laurel) – Transform Linux Audit logs for SIEM usage
 - [tkellogg/dura](https://github.com/tkellogg/dura) – You shouldn't ever lose your work if you're using Git
 - [tock/tock](https://github.com/tock/tock) – A secure embedded operating system for microcontrollers
