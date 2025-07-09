@@ -1820,6 +1820,7 @@
 - [joerdav/xc](https://github.com/joerdav/xc) – Markdown defined task runner.
 - [johannesboyne/gofakes3](https://github.com/johannesboyne/gofakes3) – A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 - [johnkerl/miller](https://github.com/johnkerl/miller) – Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [jongyunha/shrinkmap](https://github.com/jongyunha/shrinkmap) – ShrinkableMap is a high-performance, generic, thread-safe map implementation for Go that automatically manages memory by shrinking its internal storage when items are deleted. It provides a solution to the common issue where Go's built-in maps don't release memory after deleting elements.
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) – A cross-platform TUI database management tool written in Go.
 - [josephburnett/jd](https://github.com/josephburnett/jd) – JSON diff and patch
 - [jpillora/chisel](https://github.com/jpillora/chisel) – A fast TCP/UDP tunnel over HTTP
@@ -4421,6 +4422,7 @@
 - [FyraLabs/readymade](https://github.com/FyraLabs/readymade) – Install ready-made distribution images!
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) – An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [Goldziher/uncomment](https://github.com/Goldziher/uncomment) – Blazingly fast CLI to remove comments from code using tree-sitter grammers
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) – An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [Grip-Packages/Grip](https://github.com/Grip-Packages/Grip) – A simple distributed package manager written by @tristanpoland
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) – Cross-platform library to fetch system information
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) – Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -4439,6 +4441,7 @@
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) – A tiling window manager for Windows 🍉
 - [LSchallot/JellyRoller](https://github.com/LSchallot/JellyRoller) – CLI Jellyfin Controller Utility for Linux and Windows
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) – 🐀 A link aggregator and forum for the fediverse
+- [LeoBorai/local-ip-address](https://github.com/LeoBorai/local-ip-address) – Retrieve system's local IP address and Network Interfaces/Adapters on FreeBSD, Linux, macOS and Windows
 - [Lukas-Heiligenbrunner/AURCache](https://github.com/Lukas-Heiligenbrunner/AURCache) – A cache build server for Archlinux AUR packages and serving them
 - [LukasKalbertodt/reinda](https://github.com/LukasKalbertodt/reinda) – Easily embed and manage assets for your web application to build standalone-executables. Offers filename hashing, templating and more.
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) – A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
