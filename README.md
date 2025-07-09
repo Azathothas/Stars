@@ -3821,6 +3821,7 @@
 - [assetnote/nowafpls](https://github.com/assetnote/nowafpls) – Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) – Produce redistributable builds of Python
 - [avito-tech/deepsecrets](https://github.com/avito-tech/deepsecrets) – Secrets scanner that understands code
+- [avlidienbrunn/archivealchemist](https://github.com/avlidienbrunn/archivealchemist) – Archive Alchemist is a tool for creating specially crafted archives to test extraction vulnerabilities.
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) – CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [axcore/tartube](https://github.com/axcore/tartube) – A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [az0mb13/hooker](https://github.com/az0mb13/hooker)
