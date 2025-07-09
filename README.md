@@ -1199,6 +1199,7 @@
 - [Optum/dce](https://github.com/Optum/dce) – Disposable Cloud Environment
 - [Picocrypt/CLI](https://github.com/Picocrypt/CLI) – A command-line interface for Picocrypt.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) – A very small, very simple, yet very secure encryption tool.
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) – plakar is a backup solution powered by Kloset and ptar
 - [PlanktoScope/forklift](https://github.com/PlanktoScope/forklift) – A configurable bill-of-materials (CBOM) system for declaratively composing and upgrading/downgrading your hardware-specific embedded Linux operating systems
 - [PremoWeb/chadburn](https://github.com/PremoWeb/chadburn) – Chadburn is a scheduler alternative to cron, built on Go and designed for Docker environments.
 - [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) – Psiphon is an Internet censorship circumvention system.
