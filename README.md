@@ -190,8 +190,6 @@
 - [MaJerle/lwdtc](https://github.com/MaJerle/lwdtc) – Lightweight date, time & cron utilities for embedded systems
 - [Minep/lunaix-os](https://github.com/Minep/lunaix-os) – A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch!
 - [MirBSD/mksh](https://github.com/MirBSD/mksh) – MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead. See https://github.com/mirabilos/mksh for some experiments autobuilding this with Travis-CI and GitHub Actions and for Coverity Scan.
-- [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) – Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
-- [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) – The "Activate Windows" watermark ported to Linux
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) – NVIDIA container runtime library
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
@@ -210,6 +208,8 @@
 - [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) – PostgreSQL and Greenplum job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+- [RuriOSS/ruri](https://github.com/RuriOSS/ruri) – Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
+- [RuriOSS/rurima](https://github.com/RuriOSS/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [Scribery/tlog](https://github.com/Scribery/tlog) – Terminal I/O logger
 - [SkyperTHC/dnsstream](https://github.com/SkyperTHC/dnsstream) – Network Capture DNS answers
