@@ -2110,6 +2110,7 @@
 - [pojntfx/htorrent](https://github.com/pojntfx/htorrent) – HTTP to BitTorrent gateway with seeking support.
 - [pojntfx/ram-dl](https://github.com/pojntfx/ram-dl) – A tool to download more RAM (yes, seriously!)
 - [pojntfx/weron](https://github.com/pojntfx/weron) – Overlay networks based on WebRTC.
+- [portainer/kubesolo](https://github.com/portainer/kubesolo) – Ultra-lightweight Kubernetes
 - [portapps/portapps](https://github.com/portapps/portapps) – 🛰 Collection of portable apps for Windows
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) – An improved drop-in replacement for SQS
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) – Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
