@@ -3448,6 +3448,7 @@
 - [nirajkharel/NotJustAChecklist](https://github.com/nirajkharel/NotJustAChecklist)
 - [nirajkharel/Web-Recon](https://github.com/nirajkharel/Web-Recon)
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) – 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) – Nostr Implementation Possibilities
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) – A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [osamahamad/payout-targets-data](https://github.com/osamahamad/payout-targets-data) – Provides public bug bounty programs in-scope data that offer rewards and monitors public bug bounty programs assets.
 - [osmedeus/osmedeus-workflow](https://github.com/osmedeus/osmedeus-workflow) – Community Workflow for the Osmedeus Engine that describes basic reconnaissance methodology for you to build your own
@@ -4573,6 +4574,7 @@
 - [anistark/feluda](https://github.com/anistark/feluda) – Detect license usage restrictions in your project!
 - [ankddev/envfetch](https://github.com/ankddev/envfetch) – Lightweight cross-platform CLI tool for working with environment variables.
 - [anordal/shellharden](https://github.com/anordal/shellharden) – The corrective bash syntax highlighter
+- [anvilsecure/pqcscan](https://github.com/anvilsecure/pqcscan) – Post-Quantum Cryptography Scanner - Scan SSH/TLS servers for PQC support
 - [apache/iggy](https://github.com/apache/iggy) – Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 - [apache/opendal](https://github.com/apache/opendal) – Apache OpenDAL: One Layer, All Storage.
 - [aramperes/onetun](https://github.com/aramperes/onetun) – User space WireGuard port-forward in Rust
