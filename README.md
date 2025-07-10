@@ -957,7 +957,7 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) – ServerBox - server status & toolbox
 - [marchellodev/sharik](https://github.com/marchellodev/sharik) – Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) – 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) – A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) – 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) – Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 - [venera-app/venera](https://github.com/venera-app/venera) – A comic app
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) – Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
