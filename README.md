@@ -1158,6 +1158,7 @@
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) – The Havoc Framework
 - [HikariKnight/quickpassthrough](https://github.com/HikariKnight/quickpassthrough) – A project to remove the complexity of setting up GPU passthrough for qemu
 - [HuntDownProject/HEDnsExtractor](https://github.com/HuntDownProject/HEDnsExtractor) – A suite for hunting suspicious targets, expose domains and phishing discovery
+- [IBM/lunchpail](https://github.com/IBM/lunchpail) – Lunchpail compiles your job code into an all-in-one executable. Others download that binary, and "up" it to run your code locally, in a Kubernetes cluster, or on run-and-done virtual machines in the Cloud.
 - [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) – 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理、分组管理
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) – CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [ImAyrix/cut-cdn](https://github.com/ImAyrix/cut-cdn) – ✂️ Removing CDN IPs from the list of IP addresses
@@ -4645,6 +4646,7 @@
 - [bytehunt/x4](https://github.com/bytehunt/x4) – 💭 Execute shell commands to server(s) via ssh protocol
 - [cablehead/xs](https://github.com/cablehead/xs) – crossing the streams
 - [cachix/devenv](https://github.com/cachix/devenv) – Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [canonical/source-wand](https://github.com/canonical/source-wand) – Source Wand is a tool that helps you analyze and mirror source code.
 - [cantino/mcfly](https://github.com/cantino/mcfly) – Fly through your shell history. Great Scott!
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) – Binary installation for rust projects
 - [cargo-bins/cargo-quickinstall](https://github.com/cargo-bins/cargo-quickinstall) – pre-compiled binary packages for `cargo install`
@@ -4705,6 +4707,7 @@
 - [dbohdan/csv2html](https://github.com/dbohdan/csv2html) – Convert CSV files to HTML tables
 - [dbohdan/jsonwatch](https://github.com/dbohdan/jsonwatch) – Track changes in JSON data from the command line
 - [dbohdan/s2png](https://github.com/dbohdan/s2png) – Store any data in PNG images
+- [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) – (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [devmatteini/dra](https://github.com/devmatteini/dra) – A command line tool to download release assets from GitHub
 - [dimo414/bkt](https://github.com/dimo414/bkt) – a subprocess caching utility, available as a command line binary and a Rust library.
 - [divvun/bidiff](https://github.com/divvun/bidiff) – A Rust take on bsdiff
@@ -5122,6 +5125,7 @@
 - [qwerty541/dns-bench](https://github.com/qwerty541/dns-bench) – Find the fastest DNS in your location to improve internet browsing experience.
 - [r12f/rnp](https://github.com/r12f/rnp) – A simple layer 4 ping tool for cloud.
 - [r9os/r9](https://github.com/r9os/r9) – The R9 operating system
+- [rabbitmq/rabbitmqadmin-ng](https://github.com/rabbitmq/rabbitmqadmin-ng) – A command line tool for RabbitMQ that uses the HTTP API
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) – App source + Nix packages + Docker = Image
 - [rami3l/pacaptr](https://github.com/rami3l/pacaptr) – Pacman-like syntax wrapper for many package managers.
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) – The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)
@@ -5212,6 +5216,7 @@
 - [sigoden/projclean](https://github.com/sigoden/projclean) – Project dependencies & build artifacts cleanup tool.
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor) – A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
 - [sigoden/upt](https://github.com/sigoden/upt) – Universal Package-management Tool for any OS.
+- [silitics/rugix](https://github.com/silitics/rugix) – A suite of open-source tools to build and deploy reliable embedded Linux devices at scale with efficient and secure over-the-air (OTA) update capabilities.
 - [simnalamburt/uniqs](https://github.com/simnalamburt/uniqs) – Rust uniq(1) alternative with streaming support
 - [sinKettu/cruster](https://github.com/sinKettu/cruster) – Intercepting MitM proxy with flexible security scanner power
 - [sisungo/airup](https://github.com/sisungo/airup) – 🚀 Airup is a modern, portable and blazingly fast implementation of service supervisor and the init daemon.
