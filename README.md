@@ -2642,7 +2642,6 @@
 - [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground)
 - [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) – Vulnerable app with examples showing how to not use secrets
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) – Powerful android apk editor - aapt/aapt2 independent
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) – 🧩 Patches for ReVanced
 - [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor) – A multifunctional Android code editor library. (aka CodeEditor)
 - [SimonHalvdansson/Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) – Modern Android client for Hacker News
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) – Source code of Package Manager, an Application to Manage your Apps.
@@ -2938,6 +2937,7 @@
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) – An open-source auto clicker on images for Android
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) – An F-Droid client with modern UI and an arsenal of extra features.
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) – A simple, rational music player for android
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) – 🧩 Patches for ReVanced
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) – Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Ruddle/RemoteCam](https://github.com/Ruddle/RemoteCam) – Your android camera streamed on your desktop: use as a source for OBS, or as a webcam with v4l2. Free✅, No Ads✅, Open Source✅
 - [Saud-97/TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) – Free and open source manga reader for Android. A faster version of Tachiyomi
@@ -5477,8 +5477,7 @@
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) – Lightweight justice for your single-board computer!
 - [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) – Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty
 - [Misaka-blog/xray-for-uffizzi](https://github.com/Misaka-blog/xray-for-uffizzi) – 在 Uffizzi 云平台上部署 xray 节点
-- [Moe-hacker/daijin](https://github.com/Moe-hacker/daijin) – Run docker & LXC images in termux with ruri or proot, without kernel features support, even without root privileges!
-- [Moe-hacker/rootfstool](https://github.com/Moe-hacker/rootfstool) – A tool to get linux container rootfs from lxc-image mirrors.
+- [Moe-sushi/rootfstool](https://github.com/Moe-sushi/rootfstool) – A tool to get linux container rootfs from lxc-image mirrors.
 - [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) – Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 - [MysticRyuujin/guac-install](https://github.com/MysticRyuujin/guac-install) – Script for installing Guacamole on Ubuntu
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) – A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
@@ -5499,6 +5498,7 @@
 - [ReverseTEN/NucProbe](https://github.com/ReverseTEN/NucProbe) – Automate Nuclei scans and streamline bug hunting workflows
 - [Ridter/warp_proxy](https://github.com/Ridter/warp_proxy) – cloudflare socks5 server
 - [RohitVerma882/termux-miunlock](https://github.com/RohitVerma882/termux-miunlock) – A program that can be used to retrieve the bootloader unlock token for Xiaomi devices. (and unlock the bootloader) using Termux
+- [RuriOSS/daijin](https://github.com/RuriOSS/daijin) – Run docker & LXC images in termux with ruri or proot, without kernel features support, even without root privileges!
 - [Samueru-sama/deploy-linux.sh](https://github.com/Samueru-sama/deploy-linux.sh) – POSIX(ish) shell script that deploys dependencies for AppImages, similar to linuxdeploy, linuxdeploy-qt, go-appimage and others.
 - [Samueru-sama/simple-appimage-sandbox](https://github.com/Samueru-sama/simple-appimage-sandbox) – Tool to sandbox AppImages with bubblewrap easily in POSIX shell
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) – Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
