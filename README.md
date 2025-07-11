@@ -2996,7 +2996,7 @@
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) – A Kernel based root solution for Android
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) – The Magic Mask for Android
 - [w2sv/FileNavigator](https://github.com/w2sv/FileNavigator) –  The missing link between Android and a sorted file system. 
-- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) – Husi(虎兕) is a Non-professional and Recreational Proxy Tool Integration.
+- [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) – Husi(虎兕) is a non-professional and recreational proxy tool integration for the weird beliefs and free software spirit!
 - [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) – Simple-ish app using Shizuku to install APKs on-device with advanced options
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) – Material Design file manager for Android
 
@@ -3095,7 +3095,7 @@
 - [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) – LLVM-based compiler for the Nim language
 - [elddy/NimScan](https://github.com/elddy/NimScan) – 🚀 Fast Port Scanner 🚀
 - [fox0430/moe](https://github.com/fox0430/moe) – A command line based editor inspired by Vim. Written in Nim.
-- [glaucuslinux/rad](https://github.com/glaucuslinux/rad) – glaucus package manager
+- [glaucuslinux/rad](https://github.com/glaucuslinux/rad) – glaucus package builder
 - [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) – A highly customizable systemfetch written in nim
 - [kreatolinux/src](https://github.com/kreatolinux/src) – Kreato Linux source tree
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) – Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
