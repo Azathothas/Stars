@@ -3992,7 +3992,7 @@
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) – NTP servers with NTS support
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) – Directory listing for Github Pages
 - [jc141x/releases-feed](https://github.com/jc141x/releases-feed) – All our releases scraped into various machine readable files (CSV, JSON, RSS)
-- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) – Videomass is a free, open source and cross-platform GUI for FFmpeg
 - [jedisct1/draft-denis-ipcrypt](https://github.com/jedisct1/draft-denis-ipcrypt) – Methods for IP Address Encryption and Obfuscation.
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) – Pure-Python Git implementation
 - [joaompinto/py2static](https://github.com/joaompinto/py2static) – Build Linux static binaries from Python scripts
@@ -5749,7 +5749,7 @@
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) – Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
 - [ivan-hc/Database-of-pkg2appimaged-packages](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages) – Various AppImage packages for AM and AppMan
 - [ivan-hc/Steam-appimage](https://github.com/ivan-hc/Steam-appimage) – Unofficial Steam AppImage built using Runimage.
-- [ivan-hc/am-extras](https://github.com/ivan-hc/am-extras) – Extensions for "AM", the package manager for AppImages and portable apps for GNU/Linux.
+- [ivan-hc/am-extras](https://github.com/ivan-hc/am-extras) – Extensions for "AM", the package manager for AppImages and portable apps for GNU/Linux, at https://github.com/ivan-hc/AM
 - [ivan-sincek/dnsrecon-chunked](https://github.com/ivan-sincek/dnsrecon-chunked) – Brute force subdomains in multiple smaller iterations. Based on DNSRecon.
 - [ivan-sincek/metagoofeel](https://github.com/ivan-sincek/metagoofeel) – Web crawler and downloader based on GNU Wget.
 - [ivan-sincek/websocket-bf](https://github.com/ivan-sincek/websocket-bf) – Brute force a REST API query through WebSocket. Based on cURL.
