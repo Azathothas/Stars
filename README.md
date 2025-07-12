@@ -5261,7 +5261,7 @@
 - [tauri-apps/fix-path-env-rs](https://github.com/tauri-apps/fix-path-env-rs)
 - [tbillington/kondo](https://github.com/tbillington/kondo) – Cleans dependencies and build artifacts from your projects.
 - [the-lean-crate/criner](https://github.com/the-lean-crate/criner) – A tool to mine crates.io and produce static websites
-- [theopfr/somo](https://github.com/theopfr/somo) – A human-friendly alternative to netstat for socket and port monitoring on Linux.
+- [theopfr/somo](https://github.com/theopfr/somo) – A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) – Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler.
 - [thinkgos/goup-rs](https://github.com/thinkgos/goup-rs) – an elegant Go version manager write in rust
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) – Interactive find-and-replace in the terminal
