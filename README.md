@@ -208,7 +208,7 @@
 - [RekGRpth/pg_task](https://github.com/RekGRpth/pg_task) – PostgreSQL and Greenplum job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) – An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) – chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
-- [RuriOSS/ruri](https://github.com/RuriOSS/ruri) – Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
+- [RuriOSS/ruri](https://github.com/RuriOSS/ruri) – A zipped📦 Linux container that zips🚀 (Lightweight User-friendly Linux-container Implementation)
 - [RuriOSS/rurima](https://github.com/RuriOSS/rurima) – Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) – This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org
 - [Scribery/tlog](https://github.com/Scribery/tlog) – Terminal I/O logger
