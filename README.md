@@ -4245,6 +4245,7 @@
 - [user1342/AutoDroid](https://github.com/user1342/AutoDroid) – A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity. 
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) – AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [utkusen/shotlooter](https://github.com/utkusen/shotlooter) – a recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc
+- [vanhoefm/tunneltester](https://github.com/vanhoefm/tunneltester)
 - [vavkamil/js-snitch](https://github.com/vavkamil/js-snitch) – Scans remote JavaScript files with Trufflehog + Semgrep to detect leaked secrets
 - [vial-kb/vial-gui](https://github.com/vial-kb/vial-gui) – Vial is an open-source cross-platform (Windows, Linux and Mac) GUI and a QMK fork for configuring your keyboard in real time.
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) – Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
