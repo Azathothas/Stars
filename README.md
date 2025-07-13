@@ -6016,7 +6016,6 @@
 - [termux/repology-metadata](https://github.com/termux/repology-metadata) – Scripts and Github Actions workflow for generating Repology metadata.
 - [termux/termux-packages](https://github.com/termux/termux-packages) – A package build system for Termux.
 - [termux/termux-tools](https://github.com/termux/termux-tools) – Scripts and small programs that are packaged into termux's termux-tools package
-- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) – A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [themattrix/bash-concurrent](https://github.com/themattrix/bash-concurrent) – Bash function to run tasks in parallel and display pretty output as they complete.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) – 🐳 Full-fledged Android SDK Docker Image
 - [tianon/gosu](https://github.com/tianon/gosu) – Simple Go-based setuid+setgid+setgroups+exec
@@ -6307,6 +6306,7 @@
 - [streamdal/streamdal](https://github.com/streamdal/streamdal) – Code-Native Data Privacy
 - [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) – Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) – 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) – A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) – YouTube Music Desktop App bundled with custom plugins
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) – There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [trpc/trpc](https://github.com/trpc/trpc) – 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
