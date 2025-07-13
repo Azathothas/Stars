@@ -3144,7 +3144,7 @@
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) – Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) – An unofficial NixOS fork with a FreeBSD kernel
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) – Runtime sandboxing for Nix
-- [nixpak/pkgs](https://github.com/nixpak/pkgs) – NixPak Packages [CI: https://hercules-ci.com/github/nixpak/pkgs]
+- [nixpak/pkgs](https://github.com/nixpak/pkgs) – NixPak Packages (moved to https://github.com/nixpak/nixpak/tree/master/contrib)
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) – [alpha] Build Rust crates with Nix Build System.
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) – Tools for cross-compiling standalone applications using Nix.
 - [pwnwriter/nix](https://github.com/pwnwriter/nix) – 🍎 Procrastinating never felt this productive.
